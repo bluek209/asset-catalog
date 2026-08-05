@@ -1,0 +1,22 @@
+{
+  "response": {
+    "header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
+    "body": {
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1,
+      "items": {
+        "item": [
+          {
+            "basDt": "20260805",
+            "srtnCd": "367380",
+            "isinCd": "KR7367380003",
+            "itmsNm": "ACE 미국나스닥100",
+            "mrktCtg": "KOSPI",
+            "corpNm": "한국투자신탁운용"
+          }
+        ]
+      }
+    }
+  }
+}

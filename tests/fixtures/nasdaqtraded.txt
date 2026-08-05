@@ -1,0 +1,13 @@
+Nasdaq Traded|Symbol|Security Name|Listing Exchange|Market Category|ETF|Round Lot Size|Test Issue|Financial Status|CQS Symbol|NASDAQ Symbol|NextShares
+Y|AAPL|Apple Inc. - Common Stock|Q|Q|N|100|N|N|AAPL|AAPL|N
+Y|QQQ|Invesco QQQ Trust, Series 1|Q|G|Y|100|N|N|QQQ|QQQ|N
+Y|BRK.B|Berkshire Hathaway Inc. Class B|N||N|100|N||BRK.B|BRK.B|N
+Y|VXX|iPath Series B S&P 500 VIX Short-Term Futures ETN|Z||N|100|N||VXX|VXX|N
+Y|BABA|Alibaba Group Holding Limited American Depositary Shares|N||N|100|N||BABA|BABA|N
+Y|O|Realty Income Corporation REIT|N||N|100|N||O|O|N
+Y|PREF.A|Example Bancorp Preferred Series A|N||N|100|N||PREF.A|PREF.A|N
+Y|TEST|Test Security|Q|Q|N|100|Y|N|TEST|TEST|N
+Y|ACME.W|Acme Corporation Warrant|Q|G|N|100|N|N|ACME.W|ACME.W|N
+Y|ACME.U|Acme Acquisition Corporation Units|N||N|100|N||ACME.U|ACME.U|N
+Y|NOTE|Example Corporation 5.0% Senior Notes due 2030|N||N|100|N||NOTE|NOTE|N
+File Creation Time: 0805202621:05|||||||||||

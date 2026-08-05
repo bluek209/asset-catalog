@@ -1,0 +1,78 @@
+name: Publish instrument catalog
+
+on:
+  schedule:
+    - cron: "30 23 * * *"
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: instrument-catalog-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      changed: ${{ steps.build.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: python -m pip install -e '.[dev]'
+
+      - name: Test
+        run: pytest -q
+
+      - name: Build verified catalog
+        id: build
+        shell: bash
+        env:
+          DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}
+          EXCLUDED_ASSET_IDS: ${{ secrets.EXCLUDED_ASSET_IDS }}
+        run: |
+          set -euo pipefail
+          catalog_output="$(asset-catalog --site-root site --hydrate-url https://bluek209.github.io/asset-catalog/)"
+          echo "$catalog_output"
+          if [[ "$catalog_output" == catalog\ updated:* ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Verify generated site
+        run: asset-catalog --site-root site --verify-only
+
+      - name: Configure Pages
+        if: steps.build.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: steps.build.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    if: needs.build.outputs.changed == 'true'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

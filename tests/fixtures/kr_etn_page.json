@@ -1,0 +1,22 @@
+{
+  "response": {
+    "header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
+    "body": {
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1,
+      "items": {
+        "item": [
+          {
+            "basDt": "20260805",
+            "srtnCd": "530036",
+            "isinCd": "KRG530000365",
+            "itmsNm": "삼성 인버스 2X WTI원유 선물 ETN",
+            "mrktCtg": "KOSPI",
+            "corpNm": "삼성증권"
+          }
+        ]
+      }
+    }
+  }
+}

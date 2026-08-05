@@ -1,0 +1,38 @@
+{
+  "response": {
+    "header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
+    "body": {
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3,
+      "items": {
+        "item": [
+          {
+            "basDt": "20260805",
+            "srtnCd": "005930",
+            "isinCd": "KR7005930003",
+            "itmsNm": "삼성전자",
+            "mrktCtg": "KOSPI",
+            "corpNm": "삼성전자"
+          },
+          {
+            "basDt": "20260805",
+            "srtnCd": "035900",
+            "isinCd": "KR7035900000",
+            "itmsNm": "JYP Ent.",
+            "mrktCtg": "KOSDAQ",
+            "corpNm": "JYP엔터테인먼트"
+          },
+          {
+            "basDt": "20260805",
+            "srtnCd": "005935",
+            "isinCd": "KR7005931001",
+            "itmsNm": "삼성전자우",
+            "mrktCtg": "KOSPI",
+            "corpNm": "삼성전자"
+          }
+        ]
+      }
+    }
+  }
+}
