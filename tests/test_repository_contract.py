@@ -1,3 +1,4 @@
+import subprocess
 from pathlib import Path
 
 
@@ -82,3 +83,16 @@ def test_public_repository_omits_description_and_environment_example() -> None:
     assert not (ROOT / ".env.example").exists()
     assert "!.env.example" not in gitignore
     assert ".idea/" in gitignore
+
+
+def test_repository_ignores_superpowers_workspace_documents() -> None:
+    result = subprocess.run(
+        ["git", "check-ignore", "docs/superpowers/progress.md"],
+        cwd=ROOT,
+        check=False,
+        capture_output=True,
+        text=True,
+    )
+
+    assert result.returncode == 0
+    assert result.stdout.strip() == "docs/superpowers/progress.md"

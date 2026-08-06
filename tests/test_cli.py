@@ -33,32 +33,41 @@ def test_cli_reports_success_without_network(tmp_path: Path, capsys) -> None:
 
 def test_cli_writes_pretty_history_from_verified_site(tmp_path: Path, capsys) -> None:
     site = tmp_path / "site"
-    history = tmp_path / "history" / "catalog.json"
+    history_catalog = tmp_path / "history" / "catalog.json"
+    history_manifest = tmp_path / "history" / "manifest.json"
 
     exit_code = main(
         [
             "--site-root",
             str(site),
             "--history-output",
-            str(history),
+            str(history_catalog),
+            "--history-manifest-output",
+            str(history_manifest),
             "--generated-at",
             "2026-08-05T00:00:00Z",
         ],
         environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
         pipeline_factory=lambda key, ratio, excluded: SuccessfulPipeline(),
     )
-    manifest = json.loads((site / "manifest.json").read_text(encoding="utf-8"))
-    deployed = json.loads(gzip.decompress((site / manifest["f"]["p"]).read_bytes()))
+    deployed_manifest = json.loads((site / "manifest.json").read_text(encoding="utf-8"))
+    deployed_catalog = json.loads(
+        gzip.decompress((site / deployed_manifest["f"]["p"]).read_bytes()),
+    )
 
     assert exit_code == 0
-    assert history.read_bytes().endswith(b"\n")
-    assert json.loads(history.read_text(encoding="utf-8")) == deployed
+    assert history_catalog.read_bytes().endswith(b"\n")
+    assert history_manifest.read_bytes().endswith(b"\n")
+    assert json.loads(history_catalog.read_text(encoding="utf-8")) == deployed_catalog
+    assert json.loads(history_manifest.read_text(encoding="utf-8")) == deployed_manifest
+    assert '  "f": {' in history_manifest.read_text(encoding="utf-8")
     assert "records=1" in capsys.readouterr().out
 
 
 def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
     site = tmp_path / "site"
     history = tmp_path / "catalog.json"
+    history_manifest = tmp_path / "manifest.json"
     common = ["--site-root", str(site), "--generated-at", "2026-08-05T00:00:00Z"]
     factory = lambda key, ratio, excluded: SuccessfulPipeline()
 
@@ -68,12 +77,19 @@ def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
         pipeline_factory=factory,
     ) == 0
     assert main(
-        [*common, "--history-output", str(history)],
+        [
+            *common,
+            "--history-output",
+            str(history),
+            "--history-manifest-output",
+            str(history_manifest),
+        ],
         environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
         pipeline_factory=factory,
     ) == 0
 
     assert history.is_file()
+    assert history_manifest.is_file()
 
 
 def test_cli_redacts_secret_from_known_source_failure(tmp_path: Path, capsys) -> None:

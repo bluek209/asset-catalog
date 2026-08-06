@@ -11,7 +11,7 @@ from typing import Protocol
 from .app_catalog import AppCatalogProjectionError, parse_excluded_ids
 from .app_publishing import PublicationVerificationError, load_published_catalog, verify_site
 from .app_versioning import DeltaApplicationError
-from .catalog_serialization import write_pretty_catalog
+from .catalog_serialization import write_pretty_catalog, write_pretty_json
 from .pipeline import CatalogPipeline, PipelineResult
 from .remote import RemoteStateError, hydrate_site
 from .sources.data_go_kr import KoreanPublicDataClient, KoreanSourceError
@@ -47,6 +47,7 @@ def _parser() -> argparse.ArgumentParser:
     parser.add_argument("--max-drop-ratio", type=float, default=0.10)
     parser.add_argument("--hydrate-url")
     parser.add_argument("--history-output", type=Path)
+    parser.add_argument("--history-manifest-output", type=Path)
     parser.add_argument("--verify-only", action="store_true")
     return parser
 
@@ -89,9 +90,16 @@ def main(
         excluded_ids = parse_excluded_ids(environment.get("EXCLUDED_ASSET_IDS", ""))
         pipeline = pipeline_factory(service_key, options.max_drop_ratio, excluded_ids)
         result = pipeline.run(options.site_root, generated_at)
-        if options.history_output is not None:
+        history_requested = (
+            options.history_output is not None
+            or options.history_manifest_output is not None
+        )
+        if history_requested:
             published = load_published_catalog(options.site_root)
-            write_pretty_catalog(options.history_output, published.records)
+            if options.history_output is not None:
+                write_pretty_catalog(options.history_output, published.records)
+            if options.history_manifest_output is not None:
+                write_pretty_json(options.history_manifest_output, published.manifest)
         state = "updated" if result.changed else "unchanged"
         print(f"catalog {state}: version={result.version} records={result.record_count}")
         return 0

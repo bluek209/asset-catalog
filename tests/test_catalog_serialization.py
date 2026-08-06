@@ -5,7 +5,13 @@ from pathlib import Path
 
 from asset_catalog.app_catalog import AppCatalogRecord
 from asset_catalog.canonical import gzip_bytes
-from asset_catalog.catalog_serialization import catalog_payload, pretty_catalog_bytes, write_pretty_catalog
+from asset_catalog.catalog_serialization import (
+    catalog_payload,
+    pretty_catalog_bytes,
+    pretty_json_bytes,
+    write_pretty_catalog,
+    write_pretty_json,
+)
 
 
 def test_pretty_catalog_is_sorted_utf8_and_ends_with_newline() -> None:
@@ -60,6 +66,29 @@ def test_write_pretty_catalog_creates_parent_and_returns_bytes(tmp_path: Path) -
     written = write_pretty_catalog(output, records)
 
     assert output.read_bytes() == written == pretty_catalog_bytes(records)
+
+
+def test_pretty_json_is_sorted_utf8_and_ends_with_newline() -> None:
+    rendered = pretty_json_bytes({"z": "한글", "a": {"b": 2, "a": 1}})
+
+    assert rendered == (
+        b'{\n'
+        b'  "a": {\n'
+        b'    "a": 1,\n'
+        b'    "b": 2\n'
+        b'  },\n'
+        b'  "z": "\xed\x95\x9c\xea\xb8\x80"\n'
+        b'}\n'
+    )
+
+
+def test_write_pretty_json_creates_parent_and_returns_bytes(tmp_path: Path) -> None:
+    output = tmp_path / "history" / "manifest.json"
+    payload = {"v": 1, "l": "20260806-abcdef12"}
+
+    written = write_pretty_json(output, payload)
+
+    assert output.read_bytes() == written == pretty_json_bytes(payload)
 
 
 def test_pretty_catalog_diff_is_limited_to_changed_record() -> None:

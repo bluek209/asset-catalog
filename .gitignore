@@ -9,4 +9,5 @@ __pycache__/
 *.py[cod]
 .publish-*/
 .worktrees/
+docs/superpowers/
 local.properties
