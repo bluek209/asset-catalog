@@ -27,7 +27,12 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert "asset-catalog --site-root site --verify-only" in workflow
     assert "catalog" + "-build" not in workflow
     assert "contents: write" in workflow
+    assert "force_deploy:" in workflow
+    assert "type: boolean" in workflow
+    assert "default: false" in workflow
     assert "--history-output catalog.json" in workflow
+    assert "--history-manifest-output manifest.json" in workflow
+    assert "should_deploy: ${{ steps.build.outputs.should_deploy }}" in workflow
     assert "version: ${{ steps.build.outputs.version }}" in workflow
     assert "catalog-data" in workflow
     assert 'history_dir="$(mktemp -d)"' in workflow
@@ -42,9 +47,12 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
           cat > "$history_dir/README.md" <<'EOF'
 """ in workflow
     assert 'git -C "$history_dir" config user.name "github-actions[bot]"' in workflow
-    assert 'git -C "$history_dir" add README.md catalog.json' in workflow
+    assert "`catalog.json` is the human-readable catalog history" in workflow
+    assert "`manifest.json` is the human-readable Pages manifest history" in workflow
+    assert 'cp manifest.json "$history_dir/manifest.json"' in workflow
+    assert 'git -C "$history_dir" add README.md catalog.json manifest.json' in workflow
     assert 'tracked_files="$(git -C "$history_dir" ls-files)"' in workflow
-    assert "[[ \"$tracked_files\" != $'README.md\\ncatalog.json' ]]" in workflow
+    assert "[[ \"$tracked_files\" != $'README.md\\ncatalog.json\\nmanifest.json' ]]" in workflow
     assert 'git -C "$history_dir" diff --cached --quiet' in workflow
     assert 'git -C "$history_dir" commit -m "data: 카탈로그 ${CATALOG_VERSION} 갱신"' in workflow
     assert 'git -C "$history_dir" push origin HEAD:catalog-data' in workflow
@@ -62,16 +70,17 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert "actions/configure-pages@v5" in workflow
     assert "actions/upload-pages-artifact@v4" in workflow
     assert "actions/deploy-pages@v4" in workflow
+    assert workflow.count("if: steps.build.outputs.should_deploy == 'true'") == 2
     assert """      - name: Configure Pages
-        if: steps.build.outputs.changed == 'true'
+        if: steps.build.outputs.should_deploy == 'true'
         uses: actions/configure-pages@v5
 """ in workflow
     assert """      - name: Upload Pages artifact
-        if: steps.build.outputs.changed == 'true'
+        if: steps.build.outputs.should_deploy == 'true'
         uses: actions/upload-pages-artifact@v4
 """ in workflow
     assert """  deploy:
-    if: needs.build.outputs.changed == 'true'
+    if: needs.build.outputs.should_deploy == 'true'
     needs: build
 """ in workflow
 
