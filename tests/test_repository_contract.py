@@ -29,8 +29,21 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert "--history-output catalog.json" in workflow
     assert "version: ${{ steps.build.outputs.version }}" in workflow
     assert "catalog-data" in workflow
+    assert 'history_dir="$(mktemp -d)"' in workflow
+    assert "git ls-remote --exit-code --heads origin catalog-data" in workflow
+    assert "git fetch origin catalog-data:refs/remotes/origin/catalog-data" in workflow
+    assert 'git worktree add -b catalog-data "$history_dir" origin/catalog-data' in workflow
+    assert 'git worktree add --detach "$history_dir" HEAD' in workflow
+    assert 'git -C "$history_dir" switch --orphan catalog-data' in workflow
+    assert """          fi
+
+          git -C "$history_dir" rm -rf --ignore-unmatch .
+          cat > "$history_dir/README.md" <<'EOF'
+""" in workflow
     assert 'git -C "$history_dir" config user.name "github-actions[bot]"' in workflow
     assert 'git -C "$history_dir" add README.md catalog.json' in workflow
+    assert 'tracked_files="$(git -C "$history_dir" ls-files)"' in workflow
+    assert "[[ \"$tracked_files\" != $'README.md\\ncatalog.json' ]]" in workflow
     assert 'git -C "$history_dir" diff --cached --quiet' in workflow
     assert 'git -C "$history_dir" commit -m "data: 카탈로그 ${CATALOG_VERSION} 갱신"' in workflow
     assert 'git -C "$history_dir" push origin HEAD:catalog-data' in workflow
@@ -40,12 +53,26 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert workflow.index('git -C "$history_dir" push origin HEAD:catalog-data') < workflow.index(
         "actions/configure-pages@v5",
     )
+    assert workflow.index('git -C "$history_dir" push origin HEAD:catalog-data') < workflow.index(
+        "actions/upload-pages-artifact@v4",
+    )
     assert "pages: write" in workflow
     assert "id-token: write" in workflow
     assert "actions/configure-pages@v5" in workflow
     assert "actions/upload-pages-artifact@v4" in workflow
     assert "actions/deploy-pages@v4" in workflow
-    assert "steps.build.outputs.changed == 'true'" in workflow
+    assert """      - name: Configure Pages
+        if: steps.build.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+""" in workflow
+    assert """      - name: Upload Pages artifact
+        if: steps.build.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v4
+""" in workflow
+    assert """  deploy:
+    if: needs.build.outputs.changed == 'true'
+    needs: build
+""" in workflow
 
 
 def test_public_repository_omits_description_and_environment_example() -> None:
