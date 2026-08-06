@@ -14,6 +14,7 @@ from typing import Any
 
 from .app_catalog import AppCatalogProjectionError, AppCatalogRecord
 from .app_versioning import AppCatalogDelta, DeltaApplicationError, apply_delta, build_delta, compose_deltas
+from .catalog_serialization import catalog_payload
 from .canonical import gzip_bytes, json_bytes
 
 
@@ -164,7 +165,7 @@ def publish_catalog(
         full_entry, full_data = _write(
             staging,
             full_path,
-            {"v": 1, "r": [record.to_dict() for record in ordered]},
+            catalog_payload(ordered),
         )
         full_entry["n"] = len(ordered)
         delta_entries: dict[str, dict[str, Any]] = {}

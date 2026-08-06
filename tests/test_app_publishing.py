@@ -42,7 +42,11 @@ def test_first_publish_creates_minimal_verified_site(tmp_path: Path) -> None:
         "h": hashlib.sha256(full_bytes).hexdigest(),
         "n": 2,
     }
-    assert json.loads(gzip.decompress(full_bytes)) == {
+    full_json = gzip.decompress(full_bytes)
+
+    assert b"\n" not in full_json
+    assert b'": "' not in full_json
+    assert json.loads(full_json) == {
         "v": 1,
         "r": [
             {"i": "KQ:035900", "n": "JYP Ent."},
