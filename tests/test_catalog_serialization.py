@@ -1,10 +1,11 @@
 import gzip
 import json
 from difflib import unified_diff
+from pathlib import Path
 
 from asset_catalog.app_catalog import AppCatalogRecord
 from asset_catalog.canonical import gzip_bytes
-from asset_catalog.catalog_serialization import catalog_payload, pretty_catalog_bytes
+from asset_catalog.catalog_serialization import catalog_payload, pretty_catalog_bytes, write_pretty_catalog
 
 
 def test_pretty_catalog_is_sorted_utf8_and_ends_with_newline() -> None:
@@ -50,6 +51,15 @@ def test_pretty_catalog_is_stable_for_input_order() -> None:
     second = AppCatalogRecord("KS:005930", "삼성전자")
 
     assert pretty_catalog_bytes([first, second]) == pretty_catalog_bytes([second, first])
+
+
+def test_write_pretty_catalog_creates_parent_and_returns_bytes(tmp_path: Path) -> None:
+    output = tmp_path / "history" / "catalog.json"
+    records = [AppCatalogRecord("KS:005930", "삼성전자")]
+
+    written = write_pretty_catalog(output, records)
+
+    assert output.read_bytes() == written == pretty_catalog_bytes(records)
 
 
 def test_pretty_catalog_diff_is_limited_to_changed_record() -> None:

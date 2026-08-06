@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import gzip
+import json
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -27,6 +29,51 @@ def test_cli_reports_success_without_network(tmp_path: Path, capsys) -> None:
 
     assert exit_code == 0
     assert "records=1" in capsys.readouterr().out
+
+
+def test_cli_writes_pretty_history_from_verified_site(tmp_path: Path, capsys) -> None:
+    site = tmp_path / "site"
+    history = tmp_path / "history" / "catalog.json"
+
+    exit_code = main(
+        [
+            "--site-root",
+            str(site),
+            "--history-output",
+            str(history),
+            "--generated-at",
+            "2026-08-05T00:00:00Z",
+        ],
+        environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
+        pipeline_factory=lambda key, ratio, excluded: SuccessfulPipeline(),
+    )
+    manifest = json.loads((site / "manifest.json").read_text(encoding="utf-8"))
+    deployed = json.loads(gzip.decompress((site / manifest["f"]["p"]).read_bytes()))
+
+    assert exit_code == 0
+    assert history.read_bytes().endswith(b"\n")
+    assert json.loads(history.read_text(encoding="utf-8")) == deployed
+    assert "records=1" in capsys.readouterr().out
+
+
+def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
+    site = tmp_path / "site"
+    history = tmp_path / "catalog.json"
+    common = ["--site-root", str(site), "--generated-at", "2026-08-05T00:00:00Z"]
+    factory = lambda key, ratio, excluded: SuccessfulPipeline()
+
+    assert main(
+        common,
+        environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
+        pipeline_factory=factory,
+    ) == 0
+    assert main(
+        [*common, "--history-output", str(history)],
+        environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
+        pipeline_factory=factory,
+    ) == 0
+
+    assert history.is_file()
 
 
 def test_cli_redacts_secret_from_known_source_failure(tmp_path: Path, capsys) -> None:
