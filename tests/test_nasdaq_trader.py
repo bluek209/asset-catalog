@@ -1,5 +1,7 @@
 from pathlib import Path
 
+import pytest
+
 from asset_catalog.models import InstrumentType
 from asset_catalog.sources.nasdaq_trader import (
     NasdaqTraderClient,
@@ -27,8 +29,19 @@ def test_us_directory_filters_and_classifies_supported_instruments() -> None:
     assert "NOTE" not in by_symbol
 
 
-def test_yahoo_symbol_converts_dot_classes() -> None:
-    assert to_yahoo_symbol("BRK.B") == "BRK-B"
+@pytest.mark.parametrize(
+    ("source", "expected"),
+    [
+        ("BRK.B", "BRK-B"),
+        ("BCV$A", "BCV-PA"),
+        ("PHXE$", "PHXE-P"),
+    ],
+)
+def test_yahoo_symbol_converts_exchange_class_and_preferred_markers(
+    source: str,
+    expected: str,
+) -> None:
+    assert to_yahoo_symbol(source) == expected
 
 
 def test_client_reads_fixed_official_directory_without_leaking_url() -> None:

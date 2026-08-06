@@ -48,7 +48,7 @@ def _matches(value: str, pattern: str) -> bool:
 
 
 def to_yahoo_symbol(symbol: str) -> str:
-    return symbol.replace(".", "-").replace("/", "-").replace("^", "-")
+    return symbol.replace("$", "-P").replace(".", "-").replace("/", "-").replace("^", "-")
 
 
 def classify_us_instrument(name: str, etf_flag: str) -> InstrumentType:
