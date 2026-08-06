@@ -34261,6 +34261,10 @@
       "n": "Harding Loevner International Developed Markets Select Equity ETF"
     },
     {
+      "i": "P:LOFD",
+      "n": "Direxion Daily SpaceX Bear 2X ETF"
+    },
+    {
       "i": "P:LOFF",
       "n": "Direxion Daily SpaceX Bull 2X ETF"
     },
@@ -55077,10 +55081,6 @@
       "n": "VSE Corporation"
     },
     {
-      "i": "Q:VSEE",
-      "n": "VSee Health, Inc."
-    },
-    {
       "i": "Q:VSME",
       "n": "VS Media Holdings Limited - Class A Ordinary Shares"
     },
@@ -56163,6 +56163,10 @@
     {
       "i": "Z:AJUL",
       "n": "Innovator Equity Defined Protection ETF - 2 Yr to July 2026"
+    },
+    {
+      "i": "Z:AKAL",
+      "n": "T-REX 2X Long AKAM Daily Target ETF"
     },
     {
       "i": "Z:ALA",
@@ -59093,6 +59097,10 @@
       "n": "Cambria Large Cap Shareholder Yield ETF"
     },
     {
+      "i": "Z:LYTE",
+      "n": "Roundhill Photonics & Optics ETF"
+    },
+    {
       "i": "Z:MAGC",
       "n": "Roundhill China Magnificent Seven ETF"
     },
@@ -59657,6 +59665,10 @@
       "n": "Aptus October Deep Buffer ETF"
     },
     {
+      "i": "Z:OCNL",
+      "n": "T-REX 2X Long DOCN Daily Target ETF"
+    },
+    {
       "i": "Z:OCTB",
       "n": "Aptus October Buffer ETF"
     },
@@ -59899,6 +59911,10 @@
     {
       "i": "Z:PDEC",
       "n": "Innovator U.S. Equity Power Buffer ETF - December"
+    },
+    {
+      "i": "Z:PENU",
+      "n": "T-REX 2X Long PENG Daily Target ETF"
     },
     {
       "i": "Z:PEX",
