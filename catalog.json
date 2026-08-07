@@ -39661,6 +39661,10 @@
       "n": "AngioDynamics, Inc."
     },
     {
+      "i": "Q:ANGU",
+      "n": "SEI Ang Research Enhanced U.S. Large Cap ETF"
+    },
+    {
       "i": "Q:ANIK",
       "n": "Anika Therapeutics Inc."
     },
@@ -40697,10 +40701,6 @@
       "n": "BioHarvest Sciences Inc."
     },
     {
-      "i": "Q:BIAF",
-      "n": "bioAffinity Technologies, Inc."
-    },
-    {
       "i": "Q:BIB",
       "n": "ProShares Ultra Nasdaq Biotechnology"
     },
@@ -41095,6 +41095,10 @@
     {
       "i": "Q:BRUN",
       "n": "Boost Run Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:BRVE",
+      "n": "Braveheart Bio, Inc."
     },
     {
       "i": "Q:BRZE",
@@ -43763,6 +43767,10 @@
     {
       "i": "Q:ETOR",
       "n": "eToro Group Ltd. - Class A Common Shares"
+    },
+    {
+      "i": "Q:ETS",
+      "n": "Elite Express Holding Inc. - Class A Common Stock"
     },
     {
       "i": "Q:EU",
@@ -49057,6 +49065,10 @@
       "n": "Hashdex Nasdaq CME Crypto Index ETF"
     },
     {
+      "i": "Q:NCLD",
+      "n": "Roundhill Neocloud ETF"
+    },
+    {
       "i": "Q:NCMI",
       "n": "National CineMedia, Inc."
     },
@@ -50385,10 +50397,6 @@
       "n": "Invesco Dorsey Wright Momentum ETF"
     },
     {
-      "i": "Q:PDSB",
-      "n": "PDS Biotechnology Corporation"
-    },
-    {
       "i": "Q:PDYN",
       "n": "Palladyne AI Corp."
     },
@@ -51623,6 +51631,10 @@
     {
       "i": "Q:RCAX",
       "n": "Defiance Daily Target 2x Long RCAT ETF"
+    },
+    {
+      "i": "Q:RCBC",
+      "n": "River City Bank"
     },
     {
       "i": "Q:RCEL",
@@ -53817,6 +53829,10 @@
       "n": "UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares"
     },
     {
+      "i": "Q:TIH",
+      "n": "The Investment House ETF"
+    },
+    {
       "i": "Q:TIL",
       "n": "Instil Bio, Inc."
     },
@@ -55563,6 +55579,10 @@
     {
       "i": "Q:WYNN",
       "n": "Wynn Resorts, Limited"
+    },
+    {
+      "i": "Q:XAIR",
+      "n": "Beyond Air, Inc."
     },
     {
       "i": "Q:XAIX",
