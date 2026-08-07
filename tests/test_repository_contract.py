@@ -20,7 +20,7 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
 
     assert 'cron: "30 23 * * *"' in workflow
     assert 'cron: "30 11 * * *"' in workflow
-    assert 'cron: "2-59/5 * * * *"' in workflow
+    assert 'cron: "*/5 * * * *"' in workflow
     assert "DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}" in workflow
     assert "EXCLUDED_ASSET_IDS: ${{ secrets.EXCLUDED_ASSET_IDS }}" in workflow
     assert workflow.index("pytest -q") < workflow.index("asset-catalog --site-root site")
