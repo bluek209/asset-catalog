@@ -1029,6 +1029,10 @@
       "n": "Theriva Biologics, Inc. Common Stock"
     },
     {
+      "i": "A:TP",
+      "n": "Ticketplus Ltd. Ordinary Shares"
+    },
+    {
       "i": "A:TPET",
       "n": "Trio Petroleum Corp. Common Stock"
     },
@@ -19233,14 +19237,6 @@
       "n": "Axos Financial, Inc. Common Stock"
     },
     {
-      "i": "N:AXIA",
-      "n": "AXIA Energia American Depositary Shares (Each representing one Common Share)"
-    },
-    {
-      "i": "N:AXIA-PC",
-      "n": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share"
-    },
-    {
       "i": "N:AXP",
       "n": "American Express Company Common Stock"
     },
@@ -33941,10 +33937,6 @@
       "n": "JPMorgan U.S. Quality Factor ETF"
     },
     {
-      "i": "P:JRE",
-      "n": "Janus Henderson U.S. Real Estate ETF"
-    },
-    {
       "i": "P:JSCP",
       "n": "JPMorgan Short Duration Core Plus ETF"
     },
@@ -40853,6 +40845,10 @@
       "n": "Leverage Shares 2X Long BLSH Daily ETF"
     },
     {
+      "i": "Q:BLSM",
+      "n": "BlossomHill Therapeutics, Inc."
+    },
+    {
       "i": "Q:BLTE",
       "n": "Belite Bio, Inc - American Depositary Shares"
     },
@@ -40943,10 +40939,6 @@
     {
       "i": "Q:BNTX",
       "n": "BioNTech SE - American Depositary Shares"
-    },
-    {
-      "i": "Q:BNZI",
-      "n": "Banzai International, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:BODI",
@@ -41111,6 +41103,10 @@
     {
       "i": "Q:BSBK",
       "n": "Bogota Financial Corp."
+    },
+    {
+      "i": "Q:BSEM",
+      "n": "BioStem Technologies, Inc."
     },
     {
       "i": "Q:BSET",
@@ -47989,6 +47985,10 @@
       "n": "Canary Litecoin ETF"
     },
     {
+      "i": "Q:LTGO",
+      "n": "Latigo Biotherapeutics, Inc."
+    },
+    {
       "i": "Q:LTGR",
       "n": "Long Table Growth Corp. - Class A Ordinary Shares"
     },
@@ -50217,6 +50217,10 @@
       "n": "Palo Alto Networks, Inc."
     },
     {
+      "i": "Q:PARA",
+      "n": "Banzai International, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:PARK",
       "n": "Park Dental Partners, Inc."
     },
@@ -51527,6 +51531,10 @@
     {
       "i": "Q:QVAL",
       "n": "Alpha Architect U.S. Quantitative Value ETF"
+    },
+    {
+      "i": "Q:QVC",
+      "n": "QVC Group, Inc."
     },
     {
       "i": "Q:QVOL",
