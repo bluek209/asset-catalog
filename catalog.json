@@ -41785,10 +41785,6 @@
       "n": "Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share"
     },
     {
-      "i": "Q:CHAI",
-      "n": "Core AI Holdings, Inc. - Common Shares"
-    },
-    {
       "i": "Q:CHAR",
       "n": "Charlton Aria Acquisition Corporation - Class A Ordinary Shares"
     },
@@ -44201,6 +44197,10 @@
       "n": "First Trust Large Cap Core AlphaDEX Fund"
     },
     {
+      "i": "Q:FFAI",
+      "n": "Faraday Future Intelligent Electric Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:FFBC",
       "n": "First Financial Bancorp."
     },
@@ -45797,6 +45797,10 @@
       "n": "Hamilton Lane Incorporated - Class A Common Stock"
     },
     {
+      "i": "Q:HLP",
+      "n": "Hongli Group Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:HLTH",
       "n": "Tema Healthcare AI ETF"
     },
@@ -45999,10 +46003,6 @@
     {
       "i": "Q:HUIZ",
       "n": "Huize Holding Limited - American Depositary Shares"
-    },
-    {
-      "i": "Q:HUMA",
-      "n": "Humacyte, Inc."
     },
     {
       "i": "Q:HURA",
@@ -50933,6 +50933,10 @@
       "n": "Provident Financial Holdings, Inc."
     },
     {
+      "i": "Q:PRPL",
+      "n": "Purple Innovation, Inc."
+    },
+    {
       "i": "Q:PRPO",
       "n": "Precipio, Inc."
     },
@@ -54583,10 +54587,6 @@
     {
       "i": "Q:UPGR",
       "n": "Xtrackers US Green Infrastructure Select Equity ETF"
-    },
-    {
-      "i": "Q:UPLD",
-      "n": "Upland Software, Inc."
     },
     {
       "i": "Q:UPST",
