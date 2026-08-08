@@ -75,6 +75,19 @@ jobs:
       - name: Verify generated site
         run: asset-catalog --site-root site --verify-only
 
+      - name: Record catalog versions
+        shell: bash
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+
+          stock = json.loads(Path("site/manifest.json").read_text(encoding="utf-8"))
+          crypto = json.loads(Path("site/crypto/manifest.json").read_text(encoding="utf-8"))
+          print(f"stock: {stock['l']} ({stock['f']['n']})")
+          print(f"crypto: {crypto['l']} ({crypto['f']['n']})")
+          PY
+
       - name: Commit readable catalog history
         env:
           CATALOG_VERSION: ${{ steps.build.outputs.version }}

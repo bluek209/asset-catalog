@@ -25,6 +25,8 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert workflow.index("pytest -q") < workflow.index("asset-catalog --site-root site")
     assert "--hydrate-url https://bluek209.github.io/asset-catalog/" in workflow
     assert "asset-catalog --site-root site --verify-only" in workflow
+    assert 'Path("site/crypto/manifest.json")' in workflow
+    assert "crypto:" in workflow
     assert "catalog" + "-build" not in workflow
     assert "contents: write" in workflow
     assert "force_deploy:" in workflow
@@ -57,6 +59,9 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert 'git -C "$history_dir" commit -m "data: 카탈로그 ${CATALOG_VERSION} 갱신"' in workflow
     assert 'git -C "$history_dir" push origin HEAD:catalog-data' in workflow
     assert workflow.index("asset-catalog --site-root site --verify-only") < workflow.index(
+        "Record catalog versions",
+    )
+    assert workflow.index("Record catalog versions") < workflow.index(
         'git -C "$history_dir" push origin HEAD:catalog-data',
     )
     assert workflow.index('git -C "$history_dir" push origin HEAD:catalog-data') < workflow.index(

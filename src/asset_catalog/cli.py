@@ -12,15 +12,23 @@ from .app_catalog import AppCatalogProjectionError, parse_excluded_ids
 from .app_publishing import PublicationVerificationError, load_published_catalog, verify_site
 from .app_versioning import DeltaApplicationError
 from .catalog_serialization import write_pretty_catalog, write_pretty_json
-from .pipeline import CatalogPipeline, PipelineResult
+from .crypto_catalog import CryptoCatalogProjectionError
+from .crypto_pipeline import CryptoCatalogPipeline
+from .crypto_publishing import CryptoPublicationVerificationError, verify_crypto_site
+from .crypto_versioning import CryptoDeltaApplicationError
+from .pipeline import CatalogPipeline
 from .remote import RemoteStateError, hydrate_site
+from .site_pipeline import CatalogSuitePipeline, SitePublicationError, SuitePipelineResult
+from .sources.binance import BinanceClient, BinanceSourceError
+from .sources.bithumb import BithumbClient, BithumbSourceError
 from .sources.data_go_kr import KoreanPublicDataClient, KoreanSourceError
 from .sources.nasdaq_trader import NasdaqTraderClient, NasdaqTraderSourceError
+from .sources.upbit import UpbitClient, UpbitSourceError
 from .validation import CatalogValidationError, ValidationPolicy
 
 
 class RunnablePipeline(Protocol):
-    def run(self, site_root: Path, generated_at: datetime) -> PipelineResult: ...
+    def run(self, site_root: Path, generated_at: datetime) -> SuitePipelineResult: ...
 
 
 PipelineFactory = Callable[[str, float, set[str]], RunnablePipeline]
@@ -31,12 +39,21 @@ def _default_pipeline(
     service_key: str,
     max_drop_ratio: float,
     excluded_ids: set[str],
-) -> CatalogPipeline:
-    return CatalogPipeline(
-        KoreanPublicDataClient(service_key),
-        NasdaqTraderClient(),
-        validation_policy=ValidationPolicy(max_drop_ratio=max_drop_ratio),
-        excluded_ids=excluded_ids,
+) -> CatalogSuitePipeline:
+    return CatalogSuitePipeline(
+        stock=CatalogPipeline(
+            KoreanPublicDataClient(service_key),
+            NasdaqTraderClient(),
+            validation_policy=ValidationPolicy(max_drop_ratio=max_drop_ratio),
+            excluded_ids=excluded_ids,
+        ),
+        crypto=CryptoCatalogPipeline(
+            UpbitClient(),
+            BithumbClient(),
+            BinanceClient(),
+            max_drop_ratio=max_drop_ratio,
+            excluded_ids=excluded_ids,
+        ),
     )
 
 
@@ -73,9 +90,10 @@ def main(
     if options.verify_only:
         try:
             verify_site(options.site_root)
+            verify_crypto_site(options.site_root / "crypto")
             print(f"catalog verified: {options.site_root}")
             return 0
-        except PublicationVerificationError:
+        except (PublicationVerificationError, CryptoPublicationVerificationError):
             print("catalog verification failed", file=sys.stderr)
             return 3
 
@@ -101,20 +119,31 @@ def main(
             if options.history_manifest_output is not None:
                 write_pretty_json(options.history_manifest_output, published.manifest)
         state = "updated" if result.changed else "unchanged"
-        print(f"catalog {state}: version={result.version} records={result.record_count}")
+        print(
+            f"catalog {state}: "
+            f"stock={result.stock.version}/{result.stock.record_count} "
+            f"crypto={result.crypto.version}/{result.crypto.record_count}",
+        )
         return 0
     except (
         KoreanSourceError,
         NasdaqTraderSourceError,
+        UpbitSourceError,
+        BithumbSourceError,
+        BinanceSourceError,
         CatalogValidationError,
         AppCatalogProjectionError,
+        CryptoCatalogProjectionError,
         ValueError,
     ):
         print("catalog build failed: source or validation", file=sys.stderr)
         return 2
     except (
         PublicationVerificationError,
+        CryptoPublicationVerificationError,
         DeltaApplicationError,
+        CryptoDeltaApplicationError,
+        SitePublicationError,
         RemoteStateError,
         OSError,
     ):
