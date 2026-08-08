@@ -7,7 +7,7 @@ from time import sleep
 from collections.abc import Callable
 from typing import Protocol
 
-from .app_catalog import project_records, validate_projected_drop
+from .app_catalog import AppCatalogRecord, project_records, validate_projected_drop
 from .app_publishing import PublishResult, load_published_catalog, publish_catalog
 from .models import InstrumentRecord
 from .validation import ValidationPolicy, validate_catalog
@@ -60,6 +60,22 @@ class CatalogPipeline:
 
     def run(self, site_root: Path, generated_at: datetime) -> PipelineResult:
         previous = load_published_catalog(site_root) if (site_root / "manifest.json").exists() else None
+        projected = self.collect_and_project(previous.records if previous is not None else None)
+        publish_result: PublishResult = publish_catalog(
+            site_root,
+            projected,
+            generated_at,
+        )
+        return PipelineResult(
+            changed=publish_result.changed,
+            version=publish_result.version,
+            record_count=len(projected),
+        )
+
+    def collect_and_project(
+        self,
+        previous: list[AppCatalogRecord] | None = None,
+    ) -> list[AppCatalogRecord]:
         collected = [
             *self._retry(self._korean_source.collect_all),
             *self._retry(self._us_source.collect),
@@ -72,16 +88,7 @@ class CatalogPipeline:
         if previous is not None:
             validate_projected_drop(
                 projected,
-                previous.records,
+                previous,
                 max_drop_ratio=self._validation_policy.max_drop_ratio,
             )
-        publish_result: PublishResult = publish_catalog(
-            site_root,
-            projected,
-            generated_at,
-        )
-        return PipelineResult(
-            changed=publish_result.changed,
-            version=publish_result.version,
-            record_count=len(projected),
-        )
+        return projected

@@ -10,6 +10,7 @@ from urllib.parse import urljoin
 from urllib.request import urlopen
 
 from .app_publishing import PublicationVerificationError, verify_site
+from .crypto_publishing import CryptoPublicationVerificationError, verify_crypto_site
 
 
 class RemoteStateError(RuntimeError):
@@ -40,10 +41,47 @@ def hydrate_site(
     timeout: float = 30.0,
 ) -> bool:
     normalized = base_url.rstrip("/") + "/"
+    site_root.parent.mkdir(parents=True, exist_ok=True)
+    staging = Path(tempfile.mkdtemp(prefix=f".{site_root.name}-hydrate-", dir=site_root.parent))
     try:
-        manifest_data = opener(urljoin(normalized, "manifest.json"), timeout)
+        stock_found = _hydrate_manifest_tree(
+            normalized,
+            staging,
+            opener=opener,
+            timeout=timeout,
+            optional=True,
+            verifier=verify_site,
+        )
+        if not stock_found:
+            return False
+        _hydrate_manifest_tree(
+            urljoin(normalized, "crypto/"),
+            staging / "crypto",
+            opener=opener,
+            timeout=timeout,
+            optional=True,
+            verifier=verify_crypto_site,
+        )
+        _replace_tree(staging, site_root)
+        return True
+    finally:
+        if staging.exists():
+            shutil.rmtree(staging)
+
+
+def _hydrate_manifest_tree(
+    base_url: str,
+    destination: Path,
+    *,
+    opener: OpenBytes,
+    timeout: float,
+    optional: bool,
+    verifier: Callable[[Path], None],
+) -> bool:
+    try:
+        manifest_data = opener(urljoin(base_url, "manifest.json"), timeout)
     except HTTPError as error:
-        if error.code == 404:
+        if optional and error.code == 404:
             return False
         raise RemoteStateError("remote catalog could not be downloaded") from error
     except Exception as error:
@@ -55,25 +93,33 @@ def hydrate_site(
     except Exception as error:
         raise RemoteStateError("remote manifest is invalid") from error
 
-    site_root.parent.mkdir(parents=True, exist_ok=True)
-    staging = Path(tempfile.mkdtemp(prefix=f".{site_root.name}-hydrate-", dir=site_root.parent))
-    try:
-        (staging / "manifest.json").write_bytes(manifest_data)
-        for relative in paths:
-            target = staging / relative
-            target.parent.mkdir(parents=True, exist_ok=True)
-            try:
-                target.write_bytes(opener(urljoin(normalized, relative), timeout))
-            except Exception as error:
-                raise RemoteStateError("remote catalog could not be downloaded") from error
+    destination.mkdir(parents=True, exist_ok=True)
+    (destination / "manifest.json").write_bytes(manifest_data)
+    for relative in paths:
+        target = destination / relative
+        target.parent.mkdir(parents=True, exist_ok=True)
         try:
-            verify_site(staging)
-        except PublicationVerificationError as error:
-            raise RemoteStateError("remote catalog verification failed") from error
-        if site_root.exists():
-            shutil.rmtree(site_root)
-        staging.replace(site_root)
-        return True
-    finally:
-        if staging.exists():
-            shutil.rmtree(staging)
+            target.write_bytes(opener(urljoin(base_url, relative), timeout))
+        except Exception as error:
+            raise RemoteStateError("remote catalog could not be downloaded") from error
+    try:
+        verifier(destination)
+    except (PublicationVerificationError, CryptoPublicationVerificationError) as error:
+        raise RemoteStateError("remote catalog verification failed") from error
+    return True
+
+
+def _replace_tree(staging: Path, destination: Path) -> None:
+    backup = destination.parent / f".{destination.name}-hydrate-backup"
+    if backup.exists():
+        shutil.rmtree(backup)
+    if destination.exists():
+        destination.replace(backup)
+    try:
+        staging.replace(destination)
+    except Exception:
+        if backup.exists():
+            backup.replace(destination)
+        raise
+    if backup.exists():
+        shutil.rmtree(backup)
