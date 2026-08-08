@@ -131,6 +131,18 @@ def main(
         UpbitSourceError,
         BithumbSourceError,
         BinanceSourceError,
+    ) as error:
+        source_labels = {
+            KoreanSourceError: "korean-public-data",
+            NasdaqTraderSourceError: "nasdaq-trader",
+            UpbitSourceError: "upbit",
+            BithumbSourceError: "bithumb",
+            BinanceSourceError: "binance",
+        }
+        label = next(value for kind, value in source_labels.items() if isinstance(error, kind))
+        print(f"catalog build failed: source or validation ({label})", file=sys.stderr)
+        return 2
+    except (
         CatalogValidationError,
         AppCatalogProjectionError,
         CryptoCatalogProjectionError,

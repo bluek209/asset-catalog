@@ -143,7 +143,7 @@ def test_cli_redacts_crypto_source_failure(tmp_path: Path, capsys) -> None:
 
     assert exit_code == 2
     assert secret not in output
-    assert output.strip() == "catalog build failed: source or validation"
+    assert output.strip() == "catalog build failed: source or validation (binance)"
 
 
 def test_verify_only_does_not_require_service_key(tmp_path: Path, capsys) -> None:
