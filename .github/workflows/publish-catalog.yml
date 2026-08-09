@@ -24,7 +24,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     outputs:
       changed: ${{ steps.build.outputs.changed }}
       should_deploy: ${{ steps.build.outputs.should_deploy }}
@@ -52,11 +52,7 @@ jobs:
           FORCE_DEPLOY: ${{ inputs.force_deploy || false }}
         run: |
           set -euo pipefail
-          catalog_output="$(asset-catalog \
-            --site-root site \
-            --history-output catalog.json \
-            --history-manifest-output manifest.json \
-            --hydrate-url https://bluek209.github.io/asset-catalog/)"
+          catalog_output="$(scripts/retry_catalog_build.sh 300 600)"
           echo "$catalog_output"
           changed=false
           if [[ "$catalog_output" == catalog\ updated:* ]]; then

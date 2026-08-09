@@ -17,13 +17,14 @@ def test_repository_uses_asset_catalog_identity() -> None:
 
 def test_publish_workflow_records_readable_history_before_changed_only_pages_deployment() -> None:
     workflow = (ROOT / ".github/workflows/publish-catalog.yml").read_text(encoding="utf-8")
+    retry_script = (ROOT / "scripts/retry_catalog_build.sh").read_text(encoding="utf-8")
 
     assert 'cron: "30 23 * * *"' in workflow
     assert 'cron: "30 11 * * *"' in workflow
     assert "DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}" in workflow
     assert "EXCLUDED_ASSET_IDS: ${{ secrets.EXCLUDED_ASSET_IDS }}" in workflow
-    assert workflow.index("pytest -q") < workflow.index("asset-catalog --site-root site")
-    assert "--hydrate-url https://bluek209.github.io/asset-catalog/" in workflow
+    assert workflow.index("pytest -q") < workflow.index("scripts/retry_catalog_build.sh 300 600")
+    assert "--hydrate-url https://bluek209.github.io/asset-catalog/" in retry_script
     assert "asset-catalog --site-root site --verify-only" in workflow
     assert 'Path("site/crypto/manifest.json")' in workflow
     assert "crypto:" in workflow
@@ -32,8 +33,8 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert "force_deploy:" in workflow
     assert "type: boolean" in workflow
     assert "default: false" in workflow
-    assert "--history-output catalog.json" in workflow
-    assert "--history-manifest-output manifest.json" in workflow
+    assert "--history-output catalog.json" in retry_script
+    assert "--history-manifest-output manifest.json" in retry_script
     assert "should_deploy: ${{ steps.build.outputs.should_deploy }}" in workflow
     assert "version: ${{ steps.build.outputs.version }}" in workflow
     assert "catalog-data" in workflow
