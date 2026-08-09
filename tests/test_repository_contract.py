@@ -37,6 +37,8 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert "--history-manifest-output manifest.json" in retry_script
     assert "should_deploy: ${{ steps.build.outputs.should_deploy }}" in workflow
     assert "version: ${{ steps.build.outputs.version }}" in workflow
+    assert "crypto_version: ${{ steps.build.outputs.crypto_version }}" in workflow
+    assert 'echo "crypto_version=$crypto_version" >> "$GITHUB_OUTPUT"' in workflow
     assert "catalog-data" in workflow
     assert 'history_dir="$(mktemp -d)"' in workflow
     assert "git ls-remote --exit-code --heads origin catalog-data" in workflow
@@ -52,12 +54,28 @@ def test_publish_workflow_records_readable_history_before_changed_only_pages_dep
     assert 'git -C "$history_dir" config user.name "github-actions[bot]"' in workflow
     assert "`catalog.json` is the human-readable catalog history" in workflow
     assert "`manifest.json` is the human-readable Pages manifest history" in workflow
+    assert "`crypto/catalog.json` is the human-readable cryptocurrency catalog history" in workflow
+    assert "`crypto/manifest.json` is the human-readable cryptocurrency manifest history" in workflow
+    assert 'mkdir -p "$history_dir/crypto"' in workflow
     assert 'cp manifest.json "$history_dir/manifest.json"' in workflow
-    assert 'git -C "$history_dir" add README.md catalog.json manifest.json' in workflow
+    assert 'cp crypto/catalog.json "$history_dir/crypto/catalog.json"' in workflow
+    assert 'cp crypto/manifest.json "$history_dir/crypto/manifest.json"' in workflow
+    assert (
+        'git -C "$history_dir" add README.md catalog.json manifest.json '
+        "crypto/catalog.json crypto/manifest.json"
+    ) in workflow
     assert 'tracked_files="$(git -C "$history_dir" ls-files)"' in workflow
-    assert "[[ \"$tracked_files\" != $'README.md\\ncatalog.json\\nmanifest.json' ]]" in workflow
+    assert (
+        "[[ \"$tracked_files\" != "
+        "$'README.md\\ncatalog.json\\ncrypto/catalog.json\\ncrypto/manifest.json\\nmanifest.json' ]]"
+    ) in workflow
     assert 'git -C "$history_dir" diff --cached --quiet' in workflow
-    assert 'git -C "$history_dir" commit -m "data: 카탈로그 ${CATALOG_VERSION} 갱신"' in workflow
+    assert "STOCK_CATALOG_VERSION: ${{ steps.build.outputs.version }}" in workflow
+    assert "CRYPTO_CATALOG_VERSION: ${{ steps.build.outputs.crypto_version }}" in workflow
+    assert (
+        'git -C "$history_dir" commit -m '
+        '"data: 주식 ${STOCK_CATALOG_VERSION}, 가상화폐 ${CRYPTO_CATALOG_VERSION} 갱신"'
+    ) in workflow
     assert 'git -C "$history_dir" push origin HEAD:catalog-data' in workflow
     assert workflow.index("asset-catalog --site-root site --verify-only") < workflow.index(
         "Record catalog versions",

@@ -14,6 +14,8 @@ for attempt in 1 2 3; do
     --site-root site \
     --history-output catalog.json \
     --history-manifest-output manifest.json \
+    --crypto-history-output crypto/catalog.json \
+    --crypto-history-manifest-output crypto/manifest.json \
     --hydrate-url https://bluek209.github.io/asset-catalog/)"; then
     printf '%s\n' "$catalog_output"
     exit 0

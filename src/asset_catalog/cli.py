@@ -14,7 +14,12 @@ from .app_versioning import DeltaApplicationError
 from .catalog_serialization import write_pretty_catalog, write_pretty_json
 from .crypto_catalog import CryptoCatalogProjectionError
 from .crypto_pipeline import CryptoCatalogPipeline
-from .crypto_publishing import CryptoPublicationVerificationError, verify_crypto_site
+from .crypto_publishing import (
+    CryptoPublicationVerificationError,
+    crypto_payload,
+    load_published_crypto_catalog,
+    verify_crypto_site,
+)
 from .crypto_versioning import CryptoDeltaApplicationError
 from .pipeline import CatalogPipeline
 from .remote import RemoteStateError, hydrate_site
@@ -65,6 +70,8 @@ def _parser() -> argparse.ArgumentParser:
     parser.add_argument("--hydrate-url")
     parser.add_argument("--history-output", type=Path)
     parser.add_argument("--history-manifest-output", type=Path)
+    parser.add_argument("--crypto-history-output", type=Path)
+    parser.add_argument("--crypto-history-manifest-output", type=Path)
     parser.add_argument("--verify-only", action="store_true")
     return parser
 
@@ -111,13 +118,20 @@ def main(
         history_requested = (
             options.history_output is not None
             or options.history_manifest_output is not None
+            or options.crypto_history_output is not None
+            or options.crypto_history_manifest_output is not None
         )
         if history_requested:
             published = load_published_catalog(options.site_root)
+            published_crypto = load_published_crypto_catalog(options.site_root / "crypto")
             if options.history_output is not None:
                 write_pretty_catalog(options.history_output, published.records)
             if options.history_manifest_output is not None:
                 write_pretty_json(options.history_manifest_output, published.manifest)
+            if options.crypto_history_output is not None:
+                write_pretty_json(options.crypto_history_output, crypto_payload(published_crypto.records))
+            if options.crypto_history_manifest_output is not None:
+                write_pretty_json(options.crypto_history_manifest_output, published_crypto.manifest)
         state = "updated" if result.changed else "unchanged"
         print(
             f"catalog {state}: "

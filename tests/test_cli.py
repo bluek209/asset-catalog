@@ -46,6 +46,8 @@ def test_cli_writes_pretty_history_from_verified_site(tmp_path: Path, capsys) ->
     site = tmp_path / "site"
     history_catalog = tmp_path / "history" / "catalog.json"
     history_manifest = tmp_path / "history" / "manifest.json"
+    crypto_history_catalog = tmp_path / "history" / "crypto" / "catalog.json"
+    crypto_history_manifest = tmp_path / "history" / "crypto" / "manifest.json"
 
     exit_code = main(
         [
@@ -55,6 +57,10 @@ def test_cli_writes_pretty_history_from_verified_site(tmp_path: Path, capsys) ->
             str(history_catalog),
             "--history-manifest-output",
             str(history_manifest),
+            "--crypto-history-output",
+            str(crypto_history_catalog),
+            "--crypto-history-manifest-output",
+            str(crypto_history_manifest),
             "--generated-at",
             "2026-08-05T00:00:00Z",
         ],
@@ -65,13 +71,23 @@ def test_cli_writes_pretty_history_from_verified_site(tmp_path: Path, capsys) ->
     deployed_catalog = json.loads(
         gzip.decompress((site / deployed_manifest["f"]["p"]).read_bytes()),
     )
+    deployed_crypto_manifest = json.loads((site / "crypto/manifest.json").read_text(encoding="utf-8"))
+    deployed_crypto_catalog = json.loads(
+        gzip.decompress((site / "crypto" / deployed_crypto_manifest["f"]["p"]).read_bytes()),
+    )
 
     assert exit_code == 0
     assert history_catalog.read_bytes().endswith(b"\n")
     assert history_manifest.read_bytes().endswith(b"\n")
     assert json.loads(history_catalog.read_text(encoding="utf-8")) == deployed_catalog
     assert json.loads(history_manifest.read_text(encoding="utf-8")) == deployed_manifest
+    assert crypto_history_catalog.read_bytes().endswith(b"\n")
+    assert crypto_history_manifest.read_bytes().endswith(b"\n")
+    assert json.loads(crypto_history_catalog.read_text(encoding="utf-8")) == deployed_crypto_catalog
+    assert json.loads(crypto_history_manifest.read_text(encoding="utf-8")) == deployed_crypto_manifest
     assert '  "f": {' in history_manifest.read_text(encoding="utf-8")
+    assert '  "r": [' in crypto_history_catalog.read_text(encoding="utf-8")
+    assert '  "f": {' in crypto_history_manifest.read_text(encoding="utf-8")
     output = capsys.readouterr().out
     assert "stock=" in output and "crypto=" in output
 
@@ -80,6 +96,8 @@ def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
     site = tmp_path / "site"
     history = tmp_path / "catalog.json"
     history_manifest = tmp_path / "manifest.json"
+    crypto_history = tmp_path / "crypto/catalog.json"
+    crypto_history_manifest = tmp_path / "crypto/manifest.json"
     common = ["--site-root", str(site), "--generated-at", "2026-08-05T00:00:00Z"]
     factory = lambda key, ratio, excluded: SuccessfulPipeline()
 
@@ -95,6 +113,10 @@ def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
             str(history),
             "--history-manifest-output",
             str(history_manifest),
+            "--crypto-history-output",
+            str(crypto_history),
+            "--crypto-history-manifest-output",
+            str(crypto_history_manifest),
         ],
         environ={"DATA_GO_KR_SERVICE_KEY": "secret"},
         pipeline_factory=factory,
@@ -102,6 +124,8 @@ def test_cli_writes_history_when_catalog_is_unchanged(tmp_path: Path) -> None:
 
     assert history.is_file()
     assert history_manifest.is_file()
+    assert crypto_history.is_file()
+    assert crypto_history_manifest.is_file()
 
 
 def test_cli_redacts_secret_from_known_source_failure(tmp_path: Path, capsys) -> None:

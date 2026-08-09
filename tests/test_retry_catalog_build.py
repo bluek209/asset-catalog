@@ -12,10 +12,12 @@ def test_catalog_build_stops_after_first_successful_retry(tmp_path: Path) -> Non
     bin_dir = tmp_path / "bin"
     bin_dir.mkdir()
     attempts_file = tmp_path / "attempts"
+    arguments_file = tmp_path / "arguments"
     fake_catalog = bin_dir / "asset-catalog"
     fake_catalog.write_text(
         """#!/usr/bin/env bash
 set -euo pipefail
+printf '%s\n' "$@" > "$ARGUMENTS_FILE"
 attempts=0
 if [[ -f "$ATTEMPTS_FILE" ]]; then
   attempts="$(cat "$ATTEMPTS_FILE")"
@@ -33,6 +35,7 @@ echo "catalog unchanged: stock=test/1 crypto=test/1"
     )
     fake_catalog.chmod(0o755)
     environment = os.environ | {
+        "ARGUMENTS_FILE": str(arguments_file),
         "ATTEMPTS_FILE": str(attempts_file),
         "PATH": f"{bin_dir}:{os.environ['PATH']}",
     }
@@ -48,6 +51,20 @@ echo "catalog unchanged: stock=test/1 crypto=test/1"
 
     assert result.returncode == 0
     assert attempts_file.read_text(encoding="utf-8") == "2"
+    assert arguments_file.read_text(encoding="utf-8").splitlines() == [
+        "--site-root",
+        "site",
+        "--history-output",
+        "catalog.json",
+        "--history-manifest-output",
+        "manifest.json",
+        "--crypto-history-output",
+        "crypto/catalog.json",
+        "--crypto-history-manifest-output",
+        "crypto/manifest.json",
+        "--hydrate-url",
+        "https://bluek209.github.io/asset-catalog/",
+    ]
     assert result.stdout.strip() == "catalog unchanged: stock=test/1 crypto=test/1"
 
 
