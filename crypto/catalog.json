@@ -1,0 +1,6145 @@
+{
+  "r": [
+    {
+      "e": "0G",
+      "i": "BN:0G-USDT",
+      "k": "제로지"
+    },
+    {
+      "e": "1000CAT",
+      "i": "BN:1000CAT-USDT",
+      "k": "1000CAT"
+    },
+    {
+      "e": "1000CHEEMS",
+      "i": "BN:1000CHEEMS-USDT",
+      "k": "1000CHEEMS"
+    },
+    {
+      "e": "1000SATS",
+      "i": "BN:1000SATS-USDT",
+      "k": "1000SATS"
+    },
+    {
+      "e": "1INCH",
+      "i": "BN:1INCH-USDT",
+      "k": "1INCH"
+    },
+    {
+      "e": "1MBABYDOGE",
+      "i": "BN:1MBABYDOGE-USDT",
+      "k": "1MBABYDOGE"
+    },
+    {
+      "e": "DoubleZero",
+      "i": "BN:2Z-USDT",
+      "k": "더블제로"
+    },
+    {
+      "e": "Vaulta",
+      "i": "BN:A-USDT",
+      "k": "볼타"
+    },
+    {
+      "e": "AAOIB",
+      "i": "BN:AAOIB-USDT",
+      "k": "AAOIB"
+    },
+    {
+      "e": "AAPLB",
+      "i": "BN:AAPLB-USDT",
+      "k": "AAPLB"
+    },
+    {
+      "e": "Aave",
+      "i": "BN:AAVE-USDT",
+      "k": "에이브"
+    },
+    {
+      "e": "Fusionist",
+      "i": "BN:ACE-USDT",
+      "k": "퓨저니스트"
+    },
+    {
+      "e": "Alchemy Pay",
+      "i": "BN:ACH-USDT",
+      "k": "알케미페이"
+    },
+    {
+      "e": "ACM",
+      "i": "BN:ACM-USDT",
+      "k": "ACM"
+    },
+    {
+      "e": "ACT",
+      "i": "BN:ACT-USDT",
+      "k": "ACT"
+    },
+    {
+      "e": "Across Protocol",
+      "i": "BN:ACX-USDT",
+      "k": "어크로스프로토콜"
+    },
+    {
+      "e": "ADA",
+      "i": "BN:ADA-USDT",
+      "k": "ADA"
+    },
+    {
+      "e": "ADX",
+      "i": "BN:ADX-USDT",
+      "k": "ADX"
+    },
+    {
+      "e": "Aerodrome Finance",
+      "i": "BN:AERO-USDT",
+      "k": "에어로드롬파이낸스"
+    },
+    {
+      "e": "AEVO",
+      "i": "BN:AEVO-USDT",
+      "k": "AEVO"
+    },
+    {
+      "e": "Adventure Gold",
+      "i": "BN:AGLD-USDT",
+      "k": "어드벤처골드"
+    },
+    {
+      "e": "Gensyn",
+      "i": "BN:AI-USDT",
+      "k": "젠신"
+    },
+    {
+      "e": "AIGENSYN",
+      "i": "BN:AIGENSYN-USDT",
+      "k": "AIGENSYN"
+    },
+    {
+      "e": "AIXBT",
+      "i": "BN:AIXBT-USDT",
+      "k": "AIXBT"
+    },
+    {
+      "e": "ALABB",
+      "i": "BN:ALABB-USDT",
+      "k": "ALABB"
+    },
+    {
+      "e": "Algorand",
+      "i": "BN:ALGO-USDT",
+      "k": "알고랜드"
+    },
+    {
+      "e": "MyNeighborAlice",
+      "i": "BN:ALICE-USDT",
+      "k": "마이네이버앨리스"
+    },
+    {
+      "e": "Allora",
+      "i": "BN:ALLO-USDT",
+      "k": "알로라"
+    },
+    {
+      "e": "ALPINE",
+      "i": "BN:ALPINE-USDT",
+      "k": "ALPINE"
+    },
+    {
+      "e": "ALT",
+      "i": "BN:ALT-USDT",
+      "k": "ALT"
+    },
+    {
+      "e": "AMATB",
+      "i": "BN:AMATB-USDT",
+      "k": "AMATB"
+    },
+    {
+      "e": "AMDB",
+      "i": "BN:AMDB-USDT",
+      "k": "AMDB"
+    },
+    {
+      "e": "Amp",
+      "i": "BN:AMP-USDT",
+      "k": "앰프"
+    },
+    {
+      "e": "AMZNB",
+      "i": "BN:AMZNB-USDT",
+      "k": "AMZNB"
+    },
+    {
+      "e": "Animecoin",
+      "i": "BN:ANIME-USDT",
+      "k": "애니메코인"
+    },
+    {
+      "e": "ANKR",
+      "i": "BN:ANKR-USDT",
+      "k": "ANKR"
+    },
+    {
+      "e": "ApeCoin",
+      "i": "BN:APE-USDT",
+      "k": "에이프코인"
+    },
+    {
+      "e": "API3",
+      "i": "BN:API3-USDT",
+      "k": "에이피아이쓰리"
+    },
+    {
+      "e": "Aptos",
+      "i": "BN:APT-USDT",
+      "k": "앱토스"
+    },
+    {
+      "e": "Arweave",
+      "i": "BN:AR-USDT",
+      "k": "알위브"
+    },
+    {
+      "e": "Arbitrum",
+      "i": "BN:ARB-USDT",
+      "k": "아비트럼"
+    },
+    {
+      "e": "Ark",
+      "i": "BN:ARK-USDT",
+      "k": "아크"
+    },
+    {
+      "e": "Arkham",
+      "i": "BN:ARKM-USDT",
+      "k": "아캄"
+    },
+    {
+      "e": "ARMB",
+      "i": "BN:ARMB-USDT",
+      "k": "ARMB"
+    },
+    {
+      "e": "ARPA",
+      "i": "BN:ARPA-USDT",
+      "k": "알파"
+    },
+    {
+      "e": "ASMLB",
+      "i": "BN:ASMLB-USDT",
+      "k": "ASMLB"
+    },
+    {
+      "e": "ASR",
+      "i": "BN:ASR-USDT",
+      "k": "ASR"
+    },
+    {
+      "e": "Aster",
+      "i": "BN:ASTER-USDT",
+      "k": "아스터"
+    },
+    {
+      "e": "Astar",
+      "i": "BN:ASTR-USDT",
+      "k": "아스타"
+    },
+    {
+      "e": "ASTSB",
+      "i": "BN:ASTSB-USDT",
+      "k": "ASTSB"
+    },
+    {
+      "e": "AT",
+      "i": "BN:AT-USDT",
+      "k": "AT"
+    },
+    {
+      "e": "ATM",
+      "i": "BN:ATM-USDT",
+      "k": "ATM"
+    },
+    {
+      "e": "Cosmos",
+      "i": "BN:ATOM-USDT",
+      "k": "코스모스"
+    },
+    {
+      "e": "AUCTION",
+      "i": "BN:AUCTION-USDT",
+      "k": "AUCTION"
+    },
+    {
+      "e": "Audius",
+      "i": "BN:AUDIO-USDT",
+      "k": "오디우스"
+    },
+    {
+      "e": "AVA",
+      "i": "BN:AVA-USDT",
+      "k": "AVA"
+    },
+    {
+      "e": "Avalanche",
+      "i": "BN:AVAX-USDT",
+      "k": "아발란체"
+    },
+    {
+      "e": "AVGOB",
+      "i": "BN:AVGOB-USDT",
+      "k": "AVGOB"
+    },
+    {
+      "e": "Avantis",
+      "i": "BN:AVNT-USDT",
+      "k": "아반티스"
+    },
+    {
+      "e": "AWE Network",
+      "i": "BN:AWE-USDT",
+      "k": "에이더블유이"
+    },
+    {
+      "e": "Axelar",
+      "i": "BN:AXL-USDT",
+      "k": "엑셀라"
+    },
+    {
+      "e": "Axie Infinity",
+      "i": "BN:AXS-USDT",
+      "k": "엑시인피니티"
+    },
+    {
+      "e": "AXTIB",
+      "i": "BN:AXTIB-USDT",
+      "k": "AXTIB"
+    },
+    {
+      "e": "BABAB",
+      "i": "BN:BABAB-USDT",
+      "k": "BABAB"
+    },
+    {
+      "e": "Babylon",
+      "i": "BN:BABY-USDT",
+      "k": "바빌론"
+    },
+    {
+      "e": "BANANA",
+      "i": "BN:BANANA-USDT",
+      "k": "BANANA"
+    },
+    {
+      "e": "BANANAS31",
+      "i": "BN:BANANAS31-USDT",
+      "k": "BANANAS31"
+    },
+    {
+      "e": "BAND",
+      "i": "BN:BAND-USDT",
+      "k": "BAND"
+    },
+    {
+      "e": "Lorenzo Protocol",
+      "i": "BN:BANK-USDT",
+      "k": "로렌조프로토콜"
+    },
+    {
+      "e": "BAR",
+      "i": "BN:BAR-USDT",
+      "k": "BAR"
+    },
+    {
+      "e": "Lombard",
+      "i": "BN:BARD-USDT",
+      "k": "롬바드"
+    },
+    {
+      "e": "Basic Attention Token",
+      "i": "BN:BAT-USDT",
+      "k": "베이직어텐션토큰"
+    },
+    {
+      "e": "BounceBit",
+      "i": "BN:BB-USDT",
+      "k": "바운스빗"
+    },
+    {
+      "e": "Bitcoin Cash",
+      "i": "BN:BCH-USDT",
+      "k": "비트코인캐시"
+    },
+    {
+      "e": "BEAMX",
+      "i": "BN:BEAMX-USDT",
+      "k": "BEAMX"
+    },
+    {
+      "e": "BEB",
+      "i": "BN:BEB-USDT",
+      "k": "BEB"
+    },
+    {
+      "e": "Bella Protocol",
+      "i": "BN:BEL-USDT",
+      "k": "벨라프로토콜"
+    },
+    {
+      "e": "Berachain",
+      "i": "BN:BERA-USDT",
+      "k": "베라체인"
+    },
+    {
+      "e": "BFUSD",
+      "i": "BN:BFUSD-USDT",
+      "k": "BFUSD"
+    },
+    {
+      "e": "Biconomy",
+      "i": "BN:BICO-USDT",
+      "k": "바이코노미"
+    },
+    {
+      "e": "Big Time",
+      "i": "BN:BIGTIME-USDT",
+      "k": "빅타임"
+    },
+    {
+      "e": "Bio Protocol",
+      "i": "BN:BIO-USDT",
+      "k": "바이오프로토콜"
+    },
+    {
+      "e": "Blur",
+      "i": "BN:BLUR-USDT",
+      "k": "블러"
+    },
+    {
+      "e": "BMNRB",
+      "i": "BN:BMNRB-USDT",
+      "k": "BMNRB"
+    },
+    {
+      "e": "Bubblemaps",
+      "i": "BN:BMT-USDT",
+      "k": "버블맵스"
+    },
+    {
+      "e": "BNB",
+      "i": "BN:BNB-USDT",
+      "k": "비앤비"
+    },
+    {
+      "e": "BNSOL",
+      "i": "BN:BNSOL-USDT",
+      "k": "BNSOL"
+    },
+    {
+      "e": "Bancor",
+      "i": "BN:BNT-USDT",
+      "k": "뱅코르"
+    },
+    {
+      "e": "BOME",
+      "i": "BN:BOME-USDT",
+      "k": "BOME"
+    },
+    {
+      "e": "Bonk",
+      "i": "BN:BONK-USDT",
+      "k": "봉크"
+    },
+    {
+      "e": "Brevis",
+      "i": "BN:BREV-USDT",
+      "k": "브레비스"
+    },
+    {
+      "e": "BROCCOLI714",
+      "i": "BN:BROCCOLI714-USDT",
+      "k": "BROCCOLI714"
+    },
+    {
+      "e": "Bitcoin",
+      "i": "BN:BTC-USDT",
+      "k": "비트코인"
+    },
+    {
+      "e": "BTTC",
+      "i": "BN:BTTC-USDT",
+      "k": "BTTC"
+    },
+    {
+      "e": "Chainbase Token",
+      "i": "BN:C-USDT",
+      "k": "체인베이스토큰"
+    },
+    {
+      "e": "Coin98",
+      "i": "BN:C98-USDT",
+      "k": "코인98"
+    },
+    {
+      "e": "PancakeSwap",
+      "i": "BN:CAKE-USDT",
+      "k": "팬케이크스왑"
+    },
+    {
+      "e": "CATI",
+      "i": "BN:CATI-USDT",
+      "k": "CATI"
+    },
+    {
+      "e": "CBRSB",
+      "i": "BN:CBRSB-USDT",
+      "k": "CBRSB"
+    },
+    {
+      "e": "Celo",
+      "i": "BN:CELO-USDT",
+      "k": "셀로"
+    },
+    {
+      "e": "Celer Network",
+      "i": "BN:CELR-USDT",
+      "k": "셀러네트워크"
+    },
+    {
+      "e": "CETUS",
+      "i": "BN:CETUS-USDT",
+      "k": "CETUS"
+    },
+    {
+      "e": "Centrifuge",
+      "i": "BN:CFG-USDT",
+      "k": "센트리퓨즈"
+    },
+    {
+      "e": "CFX",
+      "i": "BN:CFX-USDT",
+      "k": "CFX"
+    },
+    {
+      "e": "CGPT",
+      "i": "BN:CGPT-USDT",
+      "k": "CGPT"
+    },
+    {
+      "e": "USD.AI",
+      "i": "BN:CHIP-USDT",
+      "k": "유에스디에이아이"
+    },
+    {
+      "e": "Chromia",
+      "i": "BN:CHR-USDT",
+      "k": "크로미아"
+    },
+    {
+      "e": "Chiliz",
+      "i": "BN:CHZ-USDT",
+      "k": "칠리즈"
+    },
+    {
+      "e": "CITY",
+      "i": "BN:CITY-USDT",
+      "k": "CITY"
+    },
+    {
+      "e": "Nervos Network",
+      "i": "BN:CKB-USDT",
+      "k": "너보스"
+    },
+    {
+      "e": "COHRB",
+      "i": "BN:COHRB-USDT",
+      "k": "COHRB"
+    },
+    {
+      "e": "COINB",
+      "i": "BN:COINB-USDT",
+      "k": "COINB"
+    },
+    {
+      "e": "Compound",
+      "i": "BN:COMP-USDT",
+      "k": "컴파운드"
+    },
+    {
+      "e": "Cookie DAO",
+      "i": "BN:COOKIE-USDT",
+      "k": "쿠키다오"
+    },
+    {
+      "e": "COTI",
+      "i": "BN:COTI-USDT",
+      "k": "코티"
+    },
+    {
+      "e": "CoW Protocol",
+      "i": "BN:COW-USDT",
+      "k": "카우프로토콜"
+    },
+    {
+      "e": "CRCLB",
+      "i": "BN:CRCLB-USDT",
+      "k": "CRCLB"
+    },
+    {
+      "e": "CRDOB",
+      "i": "BN:CRDOB-USDT",
+      "k": "CRDOB"
+    },
+    {
+      "e": "Curve DAO Token",
+      "i": "BN:CRV-USDT",
+      "k": "커브"
+    },
+    {
+      "e": "CRWVB",
+      "i": "BN:CRWVB-USDT",
+      "k": "CRWVB"
+    },
+    {
+      "e": "Shentu",
+      "i": "BN:CTK-USDT",
+      "k": "셴투"
+    },
+    {
+      "e": "Cartesi",
+      "i": "BN:CTSI-USDT",
+      "k": "카르테시"
+    },
+    {
+      "e": "Civic",
+      "i": "BN:CVC-USDT",
+      "k": "시빅"
+    },
+    {
+      "e": "CVX",
+      "i": "BN:CVX-USDT",
+      "k": "CVX"
+    },
+    {
+      "e": "Cyber",
+      "i": "BN:CYBER-USDT",
+      "k": "사이버"
+    },
+    {
+      "e": "DASH",
+      "i": "BN:DASH-USDT",
+      "k": "DASH"
+    },
+    {
+      "e": "DCR",
+      "i": "BN:DCR-USDT",
+      "k": "DCR"
+    },
+    {
+      "e": "DELLB",
+      "i": "BN:DELLB-USDT",
+      "k": "DELLB"
+    },
+    {
+      "e": "DeXe",
+      "i": "BN:DEXE-USDT",
+      "k": "딕시"
+    },
+    {
+      "e": "DGB",
+      "i": "BN:DGB-USDT",
+      "k": "DGB"
+    },
+    {
+      "e": "DIA",
+      "i": "BN:DIA-USDT",
+      "k": "DIA"
+    },
+    {
+      "e": "DODO",
+      "i": "BN:DODO-USDT",
+      "k": "DODO"
+    },
+    {
+      "e": "Dogecoin",
+      "i": "BN:DOGE-USDT",
+      "k": "도지코인"
+    },
+    {
+      "e": "DOGS",
+      "i": "BN:DOGS-USDT",
+      "k": "DOGS"
+    },
+    {
+      "e": "DOLO",
+      "i": "BN:DOLO-USDT",
+      "k": "DOLO"
+    },
+    {
+      "e": "Polkadot",
+      "i": "BN:DOT-USDT",
+      "k": "폴카닷"
+    },
+    {
+      "e": "DRAMB",
+      "i": "BN:DRAMB-USDT",
+      "k": "DRAMB"
+    },
+    {
+      "e": "DUSK",
+      "i": "BN:DUSK-USDT",
+      "k": "DUSK"
+    },
+    {
+      "e": "dYdX",
+      "i": "BN:DYDX-USDT",
+      "k": "디와이디엑스"
+    },
+    {
+      "e": "DYM",
+      "i": "BN:DYM-USDT",
+      "k": "DYM"
+    },
+    {
+      "e": "OpenEden",
+      "i": "BN:EDEN-USDT",
+      "k": "오픈에덴"
+    },
+    {
+      "e": "Open Campus",
+      "i": "BN:EDU-USDT",
+      "k": "오픈캠퍼스"
+    },
+    {
+      "e": "MultiversX",
+      "i": "BN:EGLD-USDT",
+      "k": "멀티버스엑스"
+    },
+    {
+      "e": "EigenCloud",
+      "i": "BN:EIGEN-USDT",
+      "k": "아이겐클라우드"
+    },
+    {
+      "e": "Ethena",
+      "i": "BN:ENA-USDT",
+      "k": "에테나"
+    },
+    {
+      "e": "Enjin Coin",
+      "i": "BN:ENJ-USDT",
+      "k": "엔진코인"
+    },
+    {
+      "e": "Ethereum Name Service",
+      "i": "BN:ENS-USDT",
+      "k": "이더리움네임서비스"
+    },
+    {
+      "e": "Enso",
+      "i": "BN:ENSO-USDT",
+      "k": "엔소"
+    },
+    {
+      "e": "EPIC",
+      "i": "BN:EPIC-USDT",
+      "k": "EPIC"
+    },
+    {
+      "e": "Caldera",
+      "i": "BN:ERA-USDT",
+      "k": "칼데라"
+    },
+    {
+      "e": "Espresso",
+      "i": "BN:ESP-USDT",
+      "k": "에스프레소"
+    },
+    {
+      "e": "Ethereum Classic",
+      "i": "BN:ETC-USDT",
+      "k": "이더리움클래식"
+    },
+    {
+      "e": "Ethereum",
+      "i": "BN:ETH-USDT",
+      "k": "이더리움"
+    },
+    {
+      "e": "ETHFI",
+      "i": "BN:ETHFI-USDT",
+      "k": "ETHFI"
+    },
+    {
+      "e": "Euler",
+      "i": "BN:EUL-USDT",
+      "k": "오일러"
+    },
+    {
+      "e": "EUR",
+      "i": "BN:EUR-USDT",
+      "k": "EUR"
+    },
+    {
+      "e": "EURI",
+      "i": "BN:EURI-USDT",
+      "k": "EURI"
+    },
+    {
+      "e": "EWYB",
+      "i": "BN:EWYB-USDT",
+      "k": "EWYB"
+    },
+    {
+      "e": "F",
+      "i": "BN:F-USDT",
+      "k": "F"
+    },
+    {
+      "e": "FDUSD",
+      "i": "BN:FDUSD-USDT",
+      "k": "FDUSD"
+    },
+    {
+      "e": "Fetch.ai",
+      "i": "BN:FET-USDT",
+      "k": "페치"
+    },
+    {
+      "e": "Falcon Finance",
+      "i": "BN:FF-USDT",
+      "k": "팔콘파이낸스"
+    },
+    {
+      "e": "FIDA",
+      "i": "BN:FIDA-USDT",
+      "k": "FIDA"
+    },
+    {
+      "e": "Filecoin",
+      "i": "BN:FIL-USDT",
+      "k": "파일코인"
+    },
+    {
+      "e": "FLNCB",
+      "i": "BN:FLNCB-USDT",
+      "k": "FLNCB"
+    },
+    {
+      "e": "FLOKI",
+      "i": "BN:FLOKI-USDT",
+      "k": "플로키"
+    },
+    {
+      "e": "FLOW",
+      "i": "BN:FLOW-USDT",
+      "k": "FLOW"
+    },
+    {
+      "e": "Flux",
+      "i": "BN:FLUX-USDT",
+      "k": "플럭스"
+    },
+    {
+      "e": "FOGO",
+      "i": "BN:FOGO-USDT",
+      "k": "FOGO"
+    },
+    {
+      "e": "FORM",
+      "i": "BN:FORM-USDT",
+      "k": "FORM"
+    },
+    {
+      "e": "Frax",
+      "i": "BN:FRAX-USDT",
+      "k": "프랙스"
+    },
+    {
+      "e": "FTT",
+      "i": "BN:FTT-USDT",
+      "k": "FTT"
+    },
+    {
+      "e": "Gravity",
+      "i": "BN:G-USDT",
+      "k": "그래비티"
+    },
+    {
+      "e": "Gala",
+      "i": "BN:GALA-USDT",
+      "k": "갈라"
+    },
+    {
+      "e": "GAS",
+      "i": "BN:GAS-USDT",
+      "k": "GAS"
+    },
+    {
+      "e": "GENIUS",
+      "i": "BN:GENIUS-USDT",
+      "k": "GENIUS"
+    },
+    {
+      "e": "GIGGLE",
+      "i": "BN:GIGGLE-USDT",
+      "k": "GIGGLE"
+    },
+    {
+      "e": "Golem",
+      "i": "BN:GLM-USDT",
+      "k": "골렘"
+    },
+    {
+      "e": "GLMR",
+      "i": "BN:GLMR-USDT",
+      "k": "GLMR"
+    },
+    {
+      "e": "GLWB",
+      "i": "BN:GLWB-USDT",
+      "k": "GLWB"
+    },
+    {
+      "e": "GMT",
+      "i": "BN:GMT-USDT",
+      "k": "GMT"
+    },
+    {
+      "e": "GMX",
+      "i": "BN:GMX-USDT",
+      "k": "지엠엑스"
+    },
+    {
+      "e": "Gnosis",
+      "i": "BN:GNO-USDT",
+      "k": "노시스"
+    },
+    {
+      "e": "GNS",
+      "i": "BN:GNS-USDT",
+      "k": "GNS"
+    },
+    {
+      "e": "GOOGLB",
+      "i": "BN:GOOGLB-USDT",
+      "k": "GOOGLB"
+    },
+    {
+      "e": "GoPlus",
+      "i": "BN:GPS-USDT",
+      "k": "고플러스"
+    },
+    {
+      "e": "Gram",
+      "i": "BN:GRAM-USDT",
+      "k": "그램"
+    },
+    {
+      "e": "The Graph",
+      "i": "BN:GRT-USDT",
+      "k": "더그래프"
+    },
+    {
+      "e": "GSB",
+      "i": "BN:GSB-USDT",
+      "k": "GSB"
+    },
+    {
+      "e": "Gitcoin",
+      "i": "BN:GTC-USDT",
+      "k": "깃코인"
+    },
+    {
+      "e": "GUN",
+      "i": "BN:GUN-USDT",
+      "k": "GUN"
+    },
+    {
+      "e": "Haedal Protocol",
+      "i": "BN:HAEDAL-USDT",
+      "k": "해달프로토콜"
+    },
+    {
+      "e": "Hedera",
+      "i": "BN:HBAR-USDT",
+      "k": "헤데라"
+    },
+    {
+      "e": "HEI",
+      "i": "BN:HEI-USDT",
+      "k": "HEI"
+    },
+    {
+      "e": "Hemi",
+      "i": "BN:HEMI-USDT",
+      "k": "헤미"
+    },
+    {
+      "e": "Hashflow",
+      "i": "BN:HFT-USDT",
+      "k": "해시플로우"
+    },
+    {
+      "e": "Hive",
+      "i": "BN:HIVE-USDT",
+      "k": "하이브"
+    },
+    {
+      "e": "HMSTR",
+      "i": "BN:HMSTR-USDT",
+      "k": "HMSTR"
+    },
+    {
+      "e": "Holoworld AI",
+      "i": "BN:HOLO-USDT",
+      "k": "홀로월드에이아이"
+    },
+    {
+      "e": "Defi App",
+      "i": "BN:HOME-USDT",
+      "k": "디파이앱"
+    },
+    {
+      "e": "HOODB",
+      "i": "BN:HOODB-USDT",
+      "k": "HOODB"
+    },
+    {
+      "e": "HOT",
+      "i": "BN:HOT-USDT",
+      "k": "HOT"
+    },
+    {
+      "e": "Huma Finance",
+      "i": "BN:HUMA-USDT",
+      "k": "후마파이낸스"
+    },
+    {
+      "e": "Hyperlane",
+      "i": "BN:HYPER-USDT",
+      "k": "하이퍼레인"
+    },
+    {
+      "e": "IBMB",
+      "i": "BN:IBMB-USDT",
+      "k": "IBMB"
+    },
+    {
+      "e": "Internet Computer",
+      "i": "BN:ICP-USDT",
+      "k": "인터넷컴퓨터"
+    },
+    {
+      "e": "ICX",
+      "i": "BN:ICX-USDT",
+      "k": "ICX"
+    },
+    {
+      "e": "SPACE ID",
+      "i": "BN:ID-USDT",
+      "k": "스페이스아이디"
+    },
+    {
+      "e": "Illuvium",
+      "i": "BN:ILV-USDT",
+      "k": "일루비움"
+    },
+    {
+      "e": "Immutable X",
+      "i": "BN:IMX-USDT",
+      "k": "이뮤터블엑스"
+    },
+    {
+      "e": "Initia",
+      "i": "BN:INIT-USDT",
+      "k": "이니시아"
+    },
+    {
+      "e": "Injective",
+      "i": "BN:INJ-USDT",
+      "k": "인젝티브"
+    },
+    {
+      "e": "INTCB",
+      "i": "BN:INTCB-USDT",
+      "k": "INTCB"
+    },
+    {
+      "e": "INTWB",
+      "i": "BN:INTWB-USDT",
+      "k": "INTWB"
+    },
+    {
+      "e": "io.net",
+      "i": "BN:IO-USDT",
+      "k": "아이오넷"
+    },
+    {
+      "e": "IOST",
+      "i": "BN:IOST-USDT",
+      "k": "IOST"
+    },
+    {
+      "e": "IOTA",
+      "i": "BN:IOTA-USDT",
+      "k": "아이오타"
+    },
+    {
+      "e": "IoTeX",
+      "i": "BN:IOTX-USDT",
+      "k": "아이오텍스"
+    },
+    {
+      "e": "IQ",
+      "i": "BN:IQ-USDT",
+      "k": "IQ"
+    },
+    {
+      "e": "IRENB",
+      "i": "BN:IRENB-USDT",
+      "k": "IRENB"
+    },
+    {
+      "e": "JASMY",
+      "i": "BN:JASMY-USDT",
+      "k": "JASMY"
+    },
+    {
+      "e": "JOE",
+      "i": "BN:JOE-USDT",
+      "k": "트레이더조"
+    },
+    {
+      "e": "JUST",
+      "i": "BN:JST-USDT",
+      "k": "저스트"
+    },
+    {
+      "e": "Jito",
+      "i": "BN:JTO-USDT",
+      "k": "지토"
+    },
+    {
+      "e": "Jupiter",
+      "i": "BN:JUP-USDT",
+      "k": "주피터"
+    },
+    {
+      "e": "JUV",
+      "i": "BN:JUV-USDT",
+      "k": "JUV"
+    },
+    {
+      "e": "Kaia",
+      "i": "BN:KAIA-USDT",
+      "k": "카이아"
+    },
+    {
+      "e": "KAITO",
+      "i": "BN:KAITO-USDT",
+      "k": "KAITO"
+    },
+    {
+      "e": "Katana",
+      "i": "BN:KAT-USDT",
+      "k": "카타나"
+    },
+    {
+      "e": "Kava",
+      "i": "BN:KAVA-USDT",
+      "k": "카바"
+    },
+    {
+      "e": "KERNEL",
+      "i": "BN:KERNEL-USDT",
+      "k": "KERNEL"
+    },
+    {
+      "e": "KGST",
+      "i": "BN:KGST-USDT",
+      "k": "KGST"
+    },
+    {
+      "e": "Kite",
+      "i": "BN:KITE-USDT",
+      "k": "카이트"
+    },
+    {
+      "e": "Kamino Finance",
+      "i": "BN:KMNO-USDT",
+      "k": "카미노파이낸스"
+    },
+    {
+      "e": "Kyber Network",
+      "i": "BN:KNC-USDT",
+      "k": "카이버네트워크"
+    },
+    {
+      "e": "KORUB",
+      "i": "BN:KORUB-USDT",
+      "k": "KORUB"
+    },
+    {
+      "e": "Kusama",
+      "i": "BN:KSM-USDT",
+      "k": "쿠사마"
+    },
+    {
+      "e": "Lagrange",
+      "i": "BN:LA-USDT",
+      "k": "라그랑주"
+    },
+    {
+      "e": "Solayer",
+      "i": "BN:LAYER-USDT",
+      "k": "솔레이어"
+    },
+    {
+      "e": "LAZIO",
+      "i": "BN:LAZIO-USDT",
+      "k": "LAZIO"
+    },
+    {
+      "e": "Lido DAO",
+      "i": "BN:LDO-USDT",
+      "k": "리도다오"
+    },
+    {
+      "e": "Linea",
+      "i": "BN:LINEA-USDT",
+      "k": "리네아"
+    },
+    {
+      "e": "LINK",
+      "i": "BN:LINK-USDT",
+      "k": "LINK"
+    },
+    {
+      "e": "Lista DAO",
+      "i": "BN:LISTA-USDT",
+      "k": "리스타다오"
+    },
+    {
+      "e": "LITEB",
+      "i": "BN:LITEB-USDT",
+      "k": "LITEB"
+    },
+    {
+      "e": "Livepeer",
+      "i": "BN:LPT-USDT",
+      "k": "라이브피어"
+    },
+    {
+      "e": "LQTY",
+      "i": "BN:LQTY-USDT",
+      "k": "LQTY"
+    },
+    {
+      "e": "Lisk",
+      "i": "BN:LSK-USDT",
+      "k": "리스크"
+    },
+    {
+      "e": "LTC",
+      "i": "BN:LTC-USDT",
+      "k": "LTC"
+    },
+    {
+      "e": "LUMIA",
+      "i": "BN:LUMIA-USDT",
+      "k": "LUMIA"
+    },
+    {
+      "e": "LUNA",
+      "i": "BN:LUNA-USDT",
+      "k": "LUNA"
+    },
+    {
+      "e": "LUNC",
+      "i": "BN:LUNC-USDT",
+      "k": "LUNC"
+    },
+    {
+      "e": "Magic",
+      "i": "BN:MAGIC-USDT",
+      "k": "매직"
+    },
+    {
+      "e": "Decentraland",
+      "i": "BN:MANA-USDT",
+      "k": "디센트럴랜드"
+    },
+    {
+      "e": "Manta Network",
+      "i": "BN:MANTA-USDT",
+      "k": "만타네트워크"
+    },
+    {
+      "e": "MANTRA",
+      "i": "BN:MANTRA-USDT",
+      "k": "만트라"
+    },
+    {
+      "e": "Mask Network",
+      "i": "BN:MASK-USDT",
+      "k": "마스크네트워크"
+    },
+    {
+      "e": "Maverick Protocol",
+      "i": "BN:MAV-USDT",
+      "k": "매버릭프로토콜"
+    },
+    {
+      "e": "MovieBloc",
+      "i": "BN:MBL-USDT",
+      "k": "무비블록"
+    },
+    {
+      "e": "Magic Eden",
+      "i": "BN:ME-USDT",
+      "k": "매직에덴"
+    },
+    {
+      "e": "MegaETH",
+      "i": "BN:MEGA-USDT",
+      "k": "메가이더"
+    },
+    {
+      "e": "MEME",
+      "i": "BN:MEME-USDT",
+      "k": "MEME"
+    },
+    {
+      "e": "Meteora",
+      "i": "BN:MET-USDT",
+      "k": "메테오라"
+    },
+    {
+      "e": "METAB",
+      "i": "BN:METAB-USDT",
+      "k": "METAB"
+    },
+    {
+      "e": "MetisDAO",
+      "i": "BN:METIS-USDT",
+      "k": "메티스다오"
+    },
+    {
+      "e": "Mina",
+      "i": "BN:MINA-USDT",
+      "k": "미나"
+    },
+    {
+      "e": "MIRA",
+      "i": "BN:MIRA-USDT",
+      "k": "MIRA"
+    },
+    {
+      "e": "MITO",
+      "i": "BN:MITO-USDT",
+      "k": "MITO"
+    },
+    {
+      "e": "Momentum",
+      "i": "BN:MMT-USDT",
+      "k": "모멘텀"
+    },
+    {
+      "e": "Morpho",
+      "i": "BN:MORPHO-USDT",
+      "k": "모포"
+    },
+    {
+      "e": "Movement",
+      "i": "BN:MOVE-USDT",
+      "k": "무브먼트"
+    },
+    {
+      "e": "MOVR",
+      "i": "BN:MOVR-USDT",
+      "k": "MOVR"
+    },
+    {
+      "e": "MRVLB",
+      "i": "BN:MRVLB-USDT",
+      "k": "MRVLB"
+    },
+    {
+      "e": "MSFTB",
+      "i": "BN:MSFTB-USDT",
+      "k": "MSFTB"
+    },
+    {
+      "e": "MSTRB",
+      "i": "BN:MSTRB-USDT",
+      "k": "MSTRB"
+    },
+    {
+      "e": "Metal",
+      "i": "BN:MTL-USDT",
+      "k": "메탈"
+    },
+    {
+      "e": "MUB",
+      "i": "BN:MUB-USDT",
+      "k": "MUB"
+    },
+    {
+      "e": "MUBARAK",
+      "i": "BN:MUBARAK-USDT",
+      "k": "MUBARAK"
+    },
+    {
+      "e": "MUUB",
+      "i": "BN:MUUB-USDT",
+      "k": "MUUB"
+    },
+    {
+      "e": "MVLLB",
+      "i": "BN:MVLLB-USDT",
+      "k": "MVLLB"
+    },
+    {
+      "e": "NBISB",
+      "i": "BN:NBISB-USDT",
+      "k": "NBISB"
+    },
+    {
+      "e": "NEAR Protocol",
+      "i": "BN:NEAR-USDT",
+      "k": "니어프로토콜"
+    },
+    {
+      "e": "NEIRO",
+      "i": "BN:NEIRO-USDT",
+      "k": "NEIRO"
+    },
+    {
+      "e": "NEO",
+      "i": "BN:NEO-USDT",
+      "k": "NEO"
+    },
+    {
+      "e": "Newton Protocol",
+      "i": "BN:NEWT-USDT",
+      "k": "뉴턴프로토콜"
+    },
+    {
+      "e": "NEXO",
+      "i": "BN:NEXO-USDT",
+      "k": "NEXO"
+    },
+    {
+      "e": "NFLXB",
+      "i": "BN:NFLXB-USDT",
+      "k": "NFLXB"
+    },
+    {
+      "e": "NIGHT",
+      "i": "BN:NIGHT-USDT",
+      "k": "NIGHT"
+    },
+    {
+      "e": "Nillion",
+      "i": "BN:NIL-USDT",
+      "k": "닐리온"
+    },
+    {
+      "e": "Numeraire",
+      "i": "BN:NMR-USDT",
+      "k": "뉴메레르"
+    },
+    {
+      "e": "NOKB",
+      "i": "BN:NOKB-USDT",
+      "k": "NOKB"
+    },
+    {
+      "e": "NOM",
+      "i": "BN:NOM-USDT",
+      "k": "NOM"
+    },
+    {
+      "e": "NOT",
+      "i": "BN:NOT-USDT",
+      "k": "NOT"
+    },
+    {
+      "e": "NVDAB",
+      "i": "BN:NVDAB-USDT",
+      "k": "NVDAB"
+    },
+    {
+      "e": "NXPC",
+      "i": "BN:NXPC-USDT",
+      "k": "NXPC"
+    },
+    {
+      "e": "OG",
+      "i": "BN:OG-USDT",
+      "k": "OG"
+    },
+    {
+      "e": "Origin Protocol",
+      "i": "BN:OGN-USDT",
+      "k": "오리진프로토콜"
+    },
+    {
+      "e": "Ondo Finance",
+      "i": "BN:ONDO-USDT",
+      "k": "온도파이낸스"
+    },
+    {
+      "e": "ONE",
+      "i": "BN:ONE-USDT",
+      "k": "ONE"
+    },
+    {
+      "e": "ONG",
+      "i": "BN:ONG-USDT",
+      "k": "ONG"
+    },
+    {
+      "e": "Ontology",
+      "i": "BN:ONT-USDT",
+      "k": "온톨로지"
+    },
+    {
+      "e": "Optimism",
+      "i": "BN:OP-USDT",
+      "k": "옵티미즘"
+    },
+    {
+      "e": "OpenLedger",
+      "i": "BN:OPEN-USDT",
+      "k": "오픈렛저"
+    },
+    {
+      "e": "OpenGradient",
+      "i": "BN:OPG-USDT",
+      "k": "오픈그라디언트"
+    },
+    {
+      "e": "OPN",
+      "i": "BN:OPN-USDT",
+      "k": "OPN"
+    },
+    {
+      "e": "Orca",
+      "i": "BN:ORCA-USDT",
+      "k": "오르카"
+    },
+    {
+      "e": "ORCLB",
+      "i": "BN:ORCLB-USDT",
+      "k": "ORCLB"
+    },
+    {
+      "e": "ORDI",
+      "i": "BN:ORDI-USDT",
+      "k": "ORDI"
+    },
+    {
+      "e": "Osmosis",
+      "i": "BN:OSMO-USDT",
+      "k": "오스모시스"
+    },
+    {
+      "e": "Particle Network",
+      "i": "BN:PARTI-USDT",
+      "k": "파티클네트워크"
+    },
+    {
+      "e": "PAX Gold",
+      "i": "BN:PAXG-USDT",
+      "k": "팍스골드"
+    },
+    {
+      "e": "Pendle",
+      "i": "BN:PENDLE-USDT",
+      "k": "펜들"
+    },
+    {
+      "e": "Pudgy Penguins",
+      "i": "BN:PENGU-USDT",
+      "k": "펏지펭귄"
+    },
+    {
+      "e": "PEOPLE",
+      "i": "BN:PEOPLE-USDT",
+      "k": "PEOPLE"
+    },
+    {
+      "e": "PEPE",
+      "i": "BN:PEPE-USDT",
+      "k": "PEPE"
+    },
+    {
+      "e": "Phala Network",
+      "i": "BN:PHA-USDT",
+      "k": "팔라네트워크"
+    },
+    {
+      "e": "PIVX",
+      "i": "BN:PIVX-USDT",
+      "k": "PIVX"
+    },
+    {
+      "e": "PIXEL",
+      "i": "BN:PIXEL-USDT",
+      "k": "PIXEL"
+    },
+    {
+      "e": "PLTRB",
+      "i": "BN:PLTRB-USDT",
+      "k": "PLTRB"
+    },
+    {
+      "e": "Plume",
+      "i": "BN:PLUME-USDT",
+      "k": "플룸"
+    },
+    {
+      "e": "PNUT",
+      "i": "BN:PNUT-USDT",
+      "k": "PNUT"
+    },
+    {
+      "e": "Polygon Ecosystem Token",
+      "i": "BN:POL-USDT",
+      "k": "폴리곤에코시스템토큰"
+    },
+    {
+      "e": "Polymesh",
+      "i": "BN:POLYX-USDT",
+      "k": "폴리매쉬"
+    },
+    {
+      "e": "PORTAL",
+      "i": "BN:PORTAL-USDT",
+      "k": "PORTAL"
+    },
+    {
+      "e": "PORTO",
+      "i": "BN:PORTO-USDT",
+      "k": "PORTO"
+    },
+    {
+      "e": "POWR",
+      "i": "BN:POWR-USDT",
+      "k": "POWR"
+    },
+    {
+      "e": "PROM",
+      "i": "BN:PROM-USDT",
+      "k": "PROM"
+    },
+    {
+      "e": "PROVE",
+      "i": "BN:PROVE-USDT",
+      "k": "PROVE"
+    },
+    {
+      "e": "PSG",
+      "i": "BN:PSG-USDT",
+      "k": "PSG"
+    },
+    {
+      "e": "PUMP",
+      "i": "BN:PUMP-USDT",
+      "k": "PUMP"
+    },
+    {
+      "e": "Pundi X",
+      "i": "BN:PUNDIX-USDT",
+      "k": "펀디엑스"
+    },
+    {
+      "e": "PYPLB",
+      "i": "BN:PYPLB-USDT",
+      "k": "PYPLB"
+    },
+    {
+      "e": "Vulcan Forged",
+      "i": "BN:PYR-USDT",
+      "k": "불칸포지드"
+    },
+    {
+      "e": "Pyth Network",
+      "i": "BN:PYTH-USDT",
+      "k": "피스네트워크"
+    },
+    {
+      "e": "QCOMB",
+      "i": "BN:QCOMB-USDT",
+      "k": "QCOMB"
+    },
+    {
+      "e": "QI",
+      "i": "BN:QI-USDT",
+      "k": "QI"
+    },
+    {
+      "e": "QuarkChain",
+      "i": "BN:QKC-USDT",
+      "k": "쿼크체인"
+    },
+    {
+      "e": "QNT",
+      "i": "BN:QNT-USDT",
+      "k": "QNT"
+    },
+    {
+      "e": "QNTB",
+      "i": "BN:QNTB-USDT",
+      "k": "QNTB"
+    },
+    {
+      "e": "QQQB",
+      "i": "BN:QQQB-USDT",
+      "k": "QQQB"
+    },
+    {
+      "e": "Qtum",
+      "i": "BN:QTUM-USDT",
+      "k": "퀀텀"
+    },
+    {
+      "e": "QUICK",
+      "i": "BN:QUICK-USDT",
+      "k": "QUICK"
+    },
+    {
+      "e": "Radworks",
+      "i": "BN:RAD-USDT",
+      "k": "래드웍스"
+    },
+    {
+      "e": "RARE",
+      "i": "BN:RARE-USDT",
+      "k": "RARE"
+    },
+    {
+      "e": "Raydium",
+      "i": "BN:RAY-USDT",
+      "k": "레이디움"
+    },
+    {
+      "e": "RE",
+      "i": "BN:RE-USDT",
+      "k": "RE"
+    },
+    {
+      "e": "RedStone",
+      "i": "BN:RED-USDT",
+      "k": "레드스톤"
+    },
+    {
+      "e": "Render Token",
+      "i": "BN:RENDER-USDT",
+      "k": "렌더토큰"
+    },
+    {
+      "e": "Request",
+      "i": "BN:REQ-USDT",
+      "k": "리퀘스트"
+    },
+    {
+      "e": "RESOLV",
+      "i": "BN:RESOLV-USDT",
+      "k": "RESOLV"
+    },
+    {
+      "e": "Renzo",
+      "i": "BN:REZ-USDT",
+      "k": "렌조"
+    },
+    {
+      "e": "RIF",
+      "i": "BN:RIF-USDT",
+      "k": "RIF"
+    },
+    {
+      "e": "RKLBB",
+      "i": "BN:RKLBB-USDT",
+      "k": "RKLBB"
+    },
+    {
+      "e": "iExec RLC",
+      "i": "BN:RLC-USDT",
+      "k": "아이젝"
+    },
+    {
+      "e": "Ripple USD",
+      "i": "BN:RLUSD-USDT",
+      "k": "리플유에스디"
+    },
+    {
+      "e": "Fabric Protocol",
+      "i": "BN:ROBO-USDT",
+      "k": "패브릭프로토콜"
+    },
+    {
+      "e": "RONIN",
+      "i": "BN:RONIN-USDT",
+      "k": "RONIN"
+    },
+    {
+      "e": "ROSE",
+      "i": "BN:ROSE-USDT",
+      "k": "ROSE"
+    },
+    {
+      "e": "Rocket Pool",
+      "i": "BN:RPL-USDT",
+      "k": "로켓풀"
+    },
+    {
+      "e": "Reserve Rights",
+      "i": "BN:RSR-USDT",
+      "k": "리저브라이트"
+    },
+    {
+      "e": "RUNE",
+      "i": "BN:RUNE-USDT",
+      "k": "RUNE"
+    },
+    {
+      "e": "Ravencoin",
+      "i": "BN:RVN-USDT",
+      "k": "레이븐코인"
+    },
+    {
+      "e": "Sonic",
+      "i": "BN:S-USDT",
+      "k": "소닉"
+    },
+    {
+      "e": "SAGA",
+      "i": "BN:SAGA-USDT",
+      "k": "SAGA"
+    },
+    {
+      "e": "Sahara AI",
+      "i": "BN:SAHARA-USDT",
+      "k": "사하라에이아이"
+    },
+    {
+      "e": "The Sandbox",
+      "i": "BN:SAND-USDT",
+      "k": "샌드박스"
+    },
+    {
+      "e": "SANTOS",
+      "i": "BN:SANTOS-USDT",
+      "k": "SANTOS"
+    },
+    {
+      "e": "Sapien",
+      "i": "BN:SAPIEN-USDT",
+      "k": "사피엔"
+    },
+    {
+      "e": "Siacoin",
+      "i": "BN:SC-USDT",
+      "k": "시아코인"
+    },
+    {
+      "e": "Scroll",
+      "i": "BN:SCR-USDT",
+      "k": "스크롤"
+    },
+    {
+      "e": "SCRT",
+      "i": "BN:SCRT-USDT",
+      "k": "SCRT"
+    },
+    {
+      "e": "Sei",
+      "i": "BN:SEI-USDT",
+      "k": "세이"
+    },
+    {
+      "e": "Sentient",
+      "i": "BN:SENT-USDT",
+      "k": "센티언트"
+    },
+    {
+      "e": "Safepal",
+      "i": "BN:SFP-USDT",
+      "k": "세이프팔"
+    },
+    {
+      "e": "MyShell",
+      "i": "BN:SHELL-USDT",
+      "k": "마이쉘"
+    },
+    {
+      "e": "SHIB",
+      "i": "BN:SHIB-USDT",
+      "k": "SHIB"
+    },
+    {
+      "e": "Sign",
+      "i": "BN:SIGN-USDT",
+      "k": "사인"
+    },
+    {
+      "e": "SKHYB",
+      "i": "BN:SKHYB-USDT",
+      "k": "SKHYB"
+    },
+    {
+      "e": "SKALE",
+      "i": "BN:SKL-USDT",
+      "k": "스케일"
+    },
+    {
+      "e": "Sky Protocol",
+      "i": "BN:SKY-USDT",
+      "k": "스카이프로토콜"
+    },
+    {
+      "e": "SLP",
+      "i": "BN:SLP-USDT",
+      "k": "SLP"
+    },
+    {
+      "e": "SMCIB",
+      "i": "BN:SMCIB-USDT",
+      "k": "SMCIB"
+    },
+    {
+      "e": "SMHB",
+      "i": "BN:SMHB-USDT",
+      "k": "SMHB"
+    },
+    {
+      "e": "SNDKB",
+      "i": "BN:SNDKB-USDT",
+      "k": "SNDKB"
+    },
+    {
+      "e": "SNX",
+      "i": "BN:SNX-USDT",
+      "k": "SNX"
+    },
+    {
+      "e": "SNXXB",
+      "i": "BN:SNXXB-USDT",
+      "k": "SNXXB"
+    },
+    {
+      "e": "Solana",
+      "i": "BN:SOL-USDT",
+      "k": "솔라나"
+    },
+    {
+      "e": "Solv Protocol",
+      "i": "BN:SOLV-USDT",
+      "k": "솔브프로토콜"
+    },
+    {
+      "e": "Somnia",
+      "i": "BN:SOMI-USDT",
+      "k": "솜니아"
+    },
+    {
+      "e": "Sophon",
+      "i": "BN:SOPH-USDT",
+      "k": "소폰"
+    },
+    {
+      "e": "SOXLB",
+      "i": "BN:SOXLB-USDT",
+      "k": "SOXLB"
+    },
+    {
+      "e": "SOXSB",
+      "i": "BN:SOXSB-USDT",
+      "k": "SOXSB"
+    },
+    {
+      "e": "SPCXB",
+      "i": "BN:SPCXB-USDT",
+      "k": "SPCXB"
+    },
+    {
+      "e": "SPELL",
+      "i": "BN:SPELL-USDT",
+      "k": "SPELL"
+    },
+    {
+      "e": "Spark",
+      "i": "BN:SPK-USDT",
+      "k": "스파크"
+    },
+    {
+      "e": "SPYB",
+      "i": "BN:SPYB-USDT",
+      "k": "SPYB"
+    },
+    {
+      "e": "SSV",
+      "i": "BN:SSV-USDT",
+      "k": "SSV"
+    },
+    {
+      "e": "Steem",
+      "i": "BN:STEEM-USDT",
+      "k": "스팀"
+    },
+    {
+      "e": "STG",
+      "i": "BN:STG-USDT",
+      "k": "STG"
+    },
+    {
+      "e": "STO",
+      "i": "BN:STO-USDT",
+      "k": "STO"
+    },
+    {
+      "e": "STORJ",
+      "i": "BN:STORJ-USDT",
+      "k": "STORJ"
+    },
+    {
+      "e": "Xertra",
+      "i": "BN:STRAX-USDT",
+      "k": "저트라"
+    },
+    {
+      "e": "Starknet",
+      "i": "BN:STRK-USDT",
+      "k": "스타크넷"
+    },
+    {
+      "e": "Stacks",
+      "i": "BN:STX-USDT",
+      "k": "스택스"
+    },
+    {
+      "e": "SUI",
+      "i": "BN:SUI-USDT",
+      "k": "SUI"
+    },
+    {
+      "e": "SUN",
+      "i": "BN:SUN-USDT",
+      "k": "썬"
+    },
+    {
+      "e": "SuperVerse",
+      "i": "BN:SUPER-USDT",
+      "k": "슈퍼버스"
+    },
+    {
+      "e": "Sushiswap",
+      "i": "BN:SUSHI-USDT",
+      "k": "스시스왑"
+    },
+    {
+      "e": "Space and Time",
+      "i": "BN:SXT-USDT",
+      "k": "스페이스앤드타임"
+    },
+    {
+      "e": "SYN",
+      "i": "BN:SYN-USDT",
+      "k": "SYN"
+    },
+    {
+      "e": "Maple Finance",
+      "i": "BN:SYRUP-USDT",
+      "k": "메이플파이낸스"
+    },
+    {
+      "e": "Threshold",
+      "i": "BN:T-USDT",
+      "k": "쓰레스홀드"
+    },
+    {
+      "e": "Bittensor",
+      "i": "BN:TAO-USDT",
+      "k": "비트텐서"
+    },
+    {
+      "e": "TFUEL",
+      "i": "BN:TFUEL-USDT",
+      "k": "TFUEL"
+    },
+    {
+      "e": "THENA",
+      "i": "BN:THE-USDT",
+      "k": "테나"
+    },
+    {
+      "e": "Theta Token",
+      "i": "BN:THETA-USDT",
+      "k": "쎄타토큰"
+    },
+    {
+      "e": "Celestia",
+      "i": "BN:TIA-USDT",
+      "k": "셀레스티아"
+    },
+    {
+      "e": "TKO",
+      "i": "BN:TKO-USDT",
+      "k": "TKO"
+    },
+    {
+      "e": "TLM",
+      "i": "BN:TLM-USDT",
+      "k": "TLM"
+    },
+    {
+      "e": "TNSR",
+      "i": "BN:TNSR-USDT",
+      "k": "TNSR"
+    },
+    {
+      "e": "Towns",
+      "i": "BN:TOWNS-USDT",
+      "k": "타운즈"
+    },
+    {
+      "e": "TQQQB",
+      "i": "BN:TQQQB-USDT",
+      "k": "TQQQB"
+    },
+    {
+      "e": "TRB",
+      "i": "BN:TRB-USDT",
+      "k": "TRB"
+    },
+    {
+      "e": "Treehouse",
+      "i": "BN:TREE-USDT",
+      "k": "트리하우스"
+    },
+    {
+      "e": "TRUMP",
+      "i": "BN:TRUMP-USDT",
+      "k": "TRUMP"
+    },
+    {
+      "e": "TRON",
+      "i": "BN:TRX-USDT",
+      "k": "트론"
+    },
+    {
+      "e": "TSLAB",
+      "i": "BN:TSLAB-USDT",
+      "k": "TSLAB"
+    },
+    {
+      "e": "TSMB",
+      "i": "BN:TSMB-USDT",
+      "k": "TSMB"
+    },
+    {
+      "e": "TST",
+      "i": "BN:TST-USDT",
+      "k": "TST"
+    },
+    {
+      "e": "Turbo",
+      "i": "BN:TURBO-USDT",
+      "k": "터보"
+    },
+    {
+      "e": "TURTLE",
+      "i": "BN:TURTLE-USDT",
+      "k": "TURTLE"
+    },
+    {
+      "e": "TUSD",
+      "i": "BN:TUSD-USDT",
+      "k": "TUSD"
+    },
+    {
+      "e": "TUT",
+      "i": "BN:TUT-USDT",
+      "k": "TUT"
+    },
+    {
+      "e": "TWT",
+      "i": "BN:TWT-USDT",
+      "k": "TWT"
+    },
+    {
+      "e": "U",
+      "i": "BN:U-USDT",
+      "k": "U"
+    },
+    {
+      "e": "UMA",
+      "i": "BN:UMA-USDT",
+      "k": "우마"
+    },
+    {
+      "e": "Uniswap",
+      "i": "BN:UNI-USDT",
+      "k": "유니스왑"
+    },
+    {
+      "e": "USARB",
+      "i": "BN:USARB-USDT",
+      "k": "USARB"
+    },
+    {
+      "e": "World Liberty Financial USD",
+      "i": "BN:USD1-USDT",
+      "k": "월드리버티파이낸셜유에스디"
+    },
+    {
+      "e": "USD Coin",
+      "i": "BN:USDC-USDT",
+      "k": "유에스디코인"
+    },
+    {
+      "e": "Ethena USDe",
+      "i": "BN:USDE-USDT",
+      "k": "유에스디이"
+    },
+    {
+      "e": "USDP",
+      "i": "BN:USDP-USDT",
+      "k": "USDP"
+    },
+    {
+      "e": "USDS",
+      "i": "BN:USDS-USDT",
+      "k": "유에스디에스"
+    },
+    {
+      "e": "USTC",
+      "i": "BN:USTC-USDT",
+      "k": "USTC"
+    },
+    {
+      "e": "USUAL",
+      "i": "BN:USUAL-USDT",
+      "k": "USUAL"
+    },
+    {
+      "e": "Vana",
+      "i": "BN:VANA-USDT",
+      "k": "바나"
+    },
+    {
+      "e": "VANRY",
+      "i": "BN:VANRY-USDT",
+      "k": "VANRY"
+    },
+    {
+      "e": "VELODROME",
+      "i": "BN:VELODROME-USDT",
+      "k": "VELODROME"
+    },
+    {
+      "e": "VeChain",
+      "i": "BN:VET-USDT",
+      "k": "비체인"
+    },
+    {
+      "e": "VIC",
+      "i": "BN:VIC-USDT",
+      "k": "VIC"
+    },
+    {
+      "e": "Virtuals Protocol",
+      "i": "BN:VIRTUAL-USDT",
+      "k": "버추얼프로토콜"
+    },
+    {
+      "e": "VeThor Token",
+      "i": "BN:VTHO-USDT",
+      "k": "비토르토큰"
+    },
+    {
+      "e": "Wormhole",
+      "i": "BN:W-USDT",
+      "k": "웜홀"
+    },
+    {
+      "e": "Walrus",
+      "i": "BN:WAL-USDT",
+      "k": "월러스"
+    },
+    {
+      "e": "WAXP",
+      "i": "BN:WAXP-USDT",
+      "k": "WAXP"
+    },
+    {
+      "e": "WBETH",
+      "i": "BN:WBETH-USDT",
+      "k": "WBETH"
+    },
+    {
+      "e": "WBTC",
+      "i": "BN:WBTC-USDT",
+      "k": "WBTC"
+    },
+    {
+      "e": "WalletConnect",
+      "i": "BN:WCT-USDT",
+      "k": "월렛커넥트"
+    },
+    {
+      "e": "WDCB",
+      "i": "BN:WDCB-USDT",
+      "k": "WDCB"
+    },
+    {
+      "e": "dogwifhat",
+      "i": "BN:WIF-USDT",
+      "k": "도그위프햇"
+    },
+    {
+      "e": "WIN",
+      "i": "BN:WIN-USDT",
+      "k": "WIN"
+    },
+    {
+      "e": "Worldcoin",
+      "i": "BN:WLD-USDT",
+      "k": "월드코인"
+    },
+    {
+      "e": "World Liberty Financial",
+      "i": "BN:WLFI-USDT",
+      "k": "월드리버티파이낸셜"
+    },
+    {
+      "e": "WOO",
+      "i": "BN:WOO-USDT",
+      "k": "우"
+    },
+    {
+      "e": "Xai",
+      "i": "BN:XAI-USDT",
+      "k": "자이"
+    },
+    {
+      "e": "Tether Gold",
+      "i": "BN:XAUT-USDT",
+      "k": "테더골드"
+    },
+    {
+      "e": "eCash",
+      "i": "BN:XEC-USDT",
+      "k": "이캐시"
+    },
+    {
+      "e": "XLM",
+      "i": "BN:XLM-USDT",
+      "k": "XLM"
+    },
+    {
+      "e": "XNO",
+      "i": "BN:XNO-USDT",
+      "k": "XNO"
+    },
+    {
+      "e": "Plasma",
+      "i": "BN:XPL-USDT",
+      "k": "플라즈마"
+    },
+    {
+      "e": "XRP",
+      "i": "BN:XRP-USDT",
+      "k": "XRP"
+    },
+    {
+      "e": "Tezos",
+      "i": "BN:XTZ-USDT",
+      "k": "테조스"
+    },
+    {
+      "e": "XUSD",
+      "i": "BN:XUSD-USDT",
+      "k": "XUSD"
+    },
+    {
+      "e": "XVG",
+      "i": "BN:XVG-USDT",
+      "k": "XVG"
+    },
+    {
+      "e": "Venus",
+      "i": "BN:XVS-USDT",
+      "k": "비너스"
+    },
+    {
+      "e": "YieldBasis",
+      "i": "BN:YB-USDT",
+      "k": "일드베이시스"
+    },
+    {
+      "e": "yearn.finance",
+      "i": "BN:YFI-USDT",
+      "k": "연파이낸스"
+    },
+    {
+      "e": "Yield Guild Games",
+      "i": "BN:YGG-USDT",
+      "k": "일드길드게임즈"
+    },
+    {
+      "e": "Zama",
+      "i": "BN:ZAMA-USDT",
+      "k": "자마"
+    },
+    {
+      "e": "ZEROBASE",
+      "i": "BN:ZBT-USDT",
+      "k": "제로베이스"
+    },
+    {
+      "e": "ZEC",
+      "i": "BN:ZEC-USDT",
+      "k": "ZEC"
+    },
+    {
+      "e": "ZEN",
+      "i": "BN:ZEN-USDT",
+      "k": "ZEN"
+    },
+    {
+      "e": "ZIL",
+      "i": "BN:ZIL-USDT",
+      "k": "ZIL"
+    },
+    {
+      "e": "ZK",
+      "i": "BN:ZK-USDT",
+      "k": "ZK"
+    },
+    {
+      "e": "Boundless",
+      "i": "BN:ZKC-USDT",
+      "k": "바운드리스"
+    },
+    {
+      "e": "zkPass",
+      "i": "BN:ZKP-USDT",
+      "k": "지케이패스"
+    },
+    {
+      "e": "LayerZero",
+      "i": "BN:ZRO-USDT",
+      "k": "레이어제로"
+    },
+    {
+      "e": "ZRX",
+      "i": "BN:ZRX-USDT",
+      "k": "ZRX"
+    },
+    {
+      "e": "币安人生",
+      "i": "BN:币安人生-USDT",
+      "k": "币安人生"
+    },
+    {
+      "e": "0G",
+      "i": "BT:0G-KRW",
+      "k": "제로지"
+    },
+    {
+      "e": "1inch",
+      "i": "BT:1INCH-KRW",
+      "k": "1인치"
+    },
+    {
+      "e": "DoubleZero",
+      "i": "BT:2Z-KRW",
+      "k": "더블제로"
+    },
+    {
+      "e": "Vaulta",
+      "i": "BT:A-KRW",
+      "k": "볼타"
+    },
+    {
+      "e": "Ancient8",
+      "i": "BT:A8-KRW",
+      "k": "에인션트8"
+    },
+    {
+      "e": "Aave",
+      "i": "BT:AAVE-KRW",
+      "k": "에이브"
+    },
+    {
+      "e": "Fusionist",
+      "i": "BT:ACE-KRW",
+      "k": "퓨저니스트"
+    },
+    {
+      "e": "Alchemy Pay",
+      "i": "BT:ACH-KRW",
+      "k": "알케미페이"
+    },
+    {
+      "e": "Access Protocol",
+      "i": "BT:ACS-KRW",
+      "k": "액세스프로토콜"
+    },
+    {
+      "e": "Across Protocol",
+      "i": "BT:ACX-KRW",
+      "k": "어크로스프로토콜"
+    },
+    {
+      "e": "Cardano",
+      "i": "BT:ADA-KRW",
+      "k": "에이다"
+    },
+    {
+      "e": "Adappter Token",
+      "i": "BT:ADP-KRW",
+      "k": "어댑터토큰"
+    },
+    {
+      "e": "AEON",
+      "i": "BT:AEON-KRW",
+      "k": "이온"
+    },
+    {
+      "e": "Aerodrome Finance",
+      "i": "BT:AERO-KRW",
+      "k": "에어로드롬파이낸스"
+    },
+    {
+      "e": "Delysium",
+      "i": "BT:AGI-KRW",
+      "k": "델리시움"
+    },
+    {
+      "e": "Adventure Gold",
+      "i": "BT:AGLD-KRW",
+      "k": "어드벤처골드"
+    },
+    {
+      "e": "AhaToken",
+      "i": "BT:AHT-KRW",
+      "k": "아하토큰"
+    },
+    {
+      "e": "Gensyn",
+      "i": "BT:AI-KRW",
+      "k": "젠신"
+    },
+    {
+      "e": "AIOZ Network",
+      "i": "BT:AIOZ-KRW",
+      "k": "아이오즈네트워크"
+    },
+    {
+      "e": "Akash Network",
+      "i": "BT:AKT-KRW",
+      "k": "아카시네트워크"
+    },
+    {
+      "e": "ArchLoot",
+      "i": "BT:AL-KRW",
+      "k": "아치루트"
+    },
+    {
+      "e": "Algorand",
+      "i": "BT:ALGO-KRW",
+      "k": "알고랜드"
+    },
+    {
+      "e": "MyNeighborAlice",
+      "i": "BT:ALICE-KRW",
+      "k": "마이네이버앨리스"
+    },
+    {
+      "e": "Allora",
+      "i": "BT:ALLO-KRW",
+      "k": "알로라"
+    },
+    {
+      "e": "AltLayer",
+      "i": "BT:ALT-KRW",
+      "k": "알트레이어"
+    },
+    {
+      "e": "AMO Coin",
+      "i": "BT:AMO-KRW",
+      "k": "아모코인"
+    },
+    {
+      "e": "Amp",
+      "i": "BT:AMP-KRW",
+      "k": "앰프"
+    },
+    {
+      "e": "Animecoin",
+      "i": "BT:ANIME-KRW",
+      "k": "애니메코인"
+    },
+    {
+      "e": "Ankr Network",
+      "i": "BT:ANKR-KRW",
+      "k": "앵커"
+    },
+    {
+      "e": "ApeCoin",
+      "i": "BT:APE-KRW",
+      "k": "에이프코인"
+    },
+    {
+      "e": "API3",
+      "i": "BT:API3-KRW",
+      "k": "에이피아이쓰리"
+    },
+    {
+      "e": "Aptos",
+      "i": "BT:APT-KRW",
+      "k": "앱토스"
+    },
+    {
+      "e": "Arweave",
+      "i": "BT:AR-KRW",
+      "k": "알위브"
+    },
+    {
+      "e": "Arbitrum",
+      "i": "BT:ARB-KRW",
+      "k": "아비트럼"
+    },
+    {
+      "e": "Ardor",
+      "i": "BT:ARDR-KRW",
+      "k": "아더"
+    },
+    {
+      "e": "Ark",
+      "i": "BT:ARK-KRW",
+      "k": "아크"
+    },
+    {
+      "e": "Arkham",
+      "i": "BT:ARKM-KRW",
+      "k": "아캄"
+    },
+    {
+      "e": "ARPA",
+      "i": "BT:ARPA-KRW",
+      "k": "알파"
+    },
+    {
+      "e": "Arcium",
+      "i": "BT:ARX-KRW",
+      "k": "아르키움"
+    },
+    {
+      "e": "Aster",
+      "i": "BT:ASTER-KRW",
+      "k": "아스터"
+    },
+    {
+      "e": "Astar",
+      "i": "BT:ASTR-KRW",
+      "k": "아스타"
+    },
+    {
+      "e": "Aethir",
+      "i": "BT:ATH-KRW",
+      "k": "에이셔"
+    },
+    {
+      "e": "Cosmos",
+      "i": "BT:ATOM-KRW",
+      "k": "코스모스"
+    },
+    {
+      "e": "Bounce Token",
+      "i": "BT:AUCTION-KRW",
+      "k": "바운스토큰"
+    },
+    {
+      "e": "Audius",
+      "i": "BT:AUDIO-KRW",
+      "k": "오디우스"
+    },
+    {
+      "e": "Avail",
+      "i": "BT:AVAIL-KRW",
+      "k": "어베일"
+    },
+    {
+      "e": "Avalanche",
+      "i": "BT:AVAX-KRW",
+      "k": "아발란체"
+    },
+    {
+      "e": "Avalon",
+      "i": "BT:AVL-KRW",
+      "k": "아발론"
+    },
+    {
+      "e": "Avantis",
+      "i": "BT:AVNT-KRW",
+      "k": "아반티스"
+    },
+    {
+      "e": "AWE Network",
+      "i": "BT:AWE-KRW",
+      "k": "에이더블유이"
+    },
+    {
+      "e": "Axie Infinity",
+      "i": "BT:AXS-KRW",
+      "k": "엑시인피니티"
+    },
+    {
+      "e": "Aztec",
+      "i": "BT:AZTEC-KRW",
+      "k": "아즈텍"
+    },
+    {
+      "e": "B3",
+      "i": "BT:B3-KRW",
+      "k": "비쓰리"
+    },
+    {
+      "e": "Babylon",
+      "i": "BT:BABY-KRW",
+      "k": "바빌론"
+    },
+    {
+      "e": "Lorenzo Protocol",
+      "i": "BT:BANK-KRW",
+      "k": "로렌조프로토콜"
+    },
+    {
+      "e": "Lombard",
+      "i": "BT:BARD-KRW",
+      "k": "롬바드"
+    },
+    {
+      "e": "Based",
+      "i": "BT:BASED-KRW",
+      "k": "베이스드"
+    },
+    {
+      "e": "Basic Attention Token",
+      "i": "BT:BAT-KRW",
+      "k": "베이직어텐션토큰"
+    },
+    {
+      "e": "BounceBit",
+      "i": "BT:BB-KRW",
+      "k": "바운스빗"
+    },
+    {
+      "e": "Bitcoin Cash",
+      "i": "BT:BCH-KRW",
+      "k": "비트코인캐시"
+    },
+    {
+      "e": "Beam",
+      "i": "BT:BEAM-KRW",
+      "k": "빔"
+    },
+    {
+      "e": "Bella Protocol",
+      "i": "BT:BEL-KRW",
+      "k": "벨라프로토콜"
+    },
+    {
+      "e": "Berachain",
+      "i": "BT:BERA-KRW",
+      "k": "베라체인"
+    },
+    {
+      "e": "Bifrost",
+      "i": "BT:BFC-KRW",
+      "k": "바이프로스트"
+    },
+    {
+      "e": "Biconomy",
+      "i": "BT:BICO-KRW",
+      "k": "바이코노미"
+    },
+    {
+      "e": "Big Time",
+      "i": "BT:BIGTIME-KRW",
+      "k": "빅타임"
+    },
+    {
+      "e": "Billions",
+      "i": "BT:BILL-KRW",
+      "k": "빌리언즈"
+    },
+    {
+      "e": "Bio Protocol",
+      "i": "BT:BIO-KRW",
+      "k": "바이오프로토콜"
+    },
+    {
+      "e": "BioPassport",
+      "i": "BT:BIOT-KRW",
+      "k": "바이오패스포트"
+    },
+    {
+      "e": "Moonbirds",
+      "i": "BT:BIRB-KRW",
+      "k": "문버드"
+    },
+    {
+      "e": "Blast",
+      "i": "BT:BLAST-KRW",
+      "k": "블라스트"
+    },
+    {
+      "e": "Fluent",
+      "i": "BT:BLEND-KRW",
+      "k": "플루언트"
+    },
+    {
+      "e": "Bluefin",
+      "i": "BT:BLUE-KRW",
+      "k": "블루핀"
+    },
+    {
+      "e": "Blur",
+      "i": "BT:BLUR-KRW",
+      "k": "블러"
+    },
+    {
+      "e": "Bubblemaps",
+      "i": "BT:BMT-KRW",
+      "k": "버블맵스"
+    },
+    {
+      "e": "BNB",
+      "i": "BT:BNB-KRW",
+      "k": "비앤비"
+    },
+    {
+      "e": "Bancor",
+      "i": "BT:BNT-KRW",
+      "k": "뱅코르"
+    },
+    {
+      "e": "BOB",
+      "i": "BT:BOB-KRW",
+      "k": "비오비"
+    },
+    {
+      "e": "Boba Network",
+      "i": "BT:BOBA-KRW",
+      "k": "보바토큰"
+    },
+    {
+      "e": "Bonk",
+      "i": "BT:BONK-KRW",
+      "k": "봉크"
+    },
+    {
+      "e": "BORA",
+      "i": "BT:BORA-KRW",
+      "k": "보라"
+    },
+    {
+      "e": "Chainbounty",
+      "i": "BT:BOUNTY-KRW",
+      "k": "체인바운티"
+    },
+    {
+      "e": "Brett",
+      "i": "BT:BRETT-KRW",
+      "k": "브렛"
+    },
+    {
+      "e": "Brevis",
+      "i": "BT:BREV-KRW",
+      "k": "브레비스"
+    },
+    {
+      "e": "Block Street",
+      "i": "BT:BSB-KRW",
+      "k": "블록스트리트"
+    },
+    {
+      "e": "BITCOINSV",
+      "i": "BT:BSV-KRW",
+      "k": "비트코인에스브이"
+    },
+    {
+      "e": "Bitcoin",
+      "i": "BT:BTC-KRW",
+      "k": "비트코인"
+    },
+    {
+      "e": "Bitlayer",
+      "i": "BT:BTR-KRW",
+      "k": "비트레이어"
+    },
+    {
+      "e": "BitTorrent",
+      "i": "BT:BTT-KRW",
+      "k": "비트토렌트"
+    },
+    {
+      "e": "Chainbase Token",
+      "i": "BT:C-KRW",
+      "k": "체인베이스토큰"
+    },
+    {
+      "e": "Coin98",
+      "i": "BT:C98-KRW",
+      "k": "코인98"
+    },
+    {
+      "e": "PancakeSwap",
+      "i": "BT:CAKE-KRW",
+      "k": "팬케이크스왑"
+    },
+    {
+      "e": "Camp Network",
+      "i": "BT:CAMP-KRW",
+      "k": "캠프네트워크"
+    },
+    {
+      "e": "Cap",
+      "i": "BT:CAP-KRW",
+      "k": "캡"
+    },
+    {
+      "e": "CARV",
+      "i": "BT:CARV-KRW",
+      "k": "카브"
+    },
+    {
+      "e": "Cobak Token",
+      "i": "BT:CBK-KRW",
+      "k": "코박토큰"
+    },
+    {
+      "e": "Canton",
+      "i": "BT:CC-KRW",
+      "k": "캔톤"
+    },
+    {
+      "e": "Celo",
+      "i": "BT:CELO-KRW",
+      "k": "셀로"
+    },
+    {
+      "e": "Celer Network",
+      "i": "BT:CELR-KRW",
+      "k": "셀러네트워크"
+    },
+    {
+      "e": "Centrifuge",
+      "i": "BT:CFG-KRW",
+      "k": "센트리퓨즈"
+    },
+    {
+      "e": "Conflux Network",
+      "i": "BT:CFX-KRW",
+      "k": "콘플럭스"
+    },
+    {
+      "e": "Checkmate",
+      "i": "BT:CHECK-KRW",
+      "k": "체크메이트"
+    },
+    {
+      "e": "USD.AI",
+      "i": "BT:CHIP-KRW",
+      "k": "유에스디에이아이"
+    },
+    {
+      "e": "Chromia",
+      "i": "BT:CHR-KRW",
+      "k": "크로미아"
+    },
+    {
+      "e": "Chiliz",
+      "i": "BT:CHZ-KRW",
+      "k": "칠리즈"
+    },
+    {
+      "e": "Nervos Network",
+      "i": "BT:CKB-KRW",
+      "k": "너보스"
+    },
+    {
+      "e": "Compound",
+      "i": "BT:COMP-KRW",
+      "k": "컴파운드"
+    },
+    {
+      "e": "Cookie DAO",
+      "i": "BT:COOKIE-KRW",
+      "k": "쿠키다오"
+    },
+    {
+      "e": "Core",
+      "i": "BT:CORE-KRW",
+      "k": "코어"
+    },
+    {
+      "e": "Contentos",
+      "i": "BT:COS-KRW",
+      "k": "콘텐토스"
+    },
+    {
+      "e": "COTI",
+      "i": "BT:COTI-KRW",
+      "k": "코티"
+    },
+    {
+      "e": "CoW Protocol",
+      "i": "BT:COW-KRW",
+      "k": "카우프로토콜"
+    },
+    {
+      "e": "Clearpool",
+      "i": "BT:CPOOL-KRW",
+      "k": "클리어풀"
+    },
+    {
+      "e": "Cronos",
+      "i": "BT:CRO-KRW",
+      "k": "크로노스"
+    },
+    {
+      "e": "Cratos",
+      "i": "BT:CRTS-KRW",
+      "k": "크라토스"
+    },
+    {
+      "e": "Curve DAO Token",
+      "i": "BT:CRV-KRW",
+      "k": "커브"
+    },
+    {
+      "e": "Casper",
+      "i": "BT:CSPR-KRW",
+      "k": "캐스퍼"
+    },
+    {
+      "e": "Creditcoin",
+      "i": "BT:CTC-KRW",
+      "k": "크레딧코인"
+    },
+    {
+      "e": "Shentu",
+      "i": "BT:CTK-KRW",
+      "k": "셴투"
+    },
+    {
+      "e": "Citrea",
+      "i": "BT:CTR-KRW",
+      "k": "시트레아"
+    },
+    {
+      "e": "Cartesi",
+      "i": "BT:CTSI-KRW",
+      "k": "카르테시"
+    },
+    {
+      "e": "Civic",
+      "i": "BT:CVC-KRW",
+      "k": "시빅"
+    },
+    {
+      "e": "Cyber",
+      "i": "BT:CYBER-KRW",
+      "k": "사이버"
+    },
+    {
+      "e": "Cysic",
+      "i": "BT:CYS-KRW",
+      "k": "싸이식"
+    },
+    {
+      "e": "DAR Open Network",
+      "i": "BT:D-KRW",
+      "k": "달오픈네트워크"
+    },
+    {
+      "e": "DAO Maker",
+      "i": "BT:DAO-KRW",
+      "k": "다오메이커"
+    },
+    {
+      "e": "Data Network",
+      "i": "BT:DATA-KRW",
+      "k": "데이터네트워크"
+    },
+    {
+      "e": "deBridge",
+      "i": "BT:DBR-KRW",
+      "k": "디브릿지"
+    },
+    {
+      "e": "DeepBook",
+      "i": "BT:DEEP-KRW",
+      "k": "딥북"
+    },
+    {
+      "e": "DeXe",
+      "i": "BT:DEXE-KRW",
+      "k": "딕시"
+    },
+    {
+      "e": "dKargo",
+      "i": "BT:DKA-KRW",
+      "k": "디카르고"
+    },
+    {
+      "e": "Dogecoin",
+      "i": "BT:DOGE-KRW",
+      "k": "도지코인"
+    },
+    {
+      "e": "Doodles",
+      "i": "BT:DOOD-KRW",
+      "k": "두들즈"
+    },
+    {
+      "e": "Polkadot",
+      "i": "BT:DOT-KRW",
+      "k": "폴카닷"
+    },
+    {
+      "e": "Derive",
+      "i": "BT:DRV-KRW",
+      "k": "디라이브"
+    },
+    {
+      "e": "dYdX",
+      "i": "BT:DYDX-KRW",
+      "k": "디와이디엑스"
+    },
+    {
+      "e": "OpenEden",
+      "i": "BT:EDEN-KRW",
+      "k": "오픈에덴"
+    },
+    {
+      "e": "Definitive",
+      "i": "BT:EDGE-KRW",
+      "k": "디피니티브"
+    },
+    {
+      "e": "edgeX",
+      "i": "BT:EDGEX-KRW",
+      "k": "엣지엑스"
+    },
+    {
+      "e": "Open Campus",
+      "i": "BT:EDU-KRW",
+      "k": "오픈캠퍼스"
+    },
+    {
+      "e": "MultiversX",
+      "i": "BT:EGLD-KRW",
+      "k": "멀티버스엑스"
+    },
+    {
+      "e": "EigenCloud",
+      "i": "BT:EIGEN-KRW",
+      "k": "아이겐클라우드"
+    },
+    {
+      "e": "ELYSIA",
+      "i": "BT:EL-KRW",
+      "k": "엘리시아"
+    },
+    {
+      "e": "aelf",
+      "i": "BT:ELF-KRW",
+      "k": "엘프"
+    },
+    {
+      "e": "HeyElsa",
+      "i": "BT:ELSA-KRW",
+      "k": "헤이엘사"
+    },
+    {
+      "e": "Ethena",
+      "i": "BT:ENA-KRW",
+      "k": "에테나"
+    },
+    {
+      "e": "Enjin Coin",
+      "i": "BT:ENJ-KRW",
+      "k": "엔진코인"
+    },
+    {
+      "e": "Ethereum Name Service",
+      "i": "BT:ENS-KRW",
+      "k": "이더리움네임서비스"
+    },
+    {
+      "e": "Enso",
+      "i": "BT:ENSO-KRW",
+      "k": "엔소"
+    },
+    {
+      "e": "Balance",
+      "i": "BT:EPT-KRW",
+      "k": "밸런스"
+    },
+    {
+      "e": "Caldera",
+      "i": "BT:ERA-KRW",
+      "k": "칼데라"
+    },
+    {
+      "e": "Espresso",
+      "i": "BT:ESP-KRW",
+      "k": "에스프레소"
+    },
+    {
+      "e": "Ethereum Classic",
+      "i": "BT:ETC-KRW",
+      "k": "이더리움클래식"
+    },
+    {
+      "e": "Ethereum",
+      "i": "BT:ETH-KRW",
+      "k": "이더리움"
+    },
+    {
+      "e": "ether.fi",
+      "i": "BT:ETHFI-KRW",
+      "k": "이더파이"
+    },
+    {
+      "e": "Euler",
+      "i": "BT:EUL-KRW",
+      "k": "오일러"
+    },
+    {
+      "e": "Synfutures",
+      "i": "BT:F-KRW",
+      "k": "신퓨처스"
+    },
+    {
+      "e": "Firmachain",
+      "i": "BT:FCT2-KRW",
+      "k": "피르마체인"
+    },
+    {
+      "e": "Fetch.ai",
+      "i": "BT:FET-KRW",
+      "k": "페치"
+    },
+    {
+      "e": "Falcon Finance",
+      "i": "BT:FF-KRW",
+      "k": "팔콘파이낸스"
+    },
+    {
+      "e": "Filecoin",
+      "i": "BT:FIL-KRW",
+      "k": "파일코인"
+    },
+    {
+      "e": "FLock.io",
+      "i": "BT:FLOCK-KRW",
+      "k": "플록"
+    },
+    {
+      "e": "FLOKI",
+      "i": "BT:FLOKI-KRW",
+      "k": "플로키"
+    },
+    {
+      "e": "Flare",
+      "i": "BT:FLR-KRW",
+      "k": "플레어"
+    },
+    {
+      "e": "Fluid",
+      "i": "BT:FLUID-KRW",
+      "k": "플루이드"
+    },
+    {
+      "e": "Flux",
+      "i": "BT:FLUX-KRW",
+      "k": "플럭스"
+    },
+    {
+      "e": "Forta",
+      "i": "BT:FORT-KRW",
+      "k": "포르타"
+    },
+    {
+      "e": "Frax",
+      "i": "BT:FRAX-KRW",
+      "k": "프랙스"
+    },
+    {
+      "e": "Gravity",
+      "i": "BT:G-KRW",
+      "k": "그래비티"
+    },
+    {
+      "e": "Gala",
+      "i": "BT:GALA-KRW",
+      "k": "갈라"
+    },
+    {
+      "e": "GameBuild",
+      "i": "BT:GAME2-KRW",
+      "k": "게임빌드"
+    },
+    {
+      "e": "Gas",
+      "i": "BT:GAS-KRW",
+      "k": "가스"
+    },
+    {
+      "e": "GEODNET",
+      "i": "BT:GEOD-KRW",
+      "k": "지오드넷"
+    },
+    {
+      "e": "Gamercoin",
+      "i": "BT:GHX-KRW",
+      "k": "게이머코인"
+    },
+    {
+      "e": "Golem",
+      "i": "BT:GLM-KRW",
+      "k": "골렘"
+    },
+    {
+      "e": "STEPN",
+      "i": "BT:GMT-KRW",
+      "k": "스테픈"
+    },
+    {
+      "e": "GMX",
+      "i": "BT:GMX-KRW",
+      "k": "지엠엑스"
+    },
+    {
+      "e": "Gnosis",
+      "i": "BT:GNO-KRW",
+      "k": "노시스"
+    },
+    {
+      "e": "GoPlus",
+      "i": "BT:GPS-KRW",
+      "k": "고플러스"
+    },
+    {
+      "e": "Gram",
+      "i": "BT:GRAM-KRW",
+      "k": "그램"
+    },
+    {
+      "e": "Grass",
+      "i": "BT:GRASS-KRW",
+      "k": "그래스"
+    },
+    {
+      "e": "Superwalk",
+      "i": "BT:GRND-KRW",
+      "k": "슈퍼워크"
+    },
+    {
+      "e": "The Graph",
+      "i": "BT:GRT-KRW",
+      "k": "더그래프"
+    },
+    {
+      "e": "Grvt",
+      "i": "BT:GRVT-KRW",
+      "k": "그래비티토큰"
+    },
+    {
+      "e": "Gitcoin",
+      "i": "BT:GTC-KRW",
+      "k": "깃코인"
+    },
+    {
+      "e": "ETHGas",
+      "i": "BT:GWEI-KRW",
+      "k": "이더가스"
+    },
+    {
+      "e": "Haedal Protocol",
+      "i": "BT:HAEDAL-KRW",
+      "k": "해달프로토콜"
+    },
+    {
+      "e": "Hedera",
+      "i": "BT:HBAR-KRW",
+      "k": "헤데라"
+    },
+    {
+      "e": "Hemi",
+      "i": "BT:HEMI-KRW",
+      "k": "헤미"
+    },
+    {
+      "e": "Hashflow",
+      "i": "BT:HFT-KRW",
+      "k": "해시플로우"
+    },
+    {
+      "e": "Hive",
+      "i": "BT:HIVE-KRW",
+      "k": "하이브"
+    },
+    {
+      "e": "Helium",
+      "i": "BT:HNT-KRW",
+      "k": "헬륨"
+    },
+    {
+      "e": "Holoworld AI",
+      "i": "BT:HOLO-KRW",
+      "k": "홀로월드에이아이"
+    },
+    {
+      "e": "Defi App",
+      "i": "BT:HOME-KRW",
+      "k": "디파이앱"
+    },
+    {
+      "e": "Hooked Protocol",
+      "i": "BT:HOOK-KRW",
+      "k": "훅트프로토콜"
+    },
+    {
+      "e": "Hippo Protocol",
+      "i": "BT:HP-KRW",
+      "k": "히포프로토콜"
+    },
+    {
+      "e": "House Party Protocol",
+      "i": "BT:HPP-KRW",
+      "k": "하우스파티프로토콜"
+    },
+    {
+      "e": "Huma Finance",
+      "i": "BT:HUMA-KRW",
+      "k": "후마파이낸스"
+    },
+    {
+      "e": "Hunt Town",
+      "i": "BT:HUNT-KRW",
+      "k": "헌트"
+    },
+    {
+      "e": "Hyperlane",
+      "i": "BT:HYPER-KRW",
+      "k": "하이퍼레인"
+    },
+    {
+      "e": "Impossible Cloud Network",
+      "i": "BT:ICNT-KRW",
+      "k": "임파서블클라우드네트워크"
+    },
+    {
+      "e": "Internet Computer",
+      "i": "BT:ICP-KRW",
+      "k": "인터넷컴퓨터"
+    },
+    {
+      "e": "ICON",
+      "i": "BT:ICX-KRW",
+      "k": "아이콘"
+    },
+    {
+      "e": "SPACE ID",
+      "i": "BT:ID-KRW",
+      "k": "스페이스아이디"
+    },
+    {
+      "e": "Illuvium",
+      "i": "BT:ILV-KRW",
+      "k": "일루비움"
+    },
+    {
+      "e": "Immutable X",
+      "i": "BT:IMX-KRW",
+      "k": "이뮤터블엑스"
+    },
+    {
+      "e": "Infinit",
+      "i": "BT:IN-KRW",
+      "k": "인피닛"
+    },
+    {
+      "e": "Initia",
+      "i": "BT:INIT-KRW",
+      "k": "이니시아"
+    },
+    {
+      "e": "Injective",
+      "i": "BT:INJ-KRW",
+      "k": "인젝티브"
+    },
+    {
+      "e": "io.net",
+      "i": "BT:IO-KRW",
+      "k": "아이오넷"
+    },
+    {
+      "e": "IOST",
+      "i": "BT:IOST-KRW",
+      "k": "이오스트"
+    },
+    {
+      "e": "IOTA",
+      "i": "BT:IOTA-KRW",
+      "k": "아이오타"
+    },
+    {
+      "e": "IoTeX",
+      "i": "BT:IOTX-KRW",
+      "k": "아이오텍스"
+    },
+    {
+      "e": "IQ",
+      "i": "BT:IQ-KRW",
+      "k": "아이큐"
+    },
+    {
+      "e": "Irys",
+      "i": "BT:IRYS-KRW",
+      "k": "아이리스"
+    },
+    {
+      "e": "JOE",
+      "i": "BT:JOE-KRW",
+      "k": "트레이더조"
+    },
+    {
+      "e": "JUST",
+      "i": "BT:JST-KRW",
+      "k": "저스트"
+    },
+    {
+      "e": "Jito",
+      "i": "BT:JTO-KRW",
+      "k": "지토"
+    },
+    {
+      "e": "Jupiter",
+      "i": "BT:JUP-KRW",
+      "k": "주피터"
+    },
+    {
+      "e": "Kaia",
+      "i": "BT:KAIA-KRW",
+      "k": "카이아"
+    },
+    {
+      "e": "Kaito",
+      "i": "BT:KAITO-KRW",
+      "k": "카이토"
+    },
+    {
+      "e": "Katana",
+      "i": "BT:KAT-KRW",
+      "k": "카타나"
+    },
+    {
+      "e": "Kava",
+      "i": "BT:KAVA-KRW",
+      "k": "카바"
+    },
+    {
+      "e": "Kernel DAO",
+      "i": "BT:KERNEL-KRW",
+      "k": "커널다오"
+    },
+    {
+      "e": "Kite",
+      "i": "BT:KITE-KRW",
+      "k": "카이트"
+    },
+    {
+      "e": "Kamino Finance",
+      "i": "BT:KMNO-KRW",
+      "k": "카미노파이낸스"
+    },
+    {
+      "e": "Kyber Network",
+      "i": "BT:KNC-KRW",
+      "k": "카이버네트워크"
+    },
+    {
+      "e": "Kusama",
+      "i": "BT:KSM-KRW",
+      "k": "쿠사마"
+    },
+    {
+      "e": "Lagrange",
+      "i": "BT:LA-KRW",
+      "k": "라그랑주"
+    },
+    {
+      "e": "Solayer",
+      "i": "BT:LAYER-KRW",
+      "k": "솔레이어"
+    },
+    {
+      "e": "Lido DAO",
+      "i": "BT:LDO-KRW",
+      "k": "리도다오"
+    },
+    {
+      "e": "Linea",
+      "i": "BT:LINEA-KRW",
+      "k": "리네아"
+    },
+    {
+      "e": "ChainLink",
+      "i": "BT:LINK-KRW",
+      "k": "체인링크"
+    },
+    {
+      "e": "Lista DAO",
+      "i": "BT:LISTA-KRW",
+      "k": "리스타다오"
+    },
+    {
+      "e": "Lighter",
+      "i": "BT:LIT-KRW",
+      "k": "라이터"
+    },
+    {
+      "e": "LeisureMeta",
+      "i": "BT:LM-KRW",
+      "k": "레저메타"
+    },
+    {
+      "e": "Livepeer",
+      "i": "BT:LPT-KRW",
+      "k": "라이브피어"
+    },
+    {
+      "e": "Lisk",
+      "i": "BT:LSK-KRW",
+      "k": "리스크"
+    },
+    {
+      "e": "LumiWave Protocol",
+      "i": "BT:LWP-KRW",
+      "k": "루미웨이브프로토콜"
+    },
+    {
+      "e": "Magic",
+      "i": "BT:MAGIC-KRW",
+      "k": "매직"
+    },
+    {
+      "e": "Decentraland",
+      "i": "BT:MANA-KRW",
+      "k": "디센트럴랜드"
+    },
+    {
+      "e": "Manta Network",
+      "i": "BT:MANTA-KRW",
+      "k": "만타네트워크"
+    },
+    {
+      "e": "MANTRA",
+      "i": "BT:MANTRA-KRW",
+      "k": "만트라"
+    },
+    {
+      "e": "MAP Protocol",
+      "i": "BT:MAPO-KRW",
+      "k": "맵프로토콜"
+    },
+    {
+      "e": "Mask Network",
+      "i": "BT:MASK-KRW",
+      "k": "마스크네트워크"
+    },
+    {
+      "e": "Maverick Protocol",
+      "i": "BT:MAV-KRW",
+      "k": "매버릭프로토콜"
+    },
+    {
+      "e": "Mayflower",
+      "i": "BT:MAY-KRW",
+      "k": "메이플라워"
+    },
+    {
+      "e": "MovieBloc",
+      "i": "BT:MBL-KRW",
+      "k": "무비블록"
+    },
+    {
+      "e": "Marblex",
+      "i": "BT:MBX-KRW",
+      "k": "마브렉스"
+    },
+    {
+      "e": "Magic Eden",
+      "i": "BT:ME-KRW",
+      "k": "매직에덴"
+    },
+    {
+      "e": "MediBloc",
+      "i": "BT:MED-KRW",
+      "k": "메디블록"
+    },
+    {
+      "e": "MegaETH",
+      "i": "BT:MEGA-KRW",
+      "k": "메가이더"
+    },
+    {
+      "e": "Merlin Chain",
+      "i": "BT:MERL-KRW",
+      "k": "멀린체인"
+    },
+    {
+      "e": "Meteora",
+      "i": "BT:MET-KRW",
+      "k": "메테오라"
+    },
+    {
+      "e": "Metadium",
+      "i": "BT:META-KRW",
+      "k": "메타디움"
+    },
+    {
+      "e": "MetaDAO",
+      "i": "BT:META2-KRW",
+      "k": "메타다오"
+    },
+    {
+      "e": "MetisDAO",
+      "i": "BT:METIS-KRW",
+      "k": "메티스다오"
+    },
+    {
+      "e": "MEVerse",
+      "i": "BT:MEV-KRW",
+      "k": "미버스"
+    },
+    {
+      "e": "cat in a dogs world",
+      "i": "BT:MEW-KRW",
+      "k": "캣인어독스월드"
+    },
+    {
+      "e": "Mina",
+      "i": "BT:MINA-KRW",
+      "k": "미나"
+    },
+    {
+      "e": "Mira",
+      "i": "BT:MIRA-KRW",
+      "k": "미라"
+    },
+    {
+      "e": "MiL.k",
+      "i": "BT:MLK-KRW",
+      "k": "밀크"
+    },
+    {
+      "e": "Momentum",
+      "i": "BT:MMT-KRW",
+      "k": "모멘텀"
+    },
+    {
+      "e": "Mantle",
+      "i": "BT:MNT-KRW",
+      "k": "맨틀"
+    },
+    {
+      "e": "Moss Coin",
+      "i": "BT:MOC-KRW",
+      "k": "모스코인"
+    },
+    {
+      "e": "Moca Network",
+      "i": "BT:MOCA-KRW",
+      "k": "모카네트워크"
+    },
+    {
+      "e": "Monad",
+      "i": "BT:MON-KRW",
+      "k": "모나드"
+    },
+    {
+      "e": "Moo Deng",
+      "i": "BT:MOODENG-KRW",
+      "k": "무뎅"
+    },
+    {
+      "e": "Morpho",
+      "i": "BT:MORPHO-KRW",
+      "k": "모포"
+    },
+    {
+      "e": "Movement",
+      "i": "BT:MOVE-KRW",
+      "k": "무브먼트"
+    },
+    {
+      "e": "Metaplex",
+      "i": "BT:MPLX-KRW",
+      "k": "메타플렉스"
+    },
+    {
+      "e": "Metal",
+      "i": "BT:MTL-KRW",
+      "k": "메탈"
+    },
+    {
+      "e": "MileVerse",
+      "i": "BT:MVC-KRW",
+      "k": "마일벌스"
+    },
+    {
+      "e": "MVL",
+      "i": "BT:MVL-KRW",
+      "k": "엠블"
+    },
+    {
+      "e": "Polyswarm",
+      "i": "BT:NCT-KRW",
+      "k": "폴리스웜"
+    },
+    {
+      "e": "NEAR Protocol",
+      "i": "BT:NEAR-KRW",
+      "k": "니어프로토콜"
+    },
+    {
+      "e": "Neo",
+      "i": "BT:NEO-KRW",
+      "k": "네오"
+    },
+    {
+      "e": "Newton Protocol",
+      "i": "BT:NEWT-KRW",
+      "k": "뉴턴프로토콜"
+    },
+    {
+      "e": "Nexus",
+      "i": "BT:NEX-KRW",
+      "k": "넥서스"
+    },
+    {
+      "e": "AINFT",
+      "i": "BT:NFT-KRW",
+      "k": "에이아이앤에프티"
+    },
+    {
+      "e": "Nillion",
+      "i": "BT:NIL-KRW",
+      "k": "닐리온"
+    },
+    {
+      "e": "Numeraire",
+      "i": "BT:NMR-KRW",
+      "k": "뉴메레르"
+    },
+    {
+      "e": "NEXPACE",
+      "i": "BT:NXPC-KRW",
+      "k": "넥스페이스"
+    },
+    {
+      "e": "o1.exchange",
+      "i": "BT:O-KRW",
+      "k": "오원익스체인지"
+    },
+    {
+      "e": "Observer",
+      "i": "BT:OBSR-KRW",
+      "k": "옵저버"
+    },
+    {
+      "e": "Orbiter Finance",
+      "i": "BT:OBT-KRW",
+      "k": "오비터파이낸스"
+    },
+    {
+      "e": "Origin Protocol",
+      "i": "BT:OGN-KRW",
+      "k": "오리진프로토콜"
+    },
+    {
+      "e": "Ondo Finance",
+      "i": "BT:ONDO-KRW",
+      "k": "온도파이낸스"
+    },
+    {
+      "e": "Ontology Gas",
+      "i": "BT:ONG-KRW",
+      "k": "온톨로지가스"
+    },
+    {
+      "e": "Ontology",
+      "i": "BT:ONT-KRW",
+      "k": "온톨로지"
+    },
+    {
+      "e": "Optimism",
+      "i": "BT:OP-KRW",
+      "k": "옵티미즘"
+    },
+    {
+      "e": "OpenLedger",
+      "i": "BT:OPEN-KRW",
+      "k": "오픈렛저"
+    },
+    {
+      "e": "OpenGradient",
+      "i": "BT:OPG-KRW",
+      "k": "오픈그라디언트"
+    },
+    {
+      "e": "Orbs",
+      "i": "BT:ORBS-KRW",
+      "k": "오브스"
+    },
+    {
+      "e": "Orca",
+      "i": "BT:ORCA-KRW",
+      "k": "오르카"
+    },
+    {
+      "e": "Orderly Network",
+      "i": "BT:ORDER-KRW",
+      "k": "오덜리네트워크"
+    },
+    {
+      "e": "Osmosis",
+      "i": "BT:OSMO-KRW",
+      "k": "오스모시스"
+    },
+    {
+      "e": "Particle Network",
+      "i": "BT:PARTI-KRW",
+      "k": "파티클네트워크"
+    },
+    {
+      "e": "PAX Gold",
+      "i": "BT:PAXG-KRW",
+      "k": "팍스골드"
+    },
+    {
+      "e": "Paycoin",
+      "i": "BT:PCI-KRW",
+      "k": "페이코인"
+    },
+    {
+      "e": "peaq",
+      "i": "BT:PEAQ-KRW",
+      "k": "피크"
+    },
+    {
+      "e": "Pendle",
+      "i": "BT:PENDLE-KRW",
+      "k": "펜들"
+    },
+    {
+      "e": "Pudgy Penguins",
+      "i": "BT:PENGU-KRW",
+      "k": "펏지펭귄"
+    },
+    {
+      "e": "PEPE",
+      "i": "BT:PEPE-KRW",
+      "k": "페페"
+    },
+    {
+      "e": "Phala Network",
+      "i": "BT:PHA-KRW",
+      "k": "팔라네트워크"
+    },
+    {
+      "e": "Pieverse",
+      "i": "BT:PIEVERSE-KRW",
+      "k": "파이버스"
+    },
+    {
+      "e": "Plume",
+      "i": "BT:PLUME-KRW",
+      "k": "플룸"
+    },
+    {
+      "e": "Pocket Network",
+      "i": "BT:POKT-KRW",
+      "k": "포켓네트워크"
+    },
+    {
+      "e": "Polygon Ecosystem Token",
+      "i": "BT:POL-KRW",
+      "k": "폴리곤에코시스템토큰"
+    },
+    {
+      "e": "Polymesh",
+      "i": "BT:POLYX-KRW",
+      "k": "폴리매쉬"
+    },
+    {
+      "e": "Ponke",
+      "i": "BT:PONKE-KRW",
+      "k": "폰케"
+    },
+    {
+      "e": "Popcat",
+      "i": "BT:POPCAT-KRW",
+      "k": "팝캣"
+    },
+    {
+      "e": "Powerledger",
+      "i": "BT:POWR-KRW",
+      "k": "파워렛저"
+    },
+    {
+      "e": "Perle",
+      "i": "BT:PRL-KRW",
+      "k": "펄"
+    },
+    {
+      "e": "Wayfinder",
+      "i": "BT:PROMPT-KRW",
+      "k": "웨이파인더"
+    },
+    {
+      "e": "Pharos",
+      "i": "BT:PROS-KRW",
+      "k": "파로스"
+    },
+    {
+      "e": "Succinct",
+      "i": "BT:PROVE-KRW",
+      "k": "석싱트"
+    },
+    {
+      "e": "Puffer",
+      "i": "BT:PUFFER-KRW",
+      "k": "퍼퍼"
+    },
+    {
+      "e": "pump.fun",
+      "i": "BT:PUMP-KRW",
+      "k": "펌프닷펀"
+    },
+    {
+      "e": "PUMP",
+      "i": "BT:PUMPBTC-KRW",
+      "k": "펌프"
+    },
+    {
+      "e": "Pundi X",
+      "i": "BT:PUNDIX-KRW",
+      "k": "펀디엑스"
+    },
+    {
+      "e": "Vulcan Forged",
+      "i": "BT:PYR-KRW",
+      "k": "불칸포지드"
+    },
+    {
+      "e": "Pyth Network",
+      "i": "BT:PYTH-KRW",
+      "k": "피스네트워크"
+    },
+    {
+      "e": "QuarkChain",
+      "i": "BT:QKC-KRW",
+      "k": "쿼크체인"
+    },
+    {
+      "e": "Qtum",
+      "i": "BT:QTUM-KRW",
+      "k": "퀀텀"
+    },
+    {
+      "e": "Squid",
+      "i": "BT:QUID-KRW",
+      "k": "스퀴드"
+    },
+    {
+      "e": "Radworks",
+      "i": "BT:RAD-KRW",
+      "k": "래드웍스"
+    },
+    {
+      "e": "Raydium",
+      "i": "BT:RAY-KRW",
+      "k": "레이디움"
+    },
+    {
+      "e": "Re",
+      "i": "BT:RE-KRW",
+      "k": "리프로토콜"
+    },
+    {
+      "e": "Recall",
+      "i": "BT:RECALL-KRW",
+      "k": "리콜"
+    },
+    {
+      "e": "RedStone",
+      "i": "BT:RED-KRW",
+      "k": "레드스톤"
+    },
+    {
+      "e": "REI",
+      "i": "BT:REI-KRW",
+      "k": "레이"
+    },
+    {
+      "e": "Render Token",
+      "i": "BT:RENDER-KRW",
+      "k": "렌더토큰"
+    },
+    {
+      "e": "Request",
+      "i": "BT:REQ-KRW",
+      "k": "리퀘스트"
+    },
+    {
+      "e": "Renzo",
+      "i": "BT:REZ-KRW",
+      "k": "렌조"
+    },
+    {
+      "e": "iExec RLC",
+      "i": "BT:RLC-KRW",
+      "k": "아이젝"
+    },
+    {
+      "e": "Ripple USD",
+      "i": "BT:RLUSD-KRW",
+      "k": "리플유에스디"
+    },
+    {
+      "e": "ROA CORE",
+      "i": "BT:ROA-KRW",
+      "k": "로아코어"
+    },
+    {
+      "e": "Fabric Protocol",
+      "i": "BT:ROBO-KRW",
+      "k": "패브릭프로토콜"
+    },
+    {
+      "e": "Ronin",
+      "i": "BT:RON-KRW",
+      "k": "로닌"
+    },
+    {
+      "e": "Rocket Pool",
+      "i": "BT:RPL-KRW",
+      "k": "로켓풀"
+    },
+    {
+      "e": "Reserve Rights",
+      "i": "BT:RSR-KRW",
+      "k": "리저브라이트"
+    },
+    {
+      "e": "RSS3",
+      "i": "BT:RSS3-KRW",
+      "k": "알에스에스쓰리"
+    },
+    {
+      "e": "Ravencoin",
+      "i": "BT:RVN-KRW",
+      "k": "레이븐코인"
+    },
+    {
+      "e": "Sonic",
+      "i": "BT:S-KRW",
+      "k": "소닉"
+    },
+    {
+      "e": "Safe",
+      "i": "BT:SAFE-KRW",
+      "k": "세이프"
+    },
+    {
+      "e": "Sahara AI",
+      "i": "BT:SAHARA-KRW",
+      "k": "사하라에이아이"
+    },
+    {
+      "e": "The Sandbox",
+      "i": "BT:SAND-KRW",
+      "k": "샌드박스"
+    },
+    {
+      "e": "Sapien",
+      "i": "BT:SAPIEN-KRW",
+      "k": "사피엔"
+    },
+    {
+      "e": "Siacoin",
+      "i": "BT:SC-KRW",
+      "k": "시아코인"
+    },
+    {
+      "e": "Scroll",
+      "i": "BT:SCR-KRW",
+      "k": "스크롤"
+    },
+    {
+      "e": "Stader",
+      "i": "BT:SD-KRW",
+      "k": "스테이더"
+    },
+    {
+      "e": "Sei",
+      "i": "BT:SEI-KRW",
+      "k": "세이"
+    },
+    {
+      "e": "Sentient",
+      "i": "BT:SENT-KRW",
+      "k": "센티언트"
+    },
+    {
+      "e": "Safepal",
+      "i": "BT:SFP-KRW",
+      "k": "세이프팔"
+    },
+    {
+      "e": "MyShell",
+      "i": "BT:SHELL-KRW",
+      "k": "마이쉘"
+    },
+    {
+      "e": "SHIBA INU",
+      "i": "BT:SHIB-KRW",
+      "k": "시바이누"
+    },
+    {
+      "e": "Sign",
+      "i": "BT:SIGN-KRW",
+      "k": "사인"
+    },
+    {
+      "e": "SIX",
+      "i": "BT:SIX-KRW",
+      "k": "식스"
+    },
+    {
+      "e": "SKALE",
+      "i": "BT:SKL-KRW",
+      "k": "스케일"
+    },
+    {
+      "e": "Seeker",
+      "i": "BT:SKR-KRW",
+      "k": "시커"
+    },
+    {
+      "e": "Sky Protocol",
+      "i": "BT:SKY-KRW",
+      "k": "스카이프로토콜"
+    },
+    {
+      "e": "Solstice",
+      "i": "BT:SLX-KRW",
+      "k": "솔스티스"
+    },
+    {
+      "e": "Status Network",
+      "i": "BT:SNT-KRW",
+      "k": "스테이터스네트워크토큰"
+    },
+    {
+      "e": "Solana",
+      "i": "BT:SOL-KRW",
+      "k": "솔라나"
+    },
+    {
+      "e": "Solv Protocol",
+      "i": "BT:SOLV-KRW",
+      "k": "솔브프로토콜"
+    },
+    {
+      "e": "Somnia",
+      "i": "BT:SOMI-KRW",
+      "k": "솜니아"
+    },
+    {
+      "e": "Sonic SVM",
+      "i": "BT:SONIC-KRW",
+      "k": "소닉에스브이엠"
+    },
+    {
+      "e": "SOON",
+      "i": "BT:SOON-KRW",
+      "k": "쑨"
+    },
+    {
+      "e": "Sophon",
+      "i": "BT:SOPH-KRW",
+      "k": "소폰"
+    },
+    {
+      "e": "Spacecoin",
+      "i": "BT:SPACE-KRW",
+      "k": "스페이스코인"
+    },
+    {
+      "e": "Spark",
+      "i": "BT:SPK-KRW",
+      "k": "스파크"
+    },
+    {
+      "e": "SPX6900",
+      "i": "BT:SPX-KRW",
+      "k": "에스피엑스6900"
+    },
+    {
+      "e": "Stable",
+      "i": "BT:STABLE-KRW",
+      "k": "스테이블"
+    },
+    {
+      "e": "Steem",
+      "i": "BT:STEEM-KRW",
+      "k": "스팀"
+    },
+    {
+      "e": "Xertra",
+      "i": "BT:STRAX-KRW",
+      "k": "저트라"
+    },
+    {
+      "e": "Starknet",
+      "i": "BT:STRK-KRW",
+      "k": "스타크넷"
+    },
+    {
+      "e": "Stacks",
+      "i": "BT:STX-KRW",
+      "k": "스택스"
+    },
+    {
+      "e": "SUI",
+      "i": "BT:SUI-KRW",
+      "k": "수이"
+    },
+    {
+      "e": "SUN",
+      "i": "BT:SUN-KRW",
+      "k": "썬"
+    },
+    {
+      "e": "Sundog",
+      "i": "BT:SUNDOG-KRW",
+      "k": "썬도그"
+    },
+    {
+      "e": "SuperVerse",
+      "i": "BT:SUPER-KRW",
+      "k": "슈퍼버스"
+    },
+    {
+      "e": "Sushiswap",
+      "i": "BT:SUSHI-KRW",
+      "k": "스시스왑"
+    },
+    {
+      "e": "TrustSwap",
+      "i": "BT:SWAP-KRW",
+      "k": "트러스트스왑"
+    },
+    {
+      "e": "Swell Network",
+      "i": "BT:SWELL-KRW",
+      "k": "스웰네트워크"
+    },
+    {
+      "e": "Space and Time",
+      "i": "BT:SXT-KRW",
+      "k": "스페이스앤드타임"
+    },
+    {
+      "e": "Maple Finance",
+      "i": "BT:SYRUP-KRW",
+      "k": "메이플파이낸스"
+    },
+    {
+      "e": "Threshold",
+      "i": "BT:T-KRW",
+      "k": "쓰레스홀드"
+    },
+    {
+      "e": "Taiko",
+      "i": "BT:TAIKO-KRW",
+      "k": "타이코"
+    },
+    {
+      "e": "Bittensor",
+      "i": "BT:TAO-KRW",
+      "k": "비트텐서"
+    },
+    {
+      "e": "ALTAVA",
+      "i": "BT:TAVA-KRW",
+      "k": "알타바"
+    },
+    {
+      "e": "ThetaDrop",
+      "i": "BT:TDROP-KRW",
+      "k": "티드랍"
+    },
+    {
+      "e": "TFUEL",
+      "i": "BT:TFUEL-KRW",
+      "k": "쎄타퓨엘"
+    },
+    {
+      "e": "THENA",
+      "i": "BT:THE-KRW",
+      "k": "테나"
+    },
+    {
+      "e": "Theta Token",
+      "i": "BT:THETA-KRW",
+      "k": "쎄타토큰"
+    },
+    {
+      "e": "Theoriq",
+      "i": "BT:THQ-KRW",
+      "k": "테오릭"
+    },
+    {
+      "e": "Celestia",
+      "i": "BT:TIA-KRW",
+      "k": "셀레스티아"
+    },
+    {
+      "e": "Tokamak Network",
+      "i": "BT:TOKAMAK-KRW",
+      "k": "토카막네트워크"
+    },
+    {
+      "e": "Toshi",
+      "i": "BT:TOSHI-KRW",
+      "k": "토시"
+    },
+    {
+      "e": "Towns",
+      "i": "BT:TOWNS-KRW",
+      "k": "타운즈"
+    },
+    {
+      "e": "OriginTrail",
+      "i": "BT:TRAC-KRW",
+      "k": "오리진트레일"
+    },
+    {
+      "e": "Treehouse",
+      "i": "BT:TREE-KRW",
+      "k": "트리하우스"
+    },
+    {
+      "e": "OFFICIAL TRUMP",
+      "i": "BT:TRUMP-KRW",
+      "k": "오피셜트럼프"
+    },
+    {
+      "e": "Intuition",
+      "i": "BT:TRUST-KRW",
+      "k": "인튜이션"
+    },
+    {
+      "e": "TRON",
+      "i": "BT:TRX-KRW",
+      "k": "트론"
+    },
+    {
+      "e": "Turbo",
+      "i": "BT:TURBO-KRW",
+      "k": "터보"
+    },
+    {
+      "e": "Unibase",
+      "i": "BT:UB-KRW",
+      "k": "유니베이스"
+    },
+    {
+      "e": "UMA",
+      "i": "BT:UMA-KRW",
+      "k": "우마"
+    },
+    {
+      "e": "Uniswap",
+      "i": "BT:UNI-KRW",
+      "k": "유니스왑"
+    },
+    {
+      "e": "Ultra",
+      "i": "BT:UOS-KRW",
+      "k": "울트라"
+    },
+    {
+      "e": "Superform",
+      "i": "BT:UP-KRW",
+      "k": "슈퍼폼"
+    },
+    {
+      "e": "World Liberty Financial USD",
+      "i": "BT:USD1-KRW",
+      "k": "월드리버티파이낸셜유에스디"
+    },
+    {
+      "e": "USD Coin",
+      "i": "BT:USDC-KRW",
+      "k": "유에스디코인"
+    },
+    {
+      "e": "Ethena USDe",
+      "i": "BT:USDE-KRW",
+      "k": "유에스디이"
+    },
+    {
+      "e": "Global Dollar",
+      "i": "BT:USDG-KRW",
+      "k": "글로벌달러"
+    },
+    {
+      "e": "USDS",
+      "i": "BT:USDS-KRW",
+      "k": "유에스디에스"
+    },
+    {
+      "e": "Tether USDt",
+      "i": "BT:USDT-KRW",
+      "k": "테더"
+    },
+    {
+      "e": "Vana",
+      "i": "BT:VANA-KRW",
+      "k": "바나"
+    },
+    {
+      "e": "Verona",
+      "i": "BT:VERONA-KRW",
+      "k": "베로나"
+    },
+    {
+      "e": "VeChain",
+      "i": "BT:VET-KRW",
+      "k": "비체인"
+    },
+    {
+      "e": "Virtuals Protocol",
+      "i": "BT:VIRTUAL-KRW",
+      "k": "버추얼프로토콜"
+    },
+    {
+      "e": "VeThor Token",
+      "i": "BT:VTHO-KRW",
+      "k": "비토르토큰"
+    },
+    {
+      "e": "Venice Token",
+      "i": "BT:VVV-KRW",
+      "k": "베니스토큰"
+    },
+    {
+      "e": "Wormhole",
+      "i": "BT:W-KRW",
+      "k": "웜홀"
+    },
+    {
+      "e": "Walrus",
+      "i": "BT:WAL-KRW",
+      "k": "월러스"
+    },
+    {
+      "e": "Waves",
+      "i": "BT:WAVES-KRW",
+      "k": "웨이브"
+    },
+    {
+      "e": "Axelar",
+      "i": "BT:WAXL-KRW",
+      "k": "엑셀라"
+    },
+    {
+      "e": "WAXP",
+      "i": "BT:WAXP-KRW",
+      "k": "왁스"
+    },
+    {
+      "e": "WalletConnect",
+      "i": "BT:WCT-KRW",
+      "k": "월렛커넥트"
+    },
+    {
+      "e": "HumidiFi",
+      "i": "BT:WET-KRW",
+      "k": "휴미디파이"
+    },
+    {
+      "e": "dogwifhat",
+      "i": "BT:WIF-KRW",
+      "k": "도그위프햇"
+    },
+    {
+      "e": "Worldcoin",
+      "i": "BT:WLD-KRW",
+      "k": "월드코인"
+    },
+    {
+      "e": "World Liberty Financial",
+      "i": "BT:WLFI-KRW",
+      "k": "월드리버티파이낸셜"
+    },
+    {
+      "e": "Wrapped NCG",
+      "i": "BT:WNCG-KRW",
+      "k": "랩트나인크로니클골드"
+    },
+    {
+      "e": "WOO",
+      "i": "BT:WOO-KRW",
+      "k": "우"
+    },
+    {
+      "e": "Xai",
+      "i": "BT:XAI-KRW",
+      "k": "자이"
+    },
+    {
+      "e": "Anoma",
+      "i": "BT:XAN-KRW",
+      "k": "아노마"
+    },
+    {
+      "e": "Tether Gold",
+      "i": "BT:XAUT-KRW",
+      "k": "테더골드"
+    },
+    {
+      "e": "Onyxcoin",
+      "i": "BT:XCN-KRW",
+      "k": "오닉스코인"
+    },
+    {
+      "e": "eCash",
+      "i": "BT:XEC-KRW",
+      "k": "이캐시"
+    },
+    {
+      "e": "Stellar Lumens",
+      "i": "BT:XLM-KRW",
+      "k": "스텔라루멘"
+    },
+    {
+      "e": "Plasma",
+      "i": "BT:XPL-KRW",
+      "k": "플라즈마"
+    },
+    {
+      "e": "CONX",
+      "i": "BT:XPLA-KRW",
+      "k": "콘엑스"
+    },
+    {
+      "e": "XPR Network",
+      "i": "BT:XPR-KRW",
+      "k": "엑스피알네트워크"
+    },
+    {
+      "e": "XRP",
+      "i": "BT:XRP-KRW",
+      "k": "엑스알피[리플]"
+    },
+    {
+      "e": "Xterio",
+      "i": "BT:XTER-KRW",
+      "k": "엑스테리오"
+    },
+    {
+      "e": "Tezos",
+      "i": "BT:XTZ-KRW",
+      "k": "테조스"
+    },
+    {
+      "e": "Venus",
+      "i": "BT:XVS-KRW",
+      "k": "비너스"
+    },
+    {
+      "e": "XYO",
+      "i": "BT:XYO-KRW",
+      "k": "엑스와이오"
+    },
+    {
+      "e": "YieldBasis",
+      "i": "BT:YB-KRW",
+      "k": "일드베이시스"
+    },
+    {
+      "e": "yearn.finance",
+      "i": "BT:YFI-KRW",
+      "k": "연파이낸스"
+    },
+    {
+      "e": "Yield Guild Games",
+      "i": "BT:YGG-KRW",
+      "k": "일드길드게임즈"
+    },
+    {
+      "e": "Zama",
+      "i": "BT:ZAMA-KRW",
+      "k": "자마"
+    },
+    {
+      "e": "ZEROBASE",
+      "i": "BT:ZBT-KRW",
+      "k": "제로베이스"
+    },
+    {
+      "e": "ZetaChain",
+      "i": "BT:ZETA-KRW",
+      "k": "제타체인"
+    },
+    {
+      "e": "zkSync",
+      "i": "BT:ZK-KRW",
+      "k": "지케이싱크"
+    },
+    {
+      "e": "Boundless",
+      "i": "BT:ZKC-KRW",
+      "k": "바운드리스"
+    },
+    {
+      "e": "zkPass",
+      "i": "BT:ZKP-KRW",
+      "k": "지케이패스"
+    },
+    {
+      "e": "Zora",
+      "i": "BT:ZORA-KRW",
+      "k": "조라"
+    },
+    {
+      "e": "Zircuit",
+      "i": "BT:ZRC-KRW",
+      "k": "저킷"
+    },
+    {
+      "e": "LayerZero",
+      "i": "BT:ZRO-KRW",
+      "k": "레이어제로"
+    },
+    {
+      "e": "0x",
+      "i": "BT:ZRX-KRW",
+      "k": "제로엑스"
+    },
+    {
+      "e": "0G",
+      "i": "UP:0G-KRW",
+      "k": "제로지"
+    },
+    {
+      "e": "1inch Network",
+      "i": "UP:1INCH-KRW",
+      "k": "1인치네트워크"
+    },
+    {
+      "e": "DoubleZero",
+      "i": "UP:2Z-KRW",
+      "k": "더블제로"
+    },
+    {
+      "e": "Vaulta",
+      "i": "UP:A-KRW",
+      "k": "볼타"
+    },
+    {
+      "e": "Aave",
+      "i": "UP:AAVE-KRW",
+      "k": "에이브"
+    },
+    {
+      "e": "Ada",
+      "i": "UP:ADA-KRW",
+      "k": "에이다"
+    },
+    {
+      "e": "Aerodrome Finance",
+      "i": "UP:AERO-KRW",
+      "k": "에어로드롬파이낸스"
+    },
+    {
+      "e": "Adventure Gold",
+      "i": "UP:AGLD-KRW",
+      "k": "어드벤처골드"
+    },
+    {
+      "e": "AhaToken",
+      "i": "UP:AHT-KRW",
+      "k": "아하토큰"
+    },
+    {
+      "e": "Gensyn",
+      "i": "UP:AI-KRW",
+      "k": "젠신"
+    },
+    {
+      "e": "Akash Network",
+      "i": "UP:AKT-KRW",
+      "k": "아카시네트워크"
+    },
+    {
+      "e": "Algorand",
+      "i": "UP:ALGO-KRW",
+      "k": "알고랜드"
+    },
+    {
+      "e": "Altlayer",
+      "i": "UP:ALT-KRW",
+      "k": "알트레이어"
+    },
+    {
+      "e": "Animecoin",
+      "i": "UP:ANIME-KRW",
+      "k": "애니메코인"
+    },
+    {
+      "e": "Ankr",
+      "i": "UP:ANKR-KRW",
+      "k": "앵커"
+    },
+    {
+      "e": "API3",
+      "i": "UP:API3-KRW",
+      "k": "에이피아이쓰리"
+    },
+    {
+      "e": "Aptos",
+      "i": "UP:APT-KRW",
+      "k": "앱토스"
+    },
+    {
+      "e": "Arbitrum",
+      "i": "UP:ARB-KRW",
+      "k": "아비트럼"
+    },
+    {
+      "e": "Ardor",
+      "i": "UP:ARDR-KRW",
+      "k": "아더"
+    },
+    {
+      "e": "Ark",
+      "i": "UP:ARK-KRW",
+      "k": "아크"
+    },
+    {
+      "e": "Arkham",
+      "i": "UP:ARKM-KRW",
+      "k": "아캄"
+    },
+    {
+      "e": "Arcium",
+      "i": "UP:ARX-KRW",
+      "k": "아르키움"
+    },
+    {
+      "e": "Astar",
+      "i": "UP:ASTR-KRW",
+      "k": "아스타"
+    },
+    {
+      "e": "Aethir",
+      "i": "UP:ATH-KRW",
+      "k": "에이셔"
+    },
+    {
+      "e": "Cosmos",
+      "i": "UP:ATOM-KRW",
+      "k": "코스모스"
+    },
+    {
+      "e": "Bounce",
+      "i": "UP:AUCTION-KRW",
+      "k": "바운스토큰"
+    },
+    {
+      "e": "Avalanche",
+      "i": "UP:AVAX-KRW",
+      "k": "아발란체"
+    },
+    {
+      "e": "Avantis",
+      "i": "UP:AVNT-KRW",
+      "k": "아반티스"
+    },
+    {
+      "e": "AWE Network",
+      "i": "UP:AWE-KRW",
+      "k": "에이더블유이"
+    },
+    {
+      "e": "Axelar",
+      "i": "UP:AXL-KRW",
+      "k": "엑셀라"
+    },
+    {
+      "e": "Axie Infinity",
+      "i": "UP:AXS-KRW",
+      "k": "엑시인피니티"
+    },
+    {
+      "e": "Aztec",
+      "i": "UP:AZTEC-KRW",
+      "k": "아즈텍"
+    },
+    {
+      "e": "B3",
+      "i": "UP:B3-KRW",
+      "k": "비쓰리"
+    },
+    {
+      "e": "Babylon",
+      "i": "UP:BABY-KRW",
+      "k": "바빌론"
+    },
+    {
+      "e": "Lombard",
+      "i": "UP:BARD-KRW",
+      "k": "롬바드"
+    },
+    {
+      "e": "Basic Attention Token",
+      "i": "UP:BAT-KRW",
+      "k": "베이직어텐션토큰"
+    },
+    {
+      "e": "Bitcoin Cash",
+      "i": "UP:BCH-KRW",
+      "k": "비트코인캐시"
+    },
+    {
+      "e": "Beam",
+      "i": "UP:BEAM-KRW",
+      "k": "빔"
+    },
+    {
+      "e": "Berachain",
+      "i": "UP:BERA-KRW",
+      "k": "베라체인"
+    },
+    {
+      "e": "Big Time",
+      "i": "UP:BIGTIME-KRW",
+      "k": "빅타임"
+    },
+    {
+      "e": "Bio Protocol",
+      "i": "UP:BIO-KRW",
+      "k": "바이오프로토콜"
+    },
+    {
+      "e": "Moonbirds",
+      "i": "UP:BIRB-KRW",
+      "k": "문버드"
+    },
+    {
+      "e": "Blast",
+      "i": "UP:BLAST-KRW",
+      "k": "블라스트"
+    },
+    {
+      "e": "Fluent",
+      "i": "UP:BLEND-KRW",
+      "k": "플루언트"
+    },
+    {
+      "e": "Blur",
+      "i": "UP:BLUR-KRW",
+      "k": "블러"
+    },
+    {
+      "e": "BORA",
+      "i": "UP:BORA-KRW",
+      "k": "보라"
+    },
+    {
+      "e": "Chainbounty",
+      "i": "UP:BOUNTY-KRW",
+      "k": "체인바운티"
+    },
+    {
+      "e": "Brevis",
+      "i": "UP:BREV-KRW",
+      "k": "브레비스"
+    },
+    {
+      "e": "Block Street",
+      "i": "UP:BSB-KRW",
+      "k": "블록스트리트"
+    },
+    {
+      "e": "Bitcoin SV",
+      "i": "UP:BSV-KRW",
+      "k": "비트코인에스브이"
+    },
+    {
+      "e": "Bitcoin",
+      "i": "UP:BTC-KRW",
+      "k": "비트코인"
+    },
+    {
+      "e": "BitTorrent",
+      "i": "UP:BTT-KRW",
+      "k": "비트토렌트"
+    },
+    {
+      "e": "Cap",
+      "i": "UP:CAP-KRW",
+      "k": "캡"
+    },
+    {
+      "e": "CARV",
+      "i": "UP:CARV-KRW",
+      "k": "카브"
+    },
+    {
+      "e": "Cobak Token",
+      "i": "UP:CBK-KRW",
+      "k": "코박토큰"
+    },
+    {
+      "e": "Canton",
+      "i": "UP:CC-KRW",
+      "k": "캔톤"
+    },
+    {
+      "e": "Celo",
+      "i": "UP:CELO-KRW",
+      "k": "셀로"
+    },
+    {
+      "e": "Centrifuge",
+      "i": "UP:CFG-KRW",
+      "k": "센트리퓨즈"
+    },
+    {
+      "e": "Conflux",
+      "i": "UP:CFX-KRW",
+      "k": "콘플럭스"
+    },
+    {
+      "e": "USD.AI",
+      "i": "UP:CHIP-KRW",
+      "k": "유에스디에이아이"
+    },
+    {
+      "e": "Chiliz",
+      "i": "UP:CHZ-KRW",
+      "k": "칠리즈"
+    },
+    {
+      "e": "Nervos Network",
+      "i": "UP:CKB-KRW",
+      "k": "너보스"
+    },
+    {
+      "e": "Compound",
+      "i": "UP:COMP-KRW",
+      "k": "컴파운드"
+    },
+    {
+      "e": "CoW Protocol",
+      "i": "UP:COW-KRW",
+      "k": "카우프로토콜"
+    },
+    {
+      "e": "Clearpool",
+      "i": "UP:CPOOL-KRW",
+      "k": "클리어풀"
+    },
+    {
+      "e": "Cronos",
+      "i": "UP:CRO-KRW",
+      "k": "크로노스"
+    },
+    {
+      "e": "Creditcoin",
+      "i": "UP:CTC-KRW",
+      "k": "크레딧코인"
+    },
+    {
+      "e": "Civic",
+      "i": "UP:CVC-KRW",
+      "k": "시빅"
+    },
+    {
+      "e": "Cyber",
+      "i": "UP:CYBER-KRW",
+      "k": "사이버"
+    },
+    {
+      "e": "Data Network",
+      "i": "UP:DATA-KRW",
+      "k": "데이터네트워크"
+    },
+    {
+      "e": "DeepBook",
+      "i": "UP:DEEP-KRW",
+      "k": "딥북"
+    },
+    {
+      "e": "dKargo",
+      "i": "UP:DKA-KRW",
+      "k": "디카르고"
+    },
+    {
+      "e": "Dogecoin",
+      "i": "UP:DOGE-KRW",
+      "k": "도지코인"
+    },
+    {
+      "e": "Doodles",
+      "i": "UP:DOOD-KRW",
+      "k": "두들즈"
+    },
+    {
+      "e": "Polkadot",
+      "i": "UP:DOT-KRW",
+      "k": "폴카닷"
+    },
+    {
+      "e": "Derive",
+      "i": "UP:DRV-KRW",
+      "k": "디라이브"
+    },
+    {
+      "e": "Definitive",
+      "i": "UP:EDGE-KRW",
+      "k": "디피니티브"
+    },
+    {
+      "e": "MultiversX",
+      "i": "UP:EGLD-KRW",
+      "k": "멀티버스엑스"
+    },
+    {
+      "e": "aelf",
+      "i": "UP:ELF-KRW",
+      "k": "엘프"
+    },
+    {
+      "e": "HeyElsa",
+      "i": "UP:ELSA-KRW",
+      "k": "헤이엘사"
+    },
+    {
+      "e": "Ethena",
+      "i": "UP:ENA-KRW",
+      "k": "에테나"
+    },
+    {
+      "e": "Ethereum Name Service",
+      "i": "UP:ENS-KRW",
+      "k": "이더리움네임서비스"
+    },
+    {
+      "e": "Enso",
+      "i": "UP:ENSO-KRW",
+      "k": "엔소"
+    },
+    {
+      "e": "Caldera",
+      "i": "UP:ERA-KRW",
+      "k": "칼데라"
+    },
+    {
+      "e": "Espresso",
+      "i": "UP:ESP-KRW",
+      "k": "에스프레소"
+    },
+    {
+      "e": "Ethereum Classic",
+      "i": "UP:ETC-KRW",
+      "k": "이더리움클래식"
+    },
+    {
+      "e": "Ethereum",
+      "i": "UP:ETH-KRW",
+      "k": "이더리움"
+    },
+    {
+      "e": "Ether.fi",
+      "i": "UP:ETHFI-KRW",
+      "k": "이더파이"
+    },
+    {
+      "e": "Euler",
+      "i": "UP:EUL-KRW",
+      "k": "오일러"
+    },
+    {
+      "e": "SynFutures",
+      "i": "UP:F-KRW",
+      "k": "신퓨처스"
+    },
+    {
+      "e": "FirmaChain",
+      "i": "UP:FCT2-KRW",
+      "k": "피르마체인"
+    },
+    {
+      "e": "Falcon Finance",
+      "i": "UP:FF-KRW",
+      "k": "팔콘파이낸스"
+    },
+    {
+      "e": "Filecoin",
+      "i": "UP:FIL-KRW",
+      "k": "파일코인"
+    },
+    {
+      "e": "FLock.io",
+      "i": "UP:FLOCK-KRW",
+      "k": "플록"
+    },
+    {
+      "e": "Fluid",
+      "i": "UP:FLUID-KRW",
+      "k": "플루이드"
+    },
+    {
+      "e": "Gravity",
+      "i": "UP:G-KRW",
+      "k": "그래비티"
+    },
+    {
+      "e": "GameBuild",
+      "i": "UP:GAME2-KRW",
+      "k": "게임빌드"
+    },
+    {
+      "e": "GAS",
+      "i": "UP:GAS-KRW",
+      "k": "가스"
+    },
+    {
+      "e": "GEODNET",
+      "i": "UP:GEOD-KRW",
+      "k": "지오드넷"
+    },
+    {
+      "e": "Golem",
+      "i": "UP:GLM-KRW",
+      "k": "골렘"
+    },
+    {
+      "e": "Stepn",
+      "i": "UP:GMT-KRW",
+      "k": "스테픈"
+    },
+    {
+      "e": "The Graph",
+      "i": "UP:GRT-KRW",
+      "k": "더그래프"
+    },
+    {
+      "e": "Grvt",
+      "i": "UP:GRVT-KRW",
+      "k": "그래비티토큰"
+    },
+    {
+      "e": "Hedera",
+      "i": "UP:HBAR-KRW",
+      "k": "헤데라"
+    },
+    {
+      "e": "Hive",
+      "i": "UP:HIVE-KRW",
+      "k": "하이브"
+    },
+    {
+      "e": "Holoworld AI",
+      "i": "UP:HOLO-KRW",
+      "k": "홀로월드에이아이"
+    },
+    {
+      "e": "Defi App",
+      "i": "UP:HOME-KRW",
+      "k": "디파이앱"
+    },
+    {
+      "e": "Hippo Protocol",
+      "i": "UP:HP-KRW",
+      "k": "히포프로토콜"
+    },
+    {
+      "e": "HUNT",
+      "i": "UP:HUNT-KRW",
+      "k": "헌트"
+    },
+    {
+      "e": "Hyperlane",
+      "i": "UP:HYPER-KRW",
+      "k": "하이퍼레인"
+    },
+    {
+      "e": "Internet Computer",
+      "i": "UP:ICP-KRW",
+      "k": "인터넷컴퓨터"
+    },
+    {
+      "e": "Icon",
+      "i": "UP:ICX-KRW",
+      "k": "아이콘"
+    },
+    {
+      "e": "SPACE ID",
+      "i": "UP:ID-KRW",
+      "k": "스페이스아이디"
+    },
+    {
+      "e": "Immutable X",
+      "i": "UP:IMX-KRW",
+      "k": "이뮤터블엑스"
+    },
+    {
+      "e": "Infinit",
+      "i": "UP:IN-KRW",
+      "k": "인피닛"
+    },
+    {
+      "e": "Injective",
+      "i": "UP:INJ-KRW",
+      "k": "인젝티브"
+    },
+    {
+      "e": "io.net",
+      "i": "UP:IO-KRW",
+      "k": "아이오넷"
+    },
+    {
+      "e": "IOST",
+      "i": "UP:IOST-KRW",
+      "k": "아이오에스티"
+    },
+    {
+      "e": "IOTA",
+      "i": "UP:IOTA-KRW",
+      "k": "아이오타"
+    },
+    {
+      "e": "IQ.wiki",
+      "i": "UP:IQ-KRW",
+      "k": "아이큐"
+    },
+    {
+      "e": "Irys",
+      "i": "UP:IRYS-KRW",
+      "k": "아이리스"
+    },
+    {
+      "e": "JUST",
+      "i": "UP:JST-KRW",
+      "k": "저스트"
+    },
+    {
+      "e": "Jito",
+      "i": "UP:JTO-KRW",
+      "k": "지토"
+    },
+    {
+      "e": "Jupiter",
+      "i": "UP:JUP-KRW",
+      "k": "주피터"
+    },
+    {
+      "e": "KAITO",
+      "i": "UP:KAITO-KRW",
+      "k": "카이토"
+    },
+    {
+      "e": "Katana",
+      "i": "UP:KAT-KRW",
+      "k": "카타나"
+    },
+    {
+      "e": "Kava",
+      "i": "UP:KAVA-KRW",
+      "k": "카바"
+    },
+    {
+      "e": "KernelDAO",
+      "i": "UP:KERNEL-KRW",
+      "k": "커널다오"
+    },
+    {
+      "e": "Kite",
+      "i": "UP:KITE-KRW",
+      "k": "카이트"
+    },
+    {
+      "e": "Kamino Finance",
+      "i": "UP:KMNO-KRW",
+      "k": "카미노파이낸스"
+    },
+    {
+      "e": "Kyber Network",
+      "i": "UP:KNC-KRW",
+      "k": "카이버네트워크"
+    },
+    {
+      "e": "Lagrange",
+      "i": "UP:LA-KRW",
+      "k": "라그랑주"
+    },
+    {
+      "e": "Solayer",
+      "i": "UP:LAYER-KRW",
+      "k": "솔레이어"
+    },
+    {
+      "e": "Linea",
+      "i": "UP:LINEA-KRW",
+      "k": "리네아"
+    },
+    {
+      "e": "Chainlink",
+      "i": "UP:LINK-KRW",
+      "k": "체인링크"
+    },
+    {
+      "e": "Livepeer",
+      "i": "UP:LPT-KRW",
+      "k": "라이브피어"
+    },
+    {
+      "e": "Lisk",
+      "i": "UP:LSK-KRW",
+      "k": "리스크"
+    },
+    {
+      "e": "Decentraland",
+      "i": "UP:MANA-KRW",
+      "k": "디센트럴랜드"
+    },
+    {
+      "e": "MANTRA",
+      "i": "UP:MANTRA-KRW",
+      "k": "만트라"
+    },
+    {
+      "e": "Mask Network",
+      "i": "UP:MASK-KRW",
+      "k": "마스크네트워크"
+    },
+    {
+      "e": "MovieBloc",
+      "i": "UP:MBL-KRW",
+      "k": "무비블록"
+    },
+    {
+      "e": "Magic Eden",
+      "i": "UP:ME-KRW",
+      "k": "매직에덴"
+    },
+    {
+      "e": "MediBloc",
+      "i": "UP:MED-KRW",
+      "k": "메디블록"
+    },
+    {
+      "e": "MegaETH",
+      "i": "UP:MEGA-KRW",
+      "k": "메가이더"
+    },
+    {
+      "e": "Meteora",
+      "i": "UP:MET2-KRW",
+      "k": "메테오라"
+    },
+    {
+      "e": "Metadium",
+      "i": "UP:META-KRW",
+      "k": "메타디움"
+    },
+    {
+      "e": "MetaDAO",
+      "i": "UP:META2-KRW",
+      "k": "메타다오"
+    },
+    {
+      "e": "cat in a dogs world",
+      "i": "UP:MEW-KRW",
+      "k": "캣인어독스월드"
+    },
+    {
+      "e": "Mina",
+      "i": "UP:MINA-KRW",
+      "k": "미나"
+    },
+    {
+      "e": "Mira Network",
+      "i": "UP:MIRA-KRW",
+      "k": "미라네트워크"
+    },
+    {
+      "e": "MiL.k",
+      "i": "UP:MLK-KRW",
+      "k": "밀크"
+    },
+    {
+      "e": "Momentum",
+      "i": "UP:MMT-KRW",
+      "k": "모멘텀"
+    },
+    {
+      "e": "Mantle",
+      "i": "UP:MNT-KRW",
+      "k": "맨틀"
+    },
+    {
+      "e": "Moss Coin",
+      "i": "UP:MOC-KRW",
+      "k": "모스코인"
+    },
+    {
+      "e": "Moca Network",
+      "i": "UP:MOCA-KRW",
+      "k": "모카네트워크"
+    },
+    {
+      "e": "Monad",
+      "i": "UP:MON-KRW",
+      "k": "모나드"
+    },
+    {
+      "e": "Moo Deng",
+      "i": "UP:MOODENG-KRW",
+      "k": "무뎅"
+    },
+    {
+      "e": "Morpho",
+      "i": "UP:MORPHO-KRW",
+      "k": "모포"
+    },
+    {
+      "e": "Movement",
+      "i": "UP:MOVE-KRW",
+      "k": "무브먼트"
+    },
+    {
+      "e": "Metal",
+      "i": "UP:MTL-KRW",
+      "k": "메탈"
+    },
+    {
+      "e": "MVL",
+      "i": "UP:MVL-KRW",
+      "k": "엠블"
+    },
+    {
+      "e": "NEAR Protocol",
+      "i": "UP:NEAR-KRW",
+      "k": "니어프로토콜"
+    },
+    {
+      "e": "NEO",
+      "i": "UP:NEO-KRW",
+      "k": "네오"
+    },
+    {
+      "e": "Newton Protocol",
+      "i": "UP:NEWT-KRW",
+      "k": "뉴턴프로토콜"
+    },
+    {
+      "e": "Nexpace",
+      "i": "UP:NXPC-KRW",
+      "k": "넥스페이스"
+    },
+    {
+      "e": "o1.exchange",
+      "i": "UP:O-KRW",
+      "k": "오원익스체인지"
+    },
+    {
+      "e": "Ondo Finance",
+      "i": "UP:ONDO-KRW",
+      "k": "온도파이낸스"
+    },
+    {
+      "e": "ONG",
+      "i": "UP:ONG-KRW",
+      "k": "온톨로지가스"
+    },
+    {
+      "e": "Ontology",
+      "i": "UP:ONT-KRW",
+      "k": "온톨로지"
+    },
+    {
+      "e": "Optimism",
+      "i": "UP:OP-KRW",
+      "k": "옵티미즘"
+    },
+    {
+      "e": "OpenLedger",
+      "i": "UP:OPEN-KRW",
+      "k": "오픈렛저"
+    },
+    {
+      "e": "OpenGradient",
+      "i": "UP:OPG-KRW",
+      "k": "오픈그라디언트"
+    },
+    {
+      "e": "Orbs",
+      "i": "UP:ORBS-KRW",
+      "k": "오브스"
+    },
+    {
+      "e": "Orca",
+      "i": "UP:ORCA-KRW",
+      "k": "오르카"
+    },
+    {
+      "e": "Orderly",
+      "i": "UP:ORDER-KRW",
+      "k": "오덜리"
+    },
+    {
+      "e": "Pendle",
+      "i": "UP:PENDLE-KRW",
+      "k": "펜들"
+    },
+    {
+      "e": "Pudgy Penguins",
+      "i": "UP:PENGU-KRW",
+      "k": "펏지펭귄"
+    },
+    {
+      "e": "Pepe",
+      "i": "UP:PEPE-KRW",
+      "k": "페페"
+    },
+    {
+      "e": "Pieverse",
+      "i": "UP:PIEVERSE-KRW",
+      "k": "파이버스"
+    },
+    {
+      "e": "Plume",
+      "i": "UP:PLUME-KRW",
+      "k": "플룸"
+    },
+    {
+      "e": "Pocket Network",
+      "i": "UP:POKT-KRW",
+      "k": "포켓네트워크"
+    },
+    {
+      "e": "Polygon Ecosystem Token",
+      "i": "UP:POL-KRW",
+      "k": "폴리곤에코시스템토큰"
+    },
+    {
+      "e": "Polymesh",
+      "i": "UP:POLYX-KRW",
+      "k": "폴리매쉬"
+    },
+    {
+      "e": "Power ledger",
+      "i": "UP:POWR-KRW",
+      "k": "파워렛저"
+    },
+    {
+      "e": "Perle",
+      "i": "UP:PRL-KRW",
+      "k": "펄"
+    },
+    {
+      "e": "Pharos",
+      "i": "UP:PROS-KRW",
+      "k": "파로스"
+    },
+    {
+      "e": "Succinct",
+      "i": "UP:PROVE-KRW",
+      "k": "서싱트"
+    },
+    {
+      "e": "Pump.fun",
+      "i": "UP:PUMP-KRW",
+      "k": "펌프펀"
+    },
+    {
+      "e": "Pundi X",
+      "i": "UP:PUNDIX-KRW",
+      "k": "펀디엑스"
+    },
+    {
+      "e": "Pyth Network",
+      "i": "UP:PYTH-KRW",
+      "k": "피스네트워크"
+    },
+    {
+      "e": "QuarkChain",
+      "i": "UP:QKC-KRW",
+      "k": "쿼크체인"
+    },
+    {
+      "e": "Qtum",
+      "i": "UP:QTUM-KRW",
+      "k": "퀀텀"
+    },
+    {
+      "e": "Squid",
+      "i": "UP:QUID-KRW",
+      "k": "스퀴드"
+    },
+    {
+      "e": "Raydium",
+      "i": "UP:RAY-KRW",
+      "k": "레이디움"
+    },
+    {
+      "e": "Re",
+      "i": "UP:RE-KRW",
+      "k": "리"
+    },
+    {
+      "e": "RedStone",
+      "i": "UP:RED-KRW",
+      "k": "레드스톤"
+    },
+    {
+      "e": "Render Token",
+      "i": "UP:RENDER-KRW",
+      "k": "렌더토큰"
+    },
+    {
+      "e": "Ripple USD",
+      "i": "UP:RLUSD-KRW",
+      "k": "리플유에스디"
+    },
+    {
+      "e": "Ravencoin",
+      "i": "UP:RVN-KRW",
+      "k": "레이븐코인"
+    },
+    {
+      "e": "Safe",
+      "i": "UP:SAFE-KRW",
+      "k": "세이프"
+    },
+    {
+      "e": "Sahara AI",
+      "i": "UP:SAHARA-KRW",
+      "k": "사하라에이아이"
+    },
+    {
+      "e": "The Sandbox",
+      "i": "UP:SAND-KRW",
+      "k": "샌드박스"
+    },
+    {
+      "e": "Siacoin",
+      "i": "UP:SC-KRW",
+      "k": "시아코인"
+    },
+    {
+      "e": "Sei",
+      "i": "UP:SEI-KRW",
+      "k": "세이"
+    },
+    {
+      "e": "Sentient",
+      "i": "UP:SENT-KRW",
+      "k": "센티언트"
+    },
+    {
+      "e": "Shiba Inu",
+      "i": "UP:SHIB-KRW",
+      "k": "시바이누"
+    },
+    {
+      "e": "Sign",
+      "i": "UP:SIGN-KRW",
+      "k": "사인"
+    },
+    {
+      "e": "Seeker",
+      "i": "UP:SKR-KRW",
+      "k": "시커"
+    },
+    {
+      "e": "Sky Protocol",
+      "i": "UP:SKY-KRW",
+      "k": "스카이프로토콜"
+    },
+    {
+      "e": "Solstice",
+      "i": "UP:SLX-KRW",
+      "k": "솔스티스"
+    },
+    {
+      "e": "Status Network Token",
+      "i": "UP:SNT-KRW",
+      "k": "스테이터스네트워크토큰"
+    },
+    {
+      "e": "Solana",
+      "i": "UP:SOL-KRW",
+      "k": "솔라나"
+    },
+    {
+      "e": "Somnia",
+      "i": "UP:SOMI-KRW",
+      "k": "솜니아"
+    },
+    {
+      "e": "Sonic SVM",
+      "i": "UP:SONIC-KRW",
+      "k": "소닉SVM"
+    },
+    {
+      "e": "SOON",
+      "i": "UP:SOON-KRW",
+      "k": "쑨"
+    },
+    {
+      "e": "Sophon",
+      "i": "UP:SOPH-KRW",
+      "k": "소폰"
+    },
+    {
+      "e": "Spark",
+      "i": "UP:SPK-KRW",
+      "k": "스파크"
+    },
+    {
+      "e": "SPX6900",
+      "i": "UP:SPX-KRW",
+      "k": "에스피엑스6900"
+    },
+    {
+      "e": "Steem",
+      "i": "UP:STEEM-KRW",
+      "k": "스팀"
+    },
+    {
+      "e": "Xertra",
+      "i": "UP:STRAX-KRW",
+      "k": "저트라"
+    },
+    {
+      "e": "Stacks",
+      "i": "UP:STX-KRW",
+      "k": "스택스"
+    },
+    {
+      "e": "Sui",
+      "i": "UP:SUI-KRW",
+      "k": "수이"
+    },
+    {
+      "e": "SUN",
+      "i": "UP:SUN-KRW",
+      "k": "썬"
+    },
+    {
+      "e": "SuperVerse",
+      "i": "UP:SUPER-KRW",
+      "k": "슈퍼버스"
+    },
+    {
+      "e": "Maple Finance",
+      "i": "UP:SYRUP-KRW",
+      "k": "메이플파이낸스"
+    },
+    {
+      "e": "Threshold",
+      "i": "UP:T-KRW",
+      "k": "쓰레스홀드"
+    },
+    {
+      "e": "Taiko",
+      "i": "UP:TAIKO-KRW",
+      "k": "타이코"
+    },
+    {
+      "e": "Bittensor",
+      "i": "UP:TAO-KRW",
+      "k": "비트텐서"
+    },
+    {
+      "e": "Theta Fuel",
+      "i": "UP:TFUEL-KRW",
+      "k": "쎄타퓨엘"
+    },
+    {
+      "e": "Theta Token",
+      "i": "UP:THETA-KRW",
+      "k": "쎄타토큰"
+    },
+    {
+      "e": "Celestia",
+      "i": "UP:TIA-KRW",
+      "k": "셀레스티아"
+    },
+    {
+      "e": "Tokamak Network",
+      "i": "UP:TOKAMAK-KRW",
+      "k": "토카막네트워크"
+    },
+    {
+      "e": "Toshi",
+      "i": "UP:TOSHI-KRW",
+      "k": "토시"
+    },
+    {
+      "e": "OriginTrail",
+      "i": "UP:TRAC-KRW",
+      "k": "오리진트레일"
+    },
+    {
+      "e": "Treehouse",
+      "i": "UP:TREE-KRW",
+      "k": "트리하우스"
+    },
+    {
+      "e": "Official Trump",
+      "i": "UP:TRUMP-KRW",
+      "k": "오피셜트럼프"
+    },
+    {
+      "e": "Intuition",
+      "i": "UP:TRUST-KRW",
+      "k": "인튜이션"
+    },
+    {
+      "e": "TRON",
+      "i": "UP:TRX-KRW",
+      "k": "트론"
+    },
+    {
+      "e": "Uniswap",
+      "i": "UP:UNI-KRW",
+      "k": "유니스왑"
+    },
+    {
+      "e": "Superform",
+      "i": "UP:UP2-KRW",
+      "k": "슈퍼폼"
+    },
+    {
+      "e": "World Liberty Financial USD",
+      "i": "UP:USD1-KRW",
+      "k": "월드리버티파이낸셜유에스디"
+    },
+    {
+      "e": "USD Coin",
+      "i": "UP:USDC-KRW",
+      "k": "유에스디코인"
+    },
+    {
+      "e": "Ethena USDe",
+      "i": "UP:USDE-KRW",
+      "k": "유에스디이"
+    },
+    {
+      "e": "Global Dollar",
+      "i": "UP:USDG-KRW",
+      "k": "글로벌달러"
+    },
+    {
+      "e": "USDS",
+      "i": "UP:USDS-KRW",
+      "k": "유에스디에스"
+    },
+    {
+      "e": "Tether",
+      "i": "UP:USDT-KRW",
+      "k": "테더"
+    },
+    {
+      "e": "Vana",
+      "i": "UP:VANA-KRW",
+      "k": "바나"
+    },
+    {
+      "e": "VeChain",
+      "i": "UP:VET-KRW",
+      "k": "비체인"
+    },
+    {
+      "e": "Virtuals Protocol",
+      "i": "UP:VIRTUAL-KRW",
+      "k": "버추얼프로토콜"
+    },
+    {
+      "e": "VeThor Token",
+      "i": "UP:VTHO-KRW",
+      "k": "비토르토큰"
+    },
+    {
+      "e": "Venice Token",
+      "i": "UP:VVV-KRW",
+      "k": "베니스토큰"
+    },
+    {
+      "e": "Wormhole",
+      "i": "UP:W-KRW",
+      "k": "웜홀"
+    },
+    {
+      "e": "Walrus",
+      "i": "UP:WAL-KRW",
+      "k": "월러스"
+    },
+    {
+      "e": "Waves",
+      "i": "UP:WAVES-KRW",
+      "k": "웨이브"
+    },
+    {
+      "e": "WAX",
+      "i": "UP:WAXP-KRW",
+      "k": "왁스"
+    },
+    {
+      "e": "WalletConnect",
+      "i": "UP:WCT-KRW",
+      "k": "월렛커넥트"
+    },
+    {
+      "e": "HumidiFi",
+      "i": "UP:WET-KRW",
+      "k": "휴미디파이"
+    },
+    {
+      "e": "dogwifhat",
+      "i": "UP:WIF-KRW",
+      "k": "도그위프햇"
+    },
+    {
+      "e": "Worldcoin",
+      "i": "UP:WLD-KRW",
+      "k": "월드코인"
+    },
+    {
+      "e": "World Liberty Financial",
+      "i": "UP:WLFI-KRW",
+      "k": "월드리버티파이낸셜"
+    },
+    {
+      "e": "Tether Gold",
+      "i": "UP:XAUT-KRW",
+      "k": "테더골드"
+    },
+    {
+      "e": "Onyxcoin",
+      "i": "UP:XCN-KRW",
+      "k": "오닉스코인"
+    },
+    {
+      "e": "eCash",
+      "i": "UP:XEC-KRW",
+      "k": "이캐시"
+    },
+    {
+      "e": "Lumen",
+      "i": "UP:XLM-KRW",
+      "k": "스텔라루멘"
+    },
+    {
+      "e": "Plasma",
+      "i": "UP:XPL-KRW",
+      "k": "플라즈마"
+    },
+    {
+      "e": "XRP",
+      "i": "UP:XRP-KRW",
+      "k": "엑스알피(리플)"
+    },
+    {
+      "e": "Tezos",
+      "i": "UP:XTZ-KRW",
+      "k": "테조스"
+    },
+    {
+      "e": "Yield Guild Games",
+      "i": "UP:YGG-KRW",
+      "k": "일드길드게임즈"
+    },
+    {
+      "e": "Zama",
+      "i": "UP:ZAMA-KRW",
+      "k": "자마"
+    },
+    {
+      "e": "ZEROBASE",
+      "i": "UP:ZBT-KRW",
+      "k": "제로베이스"
+    },
+    {
+      "e": "ZetaChain",
+      "i": "UP:ZETA-KRW",
+      "k": "제타체인"
+    },
+    {
+      "e": "ZKsync",
+      "i": "UP:ZK-KRW",
+      "k": "지케이싱크"
+    },
+    {
+      "e": "Boundless",
+      "i": "UP:ZKC-KRW",
+      "k": "바운드리스"
+    },
+    {
+      "e": "zkPass",
+      "i": "UP:ZKP-KRW",
+      "k": "지케이패스"
+    },
+    {
+      "e": "Zora",
+      "i": "UP:ZORA-KRW",
+      "k": "조라"
+    },
+    {
+      "e": "LayerZero",
+      "i": "UP:ZRO-KRW",
+      "k": "레이어제로"
+    },
+    {
+      "e": "0x Protocol",
+      "i": "UP:ZRX-KRW",
+      "k": "제로엑스"
+    }
+  ],
+  "v": 1
+}
