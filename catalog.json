@@ -21897,10 +21897,6 @@
       "n": "FutureCrest Acquisition Corp. Class A Ordinary Shares"
     },
     {
-      "i": "N:FCT",
-      "n": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest"
-    },
-    {
       "i": "N:FCX",
       "n": "Freeport-McMoRan, Inc. Common Stock"
     },
@@ -29089,6 +29085,10 @@
       "n": "Global X MSCI Argentina ETF"
     },
     {
+      "i": "P:ARIA",
+      "n": "ARIA Opportunities ETF"
+    },
+    {
       "i": "P:ARMH",
       "n": "Arm Holdings PLC ADRhedged"
     },
@@ -31717,6 +31717,10 @@
       "n": "The Future Fund Long/Short ETF"
     },
     {
+      "i": "P:FFLX",
+      "n": "First Trust Flexible Income ETF"
+    },
+    {
       "i": "P:FFND",
       "n": "One Global ETF"
     },
@@ -32415,6 +32419,10 @@
     {
       "i": "P:GII",
       "n": "State Street SPDR S&P Global Infrastructure ETF"
+    },
+    {
+      "i": "P:GINC",
+      "n": "Goldman Sachs Income ETF"
     },
     {
       "i": "P:GINN",
@@ -35319,6 +35327,10 @@
     {
       "i": "P:PHEQ",
       "n": "Parametric Hedged Equity ETF"
+    },
+    {
+      "i": "P:PHOX",
+      "n": "Aura AI Photonics ETF"
     },
     {
       "i": "P:PHYS",
@@ -50553,6 +50565,10 @@
       "n": "Phoenix Asia Holdings Limited - Ordinary Shares"
     },
     {
+      "i": "Q:PHOS",
+      "n": "First Phosphate Corp. - American Depositary Shares"
+    },
+    {
       "i": "Q:PHUN",
       "n": "Phunware, Inc."
     },
@@ -51537,7 +51553,7 @@
       "n": "Alpha Architect U.S. Quantitative Value ETF"
     },
     {
-      "i": "Q:QVC",
+      "i": "Q:QVCG",
       "n": "QVC Group, Inc."
     },
     {
@@ -53367,10 +53383,6 @@
     {
       "i": "Q:STRRP",
       "n": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock"
-    },
-    {
-      "i": "Q:STRS",
-      "n": "Stratus Properties Inc."
     },
     {
       "i": "Q:STRT",
@@ -55389,6 +55401,10 @@
       "n": "Worksport, Ltd."
     },
     {
+      "i": "Q:WLCO",
+      "n": "Wilco 63 Corporation - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:WLDN",
       "n": "Willdan Group, Inc."
     },
@@ -55554,7 +55570,7 @@
     },
     {
       "i": "Q:WVE",
-      "n": "Wave Life Sciences Ltd. - Ordinary Shares"
+      "n": "Wave Life Sciences, Inc."
     },
     {
       "i": "Q:WVVI",
