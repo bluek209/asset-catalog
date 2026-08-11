@@ -209,10 +209,6 @@
       "n": "Core Molding Technologies Inc Common Stock"
     },
     {
-      "i": "A:CNL",
-      "n": "Collective Mining Ltd. Common Shares"
-    },
-    {
       "i": "A:COE",
       "n": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares"
     },
@@ -2583,10 +2579,6 @@
     {
       "i": "KQ:042940",
       "n": "상지건설"
-    },
-    {
-      "i": "KQ:043090",
-      "n": "더테크놀로지"
     },
     {
       "i": "KQ:043100",
@@ -39145,6 +39137,10 @@
       "n": "AgomAb Therapeutics NV - ADRs representing one common share."
     },
     {
+      "i": "Q:AGMH",
+      "n": "AGM Group Holdings Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:AGMI",
       "n": "Themes Silver Miners ETF"
     },
@@ -41049,10 +41045,6 @@
       "n": "Breeze Acquisition Corp. II - Ordinary Shares"
     },
     {
-      "i": "Q:BRFH",
-      "n": "Barfresh Food Group Inc."
-    },
-    {
       "i": "Q:BRHY",
       "n": "iShares High Yield Active ETF"
     },
@@ -42111,6 +42103,10 @@
     {
       "i": "Q:CNDT",
       "n": "Conduent Incorporated"
+    },
+    {
+      "i": "Q:CNL",
+      "n": "Collective Mining Ltd."
     },
     {
       "i": "Q:CNOB",
@@ -45095,10 +45091,6 @@
     {
       "i": "Q:GIEQ",
       "n": "Goldman Sachs Data Enhanced International Equity ETF"
-    },
-    {
-      "i": "Q:GIFT",
-      "n": "Giftify, Inc."
     },
     {
       "i": "Q:GIGM",
@@ -48117,10 +48109,6 @@
       "n": "Melar Acquisition Corp. I - Class A Ordinary Shares"
     },
     {
-      "i": "Q:MAGH",
-      "n": "Magnitude International Ltd - Ordinary Shares"
-    },
-    {
       "i": "Q:MAKO",
       "n": "Mako Mining Corp"
     },
@@ -49095,6 +49083,10 @@
     {
       "i": "Q:NCO",
       "n": "Southern Cross Acquisition I Corp. - Ordinary Shares"
+    },
+    {
+      "i": "Q:NCRA",
+      "n": "Nocera, Inc."
     },
     {
       "i": "Q:NCSM",
@@ -52561,6 +52553,10 @@
       "n": "Sight Sciences, Inc."
     },
     {
+      "i": "Q:SGLY",
+      "n": "Singularity Future Technology Ltd."
+    },
+    {
       "i": "Q:SGML",
       "n": "Sigma Lithium Corporation - common shares"
     },
@@ -53399,10 +53395,6 @@
     {
       "i": "Q:STX",
       "n": "Seagate Technology Holdings PLC - Ordinary Shares (Ireland)"
-    },
-    {
-      "i": "Q:SUGP",
-      "n": "SU Group Holdings Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:SUIG",
@@ -55823,6 +55815,10 @@
     {
       "i": "Q:YAAS",
       "n": "Youxin Technology Ltd - Class A Ordinary shares"
+    },
+    {
+      "i": "Q:YARW",
+      "n": "Yarrow Bioscience, Inc."
     },
     {
       "i": "Q:YB",
@@ -59073,6 +59069,10 @@
       "n": "Corgi LITE 2x Daily ETF"
     },
     {
+      "i": "Z:LITG",
+      "n": "Leverage Shares 2X Long LITE Daily ETF"
+    },
+    {
       "i": "Z:LITU",
       "n": "T-REX 2X Long LITE Daily Target ETF"
     },
@@ -59361,6 +59361,10 @@
       "n": "Tradr 2X Long MPWR Daily ETF"
     },
     {
+      "i": "Z:MRAX",
+      "n": "Tradr 2X Long MRAM Daily ETF"
+    },
+    {
       "i": "Z:MRCP",
       "n": "PGIM S&P 500 Buffer 12 ETF - March"
     },
@@ -59459,6 +59463,10 @@
     {
       "i": "Z:MVFG",
       "n": "Monarch Volume Factor Global Unconstrained Index ETF"
+    },
+    {
+      "i": "Z:MXLL",
+      "n": "Leverage Shares 2X Long MXL Daily ETF"
     },
     {
       "i": "Z:MYLD",
@@ -60669,6 +60677,10 @@
       "n": "Corgi SIMO 2x Daily ETF"
     },
     {
+      "i": "Z:SITX",
+      "n": "Tradr 2X Long SITM Daily ETF"
+    },
+    {
       "i": "Z:SIXD",
       "n": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF"
     },
@@ -60923,6 +60935,10 @@
     {
       "i": "Z:STEN",
       "n": "iShares Large Cap 10% Target Buffer Sep ETF"
+    },
+    {
+      "i": "Z:STLL",
+      "n": "Leverage Shares 2X Long STRL Daily ETF"
     },
     {
       "i": "Z:STLR",
@@ -61291,6 +61307,10 @@
     {
       "i": "Z:UMAY",
       "n": "Innovator U.S. Equity Ultra Buffer ETF - May"
+    },
+    {
+      "i": "Z:UMCU",
+      "n": "Tradr 2X Long UMC Daily ETF"
     },
     {
       "i": "Z:UMCX",

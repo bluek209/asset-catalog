@@ -1806,9 +1806,9 @@
       "k": "RUNE"
     },
     {
-      "e": "Ravencoin",
+      "e": "RVN",
       "i": "BN:RVN-USDT",
-      "k": "레이븐코인"
+      "k": "RVN"
     },
     {
       "e": "Sonic",
@@ -3111,6 +3111,11 @@
       "k": "두들즈"
     },
     {
+      "e": "DAPPOS",
+      "i": "BT:DOS-KRW",
+      "k": "댑오에스"
+    },
+    {
       "e": "Polkadot",
       "i": "BT:DOT-KRW",
       "k": "폴카닷"
@@ -4161,11 +4166,6 @@
       "k": "알에스에스쓰리"
     },
     {
-      "e": "Ravencoin",
-      "i": "BT:RVN-KRW",
-      "k": "레이븐코인"
-    },
-    {
       "e": "Sonic",
       "i": "BT:S-KRW",
       "k": "소닉"
@@ -5126,6 +5126,11 @@
       "k": "두들즈"
     },
     {
+      "e": "DAPPOS",
+      "i": "UP:DOS-KRW",
+      "k": "댑오에스"
+    },
+    {
       "e": "Polkadot",
       "i": "UP:DOT-KRW",
       "k": "폴카닷"
@@ -5744,11 +5749,6 @@
       "e": "Ripple USD",
       "i": "UP:RLUSD-KRW",
       "k": "리플유에스디"
-    },
-    {
-      "e": "Ravencoin",
-      "i": "UP:RVN-KRW",
-      "k": "레이븐코인"
     },
     {
       "e": "Safe",
