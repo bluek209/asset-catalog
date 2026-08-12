@@ -901,6 +901,11 @@
       "k": "GLWB"
     },
     {
+      "e": "GMEB",
+      "i": "BN:GMEB-USDT",
+      "k": "GMEB"
+    },
+    {
       "e": "GMT",
       "i": "BN:GMT-USDT",
       "k": "GMT"
@@ -1631,9 +1636,9 @@
       "k": "POWR"
     },
     {
-      "e": "PROM",
+      "e": "Prom",
       "i": "BN:PROM-USDT",
-      "k": "PROM"
+      "k": "프롬"
     },
     {
       "e": "PROVE",
@@ -2111,9 +2116,9 @@
       "k": "TQQQB"
     },
     {
-      "e": "TRB",
+      "e": "Tellor",
       "i": "BN:TRB-USDT",
-      "k": "TRB"
+      "k": "텔러"
     },
     {
       "e": "Treehouse",
@@ -4451,6 +4456,11 @@
       "k": "오리진트레일"
     },
     {
+      "e": "Tellor",
+      "i": "BT:TRB-KRW",
+      "k": "텔러"
+    },
+    {
       "e": "Treehouse",
       "i": "BT:TREE-KRW",
       "k": "트리하우스"
@@ -5684,6 +5694,11 @@
       "e": "Perle",
       "i": "UP:PRL-KRW",
       "k": "펄"
+    },
+    {
+      "e": "Prom",
+      "i": "UP:PROM-KRW",
+      "k": "프롬"
     },
     {
       "e": "Pharos",

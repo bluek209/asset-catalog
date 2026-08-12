@@ -953,6 +953,10 @@
       "n": "SMJ International Holdings Inc. Class A Ordinary Shares"
     },
     {
+      "i": "A:SNSC",
+      "n": "SunScout Holding Limited Class A Ordinary Shares"
+    },
+    {
       "i": "A:SOAR",
       "n": "Volato Group, Inc. Class A Common Stock"
     },
@@ -11693,8 +11697,20 @@
       "n": "PLUS SK하이닉스샌디스크채권혼합50"
     },
     {
+      "i": "KS:0226D0",
+      "n": "FOCUS 금융반도체지주채권혼합50액티브"
+    },
+    {
       "i": "KS:0226G0",
       "n": "WON 피지컬AI TOP2플러스액티브"
+    },
+    {
+      "i": "KS:0227K0",
+      "n": "RISE 미국우주위성통신"
+    },
+    {
+      "i": "KS:0228G0",
+      "n": "ACE 반도체Plus전략산업"
     },
     {
       "i": "KS:023000",
@@ -11879,10 +11895,6 @@
     {
       "i": "KS:031430",
       "n": "신세계인터내셔날"
-    },
-    {
-      "i": "KS:031440",
-      "n": "신세계푸드"
     },
     {
       "i": "KS:031820",
@@ -22109,6 +22121,10 @@
       "n": "Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock"
     },
     {
+      "i": "N:FOIL",
+      "n": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares"
+    },
+    {
       "i": "N:FOR",
       "n": "Forestar Group Inc Common Stock"
     },
@@ -24199,14 +24215,6 @@
     {
       "i": "N:MDU",
       "n": "MDU Resources Group, Inc. Common Stock (Holding Company)"
-    },
-    {
-      "i": "N:MDV",
-      "n": "Modiv Industrial, Inc. Class C Common Stock"
-    },
-    {
-      "i": "N:MDV-PA",
-      "n": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock"
     },
     {
       "i": "N:MEC",
@@ -30241,6 +30249,10 @@
       "n": "Cohen & Steers Preferred and Income Opportunities Active ETF"
     },
     {
+      "i": "P:CSRA",
+      "n": "Cohen & Steers Real Assets Active ETF"
+    },
+    {
       "i": "P:CSRE",
       "n": "Cohen & Steers Real Estate Active ETF"
     },
@@ -32287,6 +32299,10 @@
     {
       "i": "P:GABF",
       "n": "Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF"
+    },
+    {
+      "i": "P:GAIQ",
+      "n": "Guinness Atkinson Global Innovators Fund: ETF Class Shares"
     },
     {
       "i": "P:GAL",
@@ -34619,6 +34635,14 @@
     {
       "i": "P:MOTO",
       "n": "Guinness Atkinson Smart Transportation & Technology ETF"
+    },
+    {
+      "i": "P:MPDY",
+      "n": "m+ DualYield Autocall ETF"
+    },
+    {
+      "i": "P:MPIM",
+      "n": "m+ Income Momentum Autocall ETF"
     },
     {
       "i": "P:MPL",
@@ -45941,10 +45965,6 @@
       "n": "Hesai Group - American Depositary Share"
     },
     {
-      "i": "Q:HSCS",
-      "n": "HeartSciences Inc."
-    },
-    {
       "i": "Q:HSDT",
       "n": "Solana Company - Class A Common Stock"
     },
@@ -48693,6 +48713,10 @@
       "n": "Leverage Shares 2X Long MP Daily ETF"
     },
     {
+      "i": "Q:MPIA",
+      "n": "m+ Nasdaq-100 Accelerator Autocall ETF"
+    },
+    {
       "i": "Q:MPLT",
       "n": "MapLight Therapeutics, Inc."
     },
@@ -50637,6 +50661,10 @@
       "n": "Children's Place, Inc. (The)"
     },
     {
+      "i": "Q:PLCI",
+      "n": "Pelican Acquisition II Corporation - Ordinary Shares"
+    },
+    {
       "i": "Q:PLMK",
       "n": "Plum Acquisition Corp. IV - Class A Ordinary Shares"
     },
@@ -51933,10 +51961,6 @@
       "n": "Republic Airways Holdings Inc."
     },
     {
-      "i": "Q:RKDA",
-      "n": "Arcadia Biosciences, Inc."
-    },
-    {
       "i": "Q:RKLB",
       "n": "Rocket Lab Corporation"
     },
@@ -52107,6 +52131,10 @@
     {
       "i": "Q:RPRX",
       "n": "Royalty Pharma plc - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:RR",
+      "n": "Richtech Robotics Inc. - Class B Common Stock"
     },
     {
       "i": "Q:RRBI",
@@ -53874,7 +53902,7 @@
     },
     {
       "i": "Q:TJGC",
-      "n": "TJGC Group Limited - ordinary shares"
+      "n": "TJGC Group Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:TKLF",
@@ -55003,6 +55031,10 @@
     {
       "i": "Q:VOD",
       "n": "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares"
+    },
+    {
+      "i": "Q:VOGX",
+      "n": "Vogenx Inc"
     },
     {
       "i": "Q:VOLT",
@@ -57773,6 +57805,10 @@
       "n": "iShares MSCI United Kingdom Small Cap ETF"
     },
     {
+      "i": "Z:EXPN",
+      "n": "Horizon Expansion Leaders ETF"
+    },
+    {
       "i": "Z:EYES",
       "n": "Corgi Data & Surveillance ETF"
     },
@@ -59343,6 +59379,10 @@
     {
       "i": "Z:MOTI",
       "n": "VanEck Morningstar International Moat ETF"
+    },
+    {
+      "i": "Z:MPDB",
+      "n": "m+ DynaBuffer ETF"
     },
     {
       "i": "Z:MPLY",
@@ -61911,6 +61951,10 @@
     {
       "i": "Z:YJUN",
       "n": "FT Vest International Equity Moderate Buffer ETF - June"
+    },
+    {
+      "i": "Z:YLDY",
+      "n": "Horizon High Income ETF"
     },
     {
       "i": "Z:YMAR",
