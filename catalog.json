@@ -6506,7 +6506,7 @@
     },
     {
       "i": "KQ:291650",
-      "n": "압타머사이언스"
+      "n": "츌립앤사이언스"
     },
     {
       "i": "KQ:291810",
@@ -8239,6 +8239,10 @@
     {
       "i": "KQ:482690",
       "n": "대신밸런스제19호스팩"
+    },
+    {
+      "i": "KQ:483350",
+      "n": "딜리셔스"
     },
     {
       "i": "KQ:484120",
@@ -50009,10 +50013,6 @@
       "n": "Optex Systems Holdings, Inc."
     },
     {
-      "i": "Q:ORBS",
-      "n": "Eightco Holdings Inc."
-    },
-    {
       "i": "Q:ORBX",
       "n": "Global X Space Tech ETF"
     },
@@ -52707,6 +52707,10 @@
     {
       "i": "Q:SIMO",
       "n": "Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares"
+    },
+    {
+      "i": "Q:SINT",
+      "n": "SiNtx Technologies, Inc."
     },
     {
       "i": "Q:SION",
