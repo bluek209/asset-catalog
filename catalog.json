@@ -32773,6 +32773,10 @@
       "n": "Xtrackers International Real Estate ETF"
     },
     {
+      "i": "P:HAWG",
+      "n": "HCM Hedged Equity ETF"
+    },
+    {
       "i": "P:HAWX",
       "n": "iShares Currency Hedged MSCI ACWI ex U.S. ETF"
     },
@@ -38965,12 +38969,24 @@
       "n": "Aclarion, Inc."
     },
     {
+      "i": "Q:ACQQ",
+      "n": "ProShares Nasdaq-100 Autocallable Income ETF"
+    },
+    {
       "i": "Q:ACRS",
       "n": "Aclaris Therapeutics, Inc."
     },
     {
+      "i": "Q:ACRT",
+      "n": "ProShares Russell 2000 Autocallable Income ETF"
+    },
+    {
       "i": "Q:ACRV",
       "n": "Acrivon Therapeutics, Inc."
+    },
+    {
+      "i": "Q:ACSP",
+      "n": "ProShares S&P 500 Autocallable Income ETF"
     },
     {
       "i": "Q:ACT",
@@ -40981,10 +40997,6 @@
       "n": "Burning Rock Biotech Limited - American Depositary Shares"
     },
     {
-      "i": "Q:BNRG",
-      "n": "Brenmiller Energy Ltd - Ordinary Shares"
-    },
-    {
       "i": "Q:BNTC",
       "n": "Benitec Biopharma Inc."
     },
@@ -41115,6 +41127,10 @@
     {
       "i": "Q:BRLT",
       "n": "Brilliant Earth Group, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:BRNX",
+      "n": "BrenX Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:BRNY",
@@ -43883,6 +43899,10 @@
     {
       "i": "Q:EVYM",
       "n": "Eaton Vance High Income Municipal ETF"
+    },
+    {
+      "i": "Q:EWAV",
+      "n": "East West Ave Acquisition Corp."
     },
     {
       "i": "Q:EWBC",
@@ -51381,10 +51401,6 @@
       "n": "QumulusAI, Inc."
     },
     {
-      "i": "Q:QMMM",
-      "n": "QMMM Holdings Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:QMOM",
       "n": "Alpha Architect U.S. Quantitative Momentum ETF"
     },
@@ -53863,6 +53879,10 @@
     {
       "i": "Q:THCH",
       "n": "TH International Limited - Ordinary shares"
+    },
+    {
+      "i": "Q:THEO",
+      "n": "BOA Acquisition Corp. II - Class A Ordinary Shares"
     },
     {
       "i": "Q:THFF",
@@ -56691,6 +56711,10 @@
     {
       "i": "Z:BEGS",
       "n": "Rareview 2x Bull Cryptocurrency & Precious Metals ETF"
+    },
+    {
+      "i": "Z:BEMD",
+      "n": "BNY Mellon Emerging Markets Debt ETF"
     },
     {
       "i": "Z:BESF",
