@@ -382,7 +382,7 @@
     },
     {
       "i": "A:GCDT",
-      "n": "Green Circle Decarbonize Technology Limited Ordinary Shares"
+      "n": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares"
     },
     {
       "i": "A:GENC",
@@ -8271,6 +8271,10 @@
     {
       "i": "KQ:487360",
       "n": "신한제14호스팩"
+    },
+    {
+      "i": "KQ:487400",
+      "n": "케이앤에스아이앤씨"
     },
     {
       "i": "KQ:487580",
@@ -26517,6 +26521,10 @@
       "n": "Robinhood Ventures Fund I Common Shares of Beneficial Interest"
     },
     {
+      "i": "N:RVII",
+      "n": "Robinhood Ventures Fund II Common Shares of Beneficial Interest"
+    },
+    {
       "i": "N:RVLV",
       "n": "Revolve Group, Inc. Class A Common Stock"
     },
@@ -29041,6 +29049,10 @@
       "n": "ProShares MSCI Transformational Changes ETF"
     },
     {
+      "i": "P:ANTW",
+      "n": "Anthropic AI Lab Ecosystem ETF"
+    },
+    {
       "i": "P:AOA",
       "n": "iShares Core 80/20 Aggressive Allocation ETF"
     },
@@ -30353,6 +30365,10 @@
       "n": "DoubleLine Asset-Backed Securities ETF"
     },
     {
+      "i": "P:DACL",
+      "n": "REX Defensive Autocallable Income ETF"
+    },
+    {
       "i": "P:DAMD",
       "n": "Defiance Daily Target 2X Short AMD ETF"
     },
@@ -30463,6 +30479,10 @@
     {
       "i": "P:DEM",
       "n": "WisdomTree Emerging Markets High Dividend Fund"
+    },
+    {
+      "i": "P:DEPW",
+      "n": "Google DeepMind AI Lab Ecosystem ETF"
     },
     {
       "i": "P:DES",
@@ -32757,6 +32777,10 @@
       "n": "iShares Currency Hedged MSCI ACWI ex U.S. ETF"
     },
     {
+      "i": "P:HBIL",
+      "n": "Harbor Short Term Treasury ETF"
+    },
+    {
       "i": "P:HBTA",
       "n": "Horizon Expedition Plus ETF"
     },
@@ -33543,10 +33567,6 @@
     {
       "i": "P:IVOV",
       "n": "Vanguard S&P Mid-Cap 400 Value ETF"
-    },
-    {
-      "i": "P:IVRS",
-      "n": "iShares Future Metaverse Tech and Communications ETF"
     },
     {
       "i": "P:IVV",
@@ -34701,6 +34721,10 @@
       "n": "YieldMax MSTR Option Income Strategy ETF"
     },
     {
+      "i": "P:MTAW",
+      "n": "Meta AI Lab Ecosystem ETF"
+    },
+    {
       "i": "P:MTBA",
       "n": "Simplify MBS ETF"
     },
@@ -35027,6 +35051,10 @@
     {
       "i": "P:OAIM",
       "n": "OneAscent International Equity ETF"
+    },
+    {
+      "i": "P:OAIW",
+      "n": "OpenAI Lab Ecosystem ETF"
     },
     {
       "i": "P:OAKG",
@@ -38249,6 +38277,10 @@
       "n": "Eaton Vance Income Opportunities ETF"
     },
     {
+      "i": "P:XAIW",
+      "n": "SpaceXAI Lab Ecosystem ETF"
+    },
+    {
       "i": "P:XAR",
       "n": "State Street SPDR S&P Aerospace & Defense ETF"
     },
@@ -39349,10 +39381,6 @@
       "n": "AIxCrypto Holdings, Inc."
     },
     {
-      "i": "Q:AIXI",
-      "n": "XIAO-I Corporation - American Depositary Shares"
-    },
-    {
       "i": "Q:AKAM",
       "n": "Akamai Technologies, Inc."
     },
@@ -39719,10 +39747,6 @@
     {
       "i": "Q:ANPA",
       "n": "Rich Sparkle Holdings Limited - Ordinary Shares"
-    },
-    {
-      "i": "Q:ANSC",
-      "n": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares"
     },
     {
       "i": "Q:ANTA",
@@ -40213,10 +40237,6 @@
       "n": "Aveanna Healthcare Holdings Inc."
     },
     {
-      "i": "Q:AVAT",
-      "n": "Avalanche Treasury Corporation - Class A Common Stock"
-    },
-    {
       "i": "Q:AVAV",
       "n": "AeroVironment, Inc."
     },
@@ -40615,10 +40635,6 @@
     {
       "i": "Q:BELFB",
       "n": "Bel Fuse Inc. - Class B Common Stock"
-    },
-    {
-      "i": "Q:BELT",
-      "n": "iShares U.S. Select Equity Active ETF"
     },
     {
       "i": "Q:BENF",
@@ -41805,6 +41821,10 @@
       "n": "CG Oncology, Inc."
     },
     {
+      "i": "Q:CGPT",
+      "n": "VegaShares AI Inference ETF"
+    },
+    {
       "i": "Q:CGTL",
       "n": "Creative Global Technology Holdings Limited - Class A Ordinary Shares"
     },
@@ -42259,6 +42279,10 @@
     {
       "i": "Q:COO",
       "n": "The Cooper Companies, Inc."
+    },
+    {
+      "i": "Q:COOL",
+      "n": "VegaShares AI Thermal, Cooling & Power Management ETF"
     },
     {
       "i": "Q:COPJ",
@@ -45111,6 +45135,10 @@
     {
       "i": "Q:GHRS",
       "n": "GH Research PLC - Ordinary Shares"
+    },
+    {
+      "i": "Q:GHXI",
+      "n": "Gores Holdings XI, Inc. - Class A Ordinary Shares"
     },
     {
       "i": "Q:GIBO",
@@ -49169,10 +49197,6 @@
       "n": "Neogen Corporation"
     },
     {
-      "i": "Q:NEON",
-      "n": "Neonode Inc."
-    },
-    {
       "i": "Q:NEOV",
       "n": "NeoVolta Inc."
     },
@@ -51357,6 +51381,10 @@
       "n": "QumulusAI, Inc."
     },
     {
+      "i": "Q:QMMM",
+      "n": "QMMM Holdings Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:QMOM",
       "n": "Alpha Architect U.S. Quantitative Momentum ETF"
     },
@@ -51975,10 +52003,6 @@
     {
       "i": "Q:RKNG",
       "n": "Defiance Retail Kings ETF"
-    },
-    {
-      "i": "Q:RKTO",
-      "n": "Rocket One Inc."
     },
     {
       "i": "Q:RLAY",
@@ -57627,22 +57651,6 @@
     {
       "i": "Z:EALT",
       "n": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly"
-    },
-    {
-      "i": "Z:EAOA",
-      "n": "iShares ESG Aware 80/20 Aggressive Allocation ETF"
-    },
-    {
-      "i": "Z:EAOK",
-      "n": "iShares ESG Aware 30/70 Conservative Allocation ETF"
-    },
-    {
-      "i": "Z:EAOM",
-      "n": "iShares ESG Aware 40/60 Moderate Allocation ETF"
-    },
-    {
-      "i": "Z:EAOR",
-      "n": "iShares ESG Aware 60/40 Balanced Allocation ETF"
     },
     {
       "i": "Z:ECH",
