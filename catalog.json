@@ -42537,6 +42537,10 @@
       "n": "GraniteShares YieldBOOST CRCL ETF"
     },
     {
+      "i": "Q:CSAI",
+      "n": "Cloudastructure, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:CSB",
       "n": "VictoryShares US Small Cap High Div Volatility Wtd ETF"
     },
@@ -43571,10 +43575,6 @@
     {
       "i": "Q:ELTX",
       "n": "Elicio Therapeutics, Inc."
-    },
-    {
-      "i": "Q:ELUT",
-      "n": "Elutia, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:ELVA",
@@ -48703,10 +48703,6 @@
     {
       "i": "Q:MNVT",
       "n": "Moonvest ETF"
-    },
-    {
-      "i": "Q:MNY",
-      "n": "MoneyHero Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:MNZL",
