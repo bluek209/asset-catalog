@@ -19193,10 +19193,6 @@
       "n": "Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)"
     },
     {
-      "i": "N:AVB",
-      "n": "AvalonBay Communities, Inc. Common Stock"
-    },
-    {
       "i": "N:AVBC",
       "n": "Avidia Bancorp, Inc. Common Stock"
     },
@@ -19401,10 +19397,6 @@
       "n": "Banco BBVA Argentina S.A. ADS"
     },
     {
-      "i": "N:BBBY",
-      "n": "Bed Bath & Beyond, Inc. Common Stock"
-    },
-    {
       "i": "N:BBD",
       "n": "Banco Bradesco Sa American Depositary Shares"
     },
@@ -19522,7 +19514,7 @@
     },
     {
       "i": "N:BEN",
-      "n": "Franklin Resources, Inc. Common Stock"
+      "n": "Franklin Templeton, Inc. Common Stock"
     },
     {
       "i": "N:BEPC",
@@ -29349,10 +29341,6 @@
       "n": "Bancreek Global Select ETF"
     },
     {
-      "i": "P:BCHI",
-      "n": "GMO Beyond China ETF"
-    },
-    {
       "i": "P:BCI",
       "n": "abrdn Bloomberg All Commodity Strategy K-1 Free ETF"
     },
@@ -31678,11 +31666,11 @@
     },
     {
       "i": "P:FEDM",
-      "n": "FlexShares ESG & Climate Developed Markets ex-US Core Index Fund"
+      "n": "Northern Trust ESG & Climate Developed Markets ex-US Core ETF"
     },
     {
       "i": "P:FEIG",
-      "n": "FlexShares ESG & Climate Investment Grade Corporate Core Index Fund"
+      "n": "Northern Trust ESG & Climate Investment Grade Corporate Core ETF"
     },
     {
       "i": "P:FELC",
@@ -31730,7 +31718,7 @@
     },
     {
       "i": "P:FEUS",
-      "n": "FlexShares ESG & Climate US Large Cap Core Index Fund"
+      "n": "Northern Trust ESG & Climate US Large Cap Core ETF"
     },
     {
       "i": "P:FEZ",
@@ -32582,7 +32570,7 @@
     },
     {
       "i": "P:GQRE",
-      "n": "FlexShares Global Quality Real Estate Index Fund"
+      "n": "Northern Trust Global Quality Real Estate ETF"
     },
     {
       "i": "P:GREK",
@@ -32674,7 +32662,7 @@
     },
     {
       "i": "P:GUNR",
-      "n": "FlexShares Global Upstream Natural Resources Index Fund ETF"
+      "n": "Northern Trust Morningstar Global Upstream Natural Resources ETF"
     },
     {
       "i": "P:GURU",
@@ -33410,11 +33398,11 @@
     },
     {
       "i": "P:IQDF",
-      "n": "FlexShares International Quality Dividend Index Fund"
+      "n": "Northern Trust International Quality Dividend ETF"
     },
     {
       "i": "P:IQDY",
-      "n": "FlexShares International Quality Dividend Dynamic Index Fund"
+      "n": "Northern Trust International Quality Dividend Dynamic ETF"
     },
     {
       "i": "P:IQHI",
@@ -34430,7 +34418,7 @@
     },
     {
       "i": "P:MBSD",
-      "n": "FlexShares Disciplined Duration MBS Index Fund"
+      "n": "Northern Trust Disciplined Duration MBS ETF"
     },
     {
       "i": "P:MBSF",
@@ -34898,7 +34886,7 @@
     },
     {
       "i": "P:NFRA",
-      "n": "FlexShares STOXX Global Broad Infrastructure Index Fund"
+      "n": "Northern Trust STOXX Global Broad Infrastructure ETF"
     },
     {
       "i": "P:NGIF",
@@ -35249,10 +35237,6 @@
       "n": "Invesco WilderHill Clean Energy ETF"
     },
     {
-      "i": "P:PCCE",
-      "n": "Polen Capital China Growth ETF"
-    },
-    {
       "i": "P:PCEF",
       "n": "Invesco CEF Income Composite ETF"
     },
@@ -35261,16 +35245,8 @@
       "n": "Polen Floating Rate Income ETF"
     },
     {
-      "i": "P:PCGG",
-      "n": "Polen Capital Global Growth ETF"
-    },
-    {
       "i": "P:PCHI",
       "n": "Polen High Income ETF"
-    },
-    {
-      "i": "P:PCIG",
-      "n": "Polen Capital International Growth ETF"
     },
     {
       "i": "P:PCLC",
@@ -35642,11 +35618,11 @@
     },
     {
       "i": "P:QDEF",
-      "n": "FlexShares Quality Dividend Defensive Index Fund"
+      "n": "Northern Trust Quality Dividend Defensive ETF"
     },
     {
       "i": "P:QDF",
-      "n": "FlexShares Quality Dividend Index Fund"
+      "n": "Northern Trust Quality Dividend ETF"
     },
     {
       "i": "P:QDIV",
@@ -35710,15 +35686,15 @@
     },
     {
       "i": "P:QLV",
-      "n": "FlexShares US Quality Low Volatility Index Fund"
+      "n": "Northern Trust US Quality Low Volatility ETF"
     },
     {
       "i": "P:QLVD",
-      "n": "FlexShares Developed Markets ex-US Quality Low Volatility Index Fund"
+      "n": "Northern Trust Developed Markets ex-US Quality Low Volatility ETF"
     },
     {
       "i": "P:QLVE",
-      "n": "FlexShares Emerging Markets Quality Low Volatility Index Fund"
+      "n": "Northern Trust Emerging Markets Quality Low Volatility ETF"
     },
     {
       "i": "P:QPX",
@@ -35806,7 +35782,7 @@
     },
     {
       "i": "P:RAVI",
-      "n": "FlexShares Ultra-Short Income Fund"
+      "n": "Northern Trust Ultra-Short Fixed Income ETF"
     },
     {
       "i": "P:RBLD",
@@ -37166,11 +37142,11 @@
     },
     {
       "i": "P:TDTF",
-      "n": "FlexShares iBoxx 5 Year Target Duration TIPS Index Fund"
+      "n": "Northern Trust iBoxx 5-Year Target Duration TIPS ETF"
     },
     {
       "i": "P:TDTT",
-      "n": "FlexShares iBoxx 3 Year Target Duration TIPS Index Fund"
+      "n": "Northern Trust iBoxx 3-Year Target Duration TIPS ETF"
     },
     {
       "i": "P:TDVG",
@@ -37346,11 +37322,11 @@
     },
     {
       "i": "P:TLTD",
-      "n": "FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund"
+      "n": "Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF"
     },
     {
       "i": "P:TLTE",
-      "n": "FlexShares Morningstar Emerging Markets Factor Tilt Index Fund"
+      "n": "Northern Trust Morningstar Emerging Markets Factor Tilt ETF"
     },
     {
       "i": "P:TMF",
@@ -38697,6 +38673,10 @@
       "n": "Amplify Municipal CEF High Income ETF"
     },
     {
+      "i": "P:ZDIS",
+      "n": "Virtus Zevenbergen Discovery Growth ETF"
+    },
+    {
       "i": "P:ZETX",
       "n": "Defiance Daily Target 2x Long ZETA ETF"
     },
@@ -38711,6 +38691,10 @@
     {
       "i": "P:ZINC",
       "n": "Zacks Income ETF"
+    },
+    {
+      "i": "P:ZINN",
+      "n": "Virtus Zevenbergen Innovative Growth ETF"
     },
     {
       "i": "P:ZROZ",
@@ -46755,10 +46739,6 @@
     {
       "i": "Q:IPAR",
       "n": "Interparfums, Inc."
-    },
-    {
-      "i": "Q:IPCX",
-      "n": "Inflection Point Acquisition Corp. III - Class A ordinary shares"
     },
     {
       "i": "Q:IPEX",
@@ -57094,7 +57074,7 @@
     },
     {
       "i": "Z:CEFS",
-      "n": "Saba Closed-End Funds ETF"
+      "n": "Saba Opportunistic Hedged Closed-End Funds ETF"
     },
     {
       "i": "Z:CEFZ",
@@ -57774,11 +57754,11 @@
     },
     {
       "i": "Z:ESG",
-      "n": "FlexShares STOXX US ESG Select Index Fund"
+      "n": "Northern Trust STOXX US ESG Select ETF"
     },
     {
       "i": "Z:ESGG",
-      "n": "FlexShares STOXX Global ESG Select Index Fund"
+      "n": "Northern Trust STOXX Global ESG Select ETF"
     },
     {
       "i": "Z:ESGV",
@@ -60402,7 +60382,7 @@
     },
     {
       "i": "Z:QLC",
-      "n": "FlexShares US Quality Large Cap Index Fund"
+      "n": "Northern Trust US Quality Large Cap ETF"
     },
     {
       "i": "Z:QMAG",
@@ -60743,6 +60723,10 @@
     {
       "i": "Z:SHYM",
       "n": "iShares Short Duration High Yield Muni Active ETF"
+    },
+    {
+      "i": "Z:SIC",
+      "n": "Tema Power Semiconductor ETF"
     },
     {
       "i": "Z:SIMX",
@@ -61146,7 +61130,7 @@
     },
     {
       "i": "Z:TILT",
-      "n": "FlexShares Mornigstar US Market Factors Tilt Index Fund ETF"
+      "n": "Northern Trust Morningstar US Market Factor Tilt ETF"
     },
     {
       "i": "Z:TJAN",

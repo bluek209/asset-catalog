@@ -76,11 +76,6 @@
       "k": "ACT"
     },
     {
-      "e": "Across Protocol",
-      "i": "BN:ACX-USDT",
-      "k": "어크로스프로토콜"
-    },
-    {
       "e": "ADA",
       "i": "BN:ADA-USDT",
       "k": "ADA"
@@ -981,11 +976,6 @@
       "k": "헤미"
     },
     {
-      "e": "Hashflow",
-      "i": "BN:HFT-USDT",
-      "k": "해시플로우"
-    },
-    {
       "e": "Hive",
       "i": "BN:HIVE-USDT",
       "k": "하이브"
@@ -1586,11 +1576,6 @@
       "k": "팔라네트워크"
     },
     {
-      "e": "PIVX",
-      "i": "BN:PIVX-USDT",
-      "k": "PIVX"
-    },
-    {
       "e": "PIXEL",
       "i": "BN:PIXEL-USDT",
       "k": "PIXEL"
@@ -1664,11 +1649,6 @@
       "e": "PYPLB",
       "i": "BN:PYPLB-USDT",
       "k": "PYPLB"
-    },
-    {
-      "e": "Vulcan Forged",
-      "i": "BN:PYR-USDT",
-      "k": "불칸포지드"
     },
     {
       "e": "Pyth Network",
@@ -2236,11 +2216,6 @@
       "k": "바나"
     },
     {
-      "e": "VANRY",
-      "i": "BN:VANRY-USDT",
-      "k": "VANRY"
-    },
-    {
       "e": "VELODROME",
       "i": "BN:VELODROME-USDT",
       "k": "VELODROME"
@@ -2249,11 +2224,6 @@
       "e": "VeChain",
       "i": "BN:VET-USDT",
       "k": "비체인"
-    },
-    {
-      "e": "VIC",
-      "i": "BN:VIC-USDT",
-      "k": "VIC"
     },
     {
       "e": "Virtuals Protocol",
