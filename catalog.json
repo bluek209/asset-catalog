@@ -6502,7 +6502,7 @@
     },
     {
       "i": "KQ:291230",
-      "n": "엔피"
+      "n": "컴투스엔"
     },
     {
       "i": "KQ:291650",
@@ -21665,10 +21665,6 @@
       "n": "Equinor ASA"
     },
     {
-      "i": "N:EQR",
-      "n": "Equity Residential Common Shares of Beneficial Interest"
-    },
-    {
       "i": "N:EQS",
       "n": "Equus Total Return, Inc. Common Stock"
     },
@@ -28213,6 +28209,10 @@
       "n": "Invesco Municipal Opportunity Trust Common Stock"
     },
     {
+      "i": "N:VMRK",
+      "n": "Vivmark Residential Common Shares of Beneficial Interest"
+    },
+    {
       "i": "N:VNO",
       "n": "Vornado Realty Trust Common Stock"
     },
@@ -30455,10 +30455,6 @@
     {
       "i": "P:DEEP",
       "n": "Acquirers Small and Micro Deep Value ETF"
-    },
-    {
-      "i": "P:DEFI",
-      "n": "Hashdex Bitcoin ETF"
     },
     {
       "i": "P:DEHP",
@@ -39313,6 +39309,10 @@
       "n": "Acuitas Small Cap Active ETF"
     },
     {
+      "i": "Q:AINF",
+      "n": "Defiance Inference AI Chip ETF"
+    },
+    {
       "i": "Q:AIOS",
       "n": "AIOS Tech Inc. - Class A Common Shares"
     },
@@ -40821,6 +40821,10 @@
       "n": "Global X Blockchain ETF"
     },
     {
+      "i": "Q:BKHA",
+      "n": "Black Hawk Acquisition Corporation - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:BKMI",
       "n": "BNY Mellon Municipal Intermediate ETF"
     },
@@ -41797,6 +41801,10 @@
       "n": "Canopy Growth Corporation - Common Shares"
     },
     {
+      "i": "Q:CGCF",
+      "n": "Cartesian Growth Corporation IV - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:CGEM",
       "n": "Cullinan Therapeutics, Inc."
     },
@@ -42153,6 +42161,10 @@
       "n": "Conduent Incorporated"
     },
     {
+      "i": "Q:CNET",
+      "n": "ZW Data Action Technologies Inc."
+    },
+    {
       "i": "Q:CNL",
       "n": "Collective Mining Ltd."
     },
@@ -42459,6 +42471,10 @@
     {
       "i": "Q:CRNX",
       "n": "Crinetics Pharmaceuticals, Inc."
+    },
+    {
+      "i": "Q:CROB",
+      "n": "Defiance China Robotics ETF"
     },
     {
       "i": "Q:CRON",
@@ -42871,6 +42887,10 @@
     {
       "i": "Q:DFLI",
       "n": "Dragonfly Energy Holdings Corp"
+    },
+    {
+      "i": "Q:DFNS",
+      "n": "T3 Defense Inc."
     },
     {
       "i": "Q:DFSC",
@@ -44769,6 +44789,10 @@
       "n": "Future FinTech Group Inc."
     },
     {
+      "i": "Q:FTG",
+      "n": "FullerThaler Behavioral Growth ETF"
+    },
+    {
       "i": "Q:FTGC",
       "n": "First Trust Global Tactical Commodity Strategy Fund"
     },
@@ -46157,6 +46181,10 @@
       "n": "Hyperfine, Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:IA",
+      "n": "Innovative Solutions and Support, Inc."
+    },
+    {
       "i": "Q:IACO",
       "n": "Idea Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -46867,10 +46895,6 @@
     {
       "i": "Q:ISRG",
       "n": "Intuitive Surgical, Inc."
-    },
-    {
-      "i": "Q:ISSC",
-      "n": "Innovative Solutions and Support, Inc."
     },
     {
       "i": "Q:ISTM",
@@ -47671,6 +47695,10 @@
     {
       "i": "Q:LEXI",
       "n": "Alexis Practical Tactical ETF"
+    },
+    {
+      "i": "Q:LEXX",
+      "n": "Lexaria Bioscience Corp."
     },
     {
       "i": "Q:LFAC",
@@ -48777,6 +48805,10 @@
       "n": "Meridian Corporation"
     },
     {
+      "i": "Q:MRCO",
+      "n": "Mercator Acquisition Corp. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MRCY",
       "n": "Mercury Systems Inc"
     },
@@ -49585,6 +49617,10 @@
       "n": "Nuveen US Infrastructure ETF"
     },
     {
+      "i": "Q:NUR",
+      "n": "Nuran Wireless Inc. - Common Shares"
+    },
+    {
       "i": "Q:NUSB",
       "n": "Nuveen Ultra Short Income ETF"
     },
@@ -49687,6 +49723,10 @@
     {
       "i": "Q:NWSA",
       "n": "News Corporation - Class A Common Stock"
+    },
+    {
+      "i": "Q:NXH",
+      "n": "Neighborhood Intelligence, Inc."
     },
     {
       "i": "Q:NXPI",
@@ -53597,10 +53637,6 @@
       "n": "TransAct Technologies Incorporated"
     },
     {
-      "i": "Q:TALK",
-      "n": "Talkspace, Inc."
-    },
-    {
       "i": "Q:TAOP",
       "n": "Taoping Inc. - Ordinary Shares"
     },
@@ -54505,10 +54541,6 @@
       "n": "U Power Limited - Class A Ordinary Shares"
     },
     {
-      "i": "Q:UCL",
-      "n": "uCloudlink Group Inc. - American Depositary Shares"
-    },
-    {
       "i": "Q:UCTT",
       "n": "Ultra Clean Holdings, Inc."
     },
@@ -55277,6 +55309,10 @@
       "n": "Washington Trust Bancorp, Inc."
     },
     {
+      "i": "Q:WATR",
+      "n": "Air Water Ventures Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:WATT",
       "n": "Energous Corporation"
     },
@@ -55691,6 +55727,10 @@
     {
       "i": "Q:XCNY",
       "n": "State Street SPDR S&P Emerging Markets ex-China ETF"
+    },
+    {
+      "i": "Q:XCSH",
+      "n": "XFUNDS 1-3 Month BOX ETF"
     },
     {
       "i": "Q:XDEF",
@@ -56557,6 +56597,10 @@
       "n": "Leverage Shares 2X Long AXTI Daily ETF"
     },
     {
+      "i": "Z:AXTQ",
+      "n": "Tradr 2X Short AXTI Daily ETF"
+    },
+    {
       "i": "Z:AXTU",
       "n": "T-REX 2X Long AXTI Daily Target ETF"
     },
@@ -57167,6 +57211,10 @@
     {
       "i": "Z:COHH",
       "n": "Leverage Shares 2X Long COHR Daily ETF"
+    },
+    {
+      "i": "Z:COHQ",
+      "n": "Tradr 2X Short COHR Daily ETF"
     },
     {
       "i": "Z:COHX",
@@ -58457,6 +58505,10 @@
       "n": "WisdomTree Private Credit and Alternative Income Fund"
     },
     {
+      "i": "Z:IACL",
+      "n": "GraniteShares US 100 Autocallable Income ETF"
+    },
+    {
       "i": "Z:IAUI",
       "n": "NEOS Gold High Income ETF"
     },
@@ -59185,6 +59237,10 @@
       "n": "Franklin International Low Volatility High Dividend Index ETF"
     },
     {
+      "i": "Z:LWLX",
+      "n": "Tradr 2X Long LWLG Daily ETF"
+    },
+    {
       "i": "Z:LYLD",
       "n": "Cambria Large Cap Shareholder Yield ETF"
     },
@@ -59319,6 +59375,10 @@
     {
       "i": "Z:METG",
       "n": "Leverage Shares 2X Long META Daily ETF"
+    },
+    {
+      "i": "Z:METQ",
+      "n": "Tradr 2X Short META Daily ETF"
     },
     {
       "i": "Z:METW",
