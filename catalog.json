@@ -6589,10 +6589,6 @@
       "n": "셀리드"
     },
     {
-      "i": "KQ:299900",
-      "n": "위지윅스튜디오"
-    },
-    {
       "i": "KQ:300080",
       "n": "플리토"
     },
@@ -8431,6 +8427,10 @@
     {
       "i": "KQ:950250",
       "n": "테라뷰"
+    },
+    {
+      "i": "KQ:950260",
+      "n": "인제니아테라퓨틱스(Reg.S)"
     },
     {
       "i": "KS:000020",
@@ -24073,6 +24073,10 @@
       "n": "Lloyds Banking Group Plc American Depositary Shares"
     },
     {
+      "i": "N:LYNX",
+      "n": "Lyntris Inc. Common Stock"
+    },
+    {
       "i": "N:LYV",
       "n": "Live Nation Entertainment, Inc. Common Stock"
     },
@@ -28917,6 +28921,10 @@
       "n": "Allspring LT Large Growth ETF"
     },
     {
+      "i": "P:AHBM",
+      "n": "Amplify Top 10 Asia Memory ETF"
+    },
+    {
       "i": "P:AHLT",
       "n": "AHL Trend ETF"
     },
@@ -29059,10 +29067,6 @@
     {
       "i": "P:AOR",
       "n": "iShares Core 60/40 Balanced Allocation ETF"
-    },
-    {
-      "i": "P:AOTS",
-      "n": "AOT Software Platform ETF"
     },
     {
       "i": "P:APIE",
@@ -33577,20 +33581,12 @@
       "n": "iShares Russell 1000 Value ETF"
     },
     {
-      "i": "P:IWDL",
-      "n": "ETRACS 2x Leveraged US Value Factor TR ETN"
-    },
-    {
       "i": "P:IWF",
       "n": "iShares Russell 1000 Growth Fund"
     },
     {
       "i": "P:IWFG",
       "n": "NYLI Winslow Focused Large Cap Growth ETF"
-    },
-    {
-      "i": "P:IWFL",
-      "n": "ETRACS 2x Leveraged US Growth Factor TR ETN"
     },
     {
       "i": "P:IWL",
@@ -33603,10 +33599,6 @@
     {
       "i": "P:IWM",
       "n": "iShares Russell 2000 Index Fund"
-    },
-    {
-      "i": "P:IWML",
-      "n": "ETRACS 2x Leveraged US Size Factor TR ETN"
     },
     {
       "i": "P:IWMY",
@@ -33991,6 +33983,10 @@
     {
       "i": "P:JXI",
       "n": "iShares Global Utilities ETF"
+    },
+    {
+      "i": "P:KAIT",
+      "n": "KraneShares Asia AI Technology ETF"
     },
     {
       "i": "P:KARS",
@@ -34715,10 +34711,6 @@
     {
       "i": "P:MTBA",
       "n": "Simplify MBS ETF"
-    },
-    {
-      "i": "P:MTUL",
-      "n": "ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN"
     },
     {
       "i": "P:MUNA",
@@ -35721,10 +35713,6 @@
       "n": "Zacks Quality International ETF"
     },
     {
-      "i": "P:QULL",
-      "n": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN"
-    },
-    {
       "i": "P:QUS",
       "n": "State Street SPDR MSCI USA StrategicFactors ETF"
     },
@@ -35989,6 +35977,10 @@
       "n": "ROBO Global Robotics and Automation Index ETF"
     },
     {
+      "i": "P:ROBX",
+      "n": "Amplify Top 10 Robotics ETF"
+    },
+    {
       "i": "P:RODM",
       "n": "Hartford Multifactor Developed Markets (ex-US) ETF"
     },
@@ -36243,10 +36235,6 @@
     {
       "i": "P:SCC",
       "n": "ProShares UltraShort Consumer Discretionary"
-    },
-    {
-      "i": "P:SCDL",
-      "n": "ETRACS 2x Leveraged US Dividend Factor TR ETN"
     },
     {
       "i": "P:SCDV",
@@ -37773,10 +37761,6 @@
       "n": "CoreValues America First Technology ETF"
     },
     {
-      "i": "P:USML",
-      "n": "ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN"
-    },
-    {
       "i": "P:USNG",
       "n": "Amplify Samsung U.S. Natural Gas Infrastructure ETF"
     },
@@ -38485,6 +38469,10 @@
       "n": "ProShares Ultra FTSE China 50"
     },
     {
+      "i": "P:XQBT",
+      "n": "Amplify Top 10 Quantum ETF"
+    },
+    {
       "i": "P:XRLX",
       "n": "FundX Conservative ETF"
     },
@@ -38567,6 +38555,10 @@
     {
       "i": "P:XV",
       "n": "Simplify Target 15 Distribution ETF"
+    },
+    {
+      "i": "P:XWNG",
+      "n": "Amplify Top 10 Space ETF"
     },
     {
       "i": "P:XXRP",
@@ -44029,10 +44021,6 @@
       "n": "First Trust Multi Cap Growth AlphaDEX Fund"
     },
     {
-      "i": "Q:FAMI",
-      "n": "Farmmi, Inc. - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:FANG",
       "n": "Diamondback Energy, Inc."
     },
@@ -47485,6 +47473,10 @@
       "n": "Knightscope, Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:KSMH",
+      "n": "xETFs Korea AI Semiconductor"
+    },
+    {
       "i": "Q:KSPI",
       "n": "Joint Stock Company Kaspi.kz - American Depository Shares"
     },
@@ -47511,6 +47503,10 @@
     {
       "i": "Q:KVHI",
       "n": "KVH Industries, Inc."
+    },
+    {
+      "i": "Q:KWM",
+      "n": "K Wave Media, Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:KXIN",
@@ -53805,10 +53801,6 @@
       "n": "Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares"
     },
     {
-      "i": "Q:TEAD",
-      "n": "Teads Holding Co."
-    },
-    {
       "i": "Q:TEAM",
       "n": "Atlassian Corporation - Class A Common Stock"
     },
@@ -55418,7 +55410,7 @@
     },
     {
       "i": "Q:WGMI",
-      "n": "CoinShares Bitcoin Mining ETF"
+      "n": "CoinShares Bitcoin Mining and Digital Power ETF"
     },
     {
       "i": "Q:WGS",
@@ -56485,6 +56477,10 @@
       "n": "ARK Space & Defense Innovation ETF"
     },
     {
+      "i": "Z:ARKY",
+      "n": "ARK Active Autocallable Income ETF"
+    },
+    {
       "i": "Z:ARLI",
       "n": "AllianzIM International Equity Buffer15 Uncapped Apr ETF"
     },
@@ -57118,7 +57114,7 @@
     },
     {
       "i": "Z:CEFS",
-      "n": "Saba Opportunistic Hedged Closed-End Funds ETF"
+      "n": "Saba Closed-End Funds ETF"
     },
     {
       "i": "Z:CEFZ",
@@ -58041,6 +58037,10 @@
       "n": "Federated Hermes International Leaders ETF"
     },
     {
+      "i": "Z:FIXX",
+      "n": "Leverage Shares 2X Long FIX Daily ETF"
+    },
+    {
       "i": "Z:FJAN",
       "n": "FT Vest U.S. Equity Buffer ETF - January"
     },
@@ -58063,6 +58063,10 @@
     {
       "i": "Z:FLDZ",
       "n": "TrueShares Patriot Defense ETF"
+    },
+    {
+      "i": "Z:FLEL",
+      "n": "Leverage Shares 2X Long FLEX Daily ETF"
     },
     {
       "i": "Z:FLHY",
@@ -59365,6 +59369,10 @@
       "n": "Monarch Dividend Plus Index ETF"
     },
     {
+      "i": "Z:MEGX",
+      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
+    },
+    {
       "i": "Z:MEIB",
       "n": "Direxion META Defined Income Boost ETF"
     },
@@ -59395,10 +59403,6 @@
     {
       "i": "Z:MFUT",
       "n": "Cambria Chesapeake Pure Trend ETF"
-    },
-    {
-      "i": "Z:MGKX",
-      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
     },
     {
       "i": "Z:MHX",
@@ -59559,6 +59563,10 @@
     {
       "i": "Z:MTUM",
       "n": "iShares MSCI USA Momentum Factor ETF"
+    },
+    {
+      "i": "Z:MUG",
+      "n": "Leverage Shares 2X Long MU Daily ETF"
     },
     {
       "i": "Z:MUIB",
@@ -60067,6 +60075,10 @@
     {
       "i": "Z:PBUS",
       "n": "Invesco MSCI USA ETF"
+    },
+    {
+      "i": "Z:PCOV",
+      "n": "Principal Equity Premium Income ETF"
     },
     {
       "i": "Z:PCPP",
@@ -61065,6 +61077,10 @@
       "n": "2x Stellar ETF"
     },
     {
+      "i": "Z:STMX",
+      "n": "Leverage Shares 2X Long STM Daily ETF"
+    },
+    {
       "i": "Z:STOT",
       "n": "State Street DoubleLine Short Duration Total Return Tactical ETF"
     },
@@ -61481,8 +61497,16 @@
       "n": "Cambria US EW ETF"
     },
     {
+      "i": "Z:USGX",
+      "n": "Corgi U.S. Growth 2x Daily ETF"
+    },
+    {
       "i": "Z:USLN",
       "n": "iShares Broad USD Floating Rate Loan ETF"
+    },
+    {
+      "i": "Z:USLX",
+      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USMF",
@@ -61491,6 +61515,14 @@
     {
       "i": "Z:USMV",
       "n": "iShares MSCI USA Min Vol Factor ETF"
+    },
+    {
+      "i": "Z:USMX",
+      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
+    },
+    {
+      "i": "Z:USSX",
+      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USX",
@@ -61535,10 +61567,6 @@
     {
       "i": "Z:VAMO",
       "n": "Cambria Value and Momentum ETF"
-    },
-    {
-      "i": "Z:VBX",
-      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VDG",
@@ -61607,10 +61635,6 @@
     {
       "i": "Z:VNM",
       "n": "VanEck Vietnam ETF"
-    },
-    {
-      "i": "Z:VOOX",
-      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VOXP",
@@ -61997,12 +62021,16 @@
       "n": "Innovator Uncapped Accelerated U.S. Equity ETF"
     },
     {
-      "i": "Z:XVO",
-      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
+      "i": "Z:XVAP",
+      "n": "FT Vest AAPL & Target Income ETF"
     },
     {
-      "i": "Z:XVUG",
-      "n": "Corgi U.S. Growth 2x Daily ETF"
+      "i": "Z:XVNV",
+      "n": "FT Vest NVDA & Target Income ETF"
+    },
+    {
+      "i": "Z:XVTS",
+      "n": "FT Vest TSLA & Target Income ETF"
     },
     {
       "i": "Z:XVV",
