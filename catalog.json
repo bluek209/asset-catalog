@@ -9385,10 +9385,6 @@
       "n": "코리안리"
     },
     {
-      "i": "KS:0036D0",
-      "n": "TIME 미국배당다우존스액티브"
-    },
-    {
       "i": "KS:0036R0",
       "n": "RISE 미국휴머노이드로봇"
     },
@@ -11230,7 +11226,7 @@
     },
     {
       "i": "KS:0174J0",
-      "n": "DAISHIN343 오피스리츠플러스"
+      "n": "DAISHIN 오피스리츠플러스"
     },
     {
       "i": "KS:0174R0",
@@ -11382,7 +11378,7 @@
     },
     {
       "i": "KS:0189Z0",
-      "n": "DAISHIN343 금융&지주고배당"
+      "n": "DAISHIN 금융&지주고배당"
     },
     {
       "i": "KS:0190C0",
@@ -15318,7 +15314,7 @@
     },
     {
       "i": "KS:434960",
-      "n": "DAISHIN343 K200"
+      "n": "DAISHIN K200"
     },
     {
       "i": "KS:435040",
@@ -16482,7 +16478,7 @@
     },
     {
       "i": "KS:486240",
-      "n": "DAISHIN343 AI반도체&인프라액티브"
+      "n": "DAISHIN AI반도체&인프라액티브"
     },
     {
       "i": "KS:486290",
@@ -17127,6 +17123,14 @@
     {
       "i": "KS:520094",
       "n": "미래에셋 CD금리 플러스 ETN"
+    },
+    {
+      "i": "KS:520095",
+      "n": "미래에셋 레버리지 WTI원유 선물 ETN"
+    },
+    {
+      "i": "KS:520096",
+      "n": "미래에셋 인버스 2X WTI원유 선물 ETN"
     },
     {
       "i": "KS:520097",
@@ -26973,6 +26977,14 @@
       "n": "Snowflake Inc. Common Stock"
     },
     {
+      "i": "N:SNUS-PH",
+      "n": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H"
+    },
+    {
+      "i": "N:SNUS-PI",
+      "n": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I"
+    },
+    {
       "i": "N:SNX",
       "n": "TD SYNNEX Corporation Common Stock"
     },
@@ -28357,18 +28369,6 @@
       "n": "WBI Power Factor High Dividend ETF"
     },
     {
-      "i": "N:WBS",
-      "n": "Webster Financial Corporation Common Stock"
-    },
-    {
-      "i": "N:WBS-PF",
-      "n": "Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock"
-    },
-    {
-      "i": "N:WBS-PG",
-      "n": "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock"
-    },
-    {
       "i": "N:WBX",
       "n": "Wallbox N.V. Class A Ordinary Shares"
     },
@@ -29323,6 +29323,10 @@
     {
       "i": "P:BBHM",
       "n": "BBH Select Mid Cap ETF"
+    },
+    {
+      "i": "P:BBLS",
+      "n": "Munificent Seven ETF"
     },
     {
       "i": "P:BBLU",
@@ -32357,6 +32361,10 @@
       "n": "WisdomTree EnhancedContinuous Commodity Index Fund"
     },
     {
+      "i": "P:GCLO",
+      "n": "Guggenheim Investment Grade CLO ETF"
+    },
+    {
       "i": "P:GCSH",
       "n": "Guggenheim Ultra Short Income ETF"
     },
@@ -32391,6 +32399,10 @@
     {
       "i": "P:GDXY",
       "n": "YieldMax Gold Miners Option Income Strategy ETF"
+    },
+    {
+      "i": "P:GEEQ",
+      "n": "Guggenheim Enhanced Equity Income ETF"
     },
     {
       "i": "P:GEM",
@@ -40465,6 +40477,10 @@
       "n": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares"
     },
     {
+      "i": "Q:BBGI",
+      "n": "Beasley Broadcast Group, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:BBH",
       "n": "VanEck Biotech ETF"
     },
@@ -41943,6 +41959,10 @@
     {
       "i": "Q:CHTR",
       "n": "Charter Communications, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:CHTRP",
+      "n": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock"
     },
     {
       "i": "Q:CHW",
@@ -44035,6 +44055,10 @@
     {
       "i": "Q:FATN",
       "n": "FatPipe, Inc."
+    },
+    {
+      "i": "Q:FBDT",
+      "n": "First Breach Inc."
     },
     {
       "i": "Q:FBIO",
@@ -51105,10 +51129,6 @@
       "n": "Performance Shipping Inc. - Common Shares"
     },
     {
-      "i": "Q:PSIG",
-      "n": "PS International Group Ltd. - Ordinary Shares"
-    },
-    {
       "i": "Q:PSIX",
       "n": "Power Solutions International, Inc."
     },
@@ -51415,6 +51435,10 @@
     {
       "i": "Q:QMOM",
       "n": "Alpha Architect U.S. Quantitative Momentum ETF"
+    },
+    {
+      "i": "Q:QNBC",
+      "n": "QNB Corp."
     },
     {
       "i": "Q:QNCX",
@@ -52111,10 +52135,6 @@
     {
       "i": "Q:RNW",
       "n": "ReNew Energy Global plc - Class A Shares"
-    },
-    {
-      "i": "Q:ROAD",
-      "n": "Construction Partners, Inc."
     },
     {
       "i": "Q:ROBT",
@@ -54135,6 +54155,10 @@
     {
       "i": "Q:TREE",
       "n": "LendingTree, Inc."
+    },
+    {
+      "i": "Q:TREO",
+      "n": "Tactical Resources Corp. - Common Shares"
     },
     {
       "i": "Q:TRGS",
@@ -56869,6 +56893,14 @@
       "n": "EA Bridgeway Select Small-Cap Value ETF"
     },
     {
+      "i": "Z:BRZD",
+      "n": "MicroSectors -3x Short Brazil ETNs"
+    },
+    {
+      "i": "Z:BRZL",
+      "n": "MicroSectors 3x Long Brazil ETNs"
+    },
+    {
       "i": "Z:BRZX",
       "n": "Corgi Brazil 2x Daily ETF"
     },
@@ -57114,7 +57146,7 @@
     },
     {
       "i": "Z:CEFS",
-      "n": "Saba Closed-End Funds ETF"
+      "n": "Saba Opportunistically Hedged Closed-End Funds ETF"
     },
     {
       "i": "Z:CEFZ",
@@ -58865,6 +58897,14 @@
       "n": "Corgi High Voltage Grid Equipment ETF"
     },
     {
+      "i": "Z:JPND",
+      "n": "MicroSectors -3x Short Japan ETNs"
+    },
+    {
+      "i": "Z:JPNU",
+      "n": "MicroSectors 3x Long Japan ETNs"
+    },
+    {
       "i": "Z:JUCY",
       "n": "Aptus Enhanced Yield ETF"
     },
@@ -59369,10 +59409,6 @@
       "n": "Monarch Dividend Plus Index ETF"
     },
     {
-      "i": "Z:MEGX",
-      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
-    },
-    {
       "i": "Z:MEIB",
       "n": "Direxion META Defined Income Boost ETF"
     },
@@ -59403,6 +59439,10 @@
     {
       "i": "Z:MFUT",
       "n": "Cambria Chesapeake Pure Trend ETF"
+    },
+    {
+      "i": "Z:MGKX",
+      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
     },
     {
       "i": "Z:MHX",
@@ -61137,6 +61177,10 @@
       "n": "Innovator Equity Defined Protection ETF - 2 Yr to April 2027"
     },
     {
+      "i": "Z:TAWN",
+      "n": "MicroSectors 3x Long Taiwan ETNs"
+    },
+    {
       "i": "Z:TDAQ",
       "n": "TappAlpha Innovation 100 Growth & Daily Income ETF"
     },
@@ -61295,6 +61339,10 @@
     {
       "i": "Z:TPAY",
       "n": "Roundhill S&P 500 Target 10 Managed Distribution ETF"
+    },
+    {
+      "i": "Z:TPEI",
+      "n": "MicroSectors -3x Short Taiwan ETNs"
     },
     {
       "i": "Z:TPLX",
@@ -61497,16 +61545,8 @@
       "n": "Cambria US EW ETF"
     },
     {
-      "i": "Z:USGX",
-      "n": "Corgi U.S. Growth 2x Daily ETF"
-    },
-    {
       "i": "Z:USLN",
       "n": "iShares Broad USD Floating Rate Loan ETF"
-    },
-    {
-      "i": "Z:USLX",
-      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USMF",
@@ -61515,14 +61555,6 @@
     {
       "i": "Z:USMV",
       "n": "iShares MSCI USA Min Vol Factor ETF"
-    },
-    {
-      "i": "Z:USMX",
-      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
-    },
-    {
-      "i": "Z:USSX",
-      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USX",
@@ -61567,6 +61599,10 @@
     {
       "i": "Z:VAMO",
       "n": "Cambria Value and Momentum ETF"
+    },
+    {
+      "i": "Z:VBX",
+      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VDG",
@@ -61635,6 +61671,10 @@
     {
       "i": "Z:VNM",
       "n": "VanEck Vietnam ETF"
+    },
+    {
+      "i": "Z:VOOX",
+      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VOXP",
@@ -62029,8 +62069,16 @@
       "n": "FT Vest NVDA & Target Income ETF"
     },
     {
+      "i": "Z:XVO",
+      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
+    },
+    {
       "i": "Z:XVTS",
       "n": "FT Vest TSLA & Target Income ETF"
+    },
+    {
+      "i": "Z:XVUG",
+      "n": "Corgi U.S. Growth 2x Daily ETF"
     },
     {
       "i": "Z:XVV",
