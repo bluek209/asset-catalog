@@ -14985,10 +14985,6 @@
       "n": "미래에셋글로벌리츠"
     },
     {
-      "i": "KS:397420",
-      "n": "RISE 국채선물5년추종"
-    },
-    {
       "i": "KS:399110",
       "n": "SOL 미국S&P500ESG"
     },
@@ -18327,6 +18323,10 @@
     {
       "i": "KS:760028",
       "n": "키움 인버스 2X 반도체TOP10 ETN"
+    },
+    {
+      "i": "KS:760032",
+      "n": "키움 모험자본창업투자 ETN"
     },
     {
       "i": "KS:900140",
@@ -32941,6 +32941,18 @@
       "n": "AdvisorShares HVAC and Industrials ETF"
     },
     {
+      "i": "P:HXA",
+      "n": "Mast HedgeIndex Corporate Arbitrage ETF"
+    },
+    {
+      "i": "P:HXC",
+      "n": "Mast HedgeIndex Strategic Commodities ETF"
+    },
+    {
+      "i": "P:HXE",
+      "n": "Mast HedgeIndex Adaptive Equities ETF"
+    },
+    {
       "i": "P:HYFI",
       "n": "AB High Yield ETF"
     },
@@ -39738,7 +39750,7 @@
     },
     {
       "i": "Q:ANL",
-      "n": "Adlai Nortye Ltd. - American Depositary Shares"
+      "n": "Adlai Nortye Group Ltd. - American Depositary Shares"
     },
     {
       "i": "Q:ANNA",
@@ -42003,10 +42015,6 @@
     {
       "i": "Q:CING",
       "n": "Cingulate Inc."
-    },
-    {
-      "i": "Q:CIRC",
-      "n": "Circle8 Group, Inc."
     },
     {
       "i": "Q:CISS",
@@ -46357,10 +46365,6 @@
       "n": "ICON plc - Ordinary Shares"
     },
     {
-      "i": "Q:ICMB",
-      "n": "Investcorp Credit Management BDC, Inc."
-    },
-    {
       "i": "Q:ICON",
       "n": "Icon Energy Corp."
     },
@@ -47611,18 +47615,6 @@
     {
       "i": "Q:LBGJ",
       "n": "Li Bang International Corporation Inc. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:LBRDA",
-      "n": "Liberty Broadband Corporation - Class A Common Stock"
-    },
-    {
-      "i": "Q:LBRDK",
-      "n": "Liberty Broadband Corporation - Class C Common Stock"
-    },
-    {
-      "i": "Q:LBRDP",
-      "n": "Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock"
     },
     {
       "i": "Q:LBRX",
@@ -50161,6 +50153,10 @@
       "n": "OneSpan Inc."
     },
     {
+      "i": "Q:OSPR",
+      "n": "Osprey Acquisition Corp. III - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:OSS",
       "n": "One Stop Systems, Inc."
     },
@@ -52137,6 +52133,10 @@
       "n": "ReNew Energy Global plc - Class A Shares"
     },
     {
+      "i": "Q:RNXT",
+      "n": "RenovoRx, Inc."
+    },
+    {
       "i": "Q:ROBT",
       "n": "First Trust Nasdaq Artificial Intelligence and Robotics ETF"
     },
@@ -52575,6 +52575,10 @@
     {
       "i": "Q:SEPN",
       "n": "Septerna, Inc."
+    },
+    {
+      "i": "Q:SEPQ",
+      "n": "STF Tactical Growth & Income ETF"
     },
     {
       "i": "Q:SERA",
@@ -53501,6 +53505,10 @@
       "n": "Seagate Technology Holdings PLC - Ordinary Shares (Ireland)"
     },
     {
+      "i": "Q:SUGP",
+      "n": "SU Group Holdings Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:SUIG",
       "n": "Sui Group Holdings Limited"
     },
@@ -54411,10 +54419,6 @@
     {
       "i": "Q:TUG",
       "n": "STF Tactical Growth ETF"
-    },
-    {
-      "i": "Q:TUGN",
-      "n": "STF Tactical Growth & Income ETF"
     },
     {
       "i": "Q:TULP",
@@ -55497,10 +55501,6 @@
       "n": "Workhorse Group, Inc."
     },
     {
-      "i": "Q:WKSP",
-      "n": "Worksport, Ltd."
-    },
-    {
       "i": "Q:WLCO",
       "n": "Wilco 63 Corporation - Class A Ordinary Shares"
     },
@@ -55935,10 +55935,6 @@
     {
       "i": "Q:YB",
       "n": "Yuanbao Inc. - American Depositary Shares"
-    },
-    {
-      "i": "Q:YBMN",
-      "n": "Defiance BMNR Option Income ETF"
     },
     {
       "i": "Q:YBST",
@@ -58469,6 +58465,10 @@
       "n": "Hartford Strategic Income ETF"
     },
     {
+      "i": "Z:HIAI",
+      "n": "Ai Funds High Conviction US Equity AI-Managed ETF"
+    },
+    {
       "i": "Z:HIMC",
       "n": "Corgi HIMS 2x Daily ETF"
     },
@@ -58623,10 +58623,6 @@
     {
       "i": "Z:IDVZ",
       "n": "Polen International Dividend Income Fund"
-    },
-    {
-      "i": "Z:IEDI",
-      "n": "iShares U.S. Consumer Focused ETF"
     },
     {
       "i": "Z:IEFA",
@@ -59409,6 +59405,10 @@
       "n": "Monarch Dividend Plus Index ETF"
     },
     {
+      "i": "Z:MEGX",
+      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
+    },
+    {
       "i": "Z:MEIB",
       "n": "Direxion META Defined Income Boost ETF"
     },
@@ -59439,10 +59439,6 @@
     {
       "i": "Z:MFUT",
       "n": "Cambria Chesapeake Pure Trend ETF"
-    },
-    {
-      "i": "Z:MGKX",
-      "n": "Corgi U.S. Mega-Cap Growth 2x Daily ETF"
     },
     {
       "i": "Z:MHX",
@@ -61545,8 +61541,16 @@
       "n": "Cambria US EW ETF"
     },
     {
+      "i": "Z:USGX",
+      "n": "Corgi U.S. Growth 2x Daily ETF"
+    },
+    {
       "i": "Z:USLN",
       "n": "iShares Broad USD Floating Rate Loan ETF"
+    },
+    {
+      "i": "Z:USLX",
+      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USMF",
@@ -61555,6 +61559,14 @@
     {
       "i": "Z:USMV",
       "n": "iShares MSCI USA Min Vol Factor ETF"
+    },
+    {
+      "i": "Z:USMX",
+      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
+    },
+    {
+      "i": "Z:USSX",
+      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:USX",
@@ -61599,10 +61611,6 @@
     {
       "i": "Z:VAMO",
       "n": "Cambria Value and Momentum ETF"
-    },
-    {
-      "i": "Z:VBX",
-      "n": "Corgi U.S. Small-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VDG",
@@ -61671,10 +61679,6 @@
     {
       "i": "Z:VNM",
       "n": "VanEck Vietnam ETF"
-    },
-    {
-      "i": "Z:VOOX",
-      "n": "Corgi U.S. Large-Cap 2x Daily ETF"
     },
     {
       "i": "Z:VOXP",
@@ -62069,16 +62073,8 @@
       "n": "FT Vest NVDA & Target Income ETF"
     },
     {
-      "i": "Z:XVO",
-      "n": "Corgi U.S. Mid-Cap 2x Daily ETF"
-    },
-    {
       "i": "Z:XVTS",
       "n": "FT Vest TSLA & Target Income ETF"
-    },
-    {
-      "i": "Z:XVUG",
-      "n": "Corgi U.S. Growth 2x Daily ETF"
     },
     {
       "i": "Z:XVV",

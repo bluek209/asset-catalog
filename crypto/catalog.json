@@ -356,9 +356,9 @@
       "k": "베이직어텐션토큰"
     },
     {
-      "e": "BounceBit",
+      "e": "BB",
       "i": "BN:BB-USDT",
-      "k": "바운스빗"
+      "k": "BB"
     },
     {
       "e": "Bitcoin Cash",
@@ -586,9 +586,9 @@
       "k": "CRDOB"
     },
     {
-      "e": "Curve DAO Token",
+      "e": "CRV",
       "i": "BN:CRV-USDT",
-      "k": "커브"
+      "k": "CRV"
     },
     {
       "e": "CRWVB",
@@ -861,9 +861,9 @@
       "k": "그래비티"
     },
     {
-      "e": "Gala",
+      "e": "GALA",
       "i": "BN:GALA-USDT",
-      "k": "갈라"
+      "k": "GALA"
     },
     {
       "e": "GAS",
@@ -1273,7 +1273,7 @@
     {
       "e": "MANTRA",
       "i": "BN:MANTRA-USDT",
-      "k": "만트라"
+      "k": "MANTRA"
     },
     {
       "e": "Mask Network",
@@ -1421,9 +1421,9 @@
       "k": "뉴턴프로토콜"
     },
     {
-      "e": "NEXO",
+      "e": "Nexo",
       "i": "BN:NEXO-USDT",
-      "k": "NEXO"
+      "k": "넥소"
     },
     {
       "e": "NFLXB",
@@ -2711,11 +2711,6 @@
       "k": "베이직어텐션토큰"
     },
     {
-      "e": "BounceBit",
-      "i": "BT:BB-KRW",
-      "k": "바운스빗"
-    },
-    {
       "e": "Bitcoin Cash",
       "i": "BT:BCH-KRW",
       "k": "비트코인캐시"
@@ -3271,11 +3266,6 @@
       "k": "그래비티"
     },
     {
-      "e": "Gala",
-      "i": "BT:GALA-KRW",
-      "k": "갈라"
-    },
-    {
       "e": "GameBuild",
       "i": "BT:GAME2-KRW",
       "k": "게임빌드"
@@ -3636,11 +3626,6 @@
       "k": "만타네트워크"
     },
     {
-      "e": "MANTRA",
-      "i": "BT:MANTRA-KRW",
-      "k": "만트라"
-    },
-    {
       "e": "MAP Protocol",
       "i": "BT:MAPO-KRW",
       "k": "맵프로토콜"
@@ -3819,6 +3804,11 @@
       "e": "Nexus",
       "i": "BT:NEX-KRW",
       "k": "넥서스"
+    },
+    {
+      "e": "Nexo",
+      "i": "BT:NEXO-KRW",
+      "k": "넥소"
     },
     {
       "e": "AINFT",
@@ -4319,11 +4309,6 @@
       "e": "SUN",
       "i": "BT:SUN-KRW",
       "k": "썬"
-    },
-    {
-      "e": "Sundog",
-      "i": "BT:SUNDOG-KRW",
-      "k": "썬도그"
     },
     {
       "e": "SuperVerse",
@@ -5066,6 +5051,11 @@
       "k": "크로노스"
     },
     {
+      "e": "Curve",
+      "i": "UP:CRV-KRW",
+      "k": "커브"
+    },
+    {
       "e": "Creditcoin",
       "i": "UP:CTC-KRW",
       "k": "크레딧코인"
@@ -5429,11 +5419,6 @@
       "e": "Decentraland",
       "i": "UP:MANA-KRW",
       "k": "디센트럴랜드"
-    },
-    {
-      "e": "MANTRA",
-      "i": "UP:MANTRA-KRW",
-      "k": "만트라"
     },
     {
       "e": "Mask Network",
