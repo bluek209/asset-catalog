@@ -1811,9 +1811,9 @@
       "k": "사하라에이아이"
     },
     {
-      "e": "The Sandbox",
+      "e": "SAND",
       "i": "BN:SAND-USDT",
-      "k": "샌드박스"
+      "k": "SAND"
     },
     {
       "e": "SANTOS",
@@ -3986,6 +3986,11 @@
       "k": "펄"
     },
     {
+      "e": "Prom",
+      "i": "BT:PROM-KRW",
+      "k": "프롬"
+    },
+    {
       "e": "Wayfinder",
       "i": "BT:PROMPT-KRW",
       "k": "웨이파인더"
@@ -4144,11 +4149,6 @@
       "e": "Sahara AI",
       "i": "BT:SAHARA-KRW",
       "k": "사하라에이아이"
-    },
-    {
-      "e": "The Sandbox",
-      "i": "BT:SAND-KRW",
-      "k": "샌드박스"
     },
     {
       "e": "Sapien",
@@ -5411,6 +5411,11 @@
       "k": "체인링크"
     },
     {
+      "e": "Lighter",
+      "i": "UP:LIT-KRW",
+      "k": "라이터"
+    },
+    {
       "e": "Livepeer",
       "i": "UP:LPT-KRW",
       "k": "라이브피어"
@@ -5734,11 +5739,6 @@
       "e": "Sahara AI",
       "i": "UP:SAHARA-KRW",
       "k": "사하라에이아이"
-    },
-    {
-      "e": "The Sandbox",
-      "i": "UP:SAND-KRW",
-      "k": "샌드박스"
     },
     {
       "e": "Siacoin",

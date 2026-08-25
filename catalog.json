@@ -289,6 +289,10 @@
       "n": "Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)"
     },
     {
+      "i": "A:EDVA",
+      "n": "Endovia Health Sciences, Inc. Common Stock"
+    },
+    {
       "i": "A:EGG",
       "n": "Enigmatig Limited Class A Ordinary Shares"
     },
@@ -685,10 +689,6 @@
       "n": "Neuberger Municipal Fund Inc. Common Stock"
     },
     {
-      "i": "A:NCL",
-      "n": "Northann Corp. Common Stock"
-    },
-    {
       "i": "A:NEWP",
       "n": "New Pacific Metals Corp. Common Shares"
     },
@@ -907,10 +907,6 @@
     {
       "i": "A:SACH-PA",
       "n": "Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock"
-    },
-    {
-      "i": "A:SBEV",
-      "n": "Splash Beverage Group, Inc. (NV) Common Stock"
     },
     {
       "i": "A:SBMT",
@@ -6391,6 +6387,10 @@
     {
       "i": "KQ:281740",
       "n": "레이크머티리얼즈"
+    },
+    {
+      "i": "KQ:282620",
+      "n": "기도산업"
     },
     {
       "i": "KQ:282720",
@@ -21482,11 +21482,11 @@
     },
     {
       "i": "N:EIC",
-      "n": "Eagle Point Income Company Inc. Common Stock"
+      "n": "Eagle Point Income Company Common Shares of Beneficial Interest"
     },
     {
       "i": "N:EICA",
-      "n": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026"
+      "n": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026"
     },
     {
       "i": "N:EIG",
@@ -29387,10 +29387,6 @@
     {
       "i": "P:BDVG",
       "n": "IMGP Berkshire Dividend Growth ETF"
-    },
-    {
-      "i": "P:BEDZ",
-      "n": "AdvisorShares Hotel ETF"
     },
     {
       "i": "P:BENJ",
@@ -37947,10 +37943,6 @@
     {
       "i": "P:VHT",
       "n": "Vanguard Health Care ETF"
-    },
-    {
-      "i": "P:VICE",
-      "n": "AdvisorShares Vice ETF"
     },
     {
       "i": "P:VIDI",
@@ -48565,6 +48557,10 @@
       "n": "Magyar Bancorp, Inc."
     },
     {
+      "i": "Q:MIAC",
+      "n": "Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MIDD",
       "n": "The Middleby Corporation"
     },
@@ -51842,7 +51838,7 @@
     },
     {
       "i": "Q:REAX",
-      "n": "The Real Brokerage, Inc. - Common Shares"
+      "n": "The Real Brokerage, Inc."
     },
     {
       "i": "Q:REBN",
@@ -61075,6 +61071,10 @@
     {
       "i": "Z:SPYI",
       "n": "NEOS S&P 500 High Income ETF"
+    },
+    {
+      "i": "Z:SQBA",
+      "n": "FT Vest U.S. Equity Quarterly 15 Buffer ETF"
     },
     {
       "i": "Z:SQLT",
