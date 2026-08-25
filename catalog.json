@@ -4758,7 +4758,7 @@
     },
     {
       "i": "KQ:123010",
-      "n": "알엔티엑스"
+      "n": "MSDI"
     },
     {
       "i": "KQ:123040",
@@ -7591,6 +7591,10 @@
     {
       "i": "KQ:417010",
       "n": "나노팀"
+    },
+    {
+      "i": "KQ:417030",
+      "n": "니어스랩"
     },
     {
       "i": "KQ:417180",
@@ -26389,10 +26393,6 @@
       "n": "Regional Management Corp. Common Stock"
     },
     {
-      "i": "N:RMAX",
-      "n": "RE/MAX Holdings, Inc. Class A Common Stock"
-    },
-    {
       "i": "N:RMD",
       "n": "ResMed Inc. Common Stock"
     },
@@ -27843,10 +27843,6 @@
     {
       "i": "N:TWN",
       "n": "Taiwan Fund, Inc. (The) Common Stock"
-    },
-    {
-      "i": "N:TWO",
-      "n": "Two Harbors Investment Corp"
     },
     {
       "i": "N:TWO-PA",
@@ -29699,6 +29695,10 @@
     {
       "i": "P:BSTP",
       "n": "Innovator Buffer Step-Up Strategy ETF"
+    },
+    {
+      "i": "P:BTA",
+      "n": "Beacon Tactical Alternatives Risk ETF"
     },
     {
       "i": "P:BTAL",
@@ -33987,6 +33987,10 @@
     {
       "i": "P:JSTC",
       "n": "Adasina Social Justice All Cap Global ETF"
+    },
+    {
+      "i": "P:JULV",
+      "n": "VanEck U.S. Equity Buffer ETF - July"
     },
     {
       "i": "P:JUSA",
@@ -38677,6 +38681,10 @@
       "n": "Amplify Municipal CEF High Income ETF"
     },
     {
+      "i": "P:ZCSH",
+      "n": "The Zcash ETF Shares"
+    },
+    {
       "i": "P:ZDIS",
       "n": "Virtus Zevenbergen Discovery Growth ETF"
     },
@@ -39031,6 +39039,10 @@
     {
       "i": "Q:ADBG",
       "n": "Leverage Shares 2X Long ADBE Daily ETF"
+    },
+    {
+      "i": "Q:ADBT",
+      "n": "Advasa Holdings, Inc."
     },
     {
       "i": "Q:ADEA",
@@ -43799,10 +43811,6 @@
     {
       "i": "Q:ESGU",
       "n": "iShares ESG Aware MSCI USA ETF"
-    },
-    {
-      "i": "Q:ESLA",
-      "n": "Estrella Immunopharma, Inc."
     },
     {
       "i": "Q:ESLT",
@@ -49746,7 +49754,7 @@
     },
     {
       "i": "Q:NXT",
-      "n": "Nextpower Inc. - Class A Common Stock"
+      "n": "Nextpower Inc."
     },
     {
       "i": "Q:NXTC",
@@ -50813,10 +50821,6 @@
       "n": "GraniteShares YieldBOOST PLTR ETF"
     },
     {
-      "i": "Q:PMA",
-      "n": "Ming Shing Group Holdings Limited - Ordinary Shares"
-    },
-    {
       "i": "Q:PMAX",
       "n": "Powell Max Limited - Class A Ordinary Shares"
     },
@@ -51838,7 +51842,7 @@
     },
     {
       "i": "Q:REAX",
-      "n": "The Real Brokerage, Inc."
+      "n": "Real REMAX Group Inc."
     },
     {
       "i": "Q:REBN",
@@ -54093,6 +54097,10 @@
       "n": "Tango Therapeutics, Inc."
     },
     {
+      "i": "Q:TNON",
+      "n": "Tenon Medical, Inc."
+    },
+    {
       "i": "Q:TNXP",
       "n": "Tonix Pharmaceuticals Holding Corp."
     },
@@ -55023,10 +55031,6 @@
     {
       "i": "Q:VIVO",
       "n": "VivoPower PLC - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:VIVS",
-      "n": "VivoSim Labs, Inc."
     },
     {
       "i": "Q:VKTX",
@@ -55999,6 +56003,10 @@
     {
       "i": "Q:YQQQ",
       "n": "YieldMax Short N100 Option Income Strategy ETF"
+    },
+    {
+      "i": "Q:YRAM",
+      "n": "YieldMax Memory and Storage Portfolio Option Income ETF"
     },
     {
       "i": "Q:YSAG",
@@ -59119,6 +59127,10 @@
     {
       "i": "Z:LBO",
       "n": "WHITEWOLF Publicly Listed Private Equity ETF"
+    },
+    {
+      "i": "Z:LBOX",
+      "n": "GraniteShares Short Term Box ETF"
     },
     {
       "i": "Z:LCAP",
