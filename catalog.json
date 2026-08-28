@@ -1633,6 +1633,10 @@
       "n": "삼륭물산"
     },
     {
+      "i": "KQ:0155E0",
+      "n": "해치텍"
+    },
+    {
       "i": "KQ:0156T0",
       "n": "에이치엘지노믹스"
     },
@@ -6301,10 +6305,6 @@
       "n": "매일유업"
     },
     {
-      "i": "KQ:269620",
-      "n": "시스웍"
-    },
-    {
       "i": "KQ:270520",
       "n": "앱튼"
     },
@@ -10438,7 +10438,7 @@
     },
     {
       "i": "KS:009810",
-      "n": "플레이그램"
+      "n": "MDS스피어"
     },
     {
       "i": "KS:009830",
@@ -11661,6 +11661,14 @@
       "n": "DS 코스닥액티브"
     },
     {
+      "i": "KS:0220W0",
+      "n": "한화머시너리앤서비스홀딩스"
+    },
+    {
+      "i": "KS:0220WL",
+      "n": "한화머시너리앤서비스홀딩스3우B"
+    },
+    {
       "i": "KS:022100",
       "n": "포스코DX"
     },
@@ -11729,8 +11737,20 @@
       "n": "MH에탄올"
     },
     {
+      "i": "KS:0231Z0",
+      "n": "KODEX 코리아TDF2065액티브 적격"
+    },
+    {
       "i": "KS:023350",
       "n": "한국종합기술"
+    },
+    {
+      "i": "KS:0233A0",
+      "n": "ACE 삼성전자SK하이닉스플러스채권혼합50"
+    },
+    {
+      "i": "KS:0233J0",
+      "n": "TIGER 삼성전자SK하이닉스미국채혼합50"
     },
     {
       "i": "KS:023450",
@@ -16569,10 +16589,6 @@
       "n": "PLUS 일본엔화초단기국채(합성)"
     },
     {
-      "i": "KS:489010",
-      "n": "PLUS 글로벌AI인프라"
-    },
-    {
       "i": "KS:489030",
       "n": "PLUS 고배당주위클리커버드콜"
     },
@@ -18347,6 +18363,10 @@
     {
       "i": "N:AA",
       "n": "Alcoa Corporation Common Stock"
+    },
+    {
+      "i": "N:AAC",
+      "n": "Ares Acquisition Corporation III Class A Ordinary Shares"
     },
     {
       "i": "N:AADX",
@@ -23881,10 +23901,6 @@
       "n": "Lear Corporation Common Stock"
     },
     {
-      "i": "N:LEG",
-      "n": "Leggett & Platt, Incorporated Common Stock"
-    },
-    {
       "i": "N:LEN",
       "n": "Lennar Corporation Class A Common Stock"
     },
@@ -25105,10 +25121,6 @@
       "n": "NetSTREIT Corp. Common Stock"
     },
     {
-      "i": "N:NTZ",
-      "n": "Natuzzi, S.p.A."
-    },
-    {
       "i": "N:NU",
       "n": "Nu Holdings Ltd. Class A Ordinary Shares"
     },
@@ -25419,6 +25431,10 @@
     {
       "i": "N:OTAI",
       "n": "Starlink AI Acquisition Corporation Ordinary Shares"
+    },
+    {
+      "i": "N:OTAX",
+      "n": "Optimal Tax Managed Equity ETF"
     },
     {
       "i": "N:OTF",
@@ -28871,6 +28887,30 @@
     {
       "i": "P:ADVE",
       "n": "Matthews Asia Dividend Active ETF"
+    },
+    {
+      "i": "P:AEMC",
+      "n": "Harbor AlphaEdge Mid Cap Core ETF"
+    },
+    {
+      "i": "P:AEMG",
+      "n": "Harbor AlphaEdge Mid Cap Growth ETF"
+    },
+    {
+      "i": "P:AEMV",
+      "n": "Harbor AlphaEdge Mid Cap Value ETF"
+    },
+    {
+      "i": "P:AESB",
+      "n": "Harbor AlphaEdge Small Cap Core ETF"
+    },
+    {
+      "i": "P:AESG",
+      "n": "Harbor AlphaEdge Small Cap Growth ETF"
+    },
+    {
+      "i": "P:AESL",
+      "n": "Harbor AlphaEdge Small Cap Value ETF"
     },
     {
       "i": "P:AETH",
@@ -32781,6 +32821,10 @@
       "n": "Harbor Short Term Treasury ETF"
     },
     {
+      "i": "P:HBIT",
+      "n": "Hedgeye Hedged Bitcoin ETF"
+    },
+    {
       "i": "P:HBTA",
       "n": "Horizon Expedition Plus ETF"
     },
@@ -34653,6 +34697,10 @@
       "n": "NYLI Merger Arbitrage ETF"
     },
     {
+      "i": "P:MNGU",
+      "n": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs"
+    },
+    {
       "i": "P:MNRS",
       "n": "Grayscale Bitcoin Miners ETF"
     },
@@ -34751,6 +34799,22 @@
     {
       "i": "P:MUND",
       "n": "Northern Trust 2055 Tax-Exempt Distributing Ladder ETF"
+    },
+    {
+      "i": "P:MUNF",
+      "n": "Northern Trust 2036 Tax-Exempt Distributing Ladder ETF"
+    },
+    {
+      "i": "P:MUNG",
+      "n": "Northern Trust 2046 Tax-Exempt Distributing Ladder ETF"
+    },
+    {
+      "i": "P:MUNH",
+      "n": "Northern Trust 2056 Tax-Exempt Distributing Ladder ETF"
+    },
+    {
+      "i": "P:MUNJ",
+      "n": "Northern Trust 2031 Tax-Exempt Distributing Ladder ETF"
     },
     {
       "i": "P:MUNX",
@@ -37309,6 +37373,22 @@
       "n": "Northern Trust 2055 Inflation-Linked Distributing Ladder ETF"
     },
     {
+      "i": "P:TIPE",
+      "n": "Northern Trust 2031 Inflation-Linked Distributing Ladder ETF"
+    },
+    {
+      "i": "P:TIPF",
+      "n": "Northern Trust 2036 Inflation-Linked Distributing Ladder ETF"
+    },
+    {
+      "i": "P:TIPG",
+      "n": "Northern Trust 2046 Inflation-Linked Distributing Ladder ETF"
+    },
+    {
+      "i": "P:TIPH",
+      "n": "Northern Trust 2056 Inflation-Linked Distributing Ladder ETF"
+    },
+    {
       "i": "P:TIPX",
       "n": "State Street SPDR Bloomberg 1a??10 Year TIPS ETF"
     },
@@ -39053,10 +39133,6 @@
       "n": "Analog Devices, Inc."
     },
     {
-      "i": "Q:ADIL",
-      "n": "Adial Pharmaceuticals, Inc"
-    },
-    {
       "i": "Q:ADMA",
       "n": "ADMA Biologics Inc"
     },
@@ -39307,10 +39383,6 @@
     {
       "i": "Q:AIFU",
       "n": "AIFU Inc. - Class A Ordinary Share"
-    },
-    {
-      "i": "Q:AIHS",
-      "n": "Senmiao Technology Limited"
     },
     {
       "i": "Q:AIIO",
@@ -40225,10 +40297,6 @@
       "n": "Aura Minerals Inc. - Common Shares"
     },
     {
-      "i": "Q:AUID",
-      "n": "authID Inc."
-    },
-    {
       "i": "Q:AUMI",
       "n": "Themes Gold Miners ETF"
     },
@@ -41073,6 +41141,10 @@
       "n": "Global X Robotics & Artificial Intelligence ETF"
     },
     {
+      "i": "Q:BOXL",
+      "n": "Boxlight Corporation - Class A Common Stock"
+    },
+    {
       "i": "Q:BPAC",
       "n": "Blueport Acquisition Ltd - Class A Ordinary Shares"
     },
@@ -41107,10 +41179,6 @@
     {
       "i": "Q:BRES",
       "n": "Burney U.S. Equity Select ETF"
-    },
-    {
-      "i": "Q:BREZ",
-      "n": "Breeze Acquisition Corp. II - Ordinary Shares"
     },
     {
       "i": "Q:BRHY",
@@ -41171,10 +41239,6 @@
     {
       "i": "Q:BRZE",
       "n": "Braze, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:BSAA",
-      "n": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:BSBK",
@@ -42141,10 +42205,6 @@
       "n": "CME Group Inc. - Class A Common Stock"
     },
     {
-      "i": "Q:CMII",
-      "n": "Columbus Circle Capital Corp II - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:CMMB",
       "n": "Chemomab Therapeutics Ltd. - American Depositary Shares"
     },
@@ -42909,14 +42969,6 @@
       "n": "Dimensional International Core Fixed Income ETF"
     },
     {
-      "i": "Q:DFLI",
-      "n": "Dragonfly Energy Holdings Corp"
-    },
-    {
-      "i": "Q:DFNS",
-      "n": "T3 Defense Inc."
-    },
-    {
       "i": "Q:DFSC",
       "n": "DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering"
     },
@@ -43121,10 +43173,6 @@
       "n": "Domino's Pizza Inc"
     },
     {
-      "i": "Q:DRDB",
-      "n": "Roman DBDR Acquisition Corp. II - Ordinary shares"
-    },
-    {
       "i": "Q:DRH",
       "n": "Diamondrock Hospitality Company"
     },
@@ -43253,10 +43301,6 @@
       "n": "DAC 3D Dividend Growth ETF"
     },
     {
-      "i": "Q:DVIN",
-      "n": "WEBs Industrials XLI Defined Volatility ETF"
-    },
-    {
       "i": "Q:DVLU",
       "n": "First Trust Dorsey Wright Momentum & Value ETF"
     },
@@ -43269,48 +43313,8 @@
       "n": "WEBs QQQ Defined Volatility ETF"
     },
     {
-      "i": "Q:DVRE",
-      "n": "WEBs Real Estate XLRE Defined Volatility ETF"
-    },
-    {
       "i": "Q:DVSP",
       "n": "WEBs SPY Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVUT",
-      "n": "WEBs Utilities XLU Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXB",
-      "n": "WEBs Materials XLB Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXC",
-      "n": "WEBs Communication Services XLC Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXE",
-      "n": "WEBs Energy XLE Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXF",
-      "n": "WEBs Financial XLF Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXK",
-      "n": "WEBs Technology XLK Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXP",
-      "n": "WEBs Consumer Staples XLP Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXV",
-      "n": "WEBs Health Care XLV Defined Volatility ETF"
-    },
-    {
-      "i": "Q:DVXY",
-      "n": "WEBs Consumer Discretionary XLY Defined Volatility ETF"
     },
     {
       "i": "Q:DVY",
@@ -44089,6 +44093,10 @@
       "n": "FB Bancorp, Inc."
     },
     {
+      "i": "Q:FBLG",
+      "n": "FibroBiologics, Inc."
+    },
+    {
       "i": "Q:FBNC",
       "n": "First Bancorp"
     },
@@ -44507,10 +44515,6 @@
     {
       "i": "Q:FLYW",
       "n": "Flywire Corporation - Voting Common Stock"
-    },
-    {
-      "i": "Q:FLZH",
-      "n": "Flash Sports & Media Holdings, Inc."
     },
     {
       "i": "Q:FMAC",
@@ -45219,10 +45223,6 @@
     {
       "i": "Q:GINX",
       "n": "SGI Enhanced Global Income ETF"
-    },
-    {
-      "i": "Q:GITS",
-      "n": "Global Interactive Technologies, Inc. Common Stock"
     },
     {
       "i": "Q:GIW",
@@ -46141,6 +46141,10 @@
       "n": "Hancock Whitney Corporation"
     },
     {
+      "i": "Q:HWGV",
+      "n": "Hotchkis & Wiley Global Value Fund"
+    },
+    {
       "i": "Q:HWIV",
       "n": "Hotchkis & Wiley International Value Fund"
     },
@@ -46829,6 +46833,10 @@
       "n": "IperionX Limited - American Depositary Share"
     },
     {
+      "i": "Q:IPXG",
+      "n": "Inection Point Acquisition Corp. VII - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:IQ",
       "n": "iQIYI, Inc. - American Depositary Shares"
     },
@@ -47185,6 +47193,10 @@
       "n": "JPMorgan U.S. Tech Leaders ETF"
     },
     {
+      "i": "Q:JTTT",
+      "n": "JATT III Acquisition Corp - Ordinary Shares"
+    },
+    {
       "i": "Q:JVA",
       "n": "Coffee Holding Co., Inc."
     },
@@ -47315,10 +47327,6 @@
     {
       "i": "Q:KFFB",
       "n": "Kentucky First Federal Bancorp"
-    },
-    {
-      "i": "Q:KFII",
-      "n": "K&F Growth Acquisition Corp. II - Class A Ordinary shares"
     },
     {
       "i": "Q:KG",
@@ -48897,16 +48905,16 @@
       "n": "Motorsport Games Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:MSGY",
+      "n": "Masonglory Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MSLE",
       "n": "Satellos Bioscience Inc."
     },
     {
       "i": "Q:MSR",
       "n": "GraniteShares Autocallable MSTR ETF"
-    },
-    {
-      "i": "Q:MSS",
-      "n": "Maison Solutions Inc. - Class A Common Stock"
     },
     {
       "i": "Q:MST",
@@ -48993,6 +49001,10 @@
       "n": "MVB Financial Corp."
     },
     {
+      "i": "Q:MVIS",
+      "n": "MicroVision, Inc."
+    },
+    {
       "i": "Q:MVLL",
       "n": "GraniteShares 2x Long MRVL Daily ETF"
     },
@@ -49035,6 +49047,10 @@
     {
       "i": "Q:MYSE",
       "n": "Myseum.AI, Inc."
+    },
+    {
+      "i": "Q:MYSZ",
+      "n": "My Size, Inc."
     },
     {
       "i": "Q:MYX",
@@ -51777,10 +51793,6 @@
       "n": "RCM Technologies, Inc."
     },
     {
-      "i": "Q:RDAC",
-      "n": "Rising Dragon Acquisition Corp. - Ordinary Shares"
-    },
-    {
       "i": "Q:RDAG",
       "n": "Republic Digital Acquisition Company - Class A Ordinary Shares"
     },
@@ -52351,10 +52363,6 @@
     {
       "i": "Q:SAFT",
       "n": "Safety Insurance Group, Inc."
-    },
-    {
-      "i": "Q:SAGT",
-      "n": "SAGTEC GLOBAL LIMITED - Class A Ordinary shares"
     },
     {
       "i": "Q:SAIA",
@@ -52931,10 +52939,6 @@
     {
       "i": "Q:SLVR",
       "n": "Sprott Silver Miners & Physical Silver ETF"
-    },
-    {
-      "i": "Q:SLXN",
-      "n": "Silexion Therapeutics Corp - Ordinary Shares"
     },
     {
       "i": "Q:SMBC",
@@ -53806,7 +53810,7 @@
     },
     {
       "i": "Q:TDOT",
-      "n": "21shares Polkadot ETF"
+      "n": "21shares Polkadot Staking ETF"
     },
     {
       "i": "Q:TDSB",
@@ -53897,6 +53901,10 @@
       "n": "Treasure Global Inc."
     },
     {
+      "i": "Q:TGRZ",
+      "n": "China AI Tigers LLM ETF"
+    },
+    {
       "i": "Q:TGTX",
       "n": "TG Therapeutics, Inc."
     },
@@ -53938,7 +53946,7 @@
     },
     {
       "i": "Q:THYP",
-      "n": "21shares Hyperliquid ETF"
+      "n": "21shares Hyperliquid Staking ETF"
     },
     {
       "i": "Q:TIGO",
@@ -54237,10 +54245,6 @@
       "n": "VanEck Financials TruSector ETF"
     },
     {
-      "i": "Q:TRUG",
-      "n": "TruGolf Holdings, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:TRUH",
       "n": "VanEck Healthcare TruSector ETF"
     },
@@ -54370,7 +54374,7 @@
     },
     {
       "i": "Q:TSUI",
-      "n": "21Shares Sui ETF"
+      "n": "21Shares Sui Staking ETF"
     },
     {
       "i": "Q:TSYX",
@@ -54851,6 +54855,10 @@
     {
       "i": "Q:VABK",
       "n": "Virginia National Bankshares Corporation"
+    },
+    {
+      "i": "Q:VAI",
+      "n": "Valor Energy Incorporated"
     },
     {
       "i": "Q:VALG",
@@ -55461,10 +55469,6 @@
       "n": "Whitehawk Therapeutics, Inc."
     },
     {
-      "i": "Q:WILC",
-      "n": "G. Willi-Food International, Ltd. - Ordinary Shares"
-    },
-    {
       "i": "Q:WIMA",
       "n": "WisdomTree International Adaptive Moving Average Fund"
     },
@@ -55895,6 +55899,10 @@
     {
       "i": "Q:XT",
       "n": "iShares Future Exponential Technologies ETF"
+    },
+    {
+      "i": "Q:XTER",
+      "n": "Karman Line Acquisition Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:XTIA",
@@ -57029,6 +57037,10 @@
       "n": "Alpha Architect Tail Risk ETF"
     },
     {
+      "i": "Z:CAPA",
+      "n": "Defiance AI Capacitors Leaders ETF"
+    },
+    {
       "i": "Z:CARX",
       "n": "Corgi CART 2x Daily ETF"
     },
@@ -57695,6 +57707,10 @@
     {
       "i": "Z:DSEP",
       "n": "FT Vest U.S. Equity Deep Buffer ETF - September"
+    },
+    {
+      "i": "Z:DSPC",
+      "n": "Leverage Shares 1X Short SPCX Daily ETF"
     },
     {
       "i": "Z:DUBS",
@@ -60293,6 +60309,10 @@
       "n": "PGIM S&P 500 Quarterly Buffer 20 ETF"
     },
     {
+      "i": "Z:PRAM",
+      "n": "Defiance Memory & Photonics ETF"
+    },
+    {
       "i": "Z:PRNT",
       "n": "3D Printing (The) ETF"
     },
@@ -60363,6 +60383,10 @@
     {
       "i": "Z:PSMR",
       "n": "Pacer Swan SOS Moderate (April) ETF"
+    },
+    {
+      "i": "Z:PSOX",
+      "n": "Tema MLCC & PowerSemi ETF"
     },
     {
       "i": "Z:PTEU",
@@ -60835,10 +60859,6 @@
     {
       "i": "Z:SHYM",
       "n": "iShares Short Duration High Yield Muni Active ETF"
-    },
-    {
-      "i": "Z:SIC",
-      "n": "Tema Power Semiconductor ETF"
     },
     {
       "i": "Z:SIMX",
@@ -62079,6 +62099,10 @@
     {
       "i": "Z:XVNV",
       "n": "FT Vest NVDA & Target Income ETF"
+    },
+    {
+      "i": "Z:XVSP",
+      "n": "FT Vest SPCX & Target Income ETF"
     },
     {
       "i": "Z:XVTS",

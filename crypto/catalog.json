@@ -651,6 +651,11 @@
       "k": "DIA"
     },
     {
+      "e": "DJTB",
+      "i": "BN:DJTB-USDT",
+      "k": "DJTB"
+    },
+    {
       "e": "DODO",
       "i": "BN:DODO-USDT",
       "k": "DODO"
@@ -3201,6 +3206,11 @@
       "k": "오일러"
     },
     {
+      "e": "EURC",
+      "i": "BT:EURC-KRW",
+      "k": "이유알코인"
+    },
+    {
       "e": "Synfutures",
       "i": "BT:F-KRW",
       "k": "신퓨처스"
@@ -3249,6 +3259,11 @@
       "e": "Flux",
       "i": "BT:FLUX-KRW",
       "k": "플럭스"
+    },
+    {
+      "e": "The Interfold",
+      "i": "BT:FOLD-KRW",
+      "k": "인터폴드"
     },
     {
       "e": "Forta",
@@ -5176,6 +5191,11 @@
       "k": "오일러"
     },
     {
+      "e": "EURC",
+      "i": "UP:EURC-KRW",
+      "k": "이유알코인"
+    },
+    {
       "e": "SynFutures",
       "i": "UP:F-KRW",
       "k": "신퓨처스"
@@ -5539,6 +5559,11 @@
       "e": "MVL",
       "i": "UP:MVL-KRW",
       "k": "엠블"
+    },
+    {
+      "e": "Polyswarm",
+      "i": "UP:NCT-KRW",
+      "k": "폴리스웜"
     },
     {
       "e": "NEAR Protocol",
