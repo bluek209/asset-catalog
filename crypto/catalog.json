@@ -3441,11 +3441,6 @@
       "k": "인터넷컴퓨터"
     },
     {
-      "e": "ICON",
-      "i": "BT:ICX-KRW",
-      "k": "아이콘"
-    },
-    {
       "e": "SPACE ID",
       "i": "BT:ID-KRW",
       "k": "스페이스아이디"
@@ -5309,11 +5304,6 @@
       "e": "Internet Computer",
       "i": "UP:ICP-KRW",
       "k": "인터넷컴퓨터"
-    },
-    {
-      "e": "Icon",
-      "i": "UP:ICX-KRW",
-      "k": "아이콘"
     },
     {
       "e": "SPACE ID",

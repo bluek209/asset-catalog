@@ -113,10 +113,6 @@
       "n": "Bimergen Energy Corporation Common Stock"
     },
     {
-      "i": "A:BGI",
-      "n": "Birks Group Inc. Common Stock"
-    },
-    {
       "i": "A:BHB",
       "n": "Bar Harbor Bankshares, Inc. Common Stock"
     },
@@ -24250,7 +24246,7 @@
     },
     {
       "i": "N:MEGI",
-      "n": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares"
+      "n": "NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares"
     },
     {
       "i": "N:MEI",
@@ -24418,7 +24414,7 @@
     },
     {
       "i": "N:MMD",
-      "n": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares"
+      "n": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares"
     },
     {
       "i": "N:MMI",
@@ -30058,7 +30054,7 @@
     },
     {
       "i": "P:CLOO",
-      "n": "NYLI Investment Grade CLO ETF"
+      "n": "NYLIM Investment Grade CLO ETF"
     },
     {
       "i": "P:CLOX",
@@ -32898,7 +32894,7 @@
     },
     {
       "i": "P:HFXI",
-      "n": "NYLI FTSE International Equity Currency Neutral ETF"
+      "n": "NYLIM FTSE International Equity Currency Neutral ETF"
     },
     {
       "i": "P:HGRO",
@@ -32947,10 +32943,6 @@
     {
       "i": "P:HOOY",
       "n": "YieldMax HOOD Option Income Strategy ETF"
-    },
-    {
-      "i": "P:HOOZ",
-      "n": "Defiance Daily Target 2X Short HOOD ETF"
     },
     {
       "i": "P:HRSK",
@@ -33470,7 +33462,7 @@
     },
     {
       "i": "P:IQHI",
-      "n": "NYLI MacKay High Income ETF"
+      "n": "NYLIM MacKay High Income ETF"
     },
     {
       "i": "P:IQLT",
@@ -33481,20 +33473,16 @@
       "n": "ProShares GENIUS Money Market ETF"
     },
     {
-      "i": "P:IQRA",
-      "n": "NYLI CBRE Real Assets ETF"
-    },
-    {
       "i": "P:IQSI",
-      "n": "NYLI Candriam International Equity ETF"
+      "n": "NYLIM Candriam International Equity ETF"
     },
     {
       "i": "P:IQSM",
-      "n": "NYLI Candriam U.S. Mid Cap Equity ETF"
+      "n": "NYLIM Candriam U.S. Mid Cap Equity ETF"
     },
     {
       "i": "P:IQSU",
-      "n": "NYLI Candriam U.S. Large Cap Equity ETF"
+      "n": "NYLIM Candriam U.S. Large Cap Equity ETF"
     },
     {
       "i": "P:IQSZ",
@@ -33650,7 +33638,7 @@
     },
     {
       "i": "P:IWFG",
-      "n": "NYLI Winslow Focused Large Cap Growth ETF"
+      "n": "NYLIM Winslow Focused Large Cap Growth ETF"
     },
     {
       "i": "P:IWL",
@@ -33658,7 +33646,7 @@
     },
     {
       "i": "P:IWLG",
-      "n": "NYLI Winslow Large Cap Growth ETF"
+      "n": "NYLIM Winslow Large Cap Growth ETF"
     },
     {
       "i": "P:IWM",
@@ -34254,7 +34242,7 @@
     },
     {
       "i": "P:LCLG",
-      "n": "Logan Capital Broad Innovative Growth ETF"
+      "n": "Logan Capital Large Cap Growth ETF"
     },
     {
       "i": "P:LCO",
@@ -34666,19 +34654,19 @@
     },
     {
       "i": "P:MMCA",
-      "n": "NYLI MacKay California Muni Intermediate ETF"
+      "n": "NYLIM MacKay California Muni Intermediate ETF"
     },
     {
       "i": "P:MMIN",
-      "n": "NYLI MacKay Muni Insured ETF"
+      "n": "NYLIM MacKay Muni Insured ETF"
     },
     {
       "i": "P:MMIT",
-      "n": "NYLI MacKay Muni Intermediate ETF"
+      "n": "NYLIM MacKay Muni Intermediate ETF"
     },
     {
       "i": "P:MMMA",
-      "n": "NYLI MacKay Muni Allocation ETF"
+      "n": "NYLIM MacKay Muni Allocation ETF"
     },
     {
       "i": "P:MMSC",
@@ -34686,7 +34674,7 @@
     },
     {
       "i": "P:MMSD",
-      "n": "NYLI MacKay Muni Short Duration ETF"
+      "n": "NYLIM MacKay Muni Short Duration ETF"
     },
     {
       "i": "P:MMTM",
@@ -34694,7 +34682,7 @@
     },
     {
       "i": "P:MNA",
-      "n": "NYLI Merger Arbitrage ETF"
+      "n": "NYLIM Merger Arbitrage ETF"
     },
     {
       "i": "P:MNGU",
@@ -34723,10 +34711,6 @@
     {
       "i": "P:MPIM",
       "n": "m+ Income Momentum Autocall ETF"
-    },
-    {
-      "i": "P:MPL",
-      "n": "Defiance Daily Target 2X Long MP ETF"
     },
     {
       "i": "P:MRNX",
@@ -34978,7 +34962,7 @@
     },
     {
       "i": "P:NISM",
-      "n": "NYLI International Small-Mid Cap Equity ETF"
+      "n": "NYLIM International Small-Mid Cap Equity ETF"
     },
     {
       "i": "P:NITE",
@@ -35195,10 +35179,6 @@
     {
       "i": "P:OILU",
       "n": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN"
-    },
-    {
-      "i": "P:OKLS",
-      "n": "Defiance Daily Target 2X Short OKLO ETF"
     },
     {
       "i": "P:OMAH",
@@ -35686,7 +35666,7 @@
     },
     {
       "i": "P:QAI",
-      "n": "NYLI Hedge Multi-Strategy Tracker ETF"
+      "n": "NYLIM Hedge Multi-Strategy Tracker ETF"
     },
     {
       "i": "P:QARP",
@@ -35911,6 +35891,10 @@
     {
       "i": "P:REGS",
       "n": "Columbia Large Cap Growth ETF"
+    },
+    {
+      "i": "P:REIX",
+      "n": "NYLIM CBRE Real Estate & Infrastructure ETF"
     },
     {
       "i": "P:REK",
@@ -36466,7 +36450,7 @@
     },
     {
       "i": "P:SECR",
-      "n": "NYLI MacKay Securitized Income ETF"
+      "n": "NYLIM MacKay Securitized Income ETF"
     },
     {
       "i": "P:SEF",
@@ -38769,10 +38753,6 @@
       "n": "Virtus Zevenbergen Discovery Growth ETF"
     },
     {
-      "i": "P:ZETX",
-      "n": "Defiance Daily Target 2x Long ZETA ETF"
-    },
-    {
       "i": "P:ZHDG",
       "n": "ZEGA Buy and Hedge ETF"
     },
@@ -39591,10 +39571,6 @@
     {
       "i": "Q:ALNY",
       "n": "Alnylam Pharmaceuticals, Inc."
-    },
-    {
-      "i": "Q:ALOT",
-      "n": "AstroNova, Inc."
     },
     {
       "i": "Q:ALOV",
@@ -40557,10 +40533,6 @@
       "n": "Concrete Pumping Holdings, Inc."
     },
     {
-      "i": "Q:BBCQ",
-      "n": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:BBGI",
       "n": "Beasley Broadcast Group, Inc. - Class A Common Stock"
     },
@@ -40599,10 +40571,6 @@
     {
       "i": "Q:BCAL",
       "n": "California BanCorp"
-    },
-    {
-      "i": "Q:BCAR",
-      "n": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:BCAX",
@@ -43057,10 +43025,6 @@
       "n": "DraftKings Inc. - Class A Common Stock"
     },
     {
-      "i": "Q:DKNX",
-      "n": "Defiance Daily Target 2X Long DKNG ETF"
-    },
-    {
       "i": "Q:DLCU",
       "n": "U.S. Large Company Portfolio: ETF Class Shares"
     },
@@ -44103,10 +44067,6 @@
     {
       "i": "Q:FBOT",
       "n": "Fidelity Disruptive Automation ETF"
-    },
-    {
-      "i": "Q:FBRX",
-      "n": "Forte Biosciences, Inc."
     },
     {
       "i": "Q:FBYD",
@@ -46394,7 +46354,7 @@
     },
     {
       "i": "Q:IDEF",
-      "n": "iShares Defense Industrials Active ETF"
+      "n": "iShares Defense Industrials and Tech Active ETF"
     },
     {
       "i": "Q:IDN",
@@ -47921,10 +47881,6 @@
       "n": "Limoneira Co"
     },
     {
-      "i": "Q:LMNX",
-      "n": "Defiance Daily Target 2x Long LMND ETF"
-    },
-    {
       "i": "Q:LMRI",
       "n": "Lumexa Imaging Holdings, Inc."
     },
@@ -48050,7 +48006,7 @@
     },
     {
       "i": "Q:LRND",
-      "n": "NYLI U.S. Large Cap R&D Leaders ETF"
+      "n": "NYLIM U.S. Large Cap R&D Leaders ETF"
     },
     {
       "i": "Q:LSAK",
@@ -51163,6 +51119,10 @@
     {
       "i": "Q:PSNYW",
       "n": "Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW)"
+    },
+    {
+      "i": "Q:PSQL",
+      "n": "Pasqal Holding SA - Ordinary Shares"
     },
     {
       "i": "Q:PSTR",
@@ -55570,7 +55530,7 @@
     },
     {
       "i": "Q:WRND",
-      "n": "NYLI Global Equity R&D Leaders ETF"
+      "n": "NYLIM Global Equity R&D Leaders ETF"
     },
     {
       "i": "Q:WRTH",
@@ -55797,6 +55757,10 @@
       "n": "TEN Holdings, Inc."
     },
     {
+      "i": "Q:XLAB",
+      "n": "Exascale Labs Holdings Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:XLO",
       "n": "Xilio Therapeutics, Inc."
     },
@@ -55850,7 +55814,7 @@
     },
     {
       "i": "Q:XPON",
-      "n": "Expion360 Inc."
+      "n": "Expion Energy, Inc."
     },
     {
       "i": "Q:XQQI",
@@ -57697,10 +57661,6 @@
       "n": "Tuttle Capital Memory Stack Income Blast ETF"
     },
     {
-      "i": "Z:DRNL",
-      "n": "Defiance 2X Daily Long Pure Drone and Aerial Automation ETF"
-    },
-    {
       "i": "Z:DRSK",
       "n": "Aptus Defined Risk ETF"
     },
@@ -59091,6 +59051,10 @@
     {
       "i": "Z:KONG",
       "n": "Formidable Fortress ETF"
+    },
+    {
+      "i": "Z:KPO",
+      "n": "Kensington Premium Opportunities ETF"
     },
     {
       "i": "Z:KRWX",
@@ -60683,10 +60647,6 @@
     {
       "i": "Z:RIZE",
       "n": "Principal Inflation Protection ETF"
-    },
-    {
-      "i": "Z:RKTL",
-      "n": "Defiance Daily Target 2X Long RKT ETF"
     },
     {
       "i": "Z:RKX",
