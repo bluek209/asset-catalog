@@ -39217,10 +39217,6 @@
       "n": "Advanced Flower Capital Inc."
     },
     {
-      "i": "Q:AFJK",
-      "n": "Aimei Health Technology Co., Ltd - Ordinary Share"
-    },
-    {
       "i": "Q:AFOS",
       "n": "ARS Focused Opportunity Strategy ETF"
     },
@@ -40569,6 +40565,10 @@
       "n": "GraniteShares YieldBOOST BABA ETF"
     },
     {
+      "i": "Q:BCAB",
+      "n": "BioAtla, Inc."
+    },
+    {
       "i": "Q:BCAL",
       "n": "California BanCorp"
     },
@@ -41391,6 +41391,10 @@
     {
       "i": "Q:BYFC",
       "n": "Broadway Financial Corporation - Class A Common Stock"
+    },
+    {
+      "i": "Q:BYND",
+      "n": "Beyond Meat, Inc."
     },
     {
       "i": "Q:BYRN",
@@ -42767,10 +42771,6 @@
     {
       "i": "Q:CWCO",
       "n": "Consolidated Water Co. Ltd. - Ordinary Shares"
-    },
-    {
-      "i": "Q:CWD",
-      "n": "CaliberCos Inc. - Class A Common Stock"
     },
     {
       "i": "Q:CWST",
@@ -44797,10 +44797,6 @@
       "n": "First Trust BuyWrite Income ETF"
     },
     {
-      "i": "Q:FTHM",
-      "n": "Fathom Holdings Inc."
-    },
-    {
       "i": "Q:FTLF",
       "n": "FitLife Brands, Inc."
     },
@@ -46103,6 +46099,10 @@
     {
       "i": "Q:HWGV",
       "n": "Hotchkis & Wiley Global Value Fund"
+    },
+    {
+      "i": "Q:HWH",
+      "n": "HWH International Inc."
     },
     {
       "i": "Q:HWIV",
@@ -50585,10 +50585,6 @@
       "n": "PhenixFIN Corporation"
     },
     {
-      "i": "Q:PGAC",
-      "n": "Pantages Capital Acquisition Corporation - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:PGC",
       "n": "Peapack-Gladstone Financial Corporation"
     },
@@ -52091,10 +52087,6 @@
     {
       "i": "Q:RNRG",
       "n": "Global X Renewable Energy Producers ETF"
-    },
-    {
-      "i": "Q:RNTX",
-      "n": "Rein Therapeutics, Inc."
     },
     {
       "i": "Q:RNW",
@@ -53885,6 +53877,10 @@
       "n": "First Financial Corporation"
     },
     {
+      "i": "Q:THH",
+      "n": "TryHard Holdings Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:THMZ",
       "n": "Lazard Equity Megatrends ETF"
     },
@@ -54815,10 +54811,6 @@
     {
       "i": "Q:VABK",
       "n": "Virginia National Bankshares Corporation"
-    },
-    {
-      "i": "Q:VAI",
-      "n": "Valor Energy Incorporated"
     },
     {
       "i": "Q:VALG",
