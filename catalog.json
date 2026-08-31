@@ -53,10 +53,6 @@
       "n": "Apimeds Pharmaceuticals US, Inc. Common Stock"
     },
     {
-      "i": "A:AREN",
-      "n": "The Arena Group Holdings, Inc. Common Stock"
-    },
-    {
       "i": "A:ARMP",
       "n": "Armata Pharmaceuticals, Inc. Common Stock"
     },
@@ -763,6 +759,10 @@
     {
       "i": "A:OSTX",
       "n": "OS Therapies Incorporated Common Stock"
+    },
+    {
+      "i": "A:PAAI",
+      "n": "Paradium.AI, Inc. Common Stock"
     },
     {
       "i": "A:PAPL",
@@ -25353,10 +25353,6 @@
       "n": "Ooma, Inc. Common Stock"
     },
     {
-      "i": "N:OPAD",
-      "n": "Offerpad Solutions Inc. Class A Common Stock"
-    },
-    {
       "i": "N:OPFI",
       "n": "OppFi Inc. Class A Common Stock"
     },
@@ -26607,6 +26603,10 @@
     {
       "i": "N:SAM",
       "n": "Boston Beer Company, Inc. (The) Common Stock"
+    },
+    {
+      "i": "N:SAMO",
+      "n": "Samos Energy Acquisition Corporation Class A Ordinary Shares"
     },
     {
       "i": "N:SAN",
@@ -28883,6 +28883,10 @@
     {
       "i": "P:ADVE",
       "n": "Matthews Asia Dividend Active ETF"
+    },
+    {
+      "i": "P:AELV",
+      "n": "Harbor AlphaEdge Large Cap Value ETF"
     },
     {
       "i": "P:AEMC",
@@ -32125,6 +32129,10 @@
       "n": "Alger Mid Cap 40 ETF"
     },
     {
+      "i": "P:FRUT",
+      "n": "Yorkville America MANGOS Plus Index ETF"
+    },
+    {
       "i": "P:FSCC",
       "n": "Federated Hermes MDT Small Cap Core ETF"
     },
@@ -34449,12 +34457,12 @@
       "n": "Man Active Income ETF"
     },
     {
-      "i": "P:MAPP",
-      "n": "Harbor Multi-Asset Explorer ETF"
-    },
-    {
       "i": "P:MARO",
       "n": "YieldMax MARA Option Income Strategy ETF"
+    },
+    {
+      "i": "P:MATR",
+      "n": "Harbor Multi-Asset Explorer ETF"
     },
     {
       "i": "P:MAVF",
@@ -38037,10 +38045,6 @@
       "n": "Vanguard Industrials ETF"
     },
     {
-      "i": "P:VLLU",
-      "n": "Harbor AlphaEdge Large Cap Value ETF"
-    },
-    {
       "i": "P:VLU",
       "n": "State Street SPDR S&P 1500 Value Tilt ETF"
     },
@@ -40213,6 +40217,10 @@
       "n": "Ames National Corporation"
     },
     {
+      "i": "Q:ATLQ",
+      "n": "JAB Acquisition Corp I - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:ATLX",
       "n": "Atlas Lithium Corporation"
     },
@@ -40563,10 +40571,6 @@
     {
       "i": "Q:BBYY",
       "n": "GraniteShares YieldBOOST BABA ETF"
-    },
-    {
-      "i": "Q:BCAB",
-      "n": "BioAtla, Inc."
     },
     {
       "i": "Q:BCAL",
@@ -46957,10 +46961,6 @@
       "n": "IZEA Worldwide, Inc."
     },
     {
-      "i": "Q:JAB",
-      "n": "JAB Acquisition Corp I - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:JACK",
       "n": "Jack In The Box Inc."
     },
@@ -48226,7 +48226,7 @@
     },
     {
       "i": "Q:MBAI",
-      "n": "Check-Cap Ltd. - Ordinary Share"
+      "n": "MBody AI Ltd. - Ordinary Share"
     },
     {
       "i": "Q:MBB",
@@ -49995,6 +49995,10 @@
     {
       "i": "Q:ONEW",
       "n": "OneWater Marine Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:OPAD",
+      "n": "Offerpad Solutions Inc. - Class A Common Stock"
     },
     {
       "i": "Q:OPAL",
@@ -54119,6 +54123,10 @@
     {
       "i": "Q:TRBF",
       "n": "Angel Oak Total Return ETF"
+    },
+    {
+      "i": "Q:TRBG",
+      "n": "TurboGen Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:TRDA",
@@ -60446,7 +60454,7 @@
     },
     {
       "i": "Z:QDTE",
-      "n": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF"
+      "n": "Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF"
     },
     {
       "i": "Z:QETH",
