@@ -1138,7 +1138,7 @@
     },
     {
       "i": "A:ZONE",
-      "n": "CleanCore Solutions Inc. Class B Common Stock"
+      "n": "Zone Frontier Inc. Class B Common Stock"
     },
     {
       "i": "KQ:0001A0",
@@ -12363,10 +12363,6 @@
     {
       "i": "KS:081660",
       "n": "미스토홀딩스"
-    },
-    {
-      "i": "KS:082640",
-      "n": "동양생명"
     },
     {
       "i": "KS:082740",
@@ -24717,6 +24713,10 @@
       "n": "McEwen Inc. Common Stock"
     },
     {
+      "i": "N:MVPA",
+      "n": "Miller Value Partners Appreciation ETF"
+    },
+    {
       "i": "N:MWA",
       "n": "MUELLER WATER PRODUCTS Common Stock"
     },
@@ -32993,6 +32993,10 @@
       "n": "Mast HedgeIndex Adaptive Equities ETF"
     },
     {
+      "i": "P:HXF",
+      "n": "Mast HedgeIndex Managed Futures Strategy ETF"
+    },
+    {
       "i": "P:HYFI",
       "n": "AB High Yield ETF"
     },
@@ -34827,10 +34831,6 @@
     {
       "i": "P:MUZ",
       "n": "Defiance Daily Target 2X Short MU ETF"
-    },
-    {
-      "i": "P:MVPA",
-      "n": "Miller Value Partners Appreciation ETF"
     },
     {
       "i": "P:MVPL",
@@ -43411,6 +43411,10 @@
     {
       "i": "Q:ECX",
       "n": "ECARX Holdings Inc. - Class A Ordinary shares"
+    },
+    {
+      "i": "Q:EDBL",
+      "n": "Edible Garden AG Incorporated"
     },
     {
       "i": "Q:EDHL",
@@ -56003,10 +56007,6 @@
     {
       "i": "Q:YXT",
       "n": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares"
-    },
-    {
-      "i": "Q:YYAI",
-      "n": "AiRWA Inc."
     },
     {
       "i": "Q:YYGH",

@@ -1056,9 +1056,9 @@
       "k": "이니시아"
     },
     {
-      "e": "Injective",
+      "e": "INJ",
       "i": "BN:INJ-USDT",
-      "k": "인젝티브"
+      "k": "INJ"
     },
     {
       "e": "INTCB",
@@ -2961,11 +2961,6 @@
       "k": "쿠키다오"
     },
     {
-      "e": "Core",
-      "i": "BT:CORE-KRW",
-      "k": "코어"
-    },
-    {
       "e": "Contentos",
       "i": "BT:COS-KRW",
       "k": "콘텐토스"
@@ -3464,11 +3459,6 @@
       "e": "Initia",
       "i": "BT:INIT-KRW",
       "k": "이니시아"
-    },
-    {
-      "e": "Injective",
-      "i": "BT:INJ-KRW",
-      "k": "인젝티브"
     },
     {
       "e": "io.net",
@@ -4139,11 +4129,6 @@
       "e": "Reserve Rights",
       "i": "BT:RSR-KRW",
       "k": "리저브라이트"
-    },
-    {
-      "e": "RSS3",
-      "i": "BT:RSS3-KRW",
-      "k": "알에스에스쓰리"
     },
     {
       "e": "Sonic",
@@ -5319,11 +5304,6 @@
       "e": "Infinit",
       "i": "UP:IN-KRW",
       "k": "인피닛"
-    },
-    {
-      "e": "Injective",
-      "i": "UP:INJ-KRW",
-      "k": "인젝티브"
     },
     {
       "e": "io.net",
