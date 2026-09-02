@@ -8045,10 +8045,6 @@
       "n": "하나31호스팩"
     },
     {
-      "i": "KQ:471050",
-      "n": "대신밸런스제17호스팩"
-    },
-    {
       "i": "KQ:471820",
       "n": "셀로맥스사이언스"
     },
@@ -9094,7 +9090,7 @@
     },
     {
       "i": "KS:002420",
-      "n": "세기상사"
+      "n": "우양피앤엘"
     },
     {
       "i": "KS:002450",
@@ -11725,6 +11721,10 @@
       "n": "ACE 반도체Plus전략산업"
     },
     {
+      "i": "KS:0229F0",
+      "n": "마이티 신약포커스바이오액티브"
+    },
+    {
       "i": "KS:023000",
       "n": "삼원강재"
     },
@@ -11735,6 +11735,10 @@
     {
       "i": "KS:0231Z0",
       "n": "KODEX 코리아TDF2065액티브 적격"
+    },
+    {
+      "i": "KS:0232A0",
+      "n": "MIDAS 머니마켓액티브"
     },
     {
       "i": "KS:023350",
@@ -11749,8 +11753,16 @@
       "n": "TIGER 삼성전자SK하이닉스미국채혼합50"
     },
     {
+      "i": "KS:0233N0",
+      "n": "RISE 글로벌AI낸드메모리반도체"
+    },
+    {
       "i": "KS:023450",
       "n": "동남합성"
+    },
+    {
+      "i": "KS:0234N0",
+      "n": "KIWOOM 삼성SK그룹TOP4+"
     },
     {
       "i": "KS:023530",
@@ -22957,10 +22969,6 @@
       "n": "Hilton Worldwide Holdings Inc. Common Stock"
     },
     {
-      "i": "N:HLX",
-      "n": "Helix Energy Solutions Group, Inc. Common Stock"
-    },
-    {
       "i": "N:HMC",
       "n": "Honda Motor Company, Ltd. Common Stock"
     },
@@ -22987,6 +22995,10 @@
     {
       "i": "N:HOMB",
       "n": "Home BancShares, Inc. Common Stock"
+    },
+    {
+      "i": "N:HOS",
+      "n": "Hornbeck Offshore Services, Inc. Common Stock"
     },
     {
       "i": "N:HOV",
@@ -30737,6 +30749,10 @@
       "n": "Invesco S&P 500 High Dividend Growers ETF"
     },
     {
+      "i": "P:DIVH",
+      "n": "Integrity Dividend Harvest ETF"
+    },
+    {
       "i": "P:DIVI",
       "n": "Franklin International Core Dividend Tilt Index ETF"
     },
@@ -37673,6 +37689,10 @@
       "n": "ProShares Ultra 20+ Year Treasury"
     },
     {
+      "i": "P:UCBG",
+      "n": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF"
+    },
+    {
       "i": "P:UCC",
       "n": "ProShares Ultra Consumer Discretionary"
     },
@@ -38091,6 +38111,10 @@
     {
       "i": "P:VOOV",
       "n": "Vanguard S&P 500 Value ETF"
+    },
+    {
+      "i": "P:VOOY",
+      "n": "XFUNDS Large Cap Income ETF"
     },
     {
       "i": "P:VOT",
@@ -42529,10 +42553,6 @@
       "n": "Ceragon Networks Ltd. - Ordinary Shares"
     },
     {
-      "i": "Q:CRNX",
-      "n": "Crinetics Pharmaceuticals, Inc."
-    },
-    {
       "i": "Q:CROB",
       "n": "Defiance China Robotics ETF"
     },
@@ -45197,6 +45217,10 @@
       "n": "GigCapital9 Corp. - Class A Ordinary Share"
     },
     {
+      "i": "Q:GIXI",
+      "n": "Gix Internet Ltd. - Ordinary Shares"
+    },
+    {
       "i": "Q:GKAT",
       "n": "Scharf Global Opportunity ETF"
     },
@@ -46883,6 +46907,10 @@
     {
       "i": "Q:ISRG",
       "n": "Intuitive Surgical, Inc."
+    },
+    {
+      "i": "Q:ISRL",
+      "n": "Defiance KSM Israel 120 ETF"
     },
     {
       "i": "Q:ISTM",
@@ -49009,10 +49037,6 @@
       "n": "Myseum.AI, Inc."
     },
     {
-      "i": "Q:MYSZ",
-      "n": "My Size, Inc."
-    },
-    {
       "i": "Q:MYX",
       "n": "Maywood Acquisition Corp. 2 - Class A Ordinary Share"
     },
@@ -49159,10 +49183,6 @@
     {
       "i": "Q:NCRA",
       "n": "Nocera, Inc."
-    },
-    {
-      "i": "Q:NCSM",
-      "n": "NCS Multistage Holdings, Inc."
     },
     {
       "i": "Q:NCT",
@@ -52621,6 +52641,10 @@
       "n": "Sight Sciences, Inc."
     },
     {
+      "i": "Q:SGLD",
+      "n": "Scorpio Gold Corporation"
+    },
+    {
       "i": "Q:SGLY",
       "n": "Singularity Future Technology Ltd."
     },
@@ -55929,6 +55953,10 @@
       "n": "Yueda Digital Holding - Class A Ordinary Share"
     },
     {
+      "i": "Q:YFOR",
+      "n": "YYForce Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:YHC",
       "n": "LQR House Inc."
     },
@@ -56007,10 +56035,6 @@
     {
       "i": "Q:YXT",
       "n": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares"
-    },
-    {
-      "i": "Q:YYGH",
-      "n": "YY Group Holding Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:Z",
@@ -60863,6 +60887,10 @@
     {
       "i": "Z:SKHN",
       "n": "Tradr 2X Short SK hynix Daily ETF"
+    },
+    {
+      "i": "Z:SKHQ",
+      "n": "Leverage Shares 2X Short Sk Hynix Daily ETF"
     },
     {
       "i": "Z:SKHX",
