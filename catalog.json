@@ -35473,6 +35473,10 @@
       "n": "Invesco Pharmaceuticals ETF"
     },
     {
+      "i": "P:PJSM",
+      "n": "PGIM Jennison Small-Mid Cap Core Equity ETF"
+    },
+    {
       "i": "P:PKB",
       "n": "Invesco Building & Construction ETF"
     },
@@ -37559,6 +37563,10 @@
     {
       "i": "P:TSCV",
       "n": "Thrivent Small Cap Value ETF"
+    },
+    {
+      "i": "P:TSCZ",
+      "n": "T. Rowe Price Securitized Income ETF"
     },
     {
       "i": "P:TSEC",
@@ -40417,6 +40425,10 @@
       "n": "Avantis Emerging Markets ex-China Equity ETF"
     },
     {
+      "i": "Q:AVXL",
+      "n": "Anavex Life Sciences Corp."
+    },
+    {
       "i": "Q:AVXX",
       "n": "Defiance Daily Target 2x Long AVAV ETF"
     },
@@ -42805,6 +42817,10 @@
       "n": "GraniteShares YieldBOOST CRWV ETF"
     },
     {
+      "i": "Q:CXAI",
+      "n": "CXApp Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:CXDO",
       "n": "Crexendo, Inc."
     },
@@ -42823,6 +42839,10 @@
     {
       "i": "Q:CYN",
       "n": "Cyngn Inc."
+    },
+    {
+      "i": "Q:CYPH",
+      "n": "Cypherpunk Technologies Inc."
     },
     {
       "i": "Q:CYRX",
@@ -46805,10 +46825,6 @@
       "n": "Century Therapeutics, Inc."
     },
     {
-      "i": "Q:IPST",
-      "n": "IP Strategy Holdings, Inc."
-    },
-    {
       "i": "Q:IPVV",
       "n": "InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares"
     },
@@ -48997,10 +49013,6 @@
       "n": "GraniteShares 2x Long MRVL Daily ETF"
     },
     {
-      "i": "Q:MVST",
-      "n": "Microvast Holdings, Inc."
-    },
-    {
       "i": "Q:MWC",
       "n": "Micware Co., Ltd. - American Depositary Shares"
     },
@@ -49507,6 +49519,10 @@
     {
       "i": "Q:NRXP",
       "n": "NRX Pharmaceuticals, Inc."
+    },
+    {
+      "i": "Q:NSAI",
+      "n": "NorthStrive Acquisition Corp I. - Class A Ordinary Shares"
     },
     {
       "i": "Q:NSI",
@@ -55897,10 +55913,6 @@
       "n": "Karman Line Acquisition Corp. - Class A Ordinary Shares"
     },
     {
-      "i": "Q:XTIA",
-      "n": "XTI Aerospace, Inc. Common Stock"
-    },
-    {
       "i": "Q:XTLB",
       "n": "XTL Biopharmaceuticals Ltd. - American Depositary Shares"
     },
@@ -60303,10 +60315,6 @@
     {
       "i": "Z:PRNT",
       "n": "3D Printing (The) ETF"
-    },
-    {
-      "i": "Z:PRVT",
-      "n": "Tema Alternative Asset Managers ETF"
     },
     {
       "i": "Z:PSAI",

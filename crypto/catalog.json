@@ -591,6 +591,11 @@
       "k": "CRV"
     },
     {
+      "e": "CRWDB",
+      "i": "BN:CRWDB-USDT",
+      "k": "CRWDB"
+    },
+    {
       "e": "CRWVB",
       "i": "BN:CRWVB-USDT",
       "k": "CRWVB"
@@ -1031,11 +1036,6 @@
       "k": "인터넷컴퓨터"
     },
     {
-      "e": "ICX",
-      "i": "BN:ICX-USDT",
-      "k": "ICX"
-    },
-    {
       "e": "SPACE ID",
       "i": "BN:ID-USDT",
       "k": "스페이스아이디"
@@ -1359,6 +1359,11 @@
       "e": "MOVR",
       "i": "BN:MOVR-USDT",
       "k": "MOVR"
+    },
+    {
+      "e": "MRNAB",
+      "i": "BN:MRNAB-USDT",
+      "k": "MRNAB"
     },
     {
       "e": "MRVLB",
@@ -1841,11 +1846,6 @@
       "k": "스크롤"
     },
     {
-      "e": "SCRT",
-      "i": "BN:SCRT-USDT",
-      "k": "SCRT"
-    },
-    {
       "e": "Sei",
       "i": "BN:SEI-USDT",
       "k": "세이"
@@ -1971,6 +1971,11 @@
       "k": "SPYB"
     },
     {
+      "e": "SQQQB",
+      "i": "BN:SQQQB-USDT",
+      "k": "SQQQB"
+    },
+    {
       "e": "SSV",
       "i": "BN:SSV-USDT",
       "k": "SSV"
@@ -1991,11 +1996,6 @@
       "k": "STO"
     },
     {
-      "e": "STORJ",
-      "i": "BN:STORJ-USDT",
-      "k": "STORJ"
-    },
-    {
       "e": "Xertra",
       "i": "BN:STRAX-USDT",
       "k": "저트라"
@@ -2009,6 +2009,11 @@
       "e": "Stacks",
       "i": "BN:STX-USDT",
       "k": "스택스"
+    },
+    {
+      "e": "STXB",
+      "i": "BN:STXB-USDT",
+      "k": "STXB"
     },
     {
       "e": "SUI",
