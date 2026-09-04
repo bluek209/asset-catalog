@@ -1281,6 +1281,11 @@
       "k": "MANTRA"
     },
     {
+      "e": "MARSCOIN",
+      "i": "BN:MARSCOIN-USDT",
+      "k": "MARSCOIN"
+    },
+    {
       "e": "Mask Network",
       "i": "BN:MASK-USDT",
       "k": "마스크네트워크"
