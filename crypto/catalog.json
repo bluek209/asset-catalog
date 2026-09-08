@@ -2986,6 +2986,11 @@
       "k": "카우프로토콜"
     },
     {
+      "e": "Cluster Protocol",
+      "i": "BT:CP-KRW",
+      "k": "클러스터프로토콜"
+    },
+    {
       "e": "Clearpool",
       "i": "BT:CPOOL-KRW",
       "k": "클리어풀"
@@ -4501,6 +4506,11 @@
       "k": "테더"
     },
     {
+      "e": "Useless Coin",
+      "i": "BT:USELESS-KRW",
+      "k": "유즈리스"
+    },
+    {
       "e": "Vana",
       "i": "BT:VANA-KRW",
       "k": "바나"
@@ -5044,6 +5054,11 @@
       "e": "CoW Protocol",
       "i": "UP:COW-KRW",
       "k": "카우프로토콜"
+    },
+    {
+      "e": "Cluster Protocol",
+      "i": "UP:CP-KRW",
+      "k": "클러스터프로토콜"
     },
     {
       "e": "Clearpool",

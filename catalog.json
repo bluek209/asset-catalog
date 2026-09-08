@@ -73,6 +73,10 @@
       "n": "Austin Gold Corp. Common Shares"
     },
     {
+      "i": "A:AUXX",
+      "n": "Gold X2 Mining Inc. Common Shares"
+    },
+    {
       "i": "A:AWX",
       "n": "Avalon Holdings Corporation Common Stock"
     },
@@ -17213,14 +17217,6 @@
       "n": "삼성 KRX 금현물 ETN"
     },
     {
-      "i": "KS:530089",
-      "n": "삼성 은 선물 ETN(H)"
-    },
-    {
-      "i": "KS:530090",
-      "n": "삼성 인버스 은 선물 ETN(H)"
-    },
-    {
       "i": "KS:530092",
       "n": "삼성 인버스 코스피 200 선물 ETN"
     },
@@ -17385,10 +17381,6 @@
       "n": "N2 미국 IT TOP5 ETN(H)"
     },
     {
-      "i": "KS:550064",
-      "n": "N2 레버리지 은 선물 ETN(H)"
-    },
-    {
       "i": "KS:550069",
       "n": "N2 레버리지 구리 선물 ETN(H)"
     },
@@ -17483,10 +17475,6 @@
     {
       "i": "KS:570051",
       "n": "한투 나스닥100 ETN"
-    },
-    {
-      "i": "KS:570061",
-      "n": "한투 레버리지은선물 ETN"
     },
     {
       "i": "KS:570063",
@@ -17683,10 +17671,6 @@
     {
       "i": "KS:580010",
       "n": "KB Wise 분할매매 ETN"
-    },
-    {
-      "i": "KS:580026",
-      "n": "KB S&P 레버리지 은 선물 ETN(H)"
     },
     {
       "i": "KS:580032",
@@ -39669,6 +39653,10 @@
       "n": "Defiance Daily Target 2X Long AMAT ETF"
     },
     {
+      "i": "Q:AMAC",
+      "n": "AMR Resources Acquisition Corp - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:AMAL",
       "n": "Amalgamated Financial Corp."
     },
@@ -41297,10 +41285,6 @@
       "n": "Bentley Systems, Incorporated - Class B Common Stock"
     },
     {
-      "i": "Q:BTAI",
-      "n": "BioXcel Therapeutics, Inc."
-    },
-    {
       "i": "Q:BTBD",
       "n": "BT Brands, Inc."
     },
@@ -41951,6 +41935,10 @@
     {
       "i": "Q:CHA",
       "n": "Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share"
+    },
+    {
+      "i": "Q:CHAD",
+      "n": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock"
     },
     {
       "i": "Q:CHAR",
@@ -48031,10 +48019,6 @@
     {
       "i": "Q:LPLA",
       "n": "LPL Financial Holdings Inc."
-    },
-    {
-      "i": "Q:LPSN",
-      "n": "LivePerson, Inc."
     },
     {
       "i": "Q:LPTH",
