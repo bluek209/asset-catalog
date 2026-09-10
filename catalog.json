@@ -810,7 +810,7 @@
     },
     {
       "i": "A:PHGE",
-      "n": "BiomX Inc. COmmon Stock"
+      "n": "BiomX Inc. Common Stock"
     },
     {
       "i": "A:PHXE-P",
@@ -11783,6 +11783,10 @@
     {
       "i": "KS:023810",
       "n": "인팩"
+    },
+    {
+      "i": "KS:0238P0",
+      "n": "TIGER 미국S&P500미국채혼합50"
     },
     {
       "i": "KS:023960",
@@ -40102,7 +40106,7 @@
     },
     {
       "i": "Q:ASBP",
-      "n": "Aspire Biopharma Holdings, Inc."
+      "n": "Aspire-Lakewood Holdings, Inc."
     },
     {
       "i": "Q:ASCI",
@@ -40843,6 +40847,10 @@
     {
       "i": "Q:BHST",
       "n": "BioHarvest Sciences Inc."
+    },
+    {
+      "i": "Q:BIAF",
+      "n": "bioAffinity Technologies, Inc."
     },
     {
       "i": "Q:BIB",
@@ -41683,6 +41691,10 @@
     {
       "i": "Q:CCLD",
       "n": "CareCloud, Inc."
+    },
+    {
+      "i": "Q:CCML",
+      "n": "Roundhill MLCC & Electronic Components ETF"
     },
     {
       "i": "Q:CCNE",
@@ -42835,10 +42847,6 @@
     {
       "i": "Q:CXSE",
       "n": "WisdomTree China ex-State-Owned Enterprises Fund"
-    },
-    {
-      "i": "Q:CYCN",
-      "n": "Cyclerion Therapeutics, Inc."
     },
     {
       "i": "Q:CYN",
@@ -45017,6 +45025,10 @@
       "n": "Galectin Therapeutics Inc."
     },
     {
+      "i": "Q:GAME",
+      "n": "GameSquare Holdings, Inc."
+    },
+    {
       "i": "Q:GANX",
       "n": "Gain Therapeutics, Inc."
     },
@@ -46625,6 +46637,10 @@
       "n": "Inhibrx Biosciences, Inc."
     },
     {
+      "i": "Q:INCR",
+      "n": "Intercure Ltd. - ordinary shares"
+    },
+    {
       "i": "Q:INCY",
       "n": "Incyte Corporation"
     },
@@ -47501,6 +47517,10 @@
       "n": "Korro Bio, Inc."
     },
     {
+      "i": "Q:KRSA",
+      "n": "Korsana Biosciences, Inc."
+    },
+    {
       "i": "Q:KRT",
       "n": "Karat Packaging Inc."
     },
@@ -47547,10 +47567,6 @@
     {
       "i": "Q:KVHI",
       "n": "KVH Industries, Inc."
-    },
-    {
-      "i": "Q:KWM",
-      "n": "K Wave Media, Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:KXIN",
@@ -49745,6 +49761,10 @@
       "n": "News Corporation - Class A Common Stock"
     },
     {
+      "i": "Q:NXAT",
+      "n": "Nexus Advanced Technologies Inc. - Ordinary Shares"
+    },
+    {
       "i": "Q:NXH",
       "n": "Neighborhood Intelligence, Inc."
     },
@@ -49771,10 +49791,6 @@
     {
       "i": "Q:NXTG",
       "n": "First Trust Indxx NextG ETF"
-    },
-    {
-      "i": "Q:NXTS",
-      "n": "Nexentis Technologies Inc."
     },
     {
       "i": "Q:NXTT",
@@ -51445,10 +51461,6 @@
       "n": "QNB Corp."
     },
     {
-      "i": "Q:QNCX",
-      "n": "Quince Therapeutics, Inc."
-    },
-    {
       "i": "Q:QNDX",
       "n": "State Street SPDR Portfolio Nasdaq 100 ETF"
     },
@@ -52083,6 +52095,10 @@
     {
       "i": "Q:RMIX",
       "n": "Suncrete, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:RML",
+      "n": "Resolution Minerals Ltd - American Depositary Shares"
     },
     {
       "i": "Q:RMNI",
@@ -55725,6 +55741,10 @@
       "n": "X3 Acquisition Corp. Ltd. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:XCH",
+      "n": "XCHG Limited - ADS"
+    },
+    {
       "i": "Q:XCNY",
       "n": "State Street SPDR S&P Emerging Markets ex-China ETF"
     },
@@ -57569,6 +57589,10 @@
       "n": "FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF"
     },
     {
+      "i": "Z:DICE",
+      "n": "Tema Trading & Prediction Markets ETF"
+    },
+    {
       "i": "Z:DIHP",
       "n": "Dimensional International High Profitability ETF"
     },
@@ -58983,6 +59007,10 @@
     {
       "i": "Z:KAPR",
       "n": "Innovator U.S. Small Cap Power Buffer ETF - April"
+    },
+    {
+      "i": "Z:KATT",
+      "n": "T-REX 2X Long PURR Daily Target ETF"
     },
     {
       "i": "Z:KAUG",
@@ -61363,6 +61391,10 @@
     {
       "i": "Z:TRTY",
       "n": "Cambria Trinity ETF"
+    },
+    {
+      "i": "Z:TRXS",
+      "n": "Canary Staked TRX ETF"
     },
     {
       "i": "Z:TSEG",

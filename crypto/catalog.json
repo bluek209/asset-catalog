@@ -586,6 +586,11 @@
       "k": "CRDOB"
     },
     {
+      "e": "CRMB",
+      "i": "BN:CRMB-USDT",
+      "k": "CRMB"
+    },
+    {
       "e": "CRV",
       "i": "BN:CRV-USDT",
       "k": "CRV"
@@ -981,9 +986,14 @@
       "k": "HEI"
     },
     {
-      "e": "Hemi",
+      "e": "HEMI",
       "i": "BN:HEMI-USDT",
-      "k": "헤미"
+      "k": "HEMI"
+    },
+    {
+      "e": "HIMSB",
+      "i": "BN:HIMSB-USDT",
+      "k": "HIMSB"
     },
     {
       "e": "Hive",
@@ -2436,6 +2446,11 @@
       "k": "币安人生"
     },
     {
+      "e": "牛来",
+      "i": "BN:牛来-USDT",
+      "k": "牛来"
+    },
+    {
       "e": "0G",
       "i": "BT:0G-KRW",
       "k": "제로지"
@@ -3379,11 +3394,6 @@
       "e": "Hedera",
       "i": "BT:HBAR-KRW",
       "k": "헤데라"
-    },
-    {
-      "e": "Hemi",
-      "i": "BT:HEMI-KRW",
-      "k": "헤미"
     },
     {
       "e": "Hashflow",
