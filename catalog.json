@@ -6034,7 +6034,7 @@
     },
     {
       "i": "KQ:242040",
-      "n": "나무에이엑스"
+      "n": "나무AX"
     },
     {
       "i": "KQ:243070",
@@ -34561,6 +34561,10 @@
       "n": "PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF"
     },
     {
+      "i": "P:MFSD",
+      "n": "MFS Active Short Duration Income ETF"
+    },
+    {
       "i": "P:MFUS",
       "n": "PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF"
     },
@@ -35015,6 +35019,10 @@
     {
       "i": "P:NQLT",
       "n": "Neuberger Quality Select ETF"
+    },
+    {
+      "i": "P:NRAM",
+      "n": "Yorkville America Next Generation Memory Index ETF"
     },
     {
       "i": "P:NRGD",
@@ -38985,6 +38993,14 @@
       "n": "Aurora Cannabis Inc. - Common Shares"
     },
     {
+      "i": "Q:ACBE",
+      "n": "Pacer Metaurus Enhanced Core Income Autocallable ETF"
+    },
+    {
+      "i": "Q:ACBH",
+      "n": "Pacer Metaurus High Income Autocallable ETF"
+    },
+    {
       "i": "Q:ACCL",
       "n": "Acco Group Holdings Limited - Class A Ordinary Shares"
     },
@@ -39397,6 +39413,10 @@
       "n": "Firefly Neuroscience, Inc."
     },
     {
+      "i": "Q:AIFR",
+      "n": "Defiance Global Foundries ETF"
+    },
+    {
       "i": "Q:AIFU",
       "n": "AIFU Inc. - Class A Ordinary Share"
     },
@@ -39411,6 +39431,10 @@
     {
       "i": "Q:AIMD",
       "n": "Ainos, Inc."
+    },
+    {
+      "i": "Q:AIMG",
+      "n": "Defiance AI Magnificent 10 ETF"
     },
     {
       "i": "Q:AIMS",
@@ -40291,6 +40315,10 @@
     {
       "i": "Q:ATTO",
       "n": "Attovia Therapeutics, Inc."
+    },
+    {
+      "i": "Q:ATTT",
+      "n": "Atlas Trinity Tech Limited - Ordinary Shares"
     },
     {
       "i": "Q:ATXG",
@@ -41239,6 +41267,10 @@
     {
       "i": "Q:BRRR",
       "n": "Coinshares Bitcoin ETF"
+    },
+    {
+      "i": "Q:BRTM",
+      "n": "B&R Technology Merger Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:BRTR",
@@ -42491,6 +42523,10 @@
     {
       "i": "Q:CRAI",
       "n": "CRA International,Inc."
+    },
+    {
+      "i": "Q:CRAM",
+      "n": "Defiance China Memory ETF"
     },
     {
       "i": "Q:CRAN",
@@ -43755,6 +43791,10 @@
     {
       "i": "Q:ENZL",
       "n": "iShares MSCI New Zealand ETF"
+    },
+    {
+      "i": "Q:EOCN",
+      "n": "Eocene Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:EOLS",
@@ -45295,10 +45335,6 @@
     {
       "i": "Q:GLIBK",
       "n": "Liberty Capital Corporation - Series C GCI Group Common Stock"
-    },
-    {
-      "i": "Q:GLMD",
-      "n": "Galmed Pharmaceuticals Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:GLND",
@@ -49401,10 +49437,6 @@
       "n": "Research Affiliates Deletions ETF"
     },
     {
-      "i": "Q:NIXX",
-      "n": "Nixxy, Inc."
-    },
-    {
       "i": "Q:NKLR",
       "n": "Terra Innovatum Global N.V. - Ordinary shares"
     },
@@ -50637,6 +50669,10 @@
       "n": "Pathfinder Focused Opportunities ETF"
     },
     {
+      "i": "Q:PFSA",
+      "n": "Profusa, Inc."
+    },
+    {
       "i": "Q:PFX",
       "n": "PhenixFIN Corporation"
     },
@@ -51735,10 +51771,6 @@
     {
       "i": "Q:RAVE",
       "n": "Rave Restaurant Group, Inc."
-    },
-    {
-      "i": "Q:RAY",
-      "n": "Raytech Holding Limited - Ordinary Shares"
     },
     {
       "i": "Q:RAYA",
@@ -53609,6 +53641,10 @@
       "n": "SWP Growth & Income ETF"
     },
     {
+      "i": "Q:SWRD",
+      "n": "Stewards Inc"
+    },
+    {
       "i": "Q:SWVL",
       "n": "Swvl Holdings Corp - Ordinary Shares"
     },
@@ -54925,6 +54961,10 @@
       "n": "Twin Vee PowerCats Co."
     },
     {
+      "i": "Q:VEEM",
+      "n": "VanEck MSCI EM Analyst Sentiment ETF"
+    },
+    {
       "i": "Q:VEFA",
       "n": "VanEck MSCI EAFE Analyst Sentiment ETF"
     },
@@ -54995,10 +55035,6 @@
     {
       "i": "Q:VHCP",
       "n": "Vine Hill Capital Investment Corp. II - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:VHUB",
-      "n": "VenHub Global, Inc."
     },
     {
       "i": "Q:VIAV",
@@ -61665,6 +61701,10 @@
       "n": "US Vegan Climate ETF"
     },
     {
+      "i": "Z:VEGX",
+      "n": "International Vegan Climate ETF"
+    },
+    {
       "i": "Z:VELL",
       "n": "Defiance Daily Target 2X Long VELO ETF"
     },
@@ -61977,6 +62017,14 @@
       "n": "Corgi U.S. Materials 2x Daily ETF"
     },
     {
+      "i": "Z:XLCD",
+      "n": "MicroSectors -3x Short Communication Services (XLC) ETNs"
+    },
+    {
+      "i": "Z:XLCU",
+      "n": "MicroSectors 3x Long Communication Services (XLC) ETNs"
+    },
+    {
       "i": "Z:XLEX",
       "n": "Corgi U.S. Energy 2x Daily ETF"
     },
@@ -61991,6 +62039,14 @@
     {
       "i": "Z:XLKX",
       "n": "Corgi U.S. Technology 2x Daily ETF"
+    },
+    {
+      "i": "Z:XLPD",
+      "n": "MicroSectors -3x Short Consumer Staples (XLP) ETNs"
+    },
+    {
+      "i": "Z:XLPU",
+      "n": "MicroSectors 3x Long Consumer Staples (XLP) ETNs"
     },
     {
       "i": "Z:XLPX",

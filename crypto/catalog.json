@@ -3086,6 +3086,11 @@
       "k": "디브릿지"
     },
     {
+      "e": "Teller Finance",
+      "i": "BT:DEBIT-KRW",
+      "k": "텔러파이낸스"
+    },
+    {
       "e": "DeepBook",
       "i": "BT:DEEP-KRW",
       "k": "딥북"
@@ -4939,6 +4944,11 @@
       "e": "Berachain",
       "i": "UP:BERA-KRW",
       "k": "베라체인"
+    },
+    {
+      "e": "Bifrost",
+      "i": "UP:BFC-KRW",
+      "k": "바이프로스트"
     },
     {
       "e": "Big Time",
