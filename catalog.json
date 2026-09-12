@@ -465,6 +465,10 @@
       "n": "Healthy Choice Wellness Corp. Class A Common Stock"
     },
     {
+      "i": "A:HLSQ",
+      "n": "Tessera Defense and Homeland Security Inc. Common Stock"
+    },
+    {
       "i": "A:HSLV",
       "n": "Highlander Silver Corp. Common Shares"
     },
@@ -807,10 +811,6 @@
     {
       "i": "A:PED",
       "n": "Pedevco Corp. Common Stock"
-    },
-    {
-      "i": "A:PHGE",
-      "n": "BiomX Inc. Common Stock"
     },
     {
       "i": "A:PHXE-P",
@@ -1759,6 +1759,10 @@
     {
       "i": "KQ:019770",
       "n": "서연탑메탈"
+    },
+    {
+      "i": "KQ:0197V0",
+      "n": "엔에이치스팩34호"
     },
     {
       "i": "KQ:019990",
@@ -40241,10 +40245,6 @@
       "n": "Alphatec Holdings, Inc."
     },
     {
-      "i": "Q:ATER",
-      "n": "Aterian, Inc."
-    },
-    {
       "i": "Q:ATEX",
       "n": "Anterix Inc."
     },
@@ -41367,10 +41367,6 @@
     {
       "i": "Q:BTSG",
       "n": "BrightSpring Health Services, Inc."
-    },
-    {
-      "i": "Q:BTTC",
-      "n": "Black Titan Corp - Ordinary Shares"
     },
     {
       "i": "Q:BUFC",
@@ -45169,6 +45165,10 @@
       "n": "Gemini Space Station, Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:GEMQ",
+      "n": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF"
+    },
+    {
       "i": "Q:GEN",
       "n": "Gen Digital Inc."
     },
@@ -45283,6 +45283,10 @@
     {
       "i": "Q:GINX",
       "n": "SGI Enhanced Global Income ETF"
+    },
+    {
+      "i": "Q:GITS",
+      "n": "Global Interactive Technologies, Inc. Common Stock"
     },
     {
       "i": "Q:GIW",
@@ -49901,6 +49905,10 @@
       "n": "Ocugen, Inc."
     },
     {
+      "i": "Q:OCLT",
+      "n": "OceanLight Acquisition Corporation - Ordinary Shares"
+    },
+    {
       "i": "Q:OCS",
       "n": "Oculis Holding AG - Ordinary shares"
     },
@@ -53059,6 +53067,10 @@
     {
       "i": "Q:SMTI",
       "n": "Sanara MedTech Inc."
+    },
+    {
+      "i": "Q:SMTK",
+      "n": "SmartKem, Inc."
     },
     {
       "i": "Q:SMX",
@@ -59515,6 +59527,10 @@
     {
       "i": "Z:MJUN",
       "n": "Pacer Swan SOS Moderate June ETF"
+    },
+    {
+      "i": "Z:MLCC",
+      "n": "Global X MLCC & Electronic Components ETF"
     },
     {
       "i": "Z:MLN",
