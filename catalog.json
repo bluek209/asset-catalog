@@ -149,6 +149,10 @@
       "n": "Buda Juice, Inc. Common Stock"
     },
     {
+      "i": "A:BURU",
+      "n": "Nuburu, Inc. Common Stock"
+    },
+    {
       "i": "A:CANF",
       "n": "Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares"
     },
@@ -2354,7 +2358,7 @@
     },
     {
       "i": "KQ:038060",
-      "n": "루멘스"
+      "n": "루멘스바이오스"
     },
     {
       "i": "KQ:038070",
@@ -4723,10 +4727,6 @@
     {
       "i": "KQ:121800",
       "n": "비덴트"
-    },
-    {
-      "i": "KQ:121850",
-      "n": "코이즈"
     },
     {
       "i": "KQ:121890",
@@ -8055,10 +8055,6 @@
     {
       "i": "KQ:471820",
       "n": "셀로맥스사이언스"
-    },
-    {
-      "i": "KQ:472220",
-      "n": "신영스팩10호"
     },
     {
       "i": "KQ:472230",
@@ -16921,14 +16917,6 @@
       "n": "신한 인버스 2X S&P500 선물 ETN"
     },
     {
-      "i": "KS:500061",
-      "n": "신한 인버스 코스피 200 선물 ETN"
-    },
-    {
-      "i": "KS:500063",
-      "n": "신한 인버스 코스닥 150 선물 ETN"
-    },
-    {
       "i": "KS:500067",
       "n": "신한 레버리지 10년 국채선물 ETN"
     },
@@ -17015,22 +17003,6 @@
     {
       "i": "KS:510045",
       "n": "대신 인버스 2X 미국달러 선물 ETN"
-    },
-    {
-      "i": "KS:520037",
-      "n": "미래에셋 코스피200 선물 ETN"
-    },
-    {
-      "i": "KS:520038",
-      "n": "미래에셋 인버스 코스피200 선물 ETN"
-    },
-    {
-      "i": "KS:520039",
-      "n": "미래에셋 코스닥150 선물 ETN"
-    },
-    {
-      "i": "KS:520040",
-      "n": "미래에셋 인버스 코스닥150 선물 ETN"
     },
     {
       "i": "KS:520046",
@@ -23673,6 +23645,10 @@
       "n": "Kodiak Gas Services, Inc. Common Stock"
     },
     {
+      "i": "N:KHC",
+      "n": "The Kraft Heinz Company Common Stock"
+    },
+    {
       "i": "N:KIM",
       "n": "Kimco Realty Corporation (HC) Common Stock"
     },
@@ -27498,7 +27474,7 @@
     },
     {
       "i": "N:TEVA",
-      "n": "Teva Pharmaceutical Industries Limited American Depositary Shares"
+      "n": "Teva Pharmaceutical Industries Limited Ordinary Shares"
     },
     {
       "i": "N:TEX",
@@ -28831,6 +28807,10 @@
     {
       "i": "P:ABEQ",
       "n": "Absolute Select Value ETF"
+    },
+    {
+      "i": "P:ABND",
+      "n": "American Century Core Plus Income ETF"
     },
     {
       "i": "P:ACEI",
@@ -30813,6 +30793,10 @@
       "n": "DoubleLine Multi-Sector Income ETF"
     },
     {
+      "i": "P:DMXU",
+      "n": "Xtrackers Bloomberg Developed Markets ex US Equity ETF"
+    },
+    {
       "i": "P:DNL",
       "n": "WisdomTree Global ex-U.S. Quality Growth Fund"
     },
@@ -31023,10 +31007,6 @@
     {
       "i": "P:EAPR",
       "n": "Innovator Emerging Markets Power Buffer ETF April"
-    },
-    {
-      "i": "P:EASG",
-      "n": "Xtrackers MSCI EAFE Selection Equity ETF"
     },
     {
       "i": "P:EBIT",
@@ -32286,7 +32266,7 @@
     },
     {
       "i": "P:FUSI",
-      "n": "American Century Multisector Floating Income ETF"
+      "n": "American Century Ultrashort Income ETF"
     },
     {
       "i": "P:FUTY",
@@ -33023,6 +33003,10 @@
     {
       "i": "P:HYNX",
       "n": "T-REX 2X Long SKHY Daily Target ETF"
+    },
+    {
+      "i": "P:HYSA",
+      "n": "BondBloxx High Yield Income ETF"
     },
     {
       "i": "P:HYSD",
@@ -34109,6 +34093,10 @@
       "n": "State Street SPDR S&P Capital Markets ETF"
     },
     {
+      "i": "P:KCHP",
+      "n": "KICK Korea Semiconductor Index ETF"
+    },
+    {
       "i": "P:KCSH",
       "n": "KraneShares Sustainable Ultra Short Duration Index ETF"
     },
@@ -34391,6 +34379,10 @@
     {
       "i": "P:LPRE",
       "n": "Long Pond Real Estate Select ETF"
+    },
+    {
+      "i": "P:LPSV",
+      "n": "Lone Peak SMID Value ETF"
     },
     {
       "i": "P:LQAI",
@@ -34839,10 +34831,6 @@
     {
       "i": "P:MUNX",
       "n": "AMG GW&K Muni Income ETF"
-    },
-    {
-      "i": "P:MUSI",
-      "n": "American Century Multisector Income ETF"
     },
     {
       "i": "P:MUSQ",
@@ -35558,7 +35546,7 @@
     },
     {
       "i": "P:PRAE",
-      "n": "PlanRock Alternative Growth ETF"
+      "n": "PlanRock Equity Plus Alternatives ETF"
     },
     {
       "i": "P:PRAY",
@@ -36299,6 +36287,10 @@
     {
       "i": "P:SAGP",
       "n": "Strategas Global Policy Opportunities ETF"
+    },
+    {
+      "i": "P:SALI",
+      "n": "Schroders US Autocallable Ladder Income ETF"
     },
     {
       "i": "P:SAMM",
@@ -37423,6 +37415,10 @@
     {
       "i": "P:TIPZ",
       "n": "PIMCO Broad U.S. TIPS Index Exchange-Traded Fund"
+    },
+    {
+      "i": "P:TIZE",
+      "n": "TCW Securitized Income ETF"
     },
     {
       "i": "P:TKNQ",
@@ -39277,6 +39273,14 @@
       "n": "Advanced Flower Capital Inc."
     },
     {
+      "i": "Q:AFDM",
+      "n": "First Trust Active Factor International ETF"
+    },
+    {
+      "i": "Q:AFEM",
+      "n": "First Trust Active Factor Emerging Markets ETF"
+    },
+    {
       "i": "Q:AFOS",
       "n": "ARS Focused Opportunity Strategy ETF"
     },
@@ -40223,10 +40227,6 @@
     {
       "i": "Q:ASYS",
       "n": "Amtech Systems, Inc."
-    },
-    {
-      "i": "Q:ATAI",
-      "n": "AtaiBeckley Inc."
     },
     {
       "i": "Q:ATAT",
@@ -47405,10 +47405,6 @@
       "n": "Kolibri Global Energy Inc."
     },
     {
-      "i": "Q:KHC",
-      "n": "The Kraft Heinz Company"
-    },
-    {
       "i": "Q:KIDS",
       "n": "OrthoPediatrics Corp."
     },
@@ -48469,6 +48465,10 @@
       "n": "Madrigal Pharmaceuticals, Inc."
     },
     {
+      "i": "Q:MDIA",
+      "n": "Mediaco Holding Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:MDIV",
       "n": "Multi-Asset Diversified Income Index Fund"
     },
@@ -49355,6 +49355,10 @@
     {
       "i": "Q:NEXT",
       "n": "NextDecade Corporation"
+    },
+    {
+      "i": "Q:NFEGP",
+      "n": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock"
     },
     {
       "i": "Q:NFLX",
@@ -50491,10 +50495,6 @@
     {
       "i": "Q:PBYI",
       "n": "Puma Biotechnology Inc"
-    },
-    {
-      "i": "Q:PC",
-      "n": "Premium Catering (Holdings) Limited - Ordinary Shares"
     },
     {
       "i": "Q:PCAP",
@@ -51989,14 +51989,6 @@
       "n": "RF Acquisition Corp III - Ordinary Shares"
     },
     {
-      "i": "Q:RFDI",
-      "n": "First Trust RiverFront Dynamic Developed International ETF"
-    },
-    {
-      "i": "Q:RFEM",
-      "n": "First Trust RiverFront Dynamic Emerging Markets ETF"
-    },
-    {
       "i": "Q:RFIL",
       "n": "RF Industries, Ltd."
     },
@@ -52167,6 +52159,10 @@
     {
       "i": "Q:RNAC",
       "n": "Cartesian Therapeutics, Inc."
+    },
+    {
+      "i": "Q:RNAQ",
+      "n": "Rainier Acquisition Corporation - Class A Ordinary Shares"
     },
     {
       "i": "Q:RNAZ",
@@ -55973,6 +55969,10 @@
       "n": "XTL Biopharmaceuticals Ltd. - American Depositary Shares"
     },
     {
+      "i": "Q:XUSM",
+      "n": "MarketDesk International Momentum ETF"
+    },
+    {
       "i": "Q:XWEL",
       "n": "XWELL, Inc."
     },
@@ -56613,6 +56613,10 @@
       "n": "T-REX 2X Long ASTS Daily Target ETF"
     },
     {
+      "i": "Z:AT",
+      "n": "Defiance Robotics Actuators ETF"
+    },
+    {
       "i": "Z:ATMP",
       "n": "iPath Select MLP ETN"
     },
@@ -57094,7 +57098,7 @@
     },
     {
       "i": "Z:CAPA",
-      "n": "Defiance AI Capacitors Leaders ETF"
+      "n": "Defiance AI Capacitors & MLCC ETF"
     },
     {
       "i": "Z:CARX",
@@ -57397,6 +57401,10 @@
       "n": "Corgi CRWV 2x Daily ETF"
     },
     {
+      "i": "Z:CSEP",
+      "n": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series"
+    },
+    {
       "i": "Z:CSEX",
       "n": "Tradr 2X Long CLS Daily ETF"
     },
@@ -57431,6 +57439,10 @@
     {
       "i": "Z:CTMA",
       "n": "Corgi U.S. Equities 30% Structured Buffer ETF - May Series"
+    },
+    {
+      "i": "Z:CTSE",
+      "n": "Corgi U.S. Equities 30% Structured Buffer ETF - September Series"
     },
     {
       "i": "Z:CVAR",
@@ -57867,6 +57879,10 @@
     {
       "i": "Z:EMMY",
       "n": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - May Series"
+    },
+    {
+      "i": "Z:EMSE",
+      "n": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series"
     },
     {
       "i": "Z:EMXX",
@@ -58581,6 +58597,10 @@
       "n": "Leverage Shares 2X Long HPE Daily ETF"
     },
     {
+      "i": "Z:HSEP",
+      "n": "Corgi U.S. Equities 100% Structured Buffer ETF - September Series"
+    },
+    {
       "i": "Z:HTUS",
       "n": "Hull Tactical US ETF"
     },
@@ -58683,6 +58703,10 @@
     {
       "i": "Z:IDMY",
       "n": "Corgi International Developed Equities 15% Structured Buffer ETF - May Series"
+    },
+    {
+      "i": "Z:IDSE",
+      "n": "Corgi International Developed Equities 15% Structured Buffer ETF - September Series"
     },
     {
       "i": "Z:IDUB",
@@ -60205,6 +60229,10 @@
       "n": "Principal Equity Premium Income ETF"
     },
     {
+      "i": "Z:PCPC",
+      "n": "Porter & Company Property & Casualty Index ETF"
+    },
+    {
       "i": "Z:PCPP",
       "n": "Porter & Company Porter Portfolio Index ETF"
     },
@@ -60629,6 +60657,14 @@
       "n": "Corgi Growth & Technology 15% Structured Buffer ETF - May Series"
     },
     {
+      "i": "Z:QQSE",
+      "n": "Corgi Growth & Technology 15% Structured Buffer ETF - September Series"
+    },
+    {
+      "i": "Z:QSE",
+      "n": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series"
+    },
+    {
       "i": "Z:QSOL",
       "n": "Invesco Galaxy Solana ETF"
     },
@@ -60849,6 +60885,10 @@
       "n": "Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF"
     },
     {
+      "i": "Z:SCSE",
+      "n": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series"
+    },
+    {
       "i": "Z:SDVD",
       "n": "FT Vest SMID Rising Dividend Achievers Target Income ETF"
     },
@@ -60875,6 +60915,10 @@
     {
       "i": "Z:SELV",
       "n": "SEI Enhanced Low Volatility U.S. Large Cap ETF"
+    },
+    {
+      "i": "Z:SEPC",
+      "n": "Corgi U.S. Equities 10% Structured Buffer ETF - September Series"
     },
     {
       "i": "Z:SEPM",

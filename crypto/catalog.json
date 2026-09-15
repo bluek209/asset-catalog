@@ -356,9 +356,9 @@
       "k": "베이직어텐션토큰"
     },
     {
-      "e": "BB",
+      "e": "BounceBit",
       "i": "BN:BB-USDT",
-      "k": "BB"
+      "k": "바운스빗"
     },
     {
       "e": "Bitcoin Cash",
@@ -424,6 +424,11 @@
       "e": "BNB",
       "i": "BN:BNB-USDT",
       "k": "비앤비"
+    },
+    {
+      "e": "BNCB",
+      "i": "BN:BNCB-USDT",
+      "k": "BNCB"
     },
     {
       "e": "BNSOL",
@@ -2739,6 +2744,11 @@
       "e": "Basic Attention Token",
       "i": "BT:BAT-KRW",
       "k": "베이직어텐션토큰"
+    },
+    {
+      "e": "BounceBit",
+      "i": "BT:BB-KRW",
+      "k": "바운스빗"
     },
     {
       "e": "Bitcoin Cash",
