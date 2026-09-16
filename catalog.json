@@ -1037,10 +1037,6 @@
       "n": "Trio Petroleum Corp. Common Stock"
     },
     {
-      "i": "A:TRT",
-      "n": "Trio-Tech International Common Stock"
-    },
-    {
       "i": "A:TRX",
       "n": "TRX Gold Corporation Common Stock"
     },
@@ -6398,7 +6394,7 @@
     },
     {
       "i": "KQ:282880",
-      "n": "코윈테크"
+      "n": "코윈로보틱스"
     },
     {
       "i": "KQ:284620",
@@ -8007,10 +8003,6 @@
     {
       "i": "KQ:464580",
       "n": "닷밀"
-    },
-    {
-      "i": "KQ:465320",
-      "n": "교보15호스팩"
     },
     {
       "i": "KQ:465480",
@@ -11721,6 +11713,10 @@
       "n": "RISE 미국우주위성통신"
     },
     {
+      "i": "KS:0227L0",
+      "n": "HANARO 미국에이전틱AI TOP2+"
+    },
+    {
       "i": "KS:0228G0",
       "n": "ACE 반도체Plus전략산업"
     },
@@ -11785,12 +11781,24 @@
       "n": "인팩"
     },
     {
+      "i": "KS:0238F0",
+      "n": "KODEX 미국AI메모리TOP2플러스"
+    },
+    {
       "i": "KS:0238P0",
       "n": "TIGER 미국S&P500미국채혼합50"
     },
     {
       "i": "KS:023960",
       "n": "에쓰씨엔지니어링"
+    },
+    {
+      "i": "KS:0239Y0",
+      "n": "PLUS 코리아HBM반도체"
+    },
+    {
+      "i": "KS:0239Z0",
+      "n": "PLUS AI반도체소부장액티브"
     },
     {
       "i": "KS:024070",
@@ -16057,10 +16065,6 @@
       "n": "STX그린로지스"
     },
     {
-      "i": "KS:465780",
-      "n": "마이티 26-09 특수채(AAA)액티브"
-    },
-    {
       "i": "KS:466810",
       "n": "BNK 2차전지양극재"
     },
@@ -19087,6 +19091,10 @@
     {
       "i": "N:ASB-PF",
       "n": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F"
+    },
+    {
+      "i": "N:ASBH",
+      "n": "American Savings Bank, N.A. Common Stock"
     },
     {
       "i": "N:ASC",
@@ -35197,10 +35205,6 @@
       "n": "MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN"
     },
     {
-      "i": "P:OILT",
-      "n": "Texas Capital Texas Oil Index ETF"
-    },
-    {
       "i": "P:OILU",
       "n": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN"
     },
@@ -37669,10 +37673,6 @@
       "n": "Direxion Daily TXN Bull 2X ETF"
     },
     {
-      "i": "P:TXS",
-      "n": "Texas Capital Texas Equity Index ETF"
-    },
-    {
       "i": "P:TXXI",
       "n": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF"
     },
@@ -39407,6 +39407,10 @@
     {
       "i": "Q:AIBZ",
       "n": "Bitzero Holdings Inc. - Common Shares"
+    },
+    {
+      "i": "Q:AICH",
+      "n": "China AI ETF"
     },
     {
       "i": "Q:AIFA",
@@ -41537,6 +41541,10 @@
       "n": "The Cheesecake Factory Incorporated"
     },
     {
+      "i": "Q:CALC",
+      "n": "CalciMedica, Inc."
+    },
+    {
       "i": "Q:CALI",
       "n": "iShares Short-Term California Muni Active ETF"
     },
@@ -42003,6 +42011,10 @@
     {
       "i": "Q:CHEF",
       "n": "The Chefs' Warehouse, Inc."
+    },
+    {
+      "i": "Q:CHGA",
+      "n": "Change Agents Corporation"
     },
     {
       "i": "Q:CHGX",
@@ -46917,6 +46929,10 @@
       "n": "iQIYI, Inc. - American Depositary Shares"
     },
     {
+      "i": "Q:IQGR",
+      "n": "Astoria International Quality Growth Kings ETF"
+    },
+    {
       "i": "Q:IQMX",
       "n": "IQM Quantum Computers Oyj - American Depositary Shares"
     },
@@ -47179,6 +47195,10 @@
     {
       "i": "Q:JHAI",
       "n": "Janus Henderson Global Artificial Intelligence ETF"
+    },
+    {
+      "i": "Q:JINT",
+      "n": "Janus Henderson International Core Alpha ETF"
     },
     {
       "i": "Q:JIVE",
@@ -50047,6 +50067,10 @@
     {
       "i": "Q:OMER",
       "n": "Omeros Corporation"
+    },
+    {
+      "i": "Q:OMH",
+      "n": "Ohmyhome Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:OMSE",
@@ -54293,6 +54317,10 @@
       "n": "TrustCo Bank Corp NY"
     },
     {
+      "i": "Q:TRT",
+      "n": "Trio-Tech International"
+    },
+    {
       "i": "Q:TRUC",
       "n": "VanEck Communication Services TruSector ETF"
     },
@@ -54937,6 +54965,10 @@
       "n": "Vanguard 0-3 Month Treasury Bill ETF"
     },
     {
+      "i": "Q:VBIO",
+      "n": "Valion Bio, Inc."
+    },
+    {
       "i": "Q:VBNB",
       "n": "VanEck BNB ETF"
     },
@@ -55419,6 +55451,10 @@
     {
       "i": "Q:WCBR",
       "n": "WisdomTree Cybersecurity Fund"
+    },
+    {
+      "i": "Q:WCCB",
+      "n": "West Coast Community Bancorp"
     },
     {
       "i": "Q:WCLD",
@@ -57051,6 +57087,10 @@
     {
       "i": "Z:BUFZ",
       "n": "FT Vest Laddered Moderate Buffer ETF"
+    },
+    {
+      "i": "Z:BUIL",
+      "n": "Rebuild America ETF"
     },
     {
       "i": "Z:BUSA",

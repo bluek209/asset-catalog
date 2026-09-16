@@ -946,6 +946,11 @@
       "k": "GOOGLB"
     },
     {
+      "e": "GPROB",
+      "i": "BN:GPROB-USDT",
+      "k": "GPROB"
+    },
+    {
       "e": "GoPlus",
       "i": "BN:GPS-USDT",
       "k": "고플러스"
@@ -1739,6 +1744,11 @@
       "e": "Raydium",
       "i": "BN:RAY-USDT",
       "k": "레이디움"
+    },
+    {
+      "e": "RDDTB",
+      "i": "BN:RDDTB-USDT",
+      "k": "RDDTB"
     },
     {
       "e": "RE",
