@@ -271,9 +271,9 @@
       "k": "오디우스"
     },
     {
-      "e": "AVA",
+      "e": "Travala",
       "i": "BN:AVA-USDT",
-      "k": "AVA"
+      "k": "트라발라"
     },
     {
       "e": "Avalanche",
@@ -2689,6 +2689,11 @@
       "e": "Audius",
       "i": "BT:AUDIO-KRW",
       "k": "오디우스"
+    },
+    {
+      "e": "Travala",
+      "i": "BT:AVA-KRW",
+      "k": "트라발라"
     },
     {
       "e": "Avail",
@@ -5396,6 +5401,11 @@
       "k": "아이리스"
     },
     {
+      "e": "JPY Coin",
+      "i": "UP:JPYC-KRW",
+      "k": "제이피와이코인"
+    },
+    {
       "e": "JUST",
       "i": "UP:JST-KRW",
       "k": "저스트"
@@ -5749,6 +5759,11 @@
       "e": "Pyth Network",
       "i": "UP:PYTH-KRW",
       "k": "피스네트워크"
+    },
+    {
+      "e": "PayPal USD",
+      "i": "UP:PYUSD-KRW",
+      "k": "페이팔유에스디"
     },
     {
       "e": "QuarkChain",

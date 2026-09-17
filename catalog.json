@@ -29754,7 +29754,7 @@
     },
     {
       "i": "P:BTCC",
-      "n": "Grayscale Bitcoin Covered Call ETF"
+      "n": "Grayscale Bitcoin High Income ETF"
     },
     {
       "i": "P:BTCK",
@@ -31402,7 +31402,7 @@
     },
     {
       "i": "P:ETCO",
-      "n": "Grayscale Ethereum Covered Call ETF"
+      "n": "Grayscale Ethereum High Income ETF"
     },
     {
       "i": "P:ETFT",
@@ -32979,6 +32979,10 @@
     {
       "i": "P:HTEC",
       "n": "ROBO Global Healthcare Technology and Innovation ETF"
+    },
+    {
+      "i": "P:HUMM",
+      "n": "800VDC AI Datacenter Ecosystem ETF"
     },
     {
       "i": "P:HUSV",
@@ -34723,6 +34727,10 @@
     {
       "i": "P:MNGU",
       "n": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs"
+    },
+    {
+      "i": "P:MNGZ",
+      "n": "Yorkville America 2X Long MANGOS Plus Daily Target ETF"
     },
     {
       "i": "P:MNRS",
@@ -39905,10 +39913,6 @@
       "n": "GraniteShares Autocallable NVDA ETF"
     },
     {
-      "i": "Q:ANY",
-      "n": "Sphere 3D Corp. - Common Shares"
-    },
-    {
       "i": "Q:AOHY",
       "n": "Angel Oak High Yield Opportunities ETF"
     },
@@ -40913,10 +40917,6 @@
       "n": "BioAge Labs, Inc."
     },
     {
-      "i": "Q:BIOT",
-      "n": "Instinct Bio Technical Company Holdings Inc."
-    },
-    {
       "i": "Q:BIOY",
       "n": "GraniteShares YieldBOOST Biotech ETF"
     },
@@ -41623,6 +41623,10 @@
     {
       "i": "Q:CATH",
       "n": "Global X S&P 500 Catholic Values ETF"
+    },
+    {
+      "i": "Q:CATL",
+      "n": "Catalyst Acquisition Corp. - Class A Ordinary Share"
     },
     {
       "i": "Q:CATY",
@@ -43247,6 +43251,10 @@
     {
       "i": "Q:DRIV",
       "n": "Global X Autonomous & Electric Vehicles ETF"
+    },
+    {
+      "i": "Q:DRK",
+      "n": "DarkHorse Technologies Inc. - Common Shares"
     },
     {
       "i": "Q:DRMA",
@@ -45521,6 +45529,10 @@
       "n": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF"
     },
     {
+      "i": "Q:GPRO",
+      "n": "GoPro, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:GPT",
       "n": "Intelligent Alpha Atlas ETF"
     },
@@ -46027,10 +46039,6 @@
     {
       "i": "Q:HNVR",
       "n": "Hanover Bancorp, Inc."
-    },
-    {
-      "i": "Q:HODO",
-      "n": "House of Doge Inc."
     },
     {
       "i": "Q:HODU",
@@ -47415,6 +47423,10 @@
     {
       "i": "Q:KFFB",
       "n": "Kentucky First Federal Bancorp"
+    },
+    {
+      "i": "Q:KFII",
+      "n": "K&F Growth Acquisition Corp. II - Class A Ordinary shares"
     },
     {
       "i": "Q:KG",
@@ -49017,6 +49029,10 @@
       "n": "Defiance Daily Target 2x Long MSTR ETF"
     },
     {
+      "i": "Q:MTAK",
+      "n": "Market Technology Acquisition Corp - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MTC",
       "n": "MMTec, Inc. - Common Shares"
     },
@@ -49811,6 +49827,10 @@
     {
       "i": "Q:NWFL",
       "n": "Norwood Financial Corp."
+    },
+    {
+      "i": "Q:NWGL",
+      "n": "CL Workshop Group Limited - American Depositary Shares"
     },
     {
       "i": "Q:NWL",
@@ -51873,6 +51893,10 @@
       "n": "RCM Technologies, Inc."
     },
     {
+      "i": "Q:RCON",
+      "n": "Recon Technology, Ltd. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:RDAG",
       "n": "Republic Digital Acquisition Company - Class A Ordinary Shares"
     },
@@ -51935,6 +51959,10 @@
     {
       "i": "Q:REAX",
       "n": "Real REMAX Group Inc."
+    },
+    {
+      "i": "Q:REBN",
+      "n": "Reborn Coffee, Inc."
     },
     {
       "i": "Q:RECT",
@@ -53881,6 +53909,10 @@
       "n": "First Trust NASDAQ Technology Dividend Index Fund"
     },
     {
+      "i": "Q:TDNA",
+      "n": "T. Rowe Price Biotech ETF"
+    },
+    {
       "i": "Q:TDOG",
       "n": "21shares Dogecoin ETF"
     },
@@ -54085,6 +54117,10 @@
       "n": "GraniteShares Autocallable TSLA ETF"
     },
     {
+      "i": "Q:TLAC",
+      "n": "Three Lions Acquisition Corp. - Ordinary Shares"
+    },
+    {
       "i": "Q:TLF",
       "n": "Tandy Leather Factory, Inc."
     },
@@ -54147,6 +54183,10 @@
     {
       "i": "Q:TMED",
       "n": "T. Rowe Price Health Care ETF"
+    },
+    {
+      "i": "Q:TMID",
+      "n": "T. Rowe Price Mid Cap Equity Research ETF"
     },
     {
       "i": "Q:TMNL",
@@ -54395,6 +54435,10 @@
     {
       "i": "Q:TSDD",
       "n": "GraniteShares 2x Short TSLA Daily ETF"
+    },
+    {
+      "i": "Q:TSEE",
+      "n": "T. Rowe Price Small Cap ETF"
     },
     {
       "i": "Q:TSEL",
@@ -57267,6 +57311,10 @@
     {
       "i": "Z:CFIT",
       "n": "Cambria Fixed Income Trend ETF"
+    },
+    {
+      "i": "Z:CGFS",
+      "n": "CG Flagship Equity ETF"
     },
     {
       "i": "Z:CGOV",
