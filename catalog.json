@@ -465,12 +465,12 @@
       "n": "Gran Tierra Energy Inc. Common Stock"
     },
     {
-      "i": "A:HCWC",
-      "n": "Healthy Choice Wellness Corp. Class A Common Stock"
-    },
-    {
       "i": "A:HLSQ",
       "n": "Tessera Defense and Homeland Security Inc. Common Stock"
+    },
+    {
+      "i": "A:HOST",
+      "n": "Host Digital Inc. Class A Common Stock"
     },
     {
       "i": "A:HSLV",
@@ -9941,10 +9941,6 @@
       "n": "대구백화점"
     },
     {
-      "i": "KS:006380",
-      "n": "카프로"
-    },
-    {
       "i": "KS:006400",
       "n": "삼성SDI"
     },
@@ -17165,6 +17161,22 @@
       "n": "미래에셋 인버스 2X 코스피200 선물 ETN B"
     },
     {
+      "i": "KS:520103",
+      "n": "미래에셋 코스피200 선물 ETN B"
+    },
+    {
+      "i": "KS:520104",
+      "n": "미래에셋 인버스 코스피200 선물 ETN B"
+    },
+    {
+      "i": "KS:520105",
+      "n": "미래에셋 코스닥150 선물 ETN B"
+    },
+    {
+      "i": "KS:520106",
+      "n": "미래에셋 인버스 코스닥150 선물 ETN B"
+    },
+    {
       "i": "KS:530031",
       "n": "삼성 레버리지 WTI원유 선물 ETN"
     },
@@ -17359,6 +17371,10 @@
     {
       "i": "KS:530145",
       "n": "삼성 레버리지 천연가스 선물 ETN D"
+    },
+    {
+      "i": "KS:530148",
+      "n": "삼성 인버스 2X 코스피200 선물 ETN B"
     },
     {
       "i": "KS:550041",
@@ -39565,10 +39581,6 @@
       "n": "Alico, Inc."
     },
     {
-      "i": "Q:ALDF",
-      "n": "Aldel Financial II Inc. - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:ALDX",
       "n": "Aldeyra Therapeutics, Inc."
     },
@@ -40585,10 +40597,6 @@
       "n": "ArrowMark Financial Corp. - Closed End Fund"
     },
     {
-      "i": "Q:BAOS",
-      "n": "Baosheng Media Group Holdings Limited - Ordinary shares"
-    },
-    {
       "i": "Q:BASG",
       "n": "Brown Advisory Sustainable Growth ETF"
     },
@@ -40623,10 +40631,6 @@
     {
       "i": "Q:BBIO",
       "n": "BridgeBio Pharma, Inc."
-    },
-    {
-      "i": "Q:BBLG",
-      "n": "Bone Biologics Corp"
     },
     {
       "i": "Q:BBNX",
@@ -43661,10 +43665,6 @@
       "n": "The Elmet Group Co."
     },
     {
-      "i": "Q:ELOG",
-      "n": "Eastern International Ltd. - Ordinary Shares"
-    },
-    {
       "i": "Q:ELOL",
       "n": "Leverage Shares 100% TSLA AND 100% SPCX Daily ETF"
     },
@@ -43943,6 +43943,10 @@
     {
       "i": "Q:ETOR",
       "n": "eToro Group Ltd. - Class A Common Shares"
+    },
+    {
+      "i": "Q:ETRA",
+      "n": "Electra Therapeutics, Inc."
     },
     {
       "i": "Q:ETS",
@@ -45026,11 +45030,11 @@
     },
     {
       "i": "Q:FWONA",
-      "n": "Liberty Media Corporation - Series A Liberty Formula One Common Stock"
+      "n": "Liberty Media Corporation - Series A Common Stock"
     },
     {
       "i": "Q:FWONK",
-      "n": "Liberty Media Corporation - Series C Liberty Formula One Common Stock"
+      "n": "Liberty Media Corporation - Series C Common Stock"
     },
     {
       "i": "Q:FWRD",
@@ -50023,6 +50027,10 @@
     {
       "i": "Q:OHAC",
       "n": "Oceanhawk Acquisition Corp. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:OIG",
+      "n": "Orion180 Insurance Group Inc. - Class A Common Stock"
     },
     {
       "i": "Q:OIM",
@@ -55145,6 +55153,10 @@
       "n": "Vinci Compass Investments Ltd. - Class A Common Shares"
     },
     {
+      "i": "Q:VIOT",
+      "n": "Viomi Technology Co., Ltd - American Depositary Shares"
+    },
+    {
       "i": "Q:VIR",
       "n": "Vir Biotechnology, Inc."
     },
@@ -55933,6 +55945,10 @@
       "n": "TEN Holdings, Inc."
     },
     {
+      "i": "Q:XIII",
+      "n": "Churchill Capital Corp XIII - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:XLAB",
       "n": "Exascale Labs Holdings Inc. - Class A Common Stock"
     },
@@ -55943,10 +55959,6 @@
     {
       "i": "Q:XMAG",
       "n": "Defiance Large Cap ex-Mag 7 ETF"
-    },
-    {
-      "i": "Q:XMAX",
-      "n": "XMAX, Inc."
     },
     {
       "i": "Q:XMTR",
@@ -56667,6 +56679,10 @@
     {
       "i": "Z:ASMZ",
       "n": "Corgi ASML 2x Daily ETF"
+    },
+    {
+      "i": "Z:ASSX",
+      "n": "T-REX 2X Long ASST Daily Target ETF"
     },
     {
       "i": "Z:ASTG",

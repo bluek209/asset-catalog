@@ -3091,11 +3091,6 @@
       "k": "싸이식"
     },
     {
-      "e": "DAR Open Network",
-      "i": "BT:D-KRW",
-      "k": "달오픈네트워크"
-    },
-    {
       "e": "DAO Maker",
       "i": "BT:DAO-KRW",
       "k": "다오메이커"
@@ -3449,11 +3444,6 @@
       "e": "Defi App",
       "i": "BT:HOME-KRW",
       "k": "디파이앱"
-    },
-    {
-      "e": "Hooked Protocol",
-      "i": "BT:HOOK-KRW",
-      "k": "훅트프로토콜"
     },
     {
       "e": "Hippo Protocol",
