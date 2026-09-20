@@ -46349,6 +46349,10 @@
       "n": "IBEX Limited - Common Share"
     },
     {
+      "i": "Q:IBG",
+      "n": "Innovation Beverage Group Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:IBGA",
       "n": "iShares iBonds Dec 2044 Term Treasury ETF"
     },
@@ -47895,6 +47899,10 @@
     {
       "i": "Q:LGVN",
       "n": "Longeveron Inc. - Class A Common stock"
+    },
+    {
+      "i": "Q:LHAI",
+      "n": "Linkhome Holdings Inc."
     },
     {
       "i": "Q:LHSW",
@@ -51821,10 +51829,6 @@
       "n": "Rand Capital Corporation - Closed End Fund"
     },
     {
-      "i": "Q:RANG",
-      "n": "Range Capital Acquisition Corp. - Ordinary Shares"
-    },
-    {
       "i": "Q:RAPP",
       "n": "Rapport Therapeutics, Inc."
     },
@@ -52571,6 +52575,10 @@
     {
       "i": "Q:SCLX",
       "n": "Scilex Holding Company"
+    },
+    {
+      "i": "Q:SCNI",
+      "n": "Scinai Immunotherapeutics Ltd. - American Depositary Shares"
     },
     {
       "i": "Q:SCOR",
