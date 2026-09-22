@@ -726,9 +726,9 @@
       "k": "오픈캠퍼스"
     },
     {
-      "e": "MultiversX",
+      "e": "EGLD",
       "i": "BN:EGLD-USDT",
-      "k": "멀티버스엑스"
+      "k": "EGLD"
     },
     {
       "e": "EigenCloud",
@@ -816,9 +816,9 @@
       "k": "FDUSD"
     },
     {
-      "e": "Fetch.ai",
+      "e": "FET",
       "i": "BN:FET-USDT",
-      "k": "페치"
+      "k": "FET"
     },
     {
       "e": "Falcon Finance",
@@ -2511,11 +2511,6 @@
       "k": "액세스프로토콜"
     },
     {
-      "e": "Across Protocol",
-      "i": "BT:ACX-KRW",
-      "k": "어크로스프로토콜"
-    },
-    {
       "e": "Cardano",
       "i": "BT:ADA-KRW",
       "k": "에이다"
@@ -3176,11 +3171,6 @@
       "k": "오픈캠퍼스"
     },
     {
-      "e": "MultiversX",
-      "i": "BT:EGLD-KRW",
-      "k": "멀티버스엑스"
-    },
-    {
       "e": "EigenCloud",
       "i": "BT:EIGEN-KRW",
       "k": "아이겐클라우드"
@@ -3269,11 +3259,6 @@
       "e": "Firmachain",
       "i": "BT:FCT2-KRW",
       "k": "피르마체인"
-    },
-    {
-      "e": "Fetch.ai",
-      "i": "BT:FET-KRW",
-      "k": "페치"
     },
     {
       "e": "Falcon Finance",
@@ -5169,11 +5154,6 @@
       "e": "Definitive",
       "i": "UP:EDGE-KRW",
       "k": "디피니티브"
-    },
-    {
-      "e": "MultiversX",
-      "i": "UP:EGLD-KRW",
-      "k": "멀티버스엑스"
     },
     {
       "e": "aelf",

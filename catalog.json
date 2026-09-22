@@ -1397,10 +1397,6 @@
       "n": "엠엑스로보틱스"
     },
     {
-      "i": "KQ:008290",
-      "n": "원풍물산"
-    },
-    {
       "i": "KQ:0082N0",
       "n": "카나프테라퓨틱스"
     },
@@ -1651,6 +1647,10 @@
     {
       "i": "KQ:016100",
       "n": "리더스코스메틱"
+    },
+    {
+      "i": "KQ:0161M0",
+      "n": "네오사피엔스"
     },
     {
       "i": "KQ:016250",
@@ -2703,10 +2703,6 @@
     {
       "i": "KQ:045970",
       "n": "코아시아"
-    },
-    {
-      "i": "KQ:046070",
-      "n": "코다코"
     },
     {
       "i": "KQ:046120",
@@ -3871,10 +3867,6 @@
     {
       "i": "KQ:082270",
       "n": "젬백스"
-    },
-    {
-      "i": "KQ:082660",
-      "n": "코스나인"
     },
     {
       "i": "KQ:082800",
@@ -10278,7 +10270,7 @@
     },
     {
       "i": "KS:009140",
-      "n": "경인전자"
+      "n": "케이아이이"
     },
     {
       "i": "KS:009150",
@@ -17477,22 +17469,6 @@
       "n": "한투 나스닥100 ETN"
     },
     {
-      "i": "KS:570063",
-      "n": "한투 베트남VN30선물 ETN(H)"
-    },
-    {
-      "i": "KS:570064",
-      "n": "한투 인버스베트남VN30선물 ETN(H)"
-    },
-    {
-      "i": "KS:570065",
-      "n": "한투 레버리지베트남VN30선물 ETN(H)"
-    },
-    {
-      "i": "KS:570066",
-      "n": "한투 인버스2X베트남VN30 선물 ETN(H)"
-    },
-    {
       "i": "KS:570069",
       "n": "한투 레버리지플래티넘선물 ETN"
     },
@@ -20807,10 +20783,6 @@
     {
       "i": "N:CRT",
       "n": "Cross Timbers Royalty Trust Common Stock"
-    },
-    {
-      "i": "N:CSAN",
-      "n": "Cosan S.A. ADS"
     },
     {
       "i": "N:CSL",
@@ -40669,6 +40641,10 @@
       "n": "Bleichroeder Acquisition Corp. III - Class A Ordinary Shares"
     },
     {
+      "i": "Q:BCDA",
+      "n": "BioCardia, Inc."
+    },
+    {
       "i": "Q:BCFN",
       "n": "Baron Financials ETF"
     },
@@ -42179,6 +42155,10 @@
     {
       "i": "Q:CLFD",
       "n": "Clearfield, Inc."
+    },
+    {
+      "i": "Q:CLGN",
+      "n": "CollPlant Biotechnologies Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:CLIK",
@@ -44375,10 +44355,6 @@
     {
       "i": "Q:FER",
       "n": "Ferrovial N.V. - Ordinary Shares"
-    },
-    {
-      "i": "Q:FERA",
-      "n": "Fifth Era Acquisition Corp I - Class A Ordinary Shares"
     },
     {
       "i": "Q:FEUZ",
@@ -50557,6 +50533,10 @@
       "n": "Puma Biotechnology Inc"
     },
     {
+      "i": "Q:PC",
+      "n": "Premium Catering (Holdings) Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:PCAP",
       "n": "ProCap Acquisition Corp - Class A Ordinary Shares"
     },
@@ -53785,6 +53765,10 @@
       "n": "TransAct Technologies Incorporated"
     },
     {
+      "i": "Q:TANH",
+      "n": "Tantech Holdings Ltd. - Class A Common Shares"
+    },
+    {
       "i": "Q:TAOP",
       "n": "Taoping Inc. - Ordinary Shares"
     },
@@ -55507,10 +55491,6 @@
     {
       "i": "Q:WBTN",
       "n": "WEBTOON Entertainment Inc."
-    },
-    {
-      "i": "Q:WBUY",
-      "n": "WEBUY GLOBAL LTD. - Class A Ordinary Shares"
     },
     {
       "i": "Q:WCBR",
@@ -57863,6 +57843,10 @@
     {
       "i": "Z:DQJN",
       "n": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June"
+    },
+    {
+      "i": "Z:DQSE",
+      "n": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September"
     },
     {
       "i": "Z:DRAL",
@@ -60757,6 +60741,10 @@
       "n": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series"
     },
     {
+      "i": "Z:QQBF",
+      "n": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF"
+    },
+    {
       "i": "Z:QQJL",
       "n": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series"
     },
@@ -61003,6 +60991,10 @@
     {
       "i": "Z:SDVD",
       "n": "FT Vest SMID Rising Dividend Achievers Target Income ETF"
+    },
+    {
+      "i": "Z:SECA",
+      "n": "Main Active Rotation ETF"
     },
     {
       "i": "Z:SECT",
