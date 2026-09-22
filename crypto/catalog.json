@@ -1076,9 +1076,9 @@
       "k": "이니시아"
     },
     {
-      "e": "INJ",
+      "e": "Injective",
       "i": "BN:INJ-USDT",
-      "k": "INJ"
+      "k": "인젝티브"
     },
     {
       "e": "INTCB",
@@ -1966,9 +1966,9 @@
       "k": "솜니아"
     },
     {
-      "e": "Sophon",
+      "e": "SOPH",
       "i": "BN:SOPH-USDT",
-      "k": "소폰"
+      "k": "SOPH"
     },
     {
       "e": "SOXLB",
@@ -3491,6 +3491,11 @@
       "k": "이니시아"
     },
     {
+      "e": "Injective",
+      "i": "BT:INJ-KRW",
+      "k": "인젝티브"
+    },
+    {
       "e": "io.net",
       "i": "BT:IO-KRW",
       "k": "아이오넷"
@@ -4279,11 +4284,6 @@
       "e": "SOON",
       "i": "BT:SOON-KRW",
       "k": "쑨"
-    },
-    {
-      "e": "Sophon",
-      "i": "BT:SOPH-KRW",
-      "k": "소폰"
     },
     {
       "e": "Spacecoin",
@@ -5346,6 +5346,11 @@
       "k": "인피닛"
     },
     {
+      "e": "Injective",
+      "i": "UP:INJ-KRW",
+      "k": "인젝티브"
+    },
+    {
       "e": "io.net",
       "i": "UP:IO-KRW",
       "k": "아이오넷"
@@ -5849,11 +5854,6 @@
       "e": "SOON",
       "i": "UP:SOON-KRW",
       "k": "쑨"
-    },
-    {
-      "e": "Sophon",
-      "i": "UP:SOPH-KRW",
-      "k": "소폰"
     },
     {
       "e": "Spark",

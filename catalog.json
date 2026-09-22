@@ -31277,6 +31277,10 @@
       "n": "Alerian Energy Infrastructure ETF"
     },
     {
+      "i": "P:ENRG",
+      "n": "Ninepoint North American Energy Independence ETF"
+    },
+    {
       "i": "P:EOCT",
       "n": "Innovator Emerging Markets Power Buffer ETF - October"
     },
@@ -32399,6 +32403,10 @@
     {
       "i": "P:GCLO",
       "n": "Guggenheim Investment Grade CLO ETF"
+    },
+    {
+      "i": "P:GCPU",
+      "n": "Grayscale AI Compute ETF"
     },
     {
       "i": "P:GCSH",
@@ -34713,16 +34721,16 @@
       "n": "NYLIM Merger Arbitrage ETF"
     },
     {
+      "i": "P:MNGB",
+      "n": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF"
+    },
+    {
       "i": "P:MNGU",
       "n": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs"
     },
     {
       "i": "P:MNGZ",
       "n": "Yorkville America 2X Long MANGOS Plus Daily Target ETF"
-    },
-    {
-      "i": "P:MNRS",
-      "n": "Grayscale Bitcoin Miners ETF"
     },
     {
       "i": "P:MOO",
@@ -41245,10 +41253,6 @@
       "n": "Burney U.S. Factor Rotation ETF"
     },
     {
-      "i": "Q:BRR",
-      "n": "ProCap Financial, Inc."
-    },
-    {
       "i": "Q:BRRR",
       "n": "Coinshares Bitcoin ETF"
     },
@@ -43905,6 +43909,10 @@
       "n": "Establishment Labs Holdings Inc. - Common Shares"
     },
     {
+      "i": "Q:ESYN",
+      "n": "EnerSyn Global Inc."
+    },
+    {
       "i": "Q:ETEC",
       "n": "iShares Breakthrough Environmental Solutions ETF"
     },
@@ -46221,10 +46229,6 @@
       "n": "Hotchkis & Wiley Global Value Fund"
     },
     {
-      "i": "Q:HWH",
-      "n": "HWH International Inc."
-    },
-    {
       "i": "Q:HWIV",
       "n": "Hotchkis & Wiley International Value Fund"
     },
@@ -47841,10 +47845,6 @@
       "n": "Lifeward Ltd. - Ordinary Shares"
     },
     {
-      "i": "Q:LGCF",
-      "n": "Themes US Cash Flow Champions ETF"
-    },
-    {
       "i": "Q:LGCL",
       "n": "Lucas GC Limited - Class A Ordinary Shares"
     },
@@ -49417,10 +49417,6 @@
       "n": "Neurogene Inc."
     },
     {
-      "i": "Q:NHIC",
-      "n": "NewHold Investment Corp III - Class A Ordinary shares"
-    },
-    {
       "i": "Q:NHIV",
       "n": "NewHold Investment Corp IV - Class A Ordinary Shares"
     },
@@ -49807,6 +49803,10 @@
     {
       "i": "Q:NWBI",
       "n": "Northwest Bancshares, Inc."
+    },
+    {
+      "i": "Q:NWCL",
+      "n": "newcleo plc - Ordinary Shares"
     },
     {
       "i": "Q:NWE",
@@ -51617,6 +51617,10 @@
       "n": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF"
     },
     {
+      "i": "Q:QQQB",
+      "n": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF"
+    },
+    {
       "i": "Q:QQQE",
       "n": "Direxion NASDAQ-100 Equal Weighted Index ETF"
     },
@@ -53045,10 +53049,6 @@
       "n": "Southern Missouri Bancorp, Inc."
     },
     {
-      "i": "Q:SMCF",
-      "n": "Themes US Small Cap Cash Flow Champions ETF"
-    },
-    {
       "i": "Q:SMCI",
       "n": "Super Micro Computer, Inc."
     },
@@ -53667,6 +53667,10 @@
     {
       "i": "Q:SVCO",
       "n": "Silvaco Group, Inc."
+    },
+    {
+      "i": "Q:SVIA",
+      "n": "Silvia, Inc."
     },
     {
       "i": "Q:SVIV",
@@ -55263,6 +55267,10 @@
     {
       "i": "Q:VONV",
       "n": "Vanguard Russell 1000 Value ETF"
+    },
+    {
+      "i": "Q:VOOB",
+      "n": "VistaShares Shield S&P 500 Enhanced Protection ETF"
     },
     {
       "i": "Q:VOR",
@@ -59403,10 +59411,6 @@
     {
       "i": "Z:LIFT",
       "n": "LifeX 2028 Income Bucket ETF"
-    },
-    {
-      "i": "Z:LIMI",
-      "n": "Themes Lithium & Battery Metal Miners ETF"
     },
     {
       "i": "Z:LITC",
