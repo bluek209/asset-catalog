@@ -101,6 +101,11 @@
       "k": "어드벤처골드"
     },
     {
+      "e": "AGPUB",
+      "i": "BN:AGPUB-USDT",
+      "k": "AGPUB"
+    },
+    {
       "e": "Gensyn",
       "i": "BN:AI-USDT",
       "k": "젠신"
@@ -149,6 +154,11 @@
       "e": "AMATB",
       "i": "BN:AMATB-USDT",
       "k": "AMATB"
+    },
+    {
+      "e": "AMCB",
+      "i": "BN:AMCB-USDT",
+      "k": "AMCB"
     },
     {
       "e": "AMDB",
@@ -634,6 +644,11 @@
       "e": "Cyber",
       "i": "BN:CYBER-USDT",
       "k": "사이버"
+    },
+    {
+      "e": "CYPHB",
+      "i": "BN:CYPHB-USDT",
+      "k": "CYPHB"
     },
     {
       "e": "DASH",

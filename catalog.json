@@ -1769,6 +1769,10 @@
       "n": "에너토크"
     },
     {
+      "i": "KQ:0200G0",
+      "n": "한국제17호스팩"
+    },
+    {
       "i": "KQ:020180",
       "n": "대신정보통신"
     },
@@ -1779,6 +1783,10 @@
     {
       "i": "KQ:020710",
       "n": "시공테크"
+    },
+    {
+      "i": "KQ:0209J0",
+      "n": "KB제34호스팩"
     },
     {
       "i": "KQ:021040",
@@ -11769,6 +11777,10 @@
       "n": "인팩"
     },
     {
+      "i": "KS:0238C0",
+      "n": "IBK 한미대표기업TOP2+채권혼합50액티브"
+    },
+    {
       "i": "KS:0238F0",
       "n": "KODEX 미국AI메모리TOP2플러스"
     },
@@ -11797,8 +11809,20 @@
       "n": "디씨엠"
     },
     {
+      "i": "KS:0240J0",
+      "n": "RISE 삼성SK그룹"
+    },
+    {
       "i": "KS:024110",
       "n": "기업은행"
+    },
+    {
+      "i": "KS:0241R0",
+      "n": "TIGER 현대차LG전자고정피지컬AI밸류체인"
+    },
+    {
+      "i": "KS:0242S0",
+      "n": "파워 SK그룹"
     },
     {
       "i": "KS:024720",
@@ -28965,6 +28989,10 @@
       "n": "Direxion Daily AI and Big Data Bear 2X ETF"
     },
     {
+      "i": "P:AIBF",
+      "n": "iShares Future AI Beneficiaries ETF"
+    },
+    {
       "i": "P:AIBU",
       "n": "Direxion Daily AI and Big Data Bull 2X ETF"
     },
@@ -34963,6 +34991,10 @@
     {
       "i": "P:NDIV",
       "n": "Amplify Energy & Natural Resources Covered Call ETF"
+    },
+    {
+      "i": "P:NECK",
+      "n": "xETFs AI Bottlenecks ETF"
     },
     {
       "i": "P:NEMD",
@@ -42013,6 +42045,10 @@
       "n": "Calamos Convertible Opportunities and Income Fund - Closed End Fund"
     },
     {
+      "i": "Q:CHIP",
+      "n": "REX AI Chipmaking ETF"
+    },
+    {
       "i": "Q:CHKP",
       "n": "Check Point Software Technologies Ltd. - Ordinary Shares"
     },
@@ -45653,6 +45689,14 @@
       "n": "The Goodyear Tire & Rubber Company"
     },
     {
+      "i": "Q:GTBP",
+      "n": "GT Biopharma, Inc."
+    },
+    {
+      "i": "Q:GTEC",
+      "n": "Greenland Technologies Holding Corporation - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:GTEN",
       "n": "Gores Holdings X, Inc. - Class A ordinary shares"
     },
@@ -46826,7 +46870,7 @@
     },
     {
       "i": "Q:INVE",
-      "n": "Identiv, Inc."
+      "n": "INVE Technologies, Inc."
     },
     {
       "i": "Q:IOND",
@@ -48387,10 +48431,6 @@
     {
       "i": "Q:MBOT",
       "n": "Microbot Medical Inc."
-    },
-    {
-      "i": "Q:MBRX",
-      "n": "Moleculin Biotech, Inc."
     },
     {
       "i": "Q:MBS",
@@ -51601,6 +51641,10 @@
       "n": "Invesco QQQ Hedged Advantage ETF"
     },
     {
+      "i": "Q:QQI",
+      "n": "Invesco Nasdaq International Innovators 100 ETF"
+    },
+    {
       "i": "Q:QQLV",
       "n": "Invesco QQQ Low Volatility ETF"
     },
@@ -53933,6 +53977,10 @@
       "n": "ETC Cabana Target Drawdown 10 ETF"
     },
     {
+      "i": "Q:TDTH",
+      "n": "Trident Digital Tech Holdings Ltd - Class B Ordinary Shares"
+    },
+    {
       "i": "Q:TDUP",
       "n": "ThredUp Inc. - Class A Common Stock"
     },
@@ -55219,6 +55267,14 @@
     {
       "i": "Q:VMET",
       "n": "Versamet Royalties Corporation"
+    },
+    {
+      "i": "Q:VMHY",
+      "n": "VictoryShares Municipal High Yield ETF"
+    },
+    {
+      "i": "Q:VMSD",
+      "n": "VictoryShares Short-Duration Municipal ETF"
     },
     {
       "i": "Q:VNCE",
@@ -62333,12 +62389,36 @@
       "n": "Innovator Uncapped Accelerated U.S. Equity ETF"
     },
     {
+      "i": "Z:XVAD",
+      "n": "FT Vest AMD & Target Income ETF"
+    },
+    {
       "i": "Z:XVAP",
       "n": "FT Vest AAPL & Target Income ETF"
     },
     {
+      "i": "Z:XVAZ",
+      "n": "FT Vest AMZN & Target Income ETF"
+    },
+    {
+      "i": "Z:XVGL",
+      "n": "FT Vest GOOG & Target Income ETF"
+    },
+    {
+      "i": "Z:XVMS",
+      "n": "FT Vest MSFT & Target Income ETF"
+    },
+    {
+      "i": "Z:XVMT",
+      "n": "FT Vest META & Target Income ETF"
+    },
+    {
       "i": "Z:XVNV",
       "n": "FT Vest NVDA & Target Income ETF"
+    },
+    {
+      "i": "Z:XVPT",
+      "n": "FT Vest PLTR & Target Income ETF"
     },
     {
       "i": "Z:XVSP",
