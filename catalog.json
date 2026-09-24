@@ -29785,10 +29785,6 @@
       "n": "iShares Total USD Fixed Income Market ETF"
     },
     {
-      "i": "P:BTR",
-      "n": "Beacon Tactical Risk ETF"
-    },
-    {
       "i": "P:BTRN",
       "n": "Global X Bitcoin Trend Strategy ETF"
     },
@@ -34605,6 +34601,10 @@
       "n": "Vanguard Morningstar Mega Cap ETF"
     },
     {
+      "i": "P:MGIN",
+      "n": "Man Active Global Infrastructure ETF"
+    },
+    {
       "i": "P:MGK",
       "n": "Vanguard Morningstar Mega Cap Growth ETF"
     },
@@ -37473,6 +37473,10 @@
       "n": "Touchstone International Equity ETF"
     },
     {
+      "i": "P:TLIE",
+      "n": "American Beacon The London Company Income Equity ETF"
+    },
+    {
       "i": "P:TLTD",
       "n": "Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF"
     },
@@ -37999,6 +38003,10 @@
     {
       "i": "P:VABS",
       "n": "Virtus Newfleet ABS/MBS ETF"
+    },
+    {
+      "i": "P:VAIC",
+      "n": "VegaShares US Equity Autocallable Conservative Income ETF"
     },
     {
       "i": "P:VAIE",
@@ -43237,10 +43245,6 @@
       "n": "Dominari Holdings Inc."
     },
     {
-      "i": "Q:DOMO",
-      "n": "Domo, Inc. - Class B Common Stock"
-    },
-    {
       "i": "Q:DOO",
       "n": "BRP Inc. - Common Subordinate Voting Shares"
     },
@@ -44551,6 +44555,10 @@
     {
       "i": "Q:FIZZ",
       "n": "National Beverage Corp."
+    },
+    {
+      "i": "Q:FJDI",
+      "n": "ARC Group Securities Acquisition I - Class A Ordinary Shares"
     },
     {
       "i": "Q:FJP",
@@ -46225,6 +46233,10 @@
       "n": "Hub Cyber Security Ltd. - Ordinary Shares"
     },
     {
+      "i": "Q:HUCK",
+      "n": "Huckleberry.ai, Inc. - Class B Common Stock"
+    },
+    {
       "i": "Q:HUHU",
       "n": "HUHUTECH International Group Inc. - Ordinary Shares"
     },
@@ -46253,10 +46265,6 @@
       "n": "Leverage Shares 2X Long HUT Daily ETF"
     },
     {
-      "i": "Q:HVII",
-      "n": "Hennessy Capital Investment Corp. VII - Ordinary Shares"
-    },
-    {
       "i": "Q:HVMC",
       "n": "Highview Merger Corp. - Class A Ordinary Share"
     },
@@ -46279,6 +46287,10 @@
     {
       "i": "Q:HWKN",
       "n": "Hawkins, Inc."
+    },
+    {
+      "i": "Q:HWMV",
+      "n": "Hotchkis & Wiley Mid-Cap Value Fund"
     },
     {
       "i": "Q:HWO",
@@ -50169,6 +50181,10 @@
       "n": "OneConstruction Group Limited - Ordinary Shares"
     },
     {
+      "i": "Q:ONEN",
+      "n": "ONE Nuclear Energy Inc."
+    },
+    {
       "i": "Q:ONEQ",
       "n": "Fidelity Nasdaq Composite Index ETF"
     },
@@ -53881,10 +53897,6 @@
       "n": "Thornburg Income Builder Opportunities Trust - Closed End Fund"
     },
     {
-      "i": "Q:TBPH",
-      "n": "Theravance Biopharma, Inc. - Ordinary Shares"
-    },
-    {
       "i": "Q:TC",
       "n": "Token Cat Limited - American Depositary Shares"
     },
@@ -54291,6 +54303,10 @@
     {
       "i": "Q:TOP",
       "n": "TOP Financial Group Limited - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:TORK",
+      "n": "KraneShares Actuator ETF"
     },
     {
       "i": "Q:TORO",
@@ -57619,6 +57635,10 @@
     {
       "i": "Z:DAUG",
       "n": "FT Vest U.S. Equity Deep Buffer ETF - August"
+    },
+    {
+      "i": "Z:DCAP",
+      "n": "T-Strive Digital Credit Preferred Income ETF"
     },
     {
       "i": "Z:DDEC",
