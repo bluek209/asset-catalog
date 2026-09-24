@@ -39685,6 +39685,10 @@
       "n": "REalloys Inc."
     },
     {
+      "i": "Q:ALP",
+      "n": "Alpha Compute Corp - Ordinary Shares"
+    },
+    {
       "i": "Q:ALPX",
       "n": "Alpex Acquisition Corporation - Class A Ordinary Shares"
     },
@@ -44445,10 +44449,6 @@
       "n": "FG Imperii Acquisition Corp. - Class A Ordinary Shares"
     },
     {
-      "i": "Q:FGL",
-      "n": "Founder Group Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:FGM",
       "n": "First Trust Germany AlphaDEX Fund"
     },
@@ -46633,6 +46633,10 @@
       "n": "ImageneBio, Inc."
     },
     {
+      "i": "Q:IMCC",
+      "n": "IM Cannabis Corp. - Common Shares"
+    },
+    {
       "i": "Q:IMCR",
       "n": "Immunocore Holdings plc - American Depositary Shares"
     },
@@ -46787,10 +46791,6 @@
     {
       "i": "Q:INLF",
       "n": "INLIF LIMITED - Class A Ordinary shares"
-    },
-    {
-      "i": "Q:INM",
-      "n": "InMed Pharmaceuticals Inc. - Common Shares"
     },
     {
       "i": "Q:INMB",
@@ -52001,10 +52001,6 @@
       "n": "Real REMAX Group Inc."
     },
     {
-      "i": "Q:REBN",
-      "n": "Reborn Coffee, Inc."
-    },
-    {
       "i": "Q:RECT",
       "n": "Rectitude Holdings Ltd - Ordinary Shares"
     },
@@ -56245,8 +56241,16 @@
       "n": "YSX Tech. Co., Ltd - Class A Ordinary Shares"
     },
     {
+      "i": "Q:YTRA",
+      "n": "Yatra Online, Inc. - Ordinary Shares"
+    },
+    {
       "i": "Q:YXT",
       "n": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares"
+    },
+    {
+      "i": "Q:YYAI",
+      "n": "AiRWA Inc."
     },
     {
       "i": "Q:Z",
