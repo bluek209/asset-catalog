@@ -41501,10 +41501,6 @@
       "n": "Byrna Technologies, Inc."
     },
     {
-      "i": "Q:BYSI",
-      "n": "BeyondSpring, Inc. - Ordinary Shares"
-    },
-    {
       "i": "Q:BZ",
       "n": "KANZHUN LIMITED - American Depository Shares"
     },
@@ -44589,10 +44585,6 @@
       "n": "First Trust Latin America AlphaDEX Fund"
     },
     {
-      "i": "Q:FLNA",
-      "n": "Filana Therapeutics, Inc."
-    },
-    {
       "i": "Q:FLNC",
       "n": "Fluence Energy, Inc. - Class A Common Stock"
     },
@@ -46337,10 +46329,6 @@
       "n": "Grayscale Hyperliquid Staking ETF"
     },
     {
-      "i": "Q:HYPR",
-      "n": "Hyperfine, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:IA",
       "n": "Innovative Solutions and Support, Inc."
     },
@@ -47979,6 +47967,10 @@
     {
       "i": "Q:LIME",
       "n": "Neutron Holdings, Inc."
+    },
+    {
+      "i": "Q:LIMN",
+      "n": "Liminatus Pharma, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:LIN",
