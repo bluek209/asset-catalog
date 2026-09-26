@@ -25853,6 +25853,10 @@
       "n": "PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest"
     },
     {
+      "i": "N:PNAQ",
+      "n": "Pinnacle Acquisition Corporation Class A Ordinary Shares"
+    },
+    {
       "i": "N:PNC",
       "n": "PNC Financial Services Group, Inc. (The) Common Stock"
     },
@@ -39225,6 +39229,10 @@
       "n": "Adaptive Biotechnologies Corporation"
     },
     {
+      "i": "Q:ADRX",
+      "n": "ADARx Pharmaceuticals, Inc."
+    },
+    {
       "i": "Q:ADSE",
       "n": "ADS-TEC ENERGY PLC - Ordinary Shares"
     },
@@ -45513,6 +45521,10 @@
       "n": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock"
     },
     {
+      "i": "Q:GOSS",
+      "n": "Gossamer Bio, Inc."
+    },
+    {
       "i": "Q:GOU",
       "n": "GraniteShares 2x Long GOOGL Daily ETF"
     },
@@ -50537,6 +50549,10 @@
       "n": "Private Bancorp of America, Inc."
     },
     {
+      "i": "Q:PBCS",
+      "n": "Portfolio Building Block World Consumer Staples ETF"
+    },
+    {
       "i": "Q:PBEU",
       "n": "Portfolio Building Block European Banks Index ETF"
     },
@@ -50575,6 +50591,14 @@
     {
       "i": "Q:PBSC",
       "n": "Pacer Barings Secured Credit Flex ETF"
+    },
+    {
+      "i": "Q:PBUB",
+      "n": "Portfolio Building Block US Banks ETF"
+    },
+    {
+      "i": "Q:PBWN",
+      "n": "Portfolio Building Block World Ex US Industrials ETF"
     },
     {
       "i": "Q:PBYI",
