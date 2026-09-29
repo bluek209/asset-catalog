@@ -4086,6 +4086,16 @@
       "k": "피스네트워크"
     },
     {
+      "e": "PayPal USD",
+      "i": "BT:PYUSD-KRW",
+      "k": "페이팔유에스디"
+    },
+    {
+      "e": "Quack AI",
+      "i": "BT:Q-KRW",
+      "k": "쿼크에이아이"
+    },
+    {
       "e": "QuarkChain",
       "i": "BT:QKC-KRW",
       "k": "쿼크체인"
@@ -5039,6 +5049,11 @@
       "e": "CARV",
       "i": "UP:CARV-KRW",
       "k": "카브"
+    },
+    {
+      "e": "Cash Cat",
+      "i": "UP:CASHCAT-KRW",
+      "k": "캐시캣"
     },
     {
       "e": "Cobak Token",

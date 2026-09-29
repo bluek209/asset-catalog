@@ -15773,10 +15773,6 @@
       "n": "TIGER TSMC파운드리밸류체인"
     },
     {
-      "i": "KS:454180",
-      "n": "KIWOOM 차이나내수소비TOP CSI"
-    },
-    {
       "i": "KS:454320",
       "n": "HANARO CAPEX설비투자iSelect"
     },
@@ -16019,10 +16015,6 @@
     {
       "i": "KS:463690",
       "n": "KODEX 미국S&P500커뮤니케이션"
-    },
-    {
-      "i": "KS:464240",
-      "n": "KIWOOM 26-09회사채(AA-이상)액티브"
     },
     {
       "i": "KS:464310",
@@ -16583,14 +16575,6 @@
     {
       "i": "KS:488080",
       "n": "TIGER 반도체TOP10레버리지"
-    },
-    {
-      "i": "KS:488200",
-      "n": "KIWOOM K-2차전지북미공급망"
-    },
-    {
-      "i": "KS:488210",
-      "n": "KIWOOM K-반도체북미공급망"
     },
     {
       "i": "KS:488290",
@@ -23885,6 +23869,10 @@
       "n": "LCI Industries"
     },
     {
+      "i": "N:LCIV",
+      "n": "Logan Capital International ETF"
+    },
+    {
       "i": "N:LCLN",
       "n": "Lincoln International, Inc. Class A Common Stock"
     },
@@ -26677,10 +26665,6 @@
       "n": "D/B/A Sibanye-Stillwater Limited ADS"
     },
     {
-      "i": "N:SBXD",
-      "n": "SilverBox Corp IV Class A Ordinary Shares"
-    },
-    {
       "i": "N:SBXE",
       "n": "SilverBox Corp V Class A Ordinary Shares"
     },
@@ -27871,18 +27855,6 @@
     {
       "i": "N:TWN",
       "n": "Taiwan Fund, Inc. (The) Common Stock"
-    },
-    {
-      "i": "N:TWO-PA",
-      "n": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)"
-    },
-    {
-      "i": "N:TWO-PB",
-      "n": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
-    },
-    {
-      "i": "N:TWO-PC",
-      "n": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
     },
     {
       "i": "N:TX",
@@ -30498,7 +30470,7 @@
     },
     {
       "i": "P:DCOR",
-      "n": "Dimensional US Core Equity 1 ETF"
+      "n": "US Core Equity 1 Portfolio ETF Class Shares"
     },
     {
       "i": "P:DCRE",
@@ -30570,7 +30542,7 @@
     },
     {
       "i": "P:DFAR",
-      "n": "Dimensional US Real Estate ETF"
+      "n": "DFA Real Estate Securities Portfolio ETF Class Shares"
     },
     {
       "i": "P:DFAS",
@@ -30662,7 +30634,7 @@
     },
     {
       "i": "P:DFSV",
-      "n": "Dimensional US Small Cap Value ETF"
+      "n": "US Small Cap Value Portfolio ETF Class Shares"
     },
     {
       "i": "P:DFTT",
@@ -30930,7 +30902,7 @@
     },
     {
       "i": "P:DUHP",
-      "n": "Dimensional US High Profitability ETF"
+      "n": "US High Relative Profitability Portfolio ETF Class Shares"
     },
     {
       "i": "P:DUKQ",
@@ -31006,7 +30978,7 @@
     },
     {
       "i": "P:DXUV",
-      "n": "Dimensional US Vector Equity ETF"
+      "n": "US Vector Equity Portfolio ETF Class Shares"
     },
     {
       "i": "P:DYLD",
@@ -35455,6 +35427,10 @@
     {
       "i": "P:PFRL",
       "n": "PGIM Floating Rate Income ETF"
+    },
+    {
+      "i": "P:PFRX",
+      "n": "Putnam Focused U.S. Research ETF"
     },
     {
       "i": "P:PFXF",
@@ -42553,6 +42529,10 @@
       "n": "Cumberland Pharmaceuticals Inc."
     },
     {
+      "i": "Q:CPOP",
+      "n": "Pop Culture Group Co., Ltd - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:CPRT",
       "n": "Copart, Inc."
     },
@@ -44453,6 +44433,14 @@
       "n": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock"
     },
     {
+      "i": "Q:FGC",
+      "n": "FG Communities Holdings Inc."
+    },
+    {
+      "i": "Q:FGCPP",
+      "n": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock"
+    },
+    {
       "i": "Q:FGI",
       "n": "FGI Industries Ltd. - Ordinary Shares"
     },
@@ -44463,14 +44451,6 @@
     {
       "i": "Q:FGM",
       "n": "First Trust Germany AlphaDEX Fund"
-    },
-    {
-      "i": "Q:FGNX",
-      "n": "FG Nexus Inc."
-    },
-    {
-      "i": "Q:FGNXP",
-      "n": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock"
     },
     {
       "i": "Q:FGSI",
@@ -45535,6 +45515,10 @@
     {
       "i": "Q:GOVI",
       "n": "Invesco Equal Weight 0-30 Year Treasury ETF"
+    },
+    {
+      "i": "Q:GOW",
+      "n": "GOWell Energy Technology - Ordinary shares"
     },
     {
       "i": "Q:GP",
@@ -46933,8 +46917,8 @@
       "n": "Interparfums, Inc."
     },
     {
-      "i": "Q:IPEX",
-      "n": "Inflection Point Acquisition Corp. - Class A Ordinary Shares"
+      "i": "Q:IPDN",
+      "n": "Professional Diversity Network, Inc."
     },
     {
       "i": "Q:IPFX",
@@ -50289,6 +50273,10 @@
       "n": "Oric Pharmaceuticals, Inc."
     },
     {
+      "i": "Q:ORIO",
+      "n": "Orion Digital Corp. - Common Shares"
+    },
+    {
       "i": "Q:ORIQ",
       "n": "Origin Investment Corp I - Ordinary Shares"
     },
@@ -51311,6 +51299,10 @@
     {
       "i": "Q:PSHG",
       "n": "Performance Shipping Inc. - Common Shares"
+    },
+    {
+      "i": "Q:PSIG",
+      "n": "PS International Group Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:PSIX",
@@ -52917,6 +52909,10 @@
       "n": "RMG ML Sports Holdings - Class A Ordinary Shares"
     },
     {
+      "i": "Q:SHPH",
+      "n": "Shuttle Pharmaceuticals Holdings, Inc."
+    },
+    {
       "i": "Q:SHPU",
       "n": "Direxion Daily SHOP Bull 2X ETF"
     },
@@ -54125,6 +54121,10 @@
       "n": "Gentherm Inc"
     },
     {
+      "i": "Q:THRMV",
+      "n": "Gentherm Inc - Gentherm Inc Common Stock When-Issued"
+    },
+    {
       "i": "Q:THRV",
       "n": "Prospera Income ETF"
     },
@@ -54667,6 +54667,10 @@
     {
       "i": "Q:TVAI",
       "n": "Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:TVGN",
+      "n": "Tevogen Inc."
     },
     {
       "i": "Q:TVIV",
