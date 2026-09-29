@@ -22301,10 +22301,6 @@
       "n": "Glacier Bancorp, Inc. Common Stock"
     },
     {
-      "i": "N:GBTG",
-      "n": "Global Business Travel Group, Inc. Class A Common Stock"
-    },
-    {
       "i": "N:GBX",
       "n": "Greenbrier Companies, Inc. (The) Common Stock"
     },
@@ -23867,10 +23863,6 @@
     {
       "i": "N:LCII",
       "n": "LCI Industries"
-    },
-    {
-      "i": "N:LCIV",
-      "n": "Logan Capital International ETF"
     },
     {
       "i": "N:LCLN",
@@ -34465,6 +34457,10 @@
       "n": "KraneShares Photonic and Optical ETF"
     },
     {
+      "i": "P:LUNC",
+      "n": "Longnook Uncommon Compounders ETF"
+    },
+    {
       "i": "P:LVLN",
       "n": "State Street SPDR S&P Leveraged Loan ETF"
     },
@@ -35047,6 +35043,10 @@
     {
       "i": "P:NRGU",
       "n": "MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045"
+    },
+    {
+      "i": "P:NRR",
+      "n": "Common Shares of Beneficial Interest of Bitwise NEAR ETF"
     },
     {
       "i": "P:NRSH",
@@ -46497,6 +46497,10 @@
       "n": "ICON plc - Ordinary Shares"
     },
     {
+      "i": "Q:ICMO",
+      "n": "Symmetry Panoramic International Country Momentum ETF"
+    },
+    {
       "i": "Q:ICON",
       "n": "Icon Energy Corp."
     },
@@ -49119,6 +49123,10 @@
     {
       "i": "Q:MUU",
       "n": "Direxion Daily MU Bull 2X ETF"
+    },
+    {
+      "i": "Q:MUY",
+      "n": "YieldMax MU Option Income Strategy ETF"
     },
     {
       "i": "Q:MUYY",
@@ -52505,6 +52513,10 @@
       "n": "Rhythm Pharmaceuticals, Inc."
     },
     {
+      "i": "Q:RZAI",
+      "n": "Roze AI Inc. - Common Shares"
+    },
+    {
       "i": "Q:RZLT",
       "n": "Rezolute, Inc. - Common Stock (NV)"
     },
@@ -54330,7 +54342,7 @@
     },
     {
       "i": "Q:TORO",
-      "n": "Toro Corp."
+      "n": "Toro Corp. - Common Shares"
     },
     {
       "i": "Q:TOUR",
