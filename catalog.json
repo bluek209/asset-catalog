@@ -1265,6 +1265,10 @@
       "n": "하림지주"
     },
     {
+      "i": "KQ:0035S0",
+      "n": "빅웨이브로보틱스"
+    },
+    {
       "i": "KQ:0037T0",
       "n": "KB제32호스팩"
     },
@@ -8251,6 +8255,10 @@
     {
       "i": "KQ:484810",
       "n": "티엑스알로보틱스"
+    },
+    {
+      "i": "KQ:486510",
+      "n": "글로벌테크놀로지"
     },
     {
       "i": "KQ:486630",
@@ -16995,10 +17003,6 @@
     {
       "i": "KS:510027",
       "n": "대신 인버스 2X 코스닥 150 선물 ETN"
-    },
-    {
-      "i": "KS:510043",
-      "n": "대신 인버스 천연가스 선물 ETN(H) B"
     },
     {
       "i": "KS:510044",
@@ -44609,10 +44613,6 @@
       "n": "Flywire Corporation - Voting Common Stock"
     },
     {
-      "i": "Q:FMAC",
-      "n": "Future Money Acquisition Corporation - Ordinary Shares"
-    },
-    {
       "i": "Q:FMAO",
       "n": "Farmers & Merchants Bancorp, Inc."
     },
@@ -46371,10 +46371,6 @@
     {
       "i": "Q:IBEX",
       "n": "IBEX Limited - Common Share"
-    },
-    {
-      "i": "Q:IBG",
-      "n": "Innovation Beverage Group Limited - Ordinary Shares"
     },
     {
       "i": "Q:IBGA",
@@ -50603,10 +50599,6 @@
     {
       "i": "Q:PBYI",
       "n": "Puma Biotechnology Inc"
-    },
-    {
-      "i": "Q:PC",
-      "n": "Premium Catering (Holdings) Limited - Ordinary Shares"
     },
     {
       "i": "Q:PCAP",
