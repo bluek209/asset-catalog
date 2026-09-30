@@ -81,6 +81,11 @@
       "k": "ADA"
     },
     {
+      "e": "ADBEB",
+      "i": "BN:ADBEB-USDT",
+      "k": "ADBEB"
+    },
+    {
       "e": "ADX",
       "i": "BN:ADX-USDT",
       "k": "ADX"
@@ -891,6 +896,11 @@
       "k": "FTT"
     },
     {
+      "e": "FWDIB",
+      "i": "BN:FWDIB-USDT",
+      "k": "FWDIB"
+    },
+    {
       "e": "Gravity",
       "i": "BN:G-USDT",
       "k": "그래비티"
@@ -1049,6 +1059,11 @@
       "e": "HOT",
       "i": "BN:HOT-USDT",
       "k": "HOT"
+    },
+    {
+      "e": "HPEB",
+      "i": "BN:HPEB-USDT",
+      "k": "HPEB"
     },
     {
       "e": "Huma Finance",
@@ -1606,6 +1621,11 @@
       "k": "팍스골드"
     },
     {
+      "e": "PDDB",
+      "i": "BN:PDDB-USDT",
+      "k": "PDDB"
+    },
+    {
       "e": "Pendle",
       "i": "BN:PENDLE-USDT",
       "k": "펜들"
@@ -1909,6 +1929,11 @@
       "e": "Safepal",
       "i": "BN:SFP-USDT",
       "k": "세이프팔"
+    },
+    {
+      "e": "SHAZB",
+      "i": "BN:SHAZB-USDT",
+      "k": "SHAZB"
     },
     {
       "e": "MyShell",
@@ -2326,6 +2351,11 @@
       "k": "WDCB"
     },
     {
+      "e": "WENB",
+      "i": "BN:WENB-USDT",
+      "k": "WENB"
+    },
+    {
       "e": "dogwifhat",
       "i": "BN:WIF-USDT",
       "k": "도그위프햇"
@@ -2459,6 +2489,11 @@
       "e": "zkPass",
       "i": "BN:ZKP-USDT",
       "k": "지케이패스"
+    },
+    {
+      "e": "ZMB",
+      "i": "BN:ZMB-USDT",
+      "k": "ZMB"
     },
     {
       "e": "LayerZero",

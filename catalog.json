@@ -41,10 +41,6 @@
       "n": "American Shared Hospital Services Common Stock"
     },
     {
-      "i": "A:AMZE",
-      "n": "Amaze Holdings, Inc. Common Stock"
-    },
-    {
       "i": "A:APT",
       "n": "Alpha Pro Tech, Ltd. Common Stock"
     },
@@ -21005,10 +21001,6 @@
       "n": "DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest"
     },
     {
-      "i": "N:DBRG",
-      "n": "DigitalBridge Group, Inc."
-    },
-    {
       "i": "N:DBRG-PH",
       "n": "DigitalBridge Group, Inc. 7.125% Series H"
     },
@@ -22377,10 +22369,6 @@
       "n": "Geo Group Inc (The) REIT"
     },
     {
-      "i": "N:GETY",
-      "n": "Getty Images Holdings, Inc. Class A Common Stock"
-    },
-    {
       "i": "N:GEV",
       "n": "GE Vernova Inc. Common Stock"
     },
@@ -23381,6 +23369,10 @@
       "n": "Illinois Tool Works Inc. Common Stock"
     },
     {
+      "i": "N:IVAI",
+      "n": "Ives Ultra AI Opportunities Inc. Common Stock"
+    },
+    {
       "i": "N:IVR",
       "n": "INVESCO MORTGAGE CAPITAL INC Common Stock"
     },
@@ -23867,6 +23859,10 @@
     {
       "i": "N:LCII",
       "n": "LCI Industries"
+    },
+    {
+      "i": "N:LCIV",
+      "n": "Logan Capital International ETF"
     },
     {
       "i": "N:LCLN",
@@ -29273,6 +29269,10 @@
       "n": "Avantis U.S. Mid Cap Value ETF"
     },
     {
+      "i": "P:AVNC",
+      "n": "Avantis All International Core Equity ETF"
+    },
+    {
       "i": "P:AVNM",
       "n": "Avantis All International Markets Equity ETF"
     },
@@ -30411,6 +30411,10 @@
     {
       "i": "P:DBA",
       "n": "Invesco DB Agriculture Fund"
+    },
+    {
+      "i": "P:DBAR",
+      "n": "IMGP DBI Absolute Return ETF"
     },
     {
       "i": "P:DBAW",
@@ -34029,6 +34033,10 @@
       "n": "iShares JPX-Nikkei 400 ETF"
     },
     {
+      "i": "P:JQTY",
+      "n": "Jensen U.S. Quality Index ETF"
+    },
+    {
       "i": "P:JQUA",
       "n": "JPMorgan U.S. Quality Factor ETF"
     },
@@ -37258,7 +37266,7 @@
     },
     {
       "i": "P:TCV",
-      "n": "Towle Value ETF"
+      "n": "Towle Small-Cap Value ETF"
     },
     {
       "i": "P:TDTF",
@@ -39037,6 +39045,10 @@
       "n": "Acco Group Holdings Limited - Class A Ordinary Shares"
     },
     {
+      "i": "Q:ACCV",
+      "n": "Accelevation Holdings Corp. - Class A ordinary shares"
+    },
+    {
       "i": "Q:ACDC",
       "n": "ProFrac Holding Corp. - Class A Common Stock"
     },
@@ -39555,10 +39567,6 @@
     {
       "i": "Q:AIX",
       "n": "Defiance US 100 Tech AI Moat ETF"
-    },
-    {
-      "i": "Q:AIXC",
-      "n": "AIxCrypto Holdings, Inc."
     },
     {
       "i": "Q:AKAM",
@@ -41134,7 +41142,7 @@
     },
     {
       "i": "Q:BNC",
-      "n": "CEA Industries Inc."
+      "n": "BNB Standard Corporation"
     },
     {
       "i": "Q:BNGO",
@@ -43777,6 +43785,10 @@
       "n": "Energys Group Limited - Ordinary Shares"
     },
     {
+      "i": "Q:ENHE",
+      "n": "iShares Enhanced Emerging Markets Active ETF"
+    },
+    {
       "i": "Q:ENHI",
       "n": "iShares Enhanced International Active ETF"
     },
@@ -44423,6 +44435,10 @@
     {
       "i": "Q:FFIV",
       "n": "F5, Inc."
+    },
+    {
+      "i": "Q:FFR",
+      "n": "FF EAI Robotics Ecosystem Inc."
     },
     {
       "i": "Q:FFUT",
@@ -56501,6 +56517,10 @@
       "n": "Corgi ACHR 2x Daily ETF"
     },
     {
+      "i": "Z:ACIG",
+      "n": "Hartford Alpha Capture International Growth ETF"
+    },
+    {
       "i": "Z:ACIO",
       "n": "Aptus Collared Investment Opportunity ETF"
     },
@@ -56519,6 +56539,10 @@
     {
       "i": "Z:ACSI",
       "n": "American Customer Satisfaction ETF"
+    },
+    {
+      "i": "Z:ACSM",
+      "n": "Hartford Alpha Capture SMID Cap ETF"
     },
     {
       "i": "Z:ACSV",
