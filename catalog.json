@@ -6293,6 +6293,10 @@
       "n": "엔에프씨"
     },
     {
+      "i": "KQ:266690",
+      "n": "덕산넵코어스"
+    },
+    {
       "i": "KQ:267320",
       "n": "나인테크"
     },
@@ -17655,6 +17659,18 @@
     {
       "i": "KS:570127",
       "n": "한투 인버스2X코스피200선물 ETN"
+    },
+    {
+      "i": "KS:570128",
+      "n": "한투 베트남VN30선물 ETN(H) B"
+    },
+    {
+      "i": "KS:570129",
+      "n": "한투 레버리지베트남VN30선물 ETN(H) B"
+    },
+    {
+      "i": "KS:570130",
+      "n": "한투 인버스2X베트남VN30선물 ETN(H) B"
     },
     {
       "i": "KS:580010",
@@ -46237,10 +46253,6 @@
       "n": "Hertz Global Holdings, Inc"
     },
     {
-      "i": "Q:HUBC",
-      "n": "Hub Cyber Security Ltd. - Ordinary Shares"
-    },
-    {
       "i": "Q:HUCK",
       "n": "Huckleberry.ai, Inc. - Class B Common Stock"
     },
@@ -49443,6 +49455,10 @@
     {
       "i": "Q:NEXT",
       "n": "NextDecade Corporation"
+    },
+    {
+      "i": "Q:NFE",
+      "n": "New Fortress Energy Inc. - Class A Common Stock"
     },
     {
       "i": "Q:NFEGP",
@@ -53275,10 +53291,6 @@
     {
       "i": "Q:SNTG",
       "n": "Sentage Holdings Inc. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:SNWV",
-      "n": "SANUWAVE Health, Inc."
     },
     {
       "i": "Q:SNY",
