@@ -24125,10 +24125,6 @@
       "n": "Mid-America Apartment Communities, Inc. Common Stock"
     },
     {
-      "i": "N:MAA-PI",
-      "n": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock"
-    },
-    {
       "i": "N:MAC",
       "n": "Macerich Company (The) Common Stock"
     },
@@ -24947,10 +24943,6 @@
     {
       "i": "N:NLY-PG",
       "n": "Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
-    },
-    {
-      "i": "N:NLY-PI",
-      "n": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
     },
     {
       "i": "N:NLY-PJ",
@@ -28335,6 +28327,10 @@
     {
       "i": "N:VVX",
       "n": "V2X, Inc. Common Stock"
+    },
+    {
+      "i": "N:VYLR",
+      "n": "Vylor Inc. Common Stock"
     },
     {
       "i": "N:VYX",
@@ -34578,7 +34574,7 @@
     },
     {
       "i": "P:METV",
-      "n": "Roundhill Ball Metaverse ETF"
+      "n": "Roundhill Metaverse ETF"
     },
     {
       "i": "P:MEXX",
@@ -34723,6 +34719,10 @@
     {
       "i": "P:MMCA",
       "n": "NYLIM MacKay California Muni Intermediate ETF"
+    },
+    {
+      "i": "P:MMHI",
+      "n": "NYLIM MacKay Muni High Income ETF"
     },
     {
       "i": "P:MMIN",
@@ -35215,6 +35215,10 @@
     {
       "i": "P:OCIO",
       "n": "ClearShares OCIO ETF"
+    },
+    {
+      "i": "P:OCT",
+      "n": "VanEck U.S. Equity Buffer ETF - October"
     },
     {
       "i": "P:ODHY",
@@ -36042,7 +36046,7 @@
     },
     {
       "i": "P:RHRX",
-      "n": "RH Tactical Rotation ETF"
+      "n": "Adaptive Tactical Rotation ETF"
     },
     {
       "i": "P:RHTX",
@@ -42157,6 +42161,10 @@
       "n": "Calamos Global Dynamic Income Fund - Closed End Fund"
     },
     {
+      "i": "Q:CHWM",
+      "n": "Chilwa Minerals Limited - American Depository Shares"
+    },
+    {
       "i": "Q:CHY",
       "n": "Calamos Convertible and High Income Fund - Closed End Fund"
     },
@@ -45954,7 +45962,7 @@
     },
     {
       "i": "Q:HELP",
-      "n": "Cybin Inc."
+      "n": "Helus Pharma Inc."
     },
     {
       "i": "Q:HEPS",
@@ -48827,6 +48835,10 @@
     {
       "i": "Q:MMED",
       "n": "MiniMed Group, Inc."
+    },
+    {
+      "i": "Q:MMEDV",
+      "n": "MiniMed Group, Inc. - Common Stock When Issued"
     },
     {
       "i": "Q:MMSI",
@@ -56162,7 +56174,7 @@
     },
     {
       "i": "Q:XSPC",
-      "n": "VegaShares SpaceX & Beyond Earth ETF"
+      "n": "VegaShares Space & AI ETF"
     },
     {
       "i": "Q:XSPI",
@@ -58053,6 +58065,10 @@
       "n": "Principal Long Duration ETF"
     },
     {
+      "i": "Z:EAFH",
+      "n": "Xtrackers MSCI EAFE 50% Hedged Equity ETF"
+    },
+    {
       "i": "Z:EALT",
       "n": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly"
     },
@@ -59585,6 +59601,10 @@
       "n": "Innovator Premium Income 15 Buffer ETF - July"
     },
     {
+      "i": "Z:LLMA",
+      "n": "Global X LLM ETF"
+    },
+    {
       "i": "Z:LNOK",
       "n": "Defiance Daily Target 2X Long NOK ETF"
     },
@@ -60239,6 +60259,10 @@
     {
       "i": "Z:OCTH",
       "n": "Innovator Premium Income 20 Barrier ETF - October"
+    },
+    {
+      "i": "Z:OCTI",
+      "n": "AllianzIM International Equity Buffer15 Uncapped Oct ETF"
     },
     {
       "i": "Z:OCTJ",
@@ -61733,6 +61757,10 @@
       "n": "Corgi TPL 2x Daily ETF"
     },
     {
+      "i": "Z:TRIL",
+      "n": "VegaShares Trillions ETF"
+    },
+    {
       "i": "Z:TRIO",
       "n": "MC Trio Equity Buffered ETF"
     },
@@ -62523,6 +62551,10 @@
     {
       "i": "Z:XW",
       "n": "Corgi Ex-U.S. Equities 2x Daily ETF"
+    },
+    {
+      "i": "Z:XX",
+      "n": "Roundhill S&P 500 Target 10,000 2030 ETF"
     },
     {
       "i": "Z:YBTC",
