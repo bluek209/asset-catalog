@@ -1891,9 +1891,9 @@
       "k": "사하라에이아이"
     },
     {
-      "e": "SAND",
+      "e": "The Sandbox",
       "i": "BN:SAND-USDT",
-      "k": "SAND"
+      "k": "샌드박스"
     },
     {
       "e": "SANTOS",
@@ -2864,11 +2864,6 @@
       "e": "Moonbirds",
       "i": "BT:BIRB-KRW",
       "k": "문버드"
-    },
-    {
-      "e": "Blast",
-      "i": "BT:BLAST-KRW",
-      "k": "블라스트"
     },
     {
       "e": "Fluent",
@@ -4236,6 +4231,11 @@
       "k": "사하라에이아이"
     },
     {
+      "e": "The Sandbox",
+      "i": "BT:SAND-KRW",
+      "k": "샌드박스"
+    },
+    {
       "e": "Sapien",
       "i": "BT:SAPIEN-KRW",
       "k": "사피엔"
@@ -4544,6 +4544,11 @@
       "e": "Superform",
       "i": "BT:UP-KRW",
       "k": "슈퍼폼"
+    },
+    {
+      "e": "Talus",
+      "i": "BT:US-KRW",
+      "k": "탈루스"
     },
     {
       "e": "World Liberty Financial USD",
@@ -5019,11 +5024,6 @@
       "e": "Moonbirds",
       "i": "UP:BIRB-KRW",
       "k": "문버드"
-    },
-    {
-      "e": "Blast",
-      "i": "UP:BLAST-KRW",
-      "k": "블라스트"
     },
     {
       "e": "Fluent",
@@ -5741,6 +5741,11 @@
       "k": "플룸"
     },
     {
+      "e": "Dolphin",
+      "i": "UP:POD-KRW",
+      "k": "돌핀"
+    },
+    {
       "e": "Pocket Network",
       "i": "UP:POKT-KRW",
       "k": "포켓네트워크"
@@ -5849,6 +5854,11 @@
       "e": "Sahara AI",
       "i": "UP:SAHARA-KRW",
       "k": "사하라에이아이"
+    },
+    {
+      "e": "The Sandbox",
+      "i": "UP:SAND-KRW",
+      "k": "샌드박스"
     },
     {
       "e": "Siacoin",

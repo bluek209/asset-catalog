@@ -733,6 +733,10 @@
       "n": "Nasus Pharma Ltd. Ordinary Shares"
     },
     {
+      "i": "A:NSTR",
+      "n": "NorthStar Earth & Space Enterprises, Inc. Common Shares"
+    },
+    {
       "i": "A:NTIP",
       "n": "Network-1 Technologies, Inc. Common Stock"
     },
@@ -3935,10 +3939,6 @@
     {
       "i": "KQ:084110",
       "n": "휴온스글로벌"
-    },
-    {
-      "i": "KQ:084180",
-      "n": "수성웹툰"
     },
     {
       "i": "KQ:084370",
@@ -8031,6 +8031,10 @@
     {
       "i": "KQ:468530",
       "n": "프로티나"
+    },
+    {
+      "i": "KQ:468670",
+      "n": "브릴스"
     },
     {
       "i": "KQ:468760",
@@ -21341,6 +21345,10 @@
       "n": "Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock"
     },
     {
+      "i": "N:DX-PD",
+      "n": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock"
+    },
+    {
       "i": "N:DXC",
       "n": "DXC Technology Company Common Stock"
     },
@@ -28087,10 +28095,6 @@
     {
       "i": "N:VAC",
       "n": "Marriott Vacations Worldwide Corporation Common Stock"
-    },
-    {
-      "i": "N:VACI",
-      "n": "Viking Acquisition Corp. I Class A Ordinary Shares"
     },
     {
       "i": "N:VAL",
@@ -39837,6 +39841,10 @@
       "n": "Amylyx Pharmaceuticals, Inc."
     },
     {
+      "i": "Q:AMOD",
+      "n": "Alpha Modus Holdings, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:AMPG",
       "n": "Amplitech Group, Inc."
     },
@@ -42957,6 +42965,10 @@
       "n": "WisdomTree China ex-State-Owned Enterprises Fund"
     },
     {
+      "i": "Q:CYCU",
+      "n": "Cycurion, Inc."
+    },
+    {
       "i": "Q:CYN",
       "n": "Cyngn Inc."
     },
@@ -43687,6 +43699,10 @@
     {
       "i": "Q:EIKN",
       "n": "Eikon Therapeutics, Inc."
+    },
+    {
+      "i": "Q:EJH",
+      "n": "E-Home Household Service Holdings Limited - Ordinary shares"
     },
     {
       "i": "Q:EKG",
@@ -44865,10 +44881,6 @@
       "n": "First Trust SMID Capital Strength ETF"
     },
     {
-      "i": "Q:FSEA",
-      "n": "First Seacoast Bancorp, Inc."
-    },
-    {
       "i": "Q:FSGS",
       "n": "First Trust SMID Growth Strength ETF"
     },
@@ -45775,6 +45787,10 @@
     {
       "i": "Q:GUAC",
       "n": "Berto Acquisition Corp. II - Ordinary Shares"
+    },
+    {
+      "i": "Q:GURE",
+      "n": "Gulf Resources, Inc."
     },
     {
       "i": "Q:GUSE",
@@ -48705,6 +48721,10 @@
       "n": "Millennium Group International Holdings Limited - Ordinary Shares"
     },
     {
+      "i": "Q:MGN",
+      "n": "Megan Holdings Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MGNI",
       "n": "Magnite, Inc."
     },
@@ -49709,10 +49729,6 @@
       "n": "NAPCO Security Technologies, Inc."
     },
     {
-      "i": "Q:NSTS",
-      "n": "NSTS Bancorp, Inc."
-    },
-    {
       "i": "Q:NSYS",
       "n": "Nortech Systems Incorporated"
     },
@@ -50263,6 +50279,10 @@
     {
       "i": "Q:OPK",
       "n": "Opko Health, Inc."
+    },
+    {
+      "i": "Q:OPNW",
+      "n": "OpenWorld, Inc."
     },
     {
       "i": "Q:OPPJ",
@@ -51474,7 +51494,7 @@
     },
     {
       "i": "Q:PUSA",
-      "n": "Aureus Greenway Holdings Inc."
+      "n": "Powerus Corporation"
     },
     {
       "i": "Q:PVLA",
@@ -52591,6 +52611,10 @@
     {
       "i": "Q:SAIL",
       "n": "SailPoint, Inc."
+    },
+    {
+      "i": "Q:SAIQ",
+      "n": "WISeSat.Space Holdings Corp. - Ordinary Shares"
     },
     {
       "i": "Q:SAMG",
@@ -54163,10 +54187,6 @@
     {
       "i": "Q:THRM",
       "n": "Gentherm Inc"
-    },
-    {
-      "i": "Q:THRMV",
-      "n": "Gentherm Inc - Gentherm Inc Common Stock When-Issued"
     },
     {
       "i": "Q:THRV",
@@ -57049,6 +57069,10 @@
       "n": "LifeX 2030 Income Bucket ETF"
     },
     {
+      "i": "Z:BCOM",
+      "n": "Rareview Bloomberg Commodity Index ETF"
+    },
+    {
       "i": "Z:BDEC",
       "n": "Innovator U.S. Equity Buffer ETF - December"
     },
@@ -59847,6 +59871,10 @@
     {
       "i": "Z:MMAY",
       "n": "Pacer Swan SOS Moderate (May) ETF"
+    },
+    {
+      "i": "Z:MN",
+      "n": "Corgi MANGOS ETF"
     },
     {
       "i": "Z:MNSX",
