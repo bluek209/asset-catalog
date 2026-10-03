@@ -43309,6 +43309,10 @@
       "n": "Domino's Pizza Inc"
     },
     {
+      "i": "Q:DRCT",
+      "n": "Direct Digital Holdings, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:DRH",
       "n": "Diamondrock Hospitality Company"
     },
@@ -43499,10 +43503,6 @@
     {
       "i": "Q:DXST",
       "n": "Decent Holding Inc. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:DYAI",
-      "n": "Dyadic International, Inc."
     },
     {
       "i": "Q:DYFI",
@@ -47885,10 +47885,6 @@
       "n": "LENZ Therapeutics, Inc."
     },
     {
-      "i": "Q:LESL",
-      "n": "Leslie's, Inc."
-    },
-    {
       "i": "Q:LEXI",
       "n": "Alexis Practical Tactical ETF"
     },
@@ -48271,10 +48267,6 @@
     {
       "i": "Q:LTGR",
       "n": "Long Table Growth Corp. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:LTRN",
-      "n": "Lantern Pharma Inc."
     },
     {
       "i": "Q:LTRX",
@@ -50419,10 +50411,6 @@
     {
       "i": "Q:OTGL",
       "n": "OTG Latin America ETF"
-    },
-    {
-      "i": "Q:OTLK",
-      "n": "Outlook Therapeutics, Inc."
     },
     {
       "i": "Q:OTLY",
