@@ -1093,6 +1093,10 @@
       "n": "VIDA Global Inc. Class A Common Stock"
     },
     {
+      "i": "A:VJET",
+      "n": "Flyte Aviation, Inc. Common Stock"
+    },
+    {
       "i": "A:VKI",
       "n": "Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)"
     },
@@ -1103,10 +1107,6 @@
     {
       "i": "A:VNTG",
       "n": "Vantage Corp Class A Ordinary Shares"
-    },
-    {
-      "i": "A:VTAK",
-      "n": "Catheter Precision, Inc. Common Stock"
     },
     {
       "i": "A:VZLA",
@@ -21021,18 +21021,6 @@
       "n": "DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest"
     },
     {
-      "i": "N:DBRG-PH",
-      "n": "DigitalBridge Group, Inc. 7.125% Series H"
-    },
-    {
-      "i": "N:DBRG-PI",
-      "n": "DigitalBridge Group, Inc. 7.15% Series I"
-    },
-    {
-      "i": "N:DBRG-PJ",
-      "n": "DigitalBridge Group, Inc. 7.125% Series J"
-    },
-    {
       "i": "N:DCBG",
       "n": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes"
     },
@@ -21067,14 +21055,6 @@
     {
       "i": "N:DDL",
       "n": "Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)"
-    },
-    {
-      "i": "N:DDS",
-      "n": "Dillard's, Inc. Common Stock"
-    },
-    {
-      "i": "N:DDT",
-      "n": "Dillard's Capital Trust I"
     },
     {
       "i": "N:DE",
@@ -22739,10 +22719,6 @@
     {
       "i": "N:GVA",
       "n": "Granite Construction Incorporated Common Stock"
-    },
-    {
-      "i": "N:GWH",
-      "n": "ESS Tech, Inc. Common Stock"
     },
     {
       "i": "N:GWRE",
@@ -28917,10 +28893,6 @@
       "n": "Harbor AlphaEdge Small Cap Value ETF"
     },
     {
-      "i": "P:AETH",
-      "n": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF"
-    },
-    {
       "i": "P:AFGR",
       "n": "First Trust Multi-Manager Large Growth ETF"
     },
@@ -30546,7 +30518,7 @@
     },
     {
       "i": "P:DFAC",
-      "n": "Dimensional U.S. Core Equity 2 ETF"
+      "n": "U.S. Core Equity 2 Portfolio ETF Class Shares"
     },
     {
       "i": "P:DFAE",
@@ -30562,11 +30534,11 @@
     },
     {
       "i": "P:DFAS",
-      "n": "Dimensional U.S. Small Cap ETF"
+      "n": "U.S. Small Cap Portfolio: ETF Class Shares"
     },
     {
       "i": "P:DFAT",
-      "n": "Dimensional U.S. Targeted Value ETF"
+      "n": "U.S. Targeted Value Portfolio ETF Class Shares"
     },
     {
       "i": "P:DFAU",
@@ -33349,10 +33321,6 @@
       "n": "Innovator International Developed Power Buffer ETF June"
     },
     {
-      "i": "P:ILCB",
-      "n": "iShares Morningstar Large-Cap ETF"
-    },
-    {
       "i": "P:ILCG",
       "n": "iShares Morningstar Large-Cap Growth ETF"
     },
@@ -33543,10 +33511,6 @@
     {
       "i": "P:IRVH",
       "n": "Global X Interest Rate Volatility & Inflation Hedge ETF"
-    },
-    {
-      "i": "P:ISCB",
-      "n": "iShares Morningstar Small-Cap ETF"
     },
     {
       "i": "P:ISCF",
@@ -34721,6 +34685,10 @@
       "n": "Global X MLP & Energy Infrastructure ETF"
     },
     {
+      "i": "P:MLRG",
+      "n": "iShares MSCI USA ETF"
+    },
+    {
       "i": "P:MMCA",
       "n": "NYLIM MacKay California Muni Intermediate ETF"
     },
@@ -34807,6 +34775,10 @@
     {
       "i": "P:MSLC",
       "n": "Morgan Stanley Pathway Large Cap Equity ETF"
+    },
+    {
+      "i": "P:MSML",
+      "n": "iShares MSCI USA Small-Cap ETF"
     },
     {
       "i": "P:MSOL",
@@ -38449,10 +38421,6 @@
       "n": "State Street SPDR S&P Biotech ETF"
     },
     {
-      "i": "P:XBNB",
-      "n": "Teucrium xETFs 2x Long Daily BNB ETF"
-    },
-    {
       "i": "P:XC",
       "n": "WisdomTree True Emerging Markets Fund"
     },
@@ -38887,10 +38855,6 @@
     {
       "i": "P:ZSB",
       "n": "USCF Sustainable Battery Metals Strategy Fund"
-    },
-    {
-      "i": "P:ZSC",
-      "n": "USCF Sustainable Commodity Strategy Fund"
     },
     {
       "i": "P:ZSL",
@@ -41533,10 +41497,6 @@
       "n": "KANZHUN LIMITED - American Depository Shares"
     },
     {
-      "i": "Q:BZAI",
-      "n": "Blaize Holdings, Inc."
-    },
-    {
       "i": "Q:BZFD",
       "n": "BuzzFeed, Inc. - Class A Common Stock"
     },
@@ -41683,6 +41643,10 @@
     {
       "i": "Q:CATY",
       "n": "Cathay General Bancorp"
+    },
+    {
+      "i": "Q:CBAT",
+      "n": "CBAK Energy Technology Limited - Ordinary Shares"
     },
     {
       "i": "Q:CBC",
@@ -43309,10 +43273,6 @@
       "n": "Domino's Pizza Inc"
     },
     {
-      "i": "Q:DRCT",
-      "n": "Direct Digital Holdings, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:DRH",
       "n": "Diamondrock Hospitality Company"
     },
@@ -43891,6 +43851,10 @@
     {
       "i": "Q:EOSE",
       "n": "Eos Energy Enterprises, Inc."
+    },
+    {
+      "i": "Q:EPOW",
+      "n": "E-Power Inc. - Class A Ordinary Shares"
     },
     {
       "i": "Q:EPRX",
@@ -45813,10 +45777,6 @@
       "n": "Global Water Resources, Inc."
     },
     {
-      "i": "Q:GXAI",
-      "n": "Gaxos.ai Inc."
-    },
-    {
       "i": "Q:GXDW",
       "n": "Global X Dorsey Wright Thematic ETF"
     },
@@ -46985,6 +46945,10 @@
       "n": "Innate Pharma S.A. - American Depositary Shares"
     },
     {
+      "i": "Q:IPHX",
+      "n": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:IPKW",
       "n": "Invesco International BuyBack Achievers ETF"
     },
@@ -47883,6 +47847,10 @@
     {
       "i": "Q:LENZ",
       "n": "LENZ Therapeutics, Inc."
+    },
+    {
+      "i": "Q:LESL",
+      "n": "Leslie's, Inc."
     },
     {
       "i": "Q:LEXI",
@@ -49635,10 +49603,6 @@
     {
       "i": "Q:NNNN",
       "n": "Anbio Biotechnology - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:NNOX",
-      "n": "NANO-X IMAGING LTD - Ordinary Shares"
     },
     {
       "i": "Q:NODK",
@@ -53957,6 +53921,10 @@
       "n": "Turtle Beach Corporation"
     },
     {
+      "i": "Q:TBCV",
+      "n": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:TBIL",
       "n": "F/m US Treasury 3 Month Bill Fund"
     },
@@ -55601,10 +55569,6 @@
       "n": "Wah Fu Education Group Limited - Ordinary Shares"
     },
     {
-      "i": "Q:WALD",
-      "n": "Waldencast plc - Class A Ordinary Share"
-    },
-    {
       "i": "Q:WAMA",
       "n": "WisdomTree US Adaptive Moving Average Fund"
     },
@@ -55777,10 +55741,6 @@
       "n": "Wix.com Ltd. - Ordinary Shares"
     },
     {
-      "i": "Q:WKEY",
-      "n": "WISeKey International Holding Ltd - American Depositary Shares"
-    },
-    {
       "i": "Q:WKHS",
       "n": "Workhorse Group, Inc."
     },
@@ -55839,6 +55799,10 @@
     {
       "i": "Q:WPRT",
       "n": "Westport Fuel Systems Inc - Common Shares"
+    },
+    {
+      "i": "Q:WQEY",
+      "n": "WISeQey Corp - Ordinary Shares"
     },
     {
       "i": "Q:WRAP",
