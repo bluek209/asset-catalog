@@ -24033,10 +24033,6 @@
       "n": "Lucky Strike Entertainment Corporation Class A Common Stock"
     },
     {
-      "i": "N:LUMN",
-      "n": "Lumen Technologies, Inc. Common Stock"
-    },
-    {
       "i": "N:LUV",
       "n": "Southwest Airlines Company Common Stock"
     },
@@ -26863,6 +26859,10 @@
     {
       "i": "N:SKY",
       "n": "Champion Homes, Inc. Common Stock"
+    },
+    {
+      "i": "N:SKYD",
+      "n": "Skydance Corporation Class B Common Stock"
     },
     {
       "i": "N:SKYH",
@@ -32545,6 +32545,10 @@
       "n": "abrdn Physical Precious Metals Basket Shares ETF"
     },
     {
+      "i": "P:GMAC",
+      "n": "Simplify Brookwood Global Macro ETF"
+    },
+    {
       "i": "P:GMEY",
       "n": "YieldMax GME Option Income Strategy ETF"
     },
@@ -32895,6 +32899,10 @@
     {
       "i": "P:HEZU",
       "n": "iShares Currency Hedged MSCI Eurozone ETF"
+    },
+    {
+      "i": "P:HFIX",
+      "n": "Nomura High Yield Total Return ETF"
     },
     {
       "i": "P:HFXI",
@@ -37727,6 +37735,10 @@
     {
       "i": "P:TZA",
       "n": "Direxion Small Cap Bear 3X ETF"
+    },
+    {
+      "i": "P:UBIQ",
+      "n": "AAM Ubiquitous ETF"
     },
     {
       "i": "P:UBOT",
@@ -47849,10 +47861,6 @@
       "n": "LENZ Therapeutics, Inc."
     },
     {
-      "i": "Q:LESL",
-      "n": "Leslie's, Inc."
-    },
-    {
       "i": "Q:LEXI",
       "n": "Alexis Practical Tactical ETF"
     },
@@ -48255,6 +48263,10 @@
     {
       "i": "Q:LULU",
       "n": "lululemon athletica inc."
+    },
+    {
+      "i": "Q:LUMN",
+      "n": "Lumen Technologies, Inc."
     },
     {
       "i": "Q:LUNG",
@@ -49495,10 +49507,6 @@
     {
       "i": "Q:NHP",
       "n": "National Healthcare Properties, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:NHPBP",
-      "n": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock"
     },
     {
       "i": "Q:NHTC",
@@ -51325,10 +51333,6 @@
       "n": "Power Solutions International, Inc."
     },
     {
-      "i": "Q:PSKY",
-      "n": "Paramount Skydance Corporation - Class B Common Stock"
-    },
-    {
       "i": "Q:PSL",
       "n": "Invesco Dorsey Wright Consumer Staples Momentum ETF"
     },
@@ -51775,10 +51779,6 @@
     {
       "i": "Q:QRMI",
       "n": "Global X NASDAQ 100 Risk Managed Income ETF"
-    },
-    {
-      "i": "Q:QRVO",
-      "n": "Qorvo, Inc."
     },
     {
       "i": "Q:QS",

@@ -301,9 +301,9 @@
       "k": "AVGOB"
     },
     {
-      "e": "Avantis",
+      "e": "AVNT",
       "i": "BN:AVNT-USDT",
-      "k": "아반티스"
+      "k": "AVNT"
     },
     {
       "e": "AWE Network",
@@ -2916,6 +2916,11 @@
       "k": "체인바운티"
     },
     {
+      "e": "Bedrock",
+      "i": "BT:BR-KRW",
+      "k": "베드록"
+    },
+    {
       "e": "Brett",
       "i": "BT:BRETT-KRW",
       "k": "브렛"
@@ -4021,6 +4026,11 @@
       "k": "플룸"
     },
     {
+      "e": "Dolphin",
+      "i": "BT:POD-KRW",
+      "k": "돌핀"
+    },
+    {
       "e": "Pocket Network",
       "i": "BT:POKT-KRW",
       "k": "포켓네트워크"
@@ -4941,9 +4951,9 @@
       "k": "아발란체"
     },
     {
-      "e": "Avantis",
+      "e": "Veranta",
       "i": "UP:AVNT-KRW",
-      "k": "아반티스"
+      "k": "베란타"
     },
     {
       "e": "AWE Network",
@@ -5654,6 +5664,11 @@
       "e": "Newton Protocol",
       "i": "UP:NEWT-KRW",
       "k": "뉴턴프로토콜"
+    },
+    {
+      "e": "Numeraire",
+      "i": "UP:NMR-KRW",
+      "k": "뉴메레르"
     },
     {
       "e": "Nexpace",
