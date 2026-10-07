@@ -28833,6 +28833,10 @@
       "n": "American Conservative Values ETF"
     },
     {
+      "i": "P:ACYB",
+      "n": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF"
+    },
+    {
       "i": "P:ACYN",
       "n": "FT Vest Laddered Autocallable Barrier & Income ETF"
     },
@@ -30203,6 +30207,10 @@
     {
       "i": "P:CPSY",
       "n": "Calamos S&P 500 Structured Alt Protection ETF January"
+    },
+    {
+      "i": "P:CPU",
+      "n": "Amplify Top 10 Semiconductors ETF"
     },
     {
       "i": "P:CPXR",
@@ -35177,6 +35185,10 @@
       "n": "Oakmark International Large Cap ETF"
     },
     {
+      "i": "P:OAKL",
+      "n": "Oakmark U.S. Concentrated ETF"
+    },
+    {
       "i": "P:OAKM",
       "n": "Oakmark U.S. Large Cap ETF"
     },
@@ -36809,6 +36821,10 @@
       "n": "ALPS Nautilus SMR, Nuclear & Technology ETF"
     },
     {
+      "i": "P:SMTJ",
+      "n": "Synera Funds Takumi+ ETF"
+    },
+    {
       "i": "P:SNOY",
       "n": "YieldMax SNOW Option Income Strategy ETF"
     },
@@ -37003,6 +37019,10 @@
     {
       "i": "P:SPXN",
       "n": "ProShares S&P 500 Ex-Financials ETF"
+    },
+    {
+      "i": "P:SPXP",
+      "n": "Direxion U.S. 500 Plus ETF"
     },
     {
       "i": "P:SPXS",
@@ -40641,6 +40661,10 @@
       "n": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF"
     },
     {
+      "i": "Q:BBCI",
+      "n": "Bradbury Capital Inc. - Ordinary Shares"
+    },
+    {
       "i": "Q:BBCP",
       "n": "Concrete Pumping Holdings, Inc."
     },
@@ -41027,10 +41051,6 @@
     {
       "i": "Q:BLDP",
       "n": "Ballard Power Systems, Inc. - Common Shares"
-    },
-    {
-      "i": "Q:BLFS",
-      "n": "BioLife Solutions, Inc."
     },
     {
       "i": "Q:BLIN",
@@ -46631,10 +46651,6 @@
     {
       "i": "Q:ILIT",
       "n": "iShares Lithium Miners and Producers ETF"
-    },
-    {
-      "i": "Q:ILLR",
-      "n": "Triller Group Inc."
     },
     {
       "i": "Q:ILLU",
@@ -53113,10 +53129,6 @@
       "n": "Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock"
     },
     {
-      "i": "Q:SLP",
-      "n": "Simulations Plus, Inc."
-    },
-    {
       "i": "Q:SLRC",
       "n": "SLR Investment Corp. - Closed End Fund"
     },
@@ -53407,10 +53419,6 @@
     {
       "i": "Q:SPIT",
       "n": "F/m Emerald Special Situations ETF"
-    },
-    {
-      "i": "Q:SPKL",
-      "n": "Spark I Acquisition Corp. - Class A Ordinary Share"
     },
     {
       "i": "Q:SPOG",
@@ -55597,10 +55605,6 @@
       "n": "Weibo Corporation - American Depositary Shares"
     },
     {
-      "i": "Q:WBD",
-      "n": "Warner Bros. Discovery, Inc. - Series A Common Stock"
-    },
-    {
       "i": "Q:WBTN",
       "n": "WEBTOON Entertainment Inc."
     },
@@ -55791,6 +55795,10 @@
     {
       "i": "Q:WOOF",
       "n": "Petco Health and Wellness Company, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:WORX",
+      "n": "SCWorx Corp."
     },
     {
       "i": "Q:WPRT",
@@ -56638,7 +56646,7 @@
     },
     {
       "i": "Z:AOCT",
-      "n": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026"
+      "n": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028"
     },
     {
       "i": "Z:APDB",
@@ -61267,6 +61275,10 @@
     {
       "i": "Z:SKHZ",
       "n": "Leverage Shares 1X Short SK Hynix Daily ETF"
+    },
+    {
+      "i": "Z:SLVI",
+      "n": "NEOS Silver High Income ETF"
     },
     {
       "i": "Z:SLVP",

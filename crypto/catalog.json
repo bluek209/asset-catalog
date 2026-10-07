@@ -1021,9 +1021,9 @@
       "k": "HEI"
     },
     {
-      "e": "HEMI",
+      "e": "Hemi",
       "i": "BN:HEMI-USDT",
-      "k": "HEMI"
+      "k": "헤미"
     },
     {
       "e": "HIMSB",
@@ -1166,6 +1166,11 @@
       "k": "트레이더조"
     },
     {
+      "e": "JPMB",
+      "i": "BN:JPMB-USDT",
+      "k": "JPMB"
+    },
+    {
       "e": "JUST",
       "i": "BN:JST-USDT",
       "k": "저스트"
@@ -1279,6 +1284,11 @@
       "e": "LITEB",
       "i": "BN:LITEB-USDT",
       "k": "LITEB"
+    },
+    {
+      "e": "LLYB",
+      "i": "BN:LLYB-USDT",
+      "k": "LLYB"
     },
     {
       "e": "Livepeer",
@@ -1916,6 +1926,11 @@
       "k": "스크롤"
     },
     {
+      "e": "SECZB",
+      "i": "BN:SECZB-USDT",
+      "k": "SECZB"
+    },
+    {
       "e": "Sei",
       "i": "BN:SEI-USDT",
       "k": "세이"
@@ -2271,6 +2286,11 @@
       "k": "유에스디이"
     },
     {
+      "e": "USDEB",
+      "i": "BN:USDEB-USDT",
+      "k": "USDEB"
+    },
+    {
       "e": "USDS",
       "i": "BN:USDS-USDT",
       "k": "유에스디에스"
@@ -2376,9 +2396,9 @@
       "k": "우"
     },
     {
-      "e": "Xai",
+      "e": "XAI",
       "i": "BN:XAI-USDT",
-      "k": "자이"
+      "k": "XAI"
     },
     {
       "e": "Tether Gold",
@@ -3444,6 +3464,11 @@
       "e": "Hedera",
       "i": "BT:HBAR-KRW",
       "k": "헤데라"
+    },
+    {
+      "e": "Hemi",
+      "i": "BT:HEMI-KRW",
+      "k": "헤미"
     },
     {
       "e": "Hashflow",
@@ -4679,11 +4704,6 @@
       "e": "WOO",
       "i": "BT:WOO-KRW",
       "k": "우"
-    },
-    {
-      "e": "Xai",
-      "i": "BT:XAI-KRW",
-      "k": "자이"
     },
     {
       "e": "Anoma",
