@@ -38881,10 +38881,6 @@
       "n": "Pacer Barings CLO Market Flex ETF"
     },
     {
-      "i": "Q:AACG",
-      "n": "ATA Creativity Global - American Depositary Shares, each representing two common shares"
-    },
-    {
       "i": "Q:AACI",
       "n": "Armada Acquisition Corp. III - Class A Ordinary Share"
     },
@@ -40647,10 +40643,6 @@
     {
       "i": "Q:BBCP",
       "n": "Concrete Pumping Holdings, Inc."
-    },
-    {
-      "i": "Q:BBGI",
-      "n": "Beasley Broadcast Group, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:BBH",
@@ -46639,6 +46631,10 @@
     {
       "i": "Q:ILIT",
       "n": "iShares Lithium Miners and Producers ETF"
+    },
+    {
+      "i": "Q:ILLR",
+      "n": "Triller Group Inc."
     },
     {
       "i": "Q:ILLU",
@@ -53129,10 +53125,6 @@
       "n": "SELLAS Life Sciences Group, Inc."
     },
     {
-      "i": "Q:SLSN",
-      "n": "Solesence, Inc."
-    },
-    {
       "i": "Q:SLVO",
       "n": "ETRACS Silver Shares Covered Call ETNs due April 21, 2033"
     },
@@ -53415,6 +53407,10 @@
     {
       "i": "Q:SPIT",
       "n": "F/m Emerald Special Situations ETF"
+    },
+    {
+      "i": "Q:SPKL",
+      "n": "Spark I Acquisition Corp. - Class A Ordinary Share"
     },
     {
       "i": "Q:SPOG",
@@ -56011,10 +56007,6 @@
     {
       "i": "Q:XEL",
       "n": "Xcel Energy Inc."
-    },
-    {
-      "i": "Q:XELB",
-      "n": "Xcel Brands, Inc"
     },
     {
       "i": "Q:XELLL",
