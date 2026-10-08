@@ -52649,6 +52649,10 @@
       "n": "GraniteShares Autocallable SMCI ETF"
     },
     {
+      "i": "Q:SCAT",
+      "n": "Southern Cross Acquisition II Corp. - Ordinary Shares"
+    },
+    {
       "i": "Q:SCDS",
       "n": "JPMorgan Fundamental Data Science Small Core ETF"
     },
@@ -53943,14 +53947,6 @@
     {
       "i": "Q:TCAN",
       "n": "21Shares Canton Network ETF"
-    },
-    {
-      "i": "Q:TCBI",
-      "n": "Texas Capital Bancshares, Inc."
-    },
-    {
-      "i": "Q:TCBIO",
-      "n": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B"
     },
     {
       "i": "Q:TCBK",

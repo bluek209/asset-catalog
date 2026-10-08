@@ -2616,6 +2616,11 @@
       "k": "젠신"
     },
     {
+      "e": "DeAgentAI",
+      "i": "BT:AIA-KRW",
+      "k": "디에이전트에이아이"
+    },
+    {
       "e": "AIOZ Network",
       "i": "BT:AIOZ-KRW",
       "k": "아이오즈네트워크"
@@ -2999,6 +3004,11 @@
       "e": "CARV",
       "i": "BT:CARV-KRW",
       "k": "카브"
+    },
+    {
+      "e": "Cash Cat",
+      "i": "BT:CASHCAT-KRW",
+      "k": "캐시캣"
     },
     {
       "e": "Cobak Token",
@@ -4074,6 +4084,11 @@
       "e": "Ponke",
       "i": "BT:PONKE-KRW",
       "k": "폰케"
+    },
+    {
+      "e": "Pons",
+      "i": "BT:PONS-KRW",
+      "k": "폰즈"
     },
     {
       "e": "Popcat",
@@ -5789,6 +5804,11 @@
       "e": "Polymesh",
       "i": "UP:POLYX-KRW",
       "k": "폴리매쉬"
+    },
+    {
+      "e": "Pons",
+      "i": "UP:PONS-KRW",
+      "k": "폰즈"
     },
     {
       "e": "Power ledger",
