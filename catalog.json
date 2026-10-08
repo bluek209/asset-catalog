@@ -5437,10 +5437,6 @@
       "n": "코아시아씨엠"
     },
     {
-      "i": "KQ:196490",
-      "n": "디에이테크놀로지"
-    },
-    {
       "i": "KQ:196700",
       "n": "웹스"
     },
@@ -11839,6 +11835,10 @@
     {
       "i": "KS:0242S0",
       "n": "파워 SK그룹"
+    },
+    {
+      "i": "KS:0246X0",
+      "n": "SOL 글로벌DRAM반도체플러스"
     },
     {
       "i": "KS:024720",
@@ -40433,6 +40433,10 @@
       "n": "Aveanna Healthcare Holdings Inc."
     },
     {
+      "i": "Q:AVAT",
+      "n": "Avalanche Treasury Corporation - Class A Common Stock"
+    },
+    {
       "i": "Q:AVAV",
       "n": "AeroVironment, Inc."
     },
@@ -51257,10 +51261,6 @@
       "n": "Provident Financial Holdings, Inc."
     },
     {
-      "i": "Q:PRPL",
-      "n": "Purple Innovation, Inc."
-    },
-    {
       "i": "Q:PRPO",
       "n": "Precipio, Inc."
     },
@@ -53063,10 +53063,6 @@
     {
       "i": "Q:SKYW",
       "n": "SkyWest, Inc."
-    },
-    {
-      "i": "Q:SKYX",
-      "n": "SKYX Platforms Corp."
     },
     {
       "i": "Q:SKYY",
@@ -55507,10 +55503,6 @@
     {
       "i": "Q:VTIP",
       "n": "Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares"
-    },
-    {
-      "i": "Q:VTIX",
-      "n": "Virtuix Holdings Inc. - Class A Common Stock"
     },
     {
       "i": "Q:VTRS",
