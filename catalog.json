@@ -45933,10 +45933,6 @@
       "n": "Healthcare Services Group, Inc."
     },
     {
-      "i": "Q:HCTI",
-      "n": "Healthcare Triangle, Inc."
-    },
-    {
       "i": "Q:HCWB",
       "n": "HCW Biologics Inc."
     },
@@ -48381,6 +48377,10 @@
       "n": "Mama's Creations, Inc."
     },
     {
+      "i": "Q:MAMK",
+      "n": "MaxsMaking Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MAMO",
       "n": "Massimo Group"
     },
@@ -49869,6 +49869,10 @@
       "n": "Nova Ltd. - Ordinary Shares"
     },
     {
+      "i": "Q:NVNI",
+      "n": "Nvni Group Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:NVNO",
       "n": "enVVeno Medical Corporation"
     },
@@ -50295,6 +50299,10 @@
     {
       "i": "Q:OPXS",
       "n": "Optex Systems Holdings, Inc."
+    },
+    {
+      "i": "Q:ORBS",
+      "n": "Eightco Holdings Inc."
     },
     {
       "i": "Q:ORBX",
