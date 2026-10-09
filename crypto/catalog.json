@@ -4736,6 +4736,11 @@
       "k": "오닉스코인"
     },
     {
+      "e": "Doppler Finance",
+      "i": "BT:XDP-KRW",
+      "k": "도플러파이낸스"
+    },
+    {
       "e": "eCash",
       "i": "BT:XEC-KRW",
       "k": "이캐시"
@@ -5494,6 +5499,11 @@
       "e": "Jupiter",
       "i": "UP:JUP-KRW",
       "k": "주피터"
+    },
+    {
+      "e": "Kaia",
+      "i": "UP:KAIA-KRW",
+      "k": "카이아"
     },
     {
       "e": "KAITO",

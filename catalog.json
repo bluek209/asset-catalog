@@ -34622,7 +34622,7 @@
     },
     {
       "i": "P:MID",
-      "n": "American Century Mid Cap Growth Impact ETF"
+      "n": "American Century Mid Cap Growth Insights ETF"
     },
     {
       "i": "P:MIDE",
@@ -38121,6 +38121,10 @@
       "n": "Vanguard Information Tech ETF"
     },
     {
+      "i": "P:VGTX",
+      "n": "XFUNDS Technology Income ETF"
+    },
+    {
       "i": "P:VGVT",
       "n": "Vanguard Government Securities Active ETF"
     },
@@ -39521,6 +39525,10 @@
       "n": "Defiance Inference AI Chip ETF"
     },
     {
+      "i": "Q:AIOK",
+      "n": "AI OKTO CORP."
+    },
+    {
       "i": "Q:AIOS",
       "n": "AIOS Tech Inc. - Class A Common Shares"
     },
@@ -40759,6 +40767,10 @@
     {
       "i": "Q:BCYC",
       "n": "Bicycle Therapeutics plc - American Depositary Shares"
+    },
+    {
+      "i": "Q:BDAI",
+      "n": "Biddance AI Systems, Inc. - Class A Ordinary Share"
     },
     {
       "i": "Q:BDCI",
@@ -43294,7 +43306,7 @@
     },
     {
       "i": "Q:DPU",
-      "n": "Top KingWin Ltd - Class A Ordinary Shares"
+      "n": "Nexpu Ltd. - Class A Ordinary Shares"
     },
     {
       "i": "Q:DPZ",
@@ -46053,10 +46065,6 @@
       "n": "HIVE Digital Technologies Ltd - Common Shares"
     },
     {
-      "i": "Q:HKIT",
-      "n": "Hitek Global Inc. - Class A Ordinary Share"
-    },
-    {
       "i": "Q:HLAL",
       "n": "Wahed FTSE USA Shariah ETF"
     },
@@ -48377,10 +48385,6 @@
       "n": "Mama's Creations, Inc."
     },
     {
-      "i": "Q:MAMK",
-      "n": "MaxsMaking Inc. - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MAMO",
       "n": "Massimo Group"
     },
@@ -49867,10 +49871,6 @@
     {
       "i": "Q:NVMI",
       "n": "Nova Ltd. - Ordinary Shares"
-    },
-    {
-      "i": "Q:NVNI",
-      "n": "Nvni Group Limited - Ordinary Shares"
     },
     {
       "i": "Q:NVNO",
@@ -52449,6 +52449,10 @@
       "n": "VanEck Retail ETF"
     },
     {
+      "i": "Q:RTSN",
+      "n": "Retension Pharmaceuticals, Inc."
+    },
+    {
       "i": "Q:RTXG",
       "n": "Leverage Shares 2X Long RTX Daily ETF"
     },
@@ -54523,6 +54527,10 @@
     {
       "i": "Q:TRVI",
       "n": "Trevi Therapeutics, Inc."
+    },
+    {
+      "i": "Q:TRXB",
+      "n": "TRex Bio, Inc."
     },
     {
       "i": "Q:TSAT",
@@ -60325,6 +60333,10 @@
       "n": "Tradr 2X Long OPEN Daily ETF"
     },
     {
+      "i": "Z:OPTO",
+      "n": "Tuttle Capital Photonics Income Blast ETF"
+    },
+    {
       "i": "Z:ORAC",
       "n": "Corgi ORCL 2x Daily ETF"
     },
@@ -62535,6 +62547,14 @@
     {
       "i": "Z:XX",
       "n": "Roundhill S&P 500 Target 10,000 2030 ETF"
+    },
+    {
+      "i": "Z:XXQQ",
+      "n": "Subversive Growth 100 Redacted ETF"
+    },
+    {
+      "i": "Z:XXSP",
+      "n": "Subversive S&P 500 Redacted ETF"
     },
     {
       "i": "Z:YBTC",
