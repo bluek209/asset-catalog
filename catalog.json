@@ -3750,7 +3750,7 @@
     },
     {
       "i": "KQ:078130",
-      "n": "국일제지"
+      "n": "에스엠국일"
     },
     {
       "i": "KQ:078140",
@@ -4930,7 +4930,7 @@
     },
     {
       "i": "KQ:134580",
-      "n": "탑코미디어"
+      "n": "엔키AX"
     },
     {
       "i": "KQ:136150",
@@ -5606,7 +5606,7 @@
     },
     {
       "i": "KQ:210120",
-      "n": "캔버스엔"
+      "n": "빅텐츠"
     },
     {
       "i": "KQ:211050",
@@ -34621,10 +34621,6 @@
       "n": "Man Active High Yield ETF"
     },
     {
-      "i": "P:MID",
-      "n": "American Century Mid Cap Growth Insights ETF"
-    },
-    {
       "i": "P:MIDE",
       "n": "Xtrackers S&P MidCap 400 Scored & Screened ETF"
     },
@@ -55574,7 +55570,7 @@
     },
     {
       "i": "Q:WAFU",
-      "n": "Wah Fu Education Group Limited - Ordinary Shares"
+      "n": "Wah Fu Education & Technology Group Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:WAMA",
@@ -56130,7 +56126,7 @@
     },
     {
       "i": "Q:XRPN",
-      "n": "Armada Acquisition Corp. II - Class A Ordinary Shares"
+      "n": "Evernorth Holdings Inc. - Class A Ordinary Shares"
     },
     {
       "i": "Q:XRPT",
@@ -56527,6 +56523,10 @@
     {
       "i": "Z:ACLZ",
       "n": "Corgi ACLS 2x Daily ETF"
+    },
+    {
+      "i": "Z:ACMG",
+      "n": "American Century Mid Cap Growth Insights ETF"
     },
     {
       "i": "Z:ACMM",

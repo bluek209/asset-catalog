@@ -3646,6 +3646,11 @@
       "k": "커널다오"
     },
     {
+      "e": "KGeN",
+      "i": "BT:KGEN-KRW",
+      "k": "케이젠"
+    },
+    {
       "e": "Kite",
       "i": "BT:KITE-KRW",
       "k": "카이트"
@@ -4816,6 +4821,11 @@
       "k": "제로베이스"
     },
     {
+      "e": "Zest Protocol",
+      "i": "BT:ZEST-KRW",
+      "k": "제스트프로토콜"
+    },
+    {
       "e": "ZetaChain",
       "i": "BT:ZETA-KRW",
       "k": "제타체인"
@@ -5396,6 +5406,11 @@
       "k": "그래비티토큰"
     },
     {
+      "e": "Gitcoin",
+      "i": "UP:GTC-KRW",
+      "k": "깃코인"
+    },
+    {
       "e": "Hedera",
       "i": "UP:HBAR-KRW",
       "k": "헤데라"
@@ -5904,6 +5919,11 @@
       "e": "Ripple USD",
       "i": "UP:RLUSD-KRW",
       "k": "리플유에스디"
+    },
+    {
+      "e": "Reserve Rights",
+      "i": "UP:RSR-KRW",
+      "k": "리저브라이트"
     },
     {
       "e": "Safe",
