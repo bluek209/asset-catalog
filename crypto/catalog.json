@@ -421,9 +421,9 @@
       "k": "바이오프로토콜"
     },
     {
-      "e": "Blur",
+      "e": "BLUR",
       "i": "BN:BLUR-USDT",
-      "k": "블러"
+      "k": "BLUR"
     },
     {
       "e": "BMNRB",
@@ -1886,6 +1886,11 @@
       "k": "RVN"
     },
     {
+      "e": "RWUSD",
+      "i": "BN:RWUSD-USDT",
+      "k": "RWUSD"
+    },
+    {
       "e": "Sonic",
       "i": "BN:S-USDT",
       "k": "소닉"
@@ -2894,11 +2899,6 @@
       "e": "Bluefin",
       "i": "BT:BLUE-KRW",
       "k": "블루핀"
-    },
-    {
-      "e": "Blur",
-      "i": "BT:BLUR-KRW",
-      "k": "블러"
     },
     {
       "e": "Bubblemaps",
@@ -5084,11 +5084,6 @@
       "e": "Fluent",
       "i": "UP:BLEND-KRW",
       "k": "플루언트"
-    },
-    {
-      "e": "Blur",
-      "i": "UP:BLUR-KRW",
-      "k": "블러"
     },
     {
       "e": "BORA",

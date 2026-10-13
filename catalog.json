@@ -25205,10 +25205,6 @@
       "n": "Blue Owl Capital Corporation Common Stock"
     },
     {
-      "i": "N:OBK",
-      "n": "Origin Bancorp, Inc. Common Stock"
-    },
-    {
       "i": "N:OC",
       "n": "Owens Corning Inc Common Stock New"
     },
@@ -29053,10 +29049,6 @@
       "n": "YieldMax AMZN Option Income Strategy ETF"
     },
     {
-      "i": "P:ANEW",
-      "n": "ProShares MSCI Transformational Changes ETF"
-    },
-    {
       "i": "P:ANTW",
       "n": "Anthropic AI Lab Ecosystem ETF"
     },
@@ -30009,10 +30001,6 @@
       "n": "Global X 1-3 Month T-Bill ETF"
     },
     {
-      "i": "P:CLIX",
-      "n": "ProShares Long Online/Short Stores ETF"
-    },
-    {
       "i": "P:CLNK",
       "n": "Common Shares of Beneficial Interest of Bitwise Chainlink ETF"
     },
@@ -30293,10 +30281,6 @@
       "n": "Simplify US Equity PLUS Managed Futures Strategy ETF"
     },
     {
-      "i": "P:CTEX",
-      "n": "ProShares S&P Kensho Cleantech ETF"
-    },
-    {
       "i": "P:CURE",
       "n": "Direxion Daily Healthcare Bull 3X ETF"
     },
@@ -30387,10 +30371,6 @@
     {
       "i": "P:DARP",
       "n": "Grizzle Growth ETF"
-    },
-    {
-      "i": "P:DAT",
-      "n": "ProShares Big Data Refiners ETF"
     },
     {
       "i": "P:DBA",
@@ -34469,10 +34449,6 @@
       "n": "Truth Social America First ETF"
     },
     {
-      "i": "P:MAKX",
-      "n": "ProShares S&P Kensho Smart Factories ETF"
-    },
-    {
       "i": "P:MANI",
       "n": "Man Active Income ETF"
     },
@@ -35239,10 +35215,6 @@
     {
       "i": "P:OMAH",
       "n": "VistaShares Target 15 Berkshire Select Income ETF"
-    },
-    {
-      "i": "P:OND",
-      "n": "ProShares On-Demand ETF"
     },
     {
       "i": "P:ONEO",
@@ -37149,10 +37121,6 @@
       "n": "Defiance Daily Target 2X Short TSM ETF"
     },
     {
-      "i": "P:SUPL",
-      "n": "ProShares Supply Chain Logistics ETF"
-    },
-    {
       "i": "P:SURE",
       "n": "AdvisorShares Insider Advantage ETF"
     },
@@ -37411,10 +37379,6 @@
     {
       "i": "P:TINS",
       "n": "Templeton International Insights ETF"
-    },
-    {
-      "i": "P:TINT",
-      "n": "ProShares Smart Materials ETF"
     },
     {
       "i": "P:TINY",
@@ -38075,10 +38039,6 @@
     {
       "i": "P:VEM",
       "n": "Virtus Emerging Markets Dividend ETF"
-    },
-    {
-      "i": "P:VERS",
-      "n": "ProShares Metaverse ETF"
     },
     {
       "i": "P:VEU",
@@ -40539,6 +40499,10 @@
     {
       "i": "Q:AXIN",
       "n": "Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:AXNX",
+      "n": "Axonex AI Group Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:AXON",
@@ -48753,10 +48717,6 @@
       "n": "Global X Millennial Consumer ETF"
     },
     {
-      "i": "Q:MIMI",
-      "n": "Mint Incorporation Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MIND",
       "n": "MIND Technology, Inc."
     },
@@ -52325,6 +52285,10 @@
       "n": "Global X Renewable Energy Producers ETF"
     },
     {
+      "i": "Q:RNTZ",
+      "n": "Rantizo - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:RNW",
       "n": "ReNew Energy Global plc - Class A Shares"
     },
@@ -53035,10 +52999,6 @@
     {
       "i": "Q:SKHY",
       "n": "SK hynix Inc. - American Depositary Shares"
-    },
-    {
-      "i": "Q:SKK",
-      "n": "SKK Holdings Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:SKRE",
@@ -54803,10 +54763,6 @@
     {
       "i": "Q:UCTT",
       "n": "Ultra Clean Holdings, Inc."
-    },
-    {
-      "i": "Q:UCYB",
-      "n": "ProShares Ultra Nasdaq Cybersecurity"
     },
     {
       "i": "Q:UECG",
