@@ -8057,20 +8057,12 @@
       "n": "셀로맥스사이언스"
     },
     {
-      "i": "KQ:472230",
-      "n": "에스케이증권제11호스팩"
-    },
-    {
       "i": "KQ:472850",
       "n": "폰드그룹"
     },
     {
       "i": "KQ:473000",
       "n": "에스케이증권제12호스팩"
-    },
-    {
-      "i": "KQ:473050",
-      "n": "유안타제15호스팩"
     },
     {
       "i": "KQ:473950",
@@ -9683,10 +9675,6 @@
     {
       "i": "KS:005010",
       "n": "휴스틸"
-    },
-    {
-      "i": "KS:005030",
-      "n": "부산주공"
     },
     {
       "i": "KS:005070",
@@ -41417,6 +41405,10 @@
       "n": "STKd 100% Bitcoin & 100% Gold ETF"
     },
     {
+      "i": "Q:BTLN",
+      "n": "Brightline Interactive, Inc."
+    },
+    {
       "i": "Q:BTMD",
       "n": "Biote Corp. - Class A common stock"
     },
@@ -44233,6 +44225,10 @@
       "n": "First Breach Inc."
     },
     {
+      "i": "Q:FBGL",
+      "n": "FBS Global Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:FBIO",
       "n": "Fortress Biotech, Inc."
     },
@@ -46389,10 +46385,6 @@
       "n": "Integra LifeSciences Holdings Corporation"
     },
     {
-      "i": "Q:IBAC",
-      "n": "IB Acquisition Corp."
-    },
-    {
       "i": "Q:IBAT",
       "n": "iShares Energy Storage & Materials ETF"
     },
@@ -46691,6 +46683,10 @@
     {
       "i": "Q:IMKTA",
       "n": "Ingles Markets, Incorporated - Class A Common Stock"
+    },
+    {
+      "i": "Q:IMMP",
+      "n": "Immutep Limited - American Depositary Shares"
     },
     {
       "i": "Q:IMMR",
@@ -51815,10 +51811,6 @@
     {
       "i": "Q:QTEC",
       "n": "First Trust NASDAQ-100-Technology Sector Index Fund"
-    },
-    {
-      "i": "Q:QTEX",
-      "n": "QTREX Quantum Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:QTI",
