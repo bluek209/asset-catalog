@@ -376,6 +376,11 @@
       "k": "바운스빗"
     },
     {
+      "e": "BBB",
+      "i": "BN:BBB-USDT",
+      "k": "BBB"
+    },
+    {
       "e": "Bitcoin Cash",
       "i": "BN:BCH-USDT",
       "k": "비트코인캐시"
@@ -1366,6 +1371,11 @@
       "k": "무비블록"
     },
     {
+      "e": "MDBB",
+      "i": "BN:MDBB-USDT",
+      "k": "MDBB"
+    },
+    {
       "e": "Magic Eden",
       "i": "BN:ME-USDT",
       "k": "매직에덴"
@@ -1639,6 +1649,11 @@
       "e": "Pendle",
       "i": "BN:PENDLE-USDT",
       "k": "펜들"
+    },
+    {
+      "e": "PENGB",
+      "i": "BN:PENGB-USDT",
+      "k": "PENGB"
     },
     {
       "e": "Pudgy Penguins",
@@ -2309,6 +2324,11 @@
       "e": "USUAL",
       "i": "BN:USUAL-USDT",
       "k": "USUAL"
+    },
+    {
+      "e": "UVXYB",
+      "i": "BN:UVXYB-USDT",
+      "k": "UVXYB"
     },
     {
       "e": "Vana",

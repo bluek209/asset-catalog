@@ -20269,10 +20269,6 @@
       "n": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)"
     },
     {
-      "i": "N:CCO",
-      "n": "Clear Channel Outdoor Holdings, Inc. Common Stock"
-    },
-    {
       "i": "N:CCS",
       "n": "Century Communities, Inc. Common Stock"
     },
@@ -23129,10 +23125,6 @@
       "n": "MarineMax, Inc. (FL) Common Stock"
     },
     {
-      "i": "N:IAE",
-      "n": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest"
-    },
-    {
       "i": "N:IAG",
       "n": "Iamgold Corporation Ordinary Shares"
     },
@@ -23211,10 +23203,6 @@
     {
       "i": "N:IH",
       "n": "iHuman Inc. American depositary shares, each representing five Class A ordinary shares"
-    },
-    {
-      "i": "N:IHD",
-      "n": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares"
     },
     {
       "i": "N:IHG",
@@ -23854,7 +23842,7 @@
     },
     {
       "i": "N:LB",
-      "n": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests"
+      "n": "LandBridge Corporation Class A Common Stock"
     },
     {
       "i": "N:LBRT",
@@ -25173,10 +25161,6 @@
       "n": "Quanex Building Products Corporation Common Stock"
     },
     {
-      "i": "N:NXDR",
-      "n": "Nextdoor Holdings, Inc. Class A Common Stock"
-    },
-    {
       "i": "N:NXDT",
       "n": "NexPoint Diversified Real Estate Trust Common Stock"
     },
@@ -25911,10 +25895,6 @@
     {
       "i": "N:PRIF-PK",
       "n": "Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock"
-    },
-    {
-      "i": "N:PRIF-PL",
-      "n": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029"
     },
     {
       "i": "N:PRIM",
@@ -38497,6 +38477,10 @@
       "n": "State Street Energy Select Sector SPDR Premium Income ETF"
     },
     {
+      "i": "P:XLEM",
+      "n": "State Street S&P 500 Energy Market Sector SPDR ETF"
+    },
+    {
       "i": "P:XLF",
       "n": "State Street Financial Select Sector SPDR ETF"
     },
@@ -38525,8 +38509,16 @@
       "n": "State Street Technology Select Sector SPDR Premium Income ETF"
     },
     {
+      "i": "P:XLKM",
+      "n": "State Street S&P 500 Technology Market Sector SPDR ETF"
+    },
+    {
       "i": "P:XLP",
       "n": "State Street Consumer Staples Select Sector SPDR ETF"
+    },
+    {
+      "i": "P:XLPM",
+      "n": "State Street S&P 500 Consumer Staples Market Sector SPDR ETF"
     },
     {
       "i": "P:XLRE",
@@ -38567,6 +38559,10 @@
     {
       "i": "P:XLYI",
       "n": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF"
+    },
+    {
+      "i": "P:XLYM",
+      "n": "State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF"
     },
     {
       "i": "P:XME",
@@ -39063,6 +39059,10 @@
     {
       "i": "Q:ACHC",
       "n": "Acadia Healthcare Company, Inc."
+    },
+    {
+      "i": "Q:ACHP",
+      "n": "Global X Asia Semiconductor ETF"
     },
     {
       "i": "Q:ACHV",
@@ -43081,6 +43081,10 @@
       "n": "Dimensional Global Core Plus Fixed Income ETF"
     },
     {
+      "i": "Q:DFGV",
+      "n": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares"
+    },
+    {
       "i": "Q:DFGX",
       "n": "Dimensional International Core Fixed Income ETF"
     },
@@ -43771,10 +43775,6 @@
     {
       "i": "Q:EMPD",
       "n": "Empery Digital Inc."
-    },
-    {
-      "i": "Q:EMSC",
-      "n": "Sophus Capital Emerging Market Small Cap ETF"
     },
     {
       "i": "Q:EMXC",
@@ -44623,6 +44623,10 @@
     {
       "i": "Q:FLNT",
       "n": "Fluent, Inc."
+    },
+    {
+      "i": "Q:FLSC",
+      "n": "Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares"
     },
     {
       "i": "Q:FLWS",
@@ -48697,6 +48701,10 @@
       "n": "MacroGenics, Inc."
     },
     {
+      "i": "Q:MGOL",
+      "n": "Leverage Shares MANGOS ETF"
+    },
+    {
       "i": "Q:MGPI",
       "n": "MGP Ingredients, Inc."
     },
@@ -49901,6 +49909,10 @@
       "n": "Nexus Advanced Technologies Inc. - Ordinary Shares"
     },
     {
+      "i": "Q:NXDR",
+      "n": "Nextdoor Holdings, Inc."
+    },
+    {
       "i": "Q:NXH",
       "n": "Neighborhood Intelligence, Inc."
     },
@@ -50749,6 +50761,10 @@
       "n": "Parametric Equity Plus ETF"
     },
     {
+      "i": "Q:PEPT",
+      "n": "REX Peptide ETF"
+    },
+    {
       "i": "Q:PERI",
       "n": "Perion Network Ltd - Ordinary Shares"
     },
@@ -51579,10 +51595,6 @@
     {
       "i": "Q:QDTY",
       "n": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF"
-    },
-    {
-      "i": "Q:QETA",
-      "n": "Quetta Acquisition Corporation"
     },
     {
       "i": "Q:QEW",
@@ -52419,6 +52431,10 @@
     {
       "i": "Q:RTH",
       "n": "VanEck Retail ETF"
+    },
+    {
+      "i": "Q:RTHY",
+      "n": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF"
     },
     {
       "i": "Q:RTSN",
