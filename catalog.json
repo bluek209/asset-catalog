@@ -8049,10 +8049,6 @@
       "n": "아이비젼웍스"
     },
     {
-      "i": "KQ:469900",
-      "n": "하나31호스팩"
-    },
-    {
       "i": "KQ:471820",
       "n": "셀로맥스사이언스"
     },
@@ -11817,6 +11813,10 @@
       "n": "기업은행"
     },
     {
+      "i": "KS:0241D0",
+      "n": "KODEX 미국AI에이전트액티브"
+    },
+    {
       "i": "KS:0241R0",
       "n": "TIGER 현대차LG전자고정피지컬AI밸류체인"
     },
@@ -11825,12 +11825,20 @@
       "n": "파워 SK그룹"
     },
     {
+      "i": "KS:0243M0",
+      "n": "DS AI반도체액티브"
+    },
+    {
       "i": "KS:0246X0",
       "n": "SOL 글로벌DRAM반도체플러스"
     },
     {
       "i": "KS:024720",
       "n": "콜마홀딩스"
+    },
+    {
+      "i": "KS:0247S0",
+      "n": "KIWOOM 글로벌MLCC&AI기판TOP4+"
     },
     {
       "i": "KS:024890",
@@ -11843,6 +11851,10 @@
     {
       "i": "KS:025000",
       "n": "KPX케미칼"
+    },
+    {
+      "i": "KS:0254W0",
+      "n": "ACE 29-11 회사채(AA-이상)액티브"
     },
     {
       "i": "KS:025530",
@@ -18243,6 +18255,10 @@
     {
       "i": "KS:700036",
       "n": "하나 인버스 2X 반도체 ETN"
+    },
+    {
+      "i": "KS:700037",
+      "n": "하나 미국S&P500 TR ETN"
     },
     {
       "i": "KS:760004",
@@ -43185,6 +43201,10 @@
       "n": "Dollar Tree, Inc."
     },
     {
+      "i": "Q:DLXY",
+      "n": "Delixy Holdings Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:DMAA",
       "n": "Drugs Made In America Acquisition Corp. - Ordinary Shares"
     },
@@ -45179,10 +45199,6 @@
     {
       "i": "Q:GDS",
       "n": "GDS Holdings Limited - American Depositary Shares"
-    },
-    {
-      "i": "Q:GDTC",
-      "n": "CytoMed Therapeutics Limited - Ordinary Shares"
     },
     {
       "i": "Q:GDYN",
@@ -50185,6 +50201,10 @@
       "n": "OneWater Marine Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:ONMD",
+      "n": "OneMedNet Corp - Class A Common Stock"
+    },
+    {
       "i": "Q:OPAD",
       "n": "Offerpad Solutions Inc. - Class A Common Stock"
     },
@@ -51065,10 +51085,6 @@
       "n": "Andretti Acquisition Corp. II - Class A Ordinary Shares"
     },
     {
-      "i": "Q:POM",
-      "n": "POMDOCTOR LIMITED - American Depositary Shares"
-    },
-    {
       "i": "Q:PONO",
       "n": "Pono Capital Four, Inc. - Class A Ordinary Shares"
     },
@@ -51563,6 +51579,10 @@
     {
       "i": "Q:QDTY",
       "n": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF"
+    },
+    {
+      "i": "Q:QETA",
+      "n": "Quetta Acquisition Corporation"
     },
     {
       "i": "Q:QEW",
