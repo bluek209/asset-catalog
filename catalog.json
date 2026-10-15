@@ -26957,10 +26957,6 @@
       "n": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H"
     },
     {
-      "i": "N:SNUS-PI",
-      "n": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I"
-    },
-    {
       "i": "N:SNX",
       "n": "TD SYNNEX Corporation Common Stock"
     },
@@ -29277,6 +29273,10 @@
       "n": "Avantis Total Equity Markets ETF"
     },
     {
+      "i": "P:AVUC",
+      "n": "Avantis U.S. Core Equity ETF"
+    },
+    {
       "i": "P:AVUS",
       "n": "Avantis U.S. Equity ETF"
     },
@@ -29763,10 +29763,6 @@
     {
       "i": "P:BWET",
       "n": "Breakwave Tanker Shipping ETF"
-    },
-    {
-      "i": "P:BWOW",
-      "n": "Bitwise Dogecoin ETF"
     },
     {
       "i": "P:BYRE",
@@ -38261,6 +38257,14 @@
       "n": "U.S. Global Technology and Aerospace & Defense ETF"
     },
     {
+      "i": "P:WBEM",
+      "n": "William Blair Emerging Markets Equity ETF"
+    },
+    {
+      "i": "P:WBIE",
+      "n": "William Blair International Equity ETF"
+    },
+    {
       "i": "P:WBIF",
       "n": "WBI BullBear Value 3000 ETF"
     },
@@ -41107,6 +41111,10 @@
     {
       "i": "Q:BMM",
       "n": "Blue Moon Metals Inc. - Common Shares"
+    },
+    {
+      "i": "Q:BMMX",
+      "n": "Black Mammoth Metals Corporation - Common Shares"
     },
     {
       "i": "Q:BMNG",
@@ -46363,6 +46371,10 @@
     {
       "i": "Q:IALT",
       "n": "iShares Systematic Alternatives Active ETF"
+    },
+    {
+      "i": "Q:IAM",
+      "n": "Iambic Therapeutics, Inc."
     },
     {
       "i": "Q:IART",
@@ -58521,6 +58533,10 @@
       "n": "Cambria Global Asset Allocation ETF"
     },
     {
+      "i": "Z:GANZ",
+      "n": "Tuttle Capital Thematic ETF"
+    },
+    {
       "i": "Z:GAPR",
       "n": "FT Vest U.S. Equity Moderate Buffer ETF - April"
     },
@@ -58841,6 +58857,10 @@
       "n": "Amplify HYG High Yield 10% Target Income ETF"
     },
     {
+      "i": "Z:HYGW",
+      "n": "iShares HYG Premium Income+ ETF"
+    },
+    {
       "i": "Z:HYHG",
       "n": "ProShares High Yield Interest Rate Hedged"
     },
@@ -59090,7 +59110,7 @@
     },
     {
       "i": "Z:IVVW",
-      "n": "iShares S&P 500 BuyWrite ETF"
+      "n": "iShares IVV Premium Income+ ETF"
     },
     {
       "i": "Z:IWMI",
@@ -59098,7 +59118,7 @@
     },
     {
       "i": "Z:IWMW",
-      "n": "iShares Russell 2000 BuyWrite ETF"
+      "n": "iShares IWM Premium Income+ ETF"
     },
     {
       "i": "Z:IYJ",
@@ -59571,6 +59591,10 @@
     {
       "i": "Z:LQDM",
       "n": "Amplify LQD Investment Grade 12% Target Income ETF"
+    },
+    {
+      "i": "Z:LQDW",
+      "n": "iShares LQD Premium Income+ ETF"
     },
     {
       "i": "Z:LQID",
@@ -61317,6 +61341,10 @@
       "n": "Corgi SMR 2x Daily ETF"
     },
     {
+      "i": "Z:SMRZ",
+      "n": "Global X Small Modular Reactor ETF"
+    },
+    {
       "i": "Z:SMTG",
       "n": "Leverage Shares 2X Long SMTC Daily ETF"
     },
@@ -61643,6 +61671,10 @@
     {
       "i": "Z:TLTP",
       "n": "Amplify TLT U.S. Treasury 12% Option Income ETF"
+    },
+    {
+      "i": "Z:TLTW",
+      "n": "iShares TLT Premium Income+ ETF"
     },
     {
       "i": "Z:TMAR",

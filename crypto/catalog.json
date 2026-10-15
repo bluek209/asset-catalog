@@ -2601,6 +2601,11 @@
       "k": "액세스프로토콜"
     },
     {
+      "e": "Acurast",
+      "i": "BT:ACU-KRW",
+      "k": "아큐라스트"
+    },
+    {
       "e": "Cardano",
       "i": "BT:ADA-KRW",
       "k": "에이다"
@@ -5874,6 +5879,11 @@
       "e": "Succinct",
       "i": "UP:PROVE-KRW",
       "k": "서싱트"
+    },
+    {
+      "e": "Puffer",
+      "i": "UP:PUFFER-KRW",
+      "k": "퍼퍼"
     },
     {
       "e": "Pump.fun",
