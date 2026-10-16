@@ -5281,6 +5281,10 @@
       "n": "애드바이오텍"
     },
     {
+      "i": "KQ:179880",
+      "n": "멜콘"
+    },
+    {
       "i": "KQ:179900",
       "n": "유티아이"
     },
@@ -6083,6 +6087,10 @@
     {
       "i": "KQ:250000",
       "n": "보라티알"
+    },
+    {
+      "i": "KQ:250030",
+      "n": "진코스텍"
     },
     {
       "i": "KQ:250060",
@@ -9683,10 +9691,6 @@
     {
       "i": "KS:0050E0",
       "n": "PLUS 미국AI에이전트"
-    },
-    {
-      "i": "KS:005110",
-      "n": "한창"
     },
     {
       "i": "KS:005180",
@@ -28845,10 +28849,6 @@
       "n": "Matthews Asia Dividend Active ETF"
     },
     {
-      "i": "P:AELV",
-      "n": "Harbor AlphaEdge Large Cap Value ETF"
-    },
-    {
       "i": "P:AEMC",
       "n": "Harbor AlphaEdge Mid Cap Core ETF"
     },
@@ -33067,10 +33067,6 @@
     {
       "i": "P:IBFR",
       "n": "Innovator International Developed Managed 10 Buffer ETF"
-    },
-    {
-      "i": "P:IBIC",
-      "n": "iShares iBonds Oct 2026 Term TIPS ETF"
     },
     {
       "i": "P:IBID",
@@ -40877,6 +40873,10 @@
       "n": "BioNexus Gene Lab Corp"
     },
     {
+      "i": "Q:BGM",
+      "n": "BGM Group Ltd. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:BGMS",
       "n": "Bio Green Med Solution, Inc."
     },
@@ -42853,6 +42853,10 @@
       "n": "CTW - Class A Ordinary Shares"
     },
     {
+      "i": "Q:CTY",
+      "n": "City Therapeutics, Inc."
+    },
+    {
       "i": "Q:CUB",
       "n": "Lionheart Holdings - Class A Ordinary Shares"
     },
@@ -44499,6 +44503,10 @@
     {
       "i": "Q:FGII",
       "n": "FG Imperii Acquisition Corp. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:FGL",
+      "n": "Founder Group Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:FGM",
@@ -49215,6 +49223,10 @@
     {
       "i": "Q:MYGN",
       "n": "Myriad Genetics, Inc."
+    },
+    {
+      "i": "Q:MYPS",
+      "n": "PLAYSTUDIOS, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:MYRG",
@@ -53983,6 +53995,10 @@
     {
       "i": "Q:TCX",
       "n": "Tucows Inc."
+    },
+    {
+      "i": "Q:TCXB",
+      "n": "TCGX Acquisition Corp. II - Class A Ordinary Shares"
     },
     {
       "i": "Q:TDAC",
@@ -58817,6 +58833,10 @@
       "n": "VanEck Bitcoin Trust"
     },
     {
+      "i": "Z:HOID",
+      "n": "Tuttle - Rareview Humanoid Robotics ETF"
+    },
+    {
       "i": "Z:HONG",
       "n": "Leverage Shares 2X Long HON Daily ETF"
     },
@@ -59827,6 +59847,10 @@
     {
       "i": "Z:MMAY",
       "n": "Pacer Swan SOS Moderate (May) ETF"
+    },
+    {
+      "i": "Z:MMF",
+      "n": "Corgi Money Market ETF"
     },
     {
       "i": "Z:MN",

@@ -2661,11 +2661,6 @@
       "k": "아카시네트워크"
     },
     {
-      "e": "ArchLoot",
-      "i": "BT:AL-KRW",
-      "k": "아치루트"
-    },
-    {
       "e": "Algorand",
       "i": "BT:ALGO-KRW",
       "k": "알고랜드"
@@ -3781,11 +3776,6 @@
       "k": "매버릭프로토콜"
     },
     {
-      "e": "Mayflower",
-      "i": "BT:MAY-KRW",
-      "k": "메이플라워"
-    },
-    {
       "e": "MovieBloc",
       "i": "BT:MBL-KRW",
       "k": "무비블록"
@@ -4511,11 +4501,6 @@
       "k": "비트텐서"
     },
     {
-      "e": "ALTAVA",
-      "i": "BT:TAVA-KRW",
-      "k": "알타바"
-    },
-    {
       "e": "ThetaDrop",
       "i": "BT:TDROP-KRW",
       "k": "티드랍"
@@ -4609,11 +4594,6 @@
       "e": "Uniswap",
       "i": "BT:UNI-KRW",
       "k": "유니스왑"
-    },
-    {
-      "e": "Ultra",
-      "i": "BT:UOS-KRW",
-      "k": "울트라"
     },
     {
       "e": "Superform",
