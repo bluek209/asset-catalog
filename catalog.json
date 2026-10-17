@@ -39357,10 +39357,6 @@
       "n": "AgomAb Therapeutics NV - ADRs representing one common share."
     },
     {
-      "i": "Q:AGMH",
-      "n": "AGM Group Holdings Inc. - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:AGMI",
       "n": "Themes Silver Miners ETF"
     },
@@ -48273,10 +48269,6 @@
       "n": "Lucid Diagnostics Inc."
     },
     {
-      "i": "Q:LUCY",
-      "n": "Innovative Eyewear, Inc."
-    },
-    {
       "i": "Q:LULG",
       "n": "Leverage Shares 2X Long LULU Daily ETF"
     },
@@ -48603,6 +48595,10 @@
     {
       "i": "Q:MEDP",
       "n": "Medpace Holdings, Inc."
+    },
+    {
+      "i": "Q:MEDS",
+      "n": "DataMeds AI, Inc."
     },
     {
       "i": "Q:MEDX",
@@ -49131,6 +49127,10 @@
     {
       "i": "Q:MTEN",
       "n": "Mingteng International Corporation Inc. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:MTEX",
+      "n": "Mannatech, Incorporated"
     },
     {
       "i": "Q:MTLS",
@@ -51831,6 +51831,10 @@
     {
       "i": "Q:QTEC",
       "n": "First Trust NASDAQ-100-Technology Sector Index Fund"
+    },
+    {
+      "i": "Q:QTEX",
+      "n": "QTREX Quantum Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:QTI",
@@ -54819,6 +54823,10 @@
     {
       "i": "Q:UCAR",
       "n": "U Power Limited - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:UCFI",
+      "n": "CN Healthy Food Tech Group Corp."
     },
     {
       "i": "Q:UCTT",
