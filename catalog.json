@@ -249,6 +249,10 @@
       "n": "Dakota Gold Corp. Common Stock"
     },
     {
+      "i": "A:DCM",
+      "n": "DeFi Capital Markets, Inc. Common Stock"
+    },
+    {
       "i": "A:DDC",
       "n": "DDC Enterprise Limited Class A Ordinary Shares"
     },
@@ -1071,10 +1075,6 @@
     {
       "i": "A:UTG",
       "n": "Reaves Utility Income Fund Common Shares of Beneficial Interest"
-    },
-    {
-      "i": "A:UUU",
-      "n": "Universal Safety Products, Inc. Common Stock"
     },
     {
       "i": "A:UUUU",
@@ -8630,7 +8630,7 @@
     },
     {
       "i": "KS:000640",
-      "n": "동아쏘시오홀딩스"
+      "n": "동아제약"
     },
     {
       "i": "KS:000650",
@@ -8766,7 +8766,7 @@
     },
     {
       "i": "KS:001080",
-      "n": "만호제강"
+      "n": "MH머트리얼즈"
     },
     {
       "i": "KS:001120",
@@ -18509,10 +18509,6 @@
       "n": "Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest"
     },
     {
-      "i": "N:ACVA",
-      "n": "ACV Auctions Inc. Class A Common Stock"
-    },
-    {
       "i": "N:AD",
       "n": "Array Digital Infrastructure, Inc. Common Shares"
     },
@@ -18930,7 +18926,7 @@
     },
     {
       "i": "N:AMTD",
-      "n": "AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares"
+      "n": "AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares"
     },
     {
       "i": "N:AMTM",
@@ -19191,10 +19187,6 @@
     {
       "i": "N:ATI",
       "n": "ATI Inc. Common Stock"
-    },
-    {
-      "i": "N:ATKR",
-      "n": "Atkore Inc. Common Stock"
     },
     {
       "i": "N:ATMU",
@@ -28937,6 +28929,10 @@
       "n": "Direxion Daily AI and Big Data Bull 2X ETF"
     },
     {
+      "i": "P:AIED",
+      "n": "Defiance LLM Catalyst Momentum ETF"
+    },
+    {
       "i": "P:AIEQ",
       "n": "Amplify AI Powered Equity ETF"
     },
@@ -29023,10 +29019,6 @@
     {
       "i": "P:AMMO",
       "n": "VistaShares Defense Supercycle ETF"
-    },
-    {
-      "i": "P:AMOM",
-      "n": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF"
     },
     {
       "i": "P:AMUB",
@@ -29727,10 +29719,6 @@
     {
       "i": "P:BTOT",
       "n": "iShares Total USD Fixed Income Market ETF"
-    },
-    {
-      "i": "P:BTRN",
-      "n": "Global X Bitcoin Trend Strategy ETF"
     },
     {
       "i": "P:BUCK",
@@ -33481,10 +33469,6 @@
       "n": "iShares LifePath Retirement ETF"
     },
     {
-      "i": "P:IRVH",
-      "n": "Global X Interest Rate Volatility & Inflation Hedge ETF"
-    },
-    {
       "i": "P:ISCF",
       "n": "iShares International Small-Cap Equity Factor ETF"
     },
@@ -36505,6 +36489,10 @@
       "n": "Shelton Equity Premium Income ETF"
     },
     {
+      "i": "P:SEQ",
+      "n": "Sequoia ETF"
+    },
+    {
       "i": "P:SETH",
       "n": "ProShares Short Ether ETF"
     },
@@ -38329,6 +38317,10 @@
       "n": "Nicholas Defense and Rare Earth Income ETF"
     },
     {
+      "i": "P:WINC",
+      "n": "William Blair Emerging Income ETF"
+    },
+    {
       "i": "P:WNTR",
       "n": "YieldMax MSTR Short Option Income Strategy ETF"
     },
@@ -38407,10 +38399,6 @@
     {
       "i": "P:XCHG",
       "n": "AB US Equity ETF"
-    },
-    {
-      "i": "P:XCLR",
-      "n": "Global X S&P 500 Collar 95-110 ETF"
     },
     {
       "i": "P:XCOR",
@@ -41861,10 +41849,6 @@
       "n": "Cadiz, Inc. - Depositary Shares"
     },
     {
-      "i": "Q:CECO",
-      "n": "CECO Environmental Corp."
-    },
-    {
       "i": "Q:CEFA",
       "n": "Global X S&P Catholic Values Developed ex-U.S. ETF"
     },
@@ -43642,7 +43626,7 @@
     },
     {
       "i": "Q:EFTY",
-      "n": "Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares"
+      "n": "Etoiles Capital Group Co., Ltd."
     },
     {
       "i": "Q:EGAN",
@@ -46033,6 +46017,10 @@
       "n": "Defiance Daily Target 2X Long HIMS ETF"
     },
     {
+      "i": "Q:HINC",
+      "n": "Hartford High Yield ETF"
+    },
+    {
       "i": "Q:HIND",
       "n": "Vyome Holdings, Inc."
     },
@@ -46443,10 +46431,6 @@
     {
       "i": "Q:IBKR",
       "n": "Interactive Brokers Group, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:IBOC",
-      "n": "International Bancshares Corporation"
     },
     {
       "i": "Q:IBOT",
@@ -47829,6 +47813,10 @@
       "n": "LCNB Corporation"
     },
     {
+      "i": "Q:LCU",
+      "n": "Lion Copper Corp. - Common Shares"
+    },
+    {
       "i": "Q:LCUT",
       "n": "Lifetime Brands, Inc."
     },
@@ -48845,10 +48833,6 @@
       "n": "MiniMed Group, Inc."
     },
     {
-      "i": "Q:MMEDV",
-      "n": "MiniMed Group, Inc. - Common Stock When Issued"
-    },
-    {
       "i": "Q:MMSI",
       "n": "Merit Medical Systems, Inc."
     },
@@ -49530,7 +49514,7 @@
     },
     {
       "i": "Q:NHP",
-      "n": "National Healthcare Properties, Inc. - Class A Common Stock"
+      "n": "National Healthcare Properties, Inc."
     },
     {
       "i": "Q:NHTC",
@@ -51583,10 +51567,6 @@
     {
       "i": "Q:QCLN",
       "n": "First Trust NASDAQ Clean Edge Green Energy Index Fund"
-    },
-    {
-      "i": "Q:QCLR",
-      "n": "Global X NASDAQ 100 Collar 95-110 ETF"
     },
     {
       "i": "Q:QCLS",
@@ -56531,6 +56511,10 @@
     {
       "i": "Z:ACIO",
       "n": "Aptus Collared Investment Opportunity ETF"
+    },
+    {
+      "i": "Z:ACIV",
+      "n": "Hartford Alpha Capture International Value ETF"
     },
     {
       "i": "Z:ACLZ",
@@ -61519,6 +61503,10 @@
     {
       "i": "Z:SQBA",
       "n": "FT Vest U.S. Equity Quarterly 15 Buffer ETF"
+    },
+    {
+      "i": "Z:SQBR",
+      "n": "FT Vest U.S. Equity Quarterly 20 Barrier ETF"
     },
     {
       "i": "Z:SQLT",

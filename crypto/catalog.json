@@ -3141,6 +3141,11 @@
       "k": "캐스퍼"
     },
     {
+      "e": "Concrete",
+      "i": "BT:CT-KRW",
+      "k": "콘크리트"
+    },
+    {
       "e": "Creditcoin",
       "i": "BT:CTC-KRW",
       "k": "크레딧코인"
@@ -5209,6 +5214,11 @@
       "e": "Curve",
       "i": "UP:CRV-KRW",
       "k": "커브"
+    },
+    {
+      "e": "Concrete",
+      "i": "UP:CT-KRW",
+      "k": "콘크리트"
     },
     {
       "e": "Creditcoin",
