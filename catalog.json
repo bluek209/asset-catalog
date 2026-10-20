@@ -1981,10 +1981,6 @@
       "n": "대성창투"
     },
     {
-      "i": "KQ:028080",
-      "n": "휴맥스홀딩스"
-    },
-    {
       "i": "KQ:028300",
       "n": "HLB"
     },
@@ -4142,7 +4138,7 @@
     },
     {
       "i": "KQ:091340",
-      "n": "S&K폴리텍"
+      "n": "S&K글로벌"
     },
     {
       "i": "KQ:091440",
@@ -40277,10 +40273,6 @@
       "n": "Alterity Therapeutics Limited - American Depositary Shares"
     },
     {
-      "i": "Q:ATHR",
-      "n": "Aether Holdings, Inc."
-    },
-    {
       "i": "Q:ATII",
       "n": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares"
     },
@@ -41251,6 +41243,10 @@
     {
       "i": "Q:BRES",
       "n": "Burney U.S. Equity Select ETF"
+    },
+    {
+      "i": "Q:BREZ",
+      "n": "Breeze Acquisition Corp. II - Ordinary Shares"
     },
     {
       "i": "Q:BRHY",
@@ -46033,10 +46029,6 @@
       "n": "First Trust High Income Strategic Focus ETF"
     },
     {
-      "i": "Q:HIT",
-      "n": "Health In Tech, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:HITI",
       "n": "High Tide Inc. - Common Shares"
     },
@@ -47035,6 +47027,10 @@
     {
       "i": "Q:IRHO",
       "n": "Iron Horse Acquisitions II Corp."
+    },
+    {
+      "i": "Q:IRLA",
+      "n": "IRulya Therapeutics Inc."
     },
     {
       "i": "Q:IRMD",
@@ -48251,10 +48247,6 @@
     {
       "i": "Q:LTRX",
       "n": "Lantronix, Inc."
-    },
-    {
-      "i": "Q:LUCD",
-      "n": "Lucid Diagnostics Inc."
     },
     {
       "i": "Q:LULG",
@@ -52681,6 +52673,10 @@
       "n": "Scinai Immunotherapeutics Ltd. - American Depositary Shares"
     },
     {
+      "i": "Q:SCNX",
+      "n": "Scienture Holdings, Inc."
+    },
+    {
       "i": "Q:SCOR",
       "n": "comScore, Inc."
     },
@@ -55087,6 +55083,10 @@
     {
       "i": "Q:UYSC",
       "n": "UY Scuti Acquisition Corp. - Ordinary Shares"
+    },
+    {
+      "i": "Q:UZX",
+      "n": "Linkage Global Inc - Class A Ordinary Shares"
     },
     {
       "i": "Q:VABK",
