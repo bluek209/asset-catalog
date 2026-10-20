@@ -962,7 +962,7 @@
     },
     {
       "i": "A:SOAR",
-      "n": "Volato Group, Inc. Class A Common Stock"
+      "n": "SOAR AI, Inc. Class A Common Stock"
     },
     {
       "i": "A:SRXH",
@@ -20121,10 +20121,6 @@
       "n": "Boyd Gaming Corporation Common Stock"
     },
     {
-      "i": "N:BZH",
-      "n": "Beazer Homes USA, Inc. Common Stock"
-    },
-    {
       "i": "N:C",
       "n": "Citigroup, Inc. Common Stock"
     },
@@ -38829,10 +38825,6 @@
       "n": "PIMCO 25 Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund"
     },
     {
-      "i": "P:ZSB",
-      "n": "USCF Sustainable Battery Metals Strategy Fund"
-    },
-    {
       "i": "P:ZSL",
       "n": "ProShares UltraShort Silver"
     },
@@ -39555,10 +39547,6 @@
     {
       "i": "Q:ALAR",
       "n": "Alarum Technologies Ltd. - American Depositary Shares"
-    },
-    {
-      "i": "Q:ALBG",
-      "n": "Leverage Shares 2X Long ALB Daily ETF"
     },
     {
       "i": "Q:ALCO",
@@ -41047,10 +41035,6 @@
     {
       "i": "Q:BLRX",
       "n": "BioLineRx Ltd. - American Depositary Shares"
-    },
-    {
-      "i": "Q:BLSG",
-      "n": "Leverage Shares 2X Long BLSH Daily ETF"
     },
     {
       "i": "Q:BLSM",
@@ -42639,10 +42623,6 @@
     {
       "i": "Q:CRMT",
       "n": "America's Car-Mart, Inc."
-    },
-    {
-      "i": "Q:CRMU",
-      "n": "Leverage Shares 2x Long CRML Daily ETF"
     },
     {
       "i": "Q:CRNC",
@@ -44313,10 +44293,6 @@
       "n": "First Trust SSI Strategic Convertible Securities ETF"
     },
     {
-      "i": "Q:FCXG",
-      "n": "Leverage Shares 2x Long FCX Daily ETF"
-    },
-    {
       "i": "Q:FDBC",
       "n": "Fidelity D & D Bancorp, Inc."
     },
@@ -45221,10 +45197,6 @@
       "n": "Pacific North of South EM Equity Active ETF"
     },
     {
-      "i": "Q:GEMG",
-      "n": "Leverage Shares 2X Long GEMI Daily ETF"
-    },
-    {
       "i": "Q:GEMI",
       "n": "Gemini Space Station, Inc. - Class A Common Stock"
     },
@@ -45391,10 +45363,6 @@
     {
       "i": "Q:GLDI",
       "n": "ETRACS Gold Shares Covered Call ETNs due February 2, 2033"
-    },
-    {
-      "i": "Q:GLGG",
-      "n": "Leverage Shares 2X Long GLXY Daily ETF"
     },
     {
       "i": "Q:GLIBA",
@@ -49109,6 +49077,10 @@
       "n": "Mannatech, Incorporated"
     },
     {
+      "i": "Q:MTGG",
+      "n": "MayTech Global Growth ETF"
+    },
+    {
       "i": "Q:MTLS",
       "n": "Materialise NV - American Depositary Shares"
     },
@@ -49395,10 +49367,6 @@
     {
       "i": "Q:NEGG",
       "n": "Newegg Commerce, Inc. - Common Shares"
-    },
-    {
-      "i": "Q:NEMG",
-      "n": "Leverage Shares 2x Long NEM Daily ETF"
     },
     {
       "i": "Q:NEO",
@@ -49775,10 +49743,6 @@
     {
       "i": "Q:NUCL",
       "n": "Eagle Nuclear Energy Corp."
-    },
-    {
-      "i": "Q:NUG",
-      "n": "Leverage Shares 2X Long NU Daily ETF"
     },
     {
       "i": "Q:NUGY",
@@ -50237,10 +50201,6 @@
       "n": "Option Care Health, Inc."
     },
     {
-      "i": "Q:OPEG",
-      "n": "Leverage Shares 2X Long OPEN Daily ETF"
-    },
-    {
       "i": "Q:OPEN",
       "n": "Opendoor Technologies Inc"
     },
@@ -50615,10 +50575,6 @@
     {
       "i": "Q:PBQQ",
       "n": "PGIM Laddered Nasdaq-100 Buffer 12 ETF"
-    },
-    {
-      "i": "Q:PBRG",
-      "n": "Leverage Shares 2X Long PBR Daily ETF"
     },
     {
       "i": "Q:PBSC",
@@ -51319,10 +51275,6 @@
     {
       "i": "Q:PSEC",
       "n": "Prospect Capital Corporation - Closed End Fund"
-    },
-    {
-      "i": "Q:PSET",
-      "n": "Principal Quality ETF"
     },
     {
       "i": "Q:PSHG",
@@ -52607,6 +52559,10 @@
     {
       "i": "Q:SATL",
       "n": "Satellogic Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:SATS",
+      "n": "Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock"
     },
     {
       "i": "Q:SBAC",
@@ -54809,10 +54765,6 @@
       "n": "Ultra Clean Holdings, Inc."
     },
     {
-      "i": "Q:UECG",
-      "n": "Leverage Shares 2x Long UEC Daily ETF"
-    },
-    {
       "i": "Q:UEIC",
       "n": "Universal Electronics Inc."
     },
@@ -55091,10 +55043,6 @@
     {
       "i": "Q:VABK",
       "n": "Virginia National Bankshares Corporation"
-    },
-    {
-      "i": "Q:VALG",
-      "n": "Leverage Shares 2X Long VALE Daily ETF"
     },
     {
       "i": "Q:VALN",
