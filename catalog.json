@@ -1002,7 +1002,7 @@
     },
     {
       "i": "A:TMDE",
-      "n": "TMD Energy Limited Ordinary Shares"
+      "n": "TMD Energy Limited Class A Ordinary Shares"
     },
     {
       "i": "A:TMP",
@@ -23253,6 +23253,10 @@
       "n": "Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock"
     },
     {
+      "i": "N:IIPR-PB",
+      "n": "Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock"
+    },
+    {
       "i": "N:IMAX",
       "n": "Imax Corporation Common Stock"
     },
@@ -24583,6 +24587,14 @@
     {
       "i": "N:MSGE",
       "n": "Madison Square Garden Entertainment Corp. Class A Common Stock"
+    },
+    {
+      "i": "N:MSGK-V",
+      "n": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued"
+    },
+    {
+      "i": "N:MSGR-V",
+      "n": "MSG Rangers Corp. Class A Common Stock When-Issued"
     },
     {
       "i": "N:MSGS",
@@ -28849,10 +28861,6 @@
       "n": "Direxion Daily ADBE Bull 2X ETF"
     },
     {
-      "i": "P:ADDS",
-      "n": "Hedgeye Index Adds ETF"
-    },
-    {
       "i": "P:ADIV",
       "n": "Guinness Atkinson Asia Pacific Dividend Builder ETF"
     },
@@ -32537,6 +32545,10 @@
       "n": "State Street SPDR S&P Emerging Asia Pacific ETF"
     },
     {
+      "i": "P:GMIE",
+      "n": "GMO International Equity Fund, ETF Class"
+    },
+    {
       "i": "P:GMMA",
       "n": "GammaRoad Market Navigation ETF"
     },
@@ -32863,10 +32875,6 @@
     {
       "i": "P:HELO",
       "n": "JPMorgan Hedged Equity Laddered Overlay ETF"
-    },
-    {
-      "i": "P:HELS",
-      "n": "Hedgeye 130/30 Equity ETF"
     },
     {
       "i": "P:HEQT",
@@ -34825,10 +34833,6 @@
       "n": "AMG GW&K Muni Income ETF"
     },
     {
-      "i": "P:MUSQ",
-      "n": "MUSQ Global Music Industry Index ETF"
-    },
-    {
       "i": "P:MUST",
       "n": "Columbia Multi-Sector Municipal Income ETF"
     },
@@ -35509,6 +35513,10 @@
       "n": "First Trust Indxx Quality Precious Metals Miners ETF"
     },
     {
+      "i": "P:POMG",
+      "n": "PRIMECAP Odyssey Discovery ETF"
+    },
+    {
       "i": "P:POW",
       "n": "VistaShares Electrification Supercycle ETF"
     },
@@ -35879,6 +35887,10 @@
     {
       "i": "P:RBLY",
       "n": "YieldMax RBLX Option Income Strategy ETF"
+    },
+    {
+      "i": "P:RBTX",
+      "n": "iShares Future Robotics and Related Technologies Active ETF"
     },
     {
       "i": "P:RCLO",
@@ -39425,6 +39437,10 @@
       "n": "Akso Health Group - American Depositary Shares"
     },
     {
+      "i": "Q:AHIC",
+      "n": "Allspring Short-Term High Income Fund ETF"
+    },
+    {
       "i": "Q:AHMA",
       "n": "Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares"
     },
@@ -41381,10 +41397,6 @@
       "n": "Bitdeer Technologies Group - Ordinary Shares"
     },
     {
-      "i": "Q:BTF",
-      "n": "CoinShares Bitcoin and Ether ETF"
-    },
-    {
       "i": "Q:BTGD",
       "n": "STKd 100% Bitcoin & 100% Gold ETF"
     },
@@ -43143,10 +43155,6 @@
     {
       "i": "Q:DIBS",
       "n": "1stdibs.com, Inc."
-    },
-    {
-      "i": "Q:DIME",
-      "n": "CoinShares Altcoins ETF"
     },
     {
       "i": "Q:DINE",
@@ -54197,6 +54205,10 @@
       "n": "Three Lions Acquisition Corp. - Ordinary Shares"
     },
     {
+      "i": "Q:TLCE",
+      "n": "Thrivent Large Cap Stock ETF"
+    },
+    {
       "i": "Q:TLF",
       "n": "Tandy Leather Factory, Inc."
     },
@@ -54535,6 +54547,10 @@
     {
       "i": "Q:TSHA",
       "n": "Taysha Gene Therapies, Inc."
+    },
+    {
+      "i": "Q:TSIE",
+      "n": "Thrivent Securitized Income ETF"
     },
     {
       "i": "Q:TSL",
@@ -57549,10 +57565,6 @@
       "n": "Tradr 2X Long CORZ Daily ETF"
     },
     {
-      "i": "Z:CPNX",
-      "n": "Tradr 2X Long CPNG Daily ETF"
-    },
-    {
       "i": "Z:CPSL",
       "n": "Calamos Laddered S&P 500 Structured Alt Protection ETF"
     },
@@ -58799,10 +58811,6 @@
     {
       "i": "Z:HOID",
       "n": "Tuttle - Rareview Humanoid Robotics ETF"
-    },
-    {
-      "i": "Z:HONG",
-      "n": "Leverage Shares 2X Long HON Daily ETF"
     },
     {
       "i": "Z:HOOC",
@@ -60205,10 +60213,6 @@
       "n": "Leverage Shares 2X Long NXPI Daily ETF"
     },
     {
-      "i": "Z:NXPX",
-      "n": "Tradr 2X Long NXPI Daily ETF"
-    },
-    {
       "i": "Z:NXTI",
       "n": "Simplify Next Intangible Core Index ETF"
     },
@@ -60627,10 +60631,6 @@
     {
       "i": "Z:POEL",
       "n": "Defiance Daily Target 2X Long POET ETF"
-    },
-    {
-      "i": "Z:PONX",
-      "n": "Tradr 2X Long PONY Daily ETF"
     },
     {
       "i": "Z:PQV",
@@ -61349,10 +61349,6 @@
       "n": "T-REX 2X Long SMR Daily Target ETF"
     },
     {
-      "i": "Z:SMZ",
-      "n": "Tradr 2X Short SMR Daily ETF"
-    },
-    {
       "i": "Z:SNAV",
       "n": "Mohr Sector Nav ETF"
     },
@@ -61779,10 +61775,6 @@
     {
       "i": "Z:TSEP",
       "n": "FT Vest Emerging Market Buffer ETF - September"
-    },
-    {
-      "i": "Z:TSEU",
-      "n": "Tradr 2X Long TSEM Daily ETF"
     },
     {
       "i": "Z:TSIB",

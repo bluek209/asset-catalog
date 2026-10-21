@@ -261,9 +261,9 @@
       "k": "ASTSB"
     },
     {
-      "e": "AT",
+      "e": "APRO",
       "i": "BN:AT-USDT",
-      "k": "AT"
+      "k": "아프로"
     },
     {
       "e": "ATM",
@@ -471,9 +471,19 @@
       "k": "봉크"
     },
     {
+      "e": "BOTB",
+      "i": "BN:BOTB-USDT",
+      "k": "BOTB"
+    },
+    {
       "e": "Brevis",
       "i": "BN:BREV-USDT",
       "k": "브레비스"
+    },
+    {
+      "e": "BRKBB",
+      "i": "BN:BRKBB-USDT",
+      "k": "BRKBB"
     },
     {
       "e": "BROCCOLI714",
@@ -1249,6 +1259,11 @@
       "e": "Kusama",
       "i": "BN:KSM-USDT",
       "k": "쿠사마"
+    },
+    {
+      "e": "KSTRB",
+      "i": "BN:KSTRB-USDT",
+      "k": "KSTRB"
     },
     {
       "e": "Lagrange",
@@ -2196,6 +2211,11 @@
       "k": "TLM"
     },
     {
+      "e": "TMFB",
+      "i": "BN:TMFB-USDT",
+      "k": "TMFB"
+    },
+    {
       "e": "TNSR",
       "i": "BN:TNSR-USDT",
       "k": "TNSR"
@@ -2349,6 +2369,11 @@
       "e": "Virtuals Protocol",
       "i": "BN:VIRTUAL-USDT",
       "k": "버추얼프로토콜"
+    },
+    {
+      "e": "VSTB",
+      "i": "BN:VSTB-USDT",
+      "k": "VSTB"
     },
     {
       "e": "VeThor Token",
@@ -2759,6 +2784,11 @@
       "e": "Astar",
       "i": "BT:ASTR-KRW",
       "k": "아스타"
+    },
+    {
+      "e": "APRO",
+      "i": "BT:AT-KRW",
+      "k": "아프로"
     },
     {
       "e": "Aethir",
@@ -4171,6 +4201,11 @@
       "k": "펀디엑스"
     },
     {
+      "e": "Capybobo",
+      "i": "BT:PYBOBO-KRW",
+      "k": "카피보보"
+    },
+    {
       "e": "Vulcan Forged",
       "i": "BT:PYR-KRW",
       "k": "불칸포지드"
@@ -5019,6 +5054,11 @@
       "e": "AWE Network",
       "i": "UP:AWE-KRW",
       "k": "에이더블유이"
+    },
+    {
+      "e": "Axis Robotics",
+      "i": "UP:AXIS-KRW",
+      "k": "액시스로보틱스"
     },
     {
       "e": "Axelar",
