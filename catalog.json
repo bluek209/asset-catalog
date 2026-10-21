@@ -1653,6 +1653,10 @@
       "n": "성우하이텍"
     },
     {
+      "i": "KQ:0158S0",
+      "n": "엘리스"
+    },
+    {
       "i": "KQ:016100",
       "n": "리더스코스메틱"
     },
@@ -11765,6 +11769,10 @@
       "n": "다우기술"
     },
     {
+      "i": "KS:0236J0",
+      "n": "마이티 미국피지컬AI액티브"
+    },
+    {
       "i": "KS:023800",
       "n": "인지컨트롤스"
     },
@@ -11853,6 +11861,22 @@
       "n": "KPX케미칼"
     },
     {
+      "i": "KS:0252V0",
+      "n": "ACE 미국CPU반도체TOP3+"
+    },
+    {
+      "i": "KS:0254C0",
+      "n": "KODEX 27-12 금융채(AA-이상)액티브"
+    },
+    {
+      "i": "KS:0254H0",
+      "n": "RISE 반도체소부장액티브"
+    },
+    {
+      "i": "KS:0254S0",
+      "n": "KODEX 미국배당다우존스액티브"
+    },
+    {
       "i": "KS:0254W0",
       "n": "ACE 29-11 회사채(AA-이상)액티브"
     },
@@ -11869,8 +11893,16 @@
       "n": "미래산업"
     },
     {
+      "i": "KS:0255E0",
+      "n": "TIGER 글로벌MLCC&기판"
+    },
+    {
       "i": "KS:025620",
       "n": "차AI헬스케어"
+    },
+    {
+      "i": "KS:0256C0",
+      "n": "1Q 엔비디아고정미국AI반도체"
     },
     {
       "i": "KS:025750",
@@ -40785,10 +40817,6 @@
       "n": "GSR Crypto Core3 ETF"
     },
     {
-      "i": "Q:BETR",
-      "n": "Better Home & Finance Holding Company - Class A Common Stock"
-    },
-    {
       "i": "Q:BFC",
       "n": "Bank First Corporation"
     },
@@ -44813,10 +44841,6 @@
       "n": "Foresight Autonomous Holdings Ltd. - American Depositary Shares"
     },
     {
-      "i": "Q:FRTT",
-      "n": "Fort Technology Inc. - Common Shares"
-    },
-    {
       "i": "Q:FRVO",
       "n": "Fervo Energy Company - Class A common stock"
     },
@@ -47063,6 +47087,10 @@
     {
       "i": "Q:ITIC",
       "n": "Investors Title Company"
+    },
+    {
+      "i": "Q:ITOC",
+      "n": "iTonic Holdings Ltd - Class A Ordinary Shares"
     },
     {
       "i": "Q:ITRI",
@@ -53819,10 +53847,6 @@
     {
       "i": "Q:TANH",
       "n": "Tantech Holdings Ltd. - Class A Common Shares"
-    },
-    {
-      "i": "Q:TAOP",
-      "n": "Taoping Inc. - Ordinary Shares"
     },
     {
       "i": "Q:TAOX",
