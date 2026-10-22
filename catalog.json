@@ -40321,10 +40321,6 @@
       "n": "Alterity Therapeutics Limited - American Depositary Shares"
     },
     {
-      "i": "Q:ATII",
-      "n": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares"
-    },
-    {
       "i": "Q:ATLC",
       "n": "Atlanticus Holdings Corporation"
     },
@@ -43025,6 +43021,10 @@
       "n": "Dave Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:DAVI",
+      "n": "Davion Healthcare Plc - Ordinary Shares"
+    },
+    {
       "i": "Q:DAX",
       "n": "Global X DAX Germany ETF"
     },
@@ -43751,6 +43751,10 @@
     {
       "i": "Q:ELWT",
       "n": "Elauwit Connection, Inc."
+    },
+    {
+      "i": "Q:EMAG",
+      "n": "Emerging Markets AI Mag 3 ETF"
     },
     {
       "i": "Q:EMAT",
@@ -49255,6 +49259,10 @@
     {
       "i": "Q:NAMS",
       "n": "NewAmsterdam Pharma Company N.V. - Ordinary Shares"
+    },
+    {
+      "i": "Q:NANO",
+      "n": "Forge Nano Holdings Inc."
     },
     {
       "i": "Q:NATH",

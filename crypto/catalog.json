@@ -2446,9 +2446,9 @@
       "k": "우"
     },
     {
-      "e": "XAI",
+      "e": "Xai",
       "i": "BN:XAI-USDT",
-      "k": "XAI"
+      "k": "자이"
     },
     {
       "e": "Tether Gold",
@@ -4769,6 +4769,11 @@
       "e": "WOO",
       "i": "BT:WOO-KRW",
       "k": "우"
+    },
+    {
+      "e": "Xai",
+      "i": "BT:XAI-KRW",
+      "k": "자이"
     },
     {
       "e": "Anoma",
