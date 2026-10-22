@@ -17421,6 +17421,14 @@
       "n": "삼성 인버스 2X 코스피200 선물 ETN B"
     },
     {
+      "i": "KS:530149",
+      "n": "삼성 레버리지 나스닥 100 TR ETN B"
+    },
+    {
+      "i": "KS:530150",
+      "n": "삼성 인버스 2X 나스닥 100 TR ETN B"
+    },
+    {
       "i": "KS:550041",
       "n": "N2 미국 IT TOP5 ETN(H)"
     },
@@ -18387,6 +18395,10 @@
     {
       "i": "KS:760032",
       "n": "키움 모험자본창업투자 ETN"
+    },
+    {
+      "i": "KS:760033",
+      "n": "키움 통안채 6개월 ETN"
     },
     {
       "i": "KS:900140",
@@ -41049,10 +41061,6 @@
       "n": "Ballard Power Systems, Inc. - Common Shares"
     },
     {
-      "i": "Q:BLIN",
-      "n": "Bridgeline Digital, Inc."
-    },
-    {
       "i": "Q:BLIV",
       "n": "BeLive Holdings - ordinary shares"
     },
@@ -41885,6 +41893,10 @@
       "n": "Celsius Holdings, Inc."
     },
     {
+      "i": "Q:CELU",
+      "n": "Celularity Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:CELZ",
       "n": "Creative Medical Technology Holdings, Inc."
     },
@@ -41975,10 +41987,6 @@
     {
       "i": "Q:CGBD",
       "n": "Carlyle Secured Lending, Inc. - Closed End Fund"
-    },
-    {
-      "i": "Q:CGC",
-      "n": "Canopy Growth Corporation - Common Shares"
     },
     {
       "i": "Q:CGCF",
@@ -42953,10 +42961,6 @@
       "n": "Cycurion, Inc."
     },
     {
-      "i": "Q:CYN",
-      "n": "Cyngn Inc."
-    },
-    {
       "i": "Q:CYPH",
       "n": "Cypherpunk Technologies Inc."
     },
@@ -43675,10 +43679,6 @@
     {
       "i": "Q:EHLS",
       "n": "Even Herd Long Short ETF"
-    },
-    {
-      "i": "Q:EHTH",
-      "n": "eHealth, Inc."
     },
     {
       "i": "Q:EIKN",
@@ -48303,10 +48303,6 @@
     {
       "i": "Q:LWLG",
       "n": "Lightwave Logic, Inc."
-    },
-    {
-      "i": "Q:LX",
-      "n": "LexinFintech Holdings Ltd. - American Depositary Shares"
     },
     {
       "i": "Q:LXEH",
@@ -55249,6 +55245,10 @@
       "n": "Viomi Technology Co., Ltd - American Depositary Shares"
     },
     {
+      "i": "Q:VIP",
+      "n": "Vulcan Infrastructure and Power Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:VIR",
       "n": "Vir Biotechnology, Inc."
     },
@@ -56143,6 +56143,10 @@
     {
       "i": "Q:XTER",
       "n": "Karman Line Acquisition Corp. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:XTIA",
+      "n": "XTI Aerospace, Inc. Common Stock"
     },
     {
       "i": "Q:XTLB",
