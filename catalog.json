@@ -23498,7 +23498,7 @@
     },
     {
       "i": "N:JKS",
-      "n": "JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)"
+      "n": "Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares)"
     },
     {
       "i": "N:JLL",
@@ -24050,7 +24050,7 @@
     },
     {
       "i": "N:LU",
-      "n": "Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares"
+      "n": "Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares)"
     },
     {
       "i": "N:LUCK",
@@ -25655,10 +25655,6 @@
     {
       "i": "N:PEO",
       "n": "Adams Natural Resources Fund, Inc. Common Stock"
-    },
-    {
-      "i": "N:PERF",
-      "n": "Perfect Corp. Class A Ordinary Share"
     },
     {
       "i": "N:PEW",
@@ -40053,6 +40049,10 @@
       "n": "Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share"
     },
     {
+      "i": "Q:APXC",
+      "n": "Apex Critical Metals Corp. - American Depositary Shares"
+    },
+    {
       "i": "Q:APXT",
       "n": "Apex Treasury Corporation - Class A Ordinary Share"
     },
@@ -48313,6 +48313,10 @@
       "n": "Lexicon Pharmaceuticals, Inc."
     },
     {
+      "i": "Q:LYCA",
+      "n": "Lycia Therapeutics, Inc."
+    },
+    {
       "i": "Q:LYEL",
       "n": "Lyell Immunopharma, Inc."
     },
@@ -50553,6 +50557,10 @@
       "n": "Patria Investments Limited - Class A Common Shares"
     },
     {
+      "i": "Q:PAXG",
+      "n": "Pine Tree Acquisition Corp. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:PAYO",
       "n": "Payoneer Global Inc."
     },
@@ -52717,10 +52725,6 @@
       "n": "American Century Short Duration Strategic Income ETF"
     },
     {
-      "i": "Q:SDST",
-      "n": "Stardust Power Inc."
-    },
-    {
       "i": "Q:SDTY",
       "n": "YieldMax S&P 500 0DTE Covered Call Strategy ETF"
     },
@@ -53183,6 +53187,10 @@
     {
       "i": "Q:SMMT",
       "n": "Summit Therapeutics Inc."
+    },
+    {
+      "i": "Q:SMNG",
+      "n": "xETFs Samsung Group ETF"
     },
     {
       "i": "Q:SMOM",
@@ -60377,6 +60385,10 @@
       "n": "Overlay Shares Hedged Large Cap Equity ETF"
     },
     {
+      "i": "Z:OVQ",
+      "n": "Overlay Shares Nasdaq 100 Income ETF"
+    },
+    {
       "i": "Z:OVS",
       "n": "Overlay Shares Small Cap Equity ETF"
     },
@@ -60903,6 +60915,10 @@
     {
       "i": "Z:QQBF",
       "n": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF"
+    },
+    {
+      "i": "Z:QQDH",
+      "n": "Tuttle Capital Innovation 100 Income & Hedge ETF"
     },
     {
       "i": "Z:QQJL",
