@@ -1209,6 +1209,10 @@
       "n": "삼진식품"
     },
     {
+      "i": "KQ:0013Y0",
+      "n": "엠에스바이오"
+    },
+    {
       "i": "KQ:001540",
       "n": "안국약품"
     },
@@ -17295,14 +17299,6 @@
     {
       "i": "KS:530114",
       "n": "삼성 인버스 2X S&P500 선물 ETN"
-    },
-    {
-      "i": "KS:530115",
-      "n": "삼성 레버리지 나스닥 100 TR ETN"
-    },
-    {
-      "i": "KS:530116",
-      "n": "삼성 인버스 2X 나스닥 100 TR ETN"
     },
     {
       "i": "KS:530117",
@@ -45553,10 +45549,6 @@
       "n": "GOWell Energy Technology - Ordinary shares"
     },
     {
-      "i": "Q:GP",
-      "n": "GreenPower Motor Company Inc. - Common Shares"
-    },
-    {
       "i": "Q:GPAC",
       "n": "General Purpose Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -52725,6 +52717,10 @@
       "n": "American Century Short Duration Strategic Income ETF"
     },
     {
+      "i": "Q:SDST",
+      "n": "Stardust Power Inc."
+    },
+    {
       "i": "Q:SDTY",
       "n": "YieldMax S&P 500 0DTE Covered Call Strategy ETF"
     },
@@ -53963,6 +53959,10 @@
     {
       "i": "Q:TCPC",
       "n": "BlackRock TCP Capital Corp. - Closed End Fund"
+    },
+    {
+      "i": "Q:TCRT",
+      "n": "Alaunos Therapeutics, Inc."
     },
     {
       "i": "Q:TCX",
