@@ -1121,9 +1121,9 @@
       "k": "이뮤터블엑스"
     },
     {
-      "e": "Initia",
+      "e": "INIT",
       "i": "BN:INIT-USDT",
-      "k": "이니시아"
+      "k": "INIT"
     },
     {
       "e": "Injective",
@@ -3619,11 +3619,6 @@
       "e": "Infinit",
       "i": "BT:IN-KRW",
       "k": "인피닛"
-    },
-    {
-      "e": "Initia",
-      "i": "BT:INIT-KRW",
-      "k": "이니시아"
     },
     {
       "e": "Injective",

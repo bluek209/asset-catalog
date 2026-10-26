@@ -465,6 +465,10 @@
       "n": "Gran Tierra Energy Inc. Common Stock"
     },
     {
+      "i": "A:GUNN",
+      "n": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)"
+    },
+    {
       "i": "A:HLSQ",
       "n": "Tessera Defense and Homeland Security Inc. Common Stock"
     },
@@ -781,10 +785,6 @@
       "n": "Paradium.AI, Inc. Common Stock"
     },
     {
-      "i": "A:PAPL",
-      "n": "Pineapple Financial Inc. Common Stock"
-    },
-    {
       "i": "A:PCG-PA",
       "n": "Pacific Gas & Electric Co. 6% Preferred Stock"
     },
@@ -851,6 +851,10 @@
     {
       "i": "A:PTHS",
       "n": "Pelthos Therapeutics Inc. Common Stock"
+    },
+    {
+      "i": "A:PTIV",
+      "n": "Pineapple Financial Inc. Common Stock"
     },
     {
       "i": "A:PW",
@@ -1219,6 +1223,10 @@
     {
       "i": "KQ:0015G0",
       "n": "그린광학"
+    },
+    {
+      "i": "KQ:0015M0",
+      "n": "디티에스"
     },
     {
       "i": "KQ:0015N0",
@@ -7922,7 +7930,7 @@
     },
     {
       "i": "KQ:457600",
-      "n": "벡트"
+      "n": "벡트로보틱스"
     },
     {
       "i": "KQ:458350",
@@ -17225,6 +17233,18 @@
       "n": "미래에셋 인버스 코스닥150 선물 ETN B"
     },
     {
+      "i": "KS:520107",
+      "n": "미래에셋 구리 선물 ETN"
+    },
+    {
+      "i": "KS:520108",
+      "n": "미래에셋 레버리지 구리 선물 ETN"
+    },
+    {
+      "i": "KS:520109",
+      "n": "미래에셋 인버스 2X 구리 선물 ETN"
+    },
+    {
       "i": "KS:530031",
       "n": "삼성 레버리지 WTI원유 선물 ETN"
     },
@@ -17453,20 +17473,8 @@
       "n": "N2 선진국 1등주 ETN"
     },
     {
-      "i": "KS:550088",
-      "n": "N2 월간 레버리지 선진국 1등주 ETN"
-    },
-    {
-      "i": "KS:550089",
-      "n": "N2 월간 레버리지 코스피 200 선물 ETN"
-    },
-    {
       "i": "KS:550091",
       "n": "N2 방위산업 Top5 ETN"
-    },
-    {
-      "i": "KS:550092",
-      "n": "N2 월간 레버리지 방위산업 Top5 ETN"
     },
     {
       "i": "KS:550093",
@@ -17479,14 +17487,6 @@
     {
       "i": "KS:550096",
       "n": "N2 레버리지 국채30년 ETN"
-    },
-    {
-      "i": "KS:550097",
-      "n": "N2 레버리지 코스닥150 선물 ETN"
-    },
-    {
-      "i": "KS:550098",
-      "n": "N2 인버스 2X 코스닥150 선물 ETN"
     },
     {
       "i": "KS:550099",
@@ -18217,6 +18217,18 @@
       "n": "메리츠 3X 레버리지 일본 국채 30년 ETN(H)"
     },
     {
+      "i": "KS:610113",
+      "n": "메리츠 솔랙티브 구리 선물 ETN(H)"
+    },
+    {
+      "i": "KS:610114",
+      "n": "메리츠 솔랙티브 2X 구리 선물 ETN(H)"
+    },
+    {
+      "i": "KS:610115",
+      "n": "메리츠 솔랙티브 -2X 구리 선물 ETN(H)"
+    },
+    {
       "i": "KS:700011",
       "n": "하나 레버리지 옥수수 선물 ETN(H)"
     },
@@ -18479,10 +18491,6 @@
     {
       "i": "N:ABX",
       "n": "Abacus Global Management, Inc. Class A Common Stock"
-    },
-    {
-      "i": "N:ACA",
-      "n": "Arcosa, Inc. Common Stock"
     },
     {
       "i": "N:ACCO",
@@ -21547,10 +21555,6 @@
     {
       "i": "N:ELF",
       "n": "e.l.f. Beauty, Inc. Common Stock"
-    },
-    {
-      "i": "N:ELME",
-      "n": "Elme Communities Common Stock"
     },
     {
       "i": "N:ELPC",
@@ -28385,10 +28389,6 @@
       "n": "Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share"
     },
     {
-      "i": "N:WEAV",
-      "n": "Weave Communications, Inc. Common Stock"
-    },
-    {
       "i": "N:WEC",
       "n": "WEC Energy Group, Inc. Common Stock"
     },
@@ -29845,6 +29845,10 @@
       "n": "Simplify China A Shares PLUS Income ETF"
     },
     {
+      "i": "P:CAYN",
+      "n": "Calamos Least-Of Autocallable Income ETF"
+    },
+    {
       "i": "P:CBLS",
       "n": "Clough Hedged Equity ETF"
     },
@@ -29863,10 +29867,6 @@
     {
       "i": "P:CCOR",
       "n": "Core Alternative ETF"
-    },
-    {
-      "i": "P:CDEI",
-      "n": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF"
     },
     {
       "i": "P:CDPI",
@@ -39313,6 +39313,10 @@
       "n": "Aeon Acquisition I Corp. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:AETR",
+      "n": "Aetherion Technologies Inc. - Common Shares"
+    },
+    {
       "i": "Q:AEVA",
       "n": "Aeva Technologies, Inc."
     },
@@ -44285,6 +44289,10 @@
       "n": "First Community Corporation"
     },
     {
+      "i": "Q:FCDH",
+      "n": "Forcendra Holding Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:FCEF",
       "n": "First Trust Income Opportunities ETF"
     },
@@ -45275,10 +45283,6 @@
     {
       "i": "Q:GEW",
       "n": "Cambria Global EW ETF"
-    },
-    {
-      "i": "Q:GFGF",
-      "n": "Guru Favorite Stocks ETF"
     },
     {
       "i": "Q:GFLW",
@@ -51877,6 +51881,10 @@
       "n": "Research Alliance Corporation IV - Class A Ordinary Shares"
     },
     {
+      "i": "Q:RADD",
+      "n": "AB US Research Advanced ETF"
+    },
+    {
       "i": "Q:RADX",
       "n": "Radiopharm Theranostics Limited - American Depositary Shares"
     },
@@ -55473,10 +55481,6 @@
       "n": "VSE Corporation"
     },
     {
-      "i": "Q:VSME",
-      "n": "VS Media Holdings Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:VSMV",
       "n": "VictoryShares US Multi-Factor Minimum Volatility ETF"
     },
@@ -55791,10 +55795,6 @@
     {
       "i": "Q:WORX",
       "n": "SCWorx Corp."
-    },
-    {
-      "i": "Q:WPRT",
-      "n": "Westport Fuel Systems Inc - Common Shares"
     },
     {
       "i": "Q:WQEY",
@@ -56507,6 +56507,10 @@
     {
       "i": "Z:ACIG",
       "n": "Hartford Alpha Capture International Growth ETF"
+    },
+    {
+      "i": "Z:ACIN",
+      "n": "Hartford Alpha Capture International Equity ETF"
     },
     {
       "i": "Z:ACIO",
