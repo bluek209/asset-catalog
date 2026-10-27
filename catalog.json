@@ -42401,10 +42401,6 @@
       "n": "Canton Strategic Holdings, Inc."
     },
     {
-      "i": "Q:CNTY",
-      "n": "Century Casinos, Inc."
-    },
-    {
       "i": "Q:CNVS",
       "n": "Cineverse Corp. - Class A Common Stock"
     },
@@ -43263,10 +43259,6 @@
     {
       "i": "Q:DOCU",
       "n": "DocuSign, Inc."
-    },
-    {
-      "i": "Q:DOGZ",
-      "n": "Dogness (International) Corporation - Class A Common Stock"
     },
     {
       "i": "Q:DOMH",
@@ -44697,10 +44689,6 @@
       "n": "Farmers National Banc Corp."
     },
     {
-      "i": "Q:FMST",
-      "n": "Foremost Clean Energy Ltd. - Common Shares"
-    },
-    {
       "i": "Q:FMTM",
       "n": "MarketDesk Focused U.S. Momentum ETF"
     },
@@ -44719,6 +44707,10 @@
     {
       "i": "Q:FNRN",
       "n": "First Northern Community Bancorp"
+    },
+    {
+      "i": "Q:FNUC",
+      "n": "Frontier Nuclear and Minerals Inc. - Common Shares"
     },
     {
       "i": "Q:FNWB",
@@ -46955,6 +46947,10 @@
     {
       "i": "Q:IPSC",
       "n": "Century Therapeutics, Inc."
+    },
+    {
+      "i": "Q:IPST",
+      "n": "IP Strategy Holdings, Inc."
     },
     {
       "i": "Q:IPVV",
@@ -49911,6 +49907,10 @@
     {
       "i": "Q:NXDR",
       "n": "Nextdoor Holdings, Inc."
+    },
+    {
+      "i": "Q:NXGL",
+      "n": "NexGel, Inc"
     },
     {
       "i": "Q:NXH",
