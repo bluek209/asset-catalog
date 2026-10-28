@@ -201,6 +201,11 @@
       "k": "에이피아이쓰리"
     },
     {
+      "e": "APPB",
+      "i": "BN:APPB-USDT",
+      "k": "APPB"
+    },
+    {
       "e": "Aptos",
       "i": "BN:APT-USDT",
       "k": "앱토스"
@@ -489,6 +494,11 @@
       "e": "BROCCOLI714",
       "i": "BN:BROCCOLI714-USDT",
       "k": "BROCCOLI714"
+    },
+    {
+      "e": "BSPB",
+      "i": "BN:BSPB-USDT",
+      "k": "BSPB"
     },
     {
       "e": "Bitcoin",
@@ -791,11 +801,6 @@
       "k": "엔소"
     },
     {
-      "e": "EPIC",
-      "i": "BN:EPIC-USDT",
-      "k": "EPIC"
-    },
-    {
       "e": "Caldera",
       "i": "BN:ERA-USDT",
       "k": "칼데라"
@@ -934,6 +939,11 @@
       "e": "GENIUS",
       "i": "BN:GENIUS-USDT",
       "k": "GENIUS"
+    },
+    {
+      "e": "GEVB",
+      "i": "BN:GEVB-USDT",
+      "k": "GEVB"
     },
     {
       "e": "GIGGLE",
@@ -1806,11 +1816,6 @@
       "k": "퀀텀"
     },
     {
-      "e": "QUICK",
-      "i": "BN:QUICK-USDT",
-      "k": "QUICK"
-    },
-    {
       "e": "Radworks",
       "i": "BN:RAD-USDT",
       "k": "래드웍스"
@@ -2001,6 +2006,11 @@
       "k": "사인"
     },
     {
+      "e": "SKDDB",
+      "i": "BN:SKDDB-USDT",
+      "k": "SKDDB"
+    },
+    {
       "e": "SKHYB",
       "i": "BN:SKHYB-USDT",
       "k": "SKHYB"
@@ -2009,6 +2019,11 @@
       "e": "SKALE",
       "i": "BN:SKL-USDT",
       "k": "스케일"
+    },
+    {
+      "e": "SKUUB",
+      "i": "BN:SKUUB-USDT",
+      "k": "SKUUB"
     },
     {
       "e": "Sky Protocol",

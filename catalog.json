@@ -43381,10 +43381,6 @@
       "n": "U.S. Small Cap Growth Portfolio: ETF Class Shares"
     },
     {
-      "i": "Q:DVAL",
-      "n": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF"
-    },
-    {
       "i": "Q:DVGR",
       "n": "DAC 3D Dividend Growth ETF"
     },
@@ -43719,10 +43715,6 @@
     {
       "i": "Q:EMBC",
       "n": "Embecta Corp."
-    },
-    {
-      "i": "Q:EMEM",
-      "n": "Sophus Capital Emerging Market ETF"
     },
     {
       "i": "Q:EMEQ",
@@ -44427,6 +44419,10 @@
     {
       "i": "Q:FFR",
       "n": "FF EAI Robotics Ecosystem Inc."
+    },
+    {
+      "i": "Q:FFTT",
+      "n": "Masonglory Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:FFUT",
@@ -48989,10 +48985,6 @@
       "n": "Motorsport Games Inc. - Class A Common Stock"
     },
     {
-      "i": "Q:MSGY",
-      "n": "Masonglory Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MSLE",
       "n": "Satellos Bioscience Inc."
     },
@@ -49075,10 +49067,6 @@
     {
       "i": "Q:MULL",
       "n": "GraniteShares 2x Long MU Daily ETF"
-    },
-    {
-      "i": "Q:MULT",
-      "n": "Franklin Multisector Income ETF"
     },
     {
       "i": "Q:MUU",
@@ -54927,10 +54915,6 @@
     {
       "i": "Q:USEA",
       "n": "United Maritime Corporation"
-    },
-    {
-      "i": "Q:USFI",
-      "n": "BrandywineGLOBAL - U.S. Fixed Income ETF"
     },
     {
       "i": "Q:USGG",
