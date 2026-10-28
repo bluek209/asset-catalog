@@ -1805,6 +1805,10 @@
       "n": "대동금속"
     },
     {
+      "i": "KQ:0205H0",
+      "n": "에스케이증권제14호기업인수목적"
+    },
+    {
       "i": "KQ:020710",
       "n": "시공테크"
     },
@@ -11873,6 +11877,10 @@
       "n": "KPX케미칼"
     },
     {
+      "i": "KS:0252P0",
+      "n": "KoAct 코리아TOP5플러스채권혼합50액티브"
+    },
+    {
       "i": "KS:0252V0",
       "n": "ACE 미국CPU반도체TOP3+"
     },
@@ -11905,6 +11913,10 @@
       "n": "미래산업"
     },
     {
+      "i": "KS:0255D0",
+      "n": "FOCUS 스페이스X밸류체인"
+    },
+    {
       "i": "KS:0255E0",
       "n": "TIGER 글로벌MLCC&기판"
     },
@@ -11931,6 +11943,10 @@
     {
       "i": "KS:025890",
       "n": "한국주강"
+    },
+    {
+      "i": "KS:0258B0",
+      "n": "1Q 미국AI테크플랫폼TOP10"
     },
     {
       "i": "KS:026890",
@@ -17289,14 +17305,6 @@
       "n": "삼성 인버스 코스닥 150 선물 ETN"
     },
     {
-      "i": "KS:530095",
-      "n": "삼성 구리 선물 ETN(H)"
-    },
-    {
-      "i": "KS:530096",
-      "n": "삼성 인버스 구리 선물 ETN(H)"
-    },
-    {
       "i": "KS:530104",
       "n": "삼성 레버리지 코스피200 선물 ETN"
     },
@@ -17449,14 +17457,6 @@
       "n": "N2 미국 IT TOP5 ETN(H)"
     },
     {
-      "i": "KS:550069",
-      "n": "N2 레버리지 구리 선물 ETN(H)"
-    },
-    {
-      "i": "KS:550070",
-      "n": "N2 인버스 레버리지 구리 선물 ETN(H)"
-    },
-    {
       "i": "KS:550082",
       "n": "N2 KIS CD금리투자 ETN"
     },
@@ -17531,18 +17531,6 @@
     {
       "i": "KS:570070",
       "n": "한투 인버스2X플래티넘선물 ETN"
-    },
-    {
-      "i": "KS:570071",
-      "n": "한투 구리선물 ETN"
-    },
-    {
-      "i": "KS:570072",
-      "n": "한투 레버리지구리선물 ETN"
-    },
-    {
-      "i": "KS:570073",
-      "n": "한투 인버스2X구리선물 ETN"
     },
     {
       "i": "KS:570074",
@@ -17715,14 +17703,6 @@
     {
       "i": "KS:580010",
       "n": "KB Wise 분할매매 ETN"
-    },
-    {
-      "i": "KS:580032",
-      "n": "KB 레버리지 구리 선물 ETN(H)"
-    },
-    {
-      "i": "KS:580033",
-      "n": "KB 인버스 2X 구리 선물 ETN(H)"
     },
     {
       "i": "KS:580034",
@@ -17951,14 +17931,6 @@
     {
       "i": "KS:610025",
       "n": "메리츠 인버스 2X 미국채10년 ETN(H)"
-    },
-    {
-      "i": "KS:610028",
-      "n": "메리츠 레버리지 구리 선물 ETN(H)"
-    },
-    {
-      "i": "KS:610029",
-      "n": "메리츠 인버스 2X 구리 선물 ETN(H)"
     },
     {
       "i": "KS:610030",
@@ -24601,16 +24573,12 @@
       "n": "Madison Square Garden Entertainment Corp. Class A Common Stock"
     },
     {
-      "i": "N:MSGK-V",
-      "n": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued"
+      "i": "N:MSGK",
+      "n": "MSG Knickerbockers Corp. Class A Common Stock"
     },
     {
-      "i": "N:MSGR-V",
-      "n": "MSG Rangers Corp. Class A Common Stock When-Issued"
-    },
-    {
-      "i": "N:MSGS",
-      "n": "Madison Square Garden Sports Corp. Class A Common Stock (New)"
+      "i": "N:MSGR",
+      "n": "MSG Rangers Corp. Class A Common Stock"
     },
     {
       "i": "N:MSI",
@@ -34069,10 +34037,6 @@
       "n": "KraneShares 90% KWEB Defined Outcome January 2027 ETF"
     },
     {
-      "i": "P:KCAI",
-      "n": "KraneShares China Alpha Index ETF"
-    },
-    {
       "i": "P:KCCA",
       "n": "KraneShares California Carbon Allowance Strategy ETF"
     },
@@ -37525,10 +37489,6 @@
       "n": "iShares Top 20 U.S. Stocks ETF"
     },
     {
-      "i": "P:TOT",
-      "n": "LionShares U.S. Equity Total Return ETF"
-    },
-    {
       "i": "P:TOTL",
       "n": "State Street DoubleLine Total Return Tactical ETF"
     },
@@ -38299,6 +38259,10 @@
     {
       "i": "P:WBIL",
       "n": "WBI BullBear Quality 3000 ETF"
+    },
+    {
+      "i": "P:WBMO",
+      "n": "VanEck Wealth Builder ETF"
     },
     {
       "i": "P:WCAP",
@@ -47393,14 +47357,6 @@
       "n": "Skyline Builders Group Holding Limited - Class A Ordinary Shares"
     },
     {
-      "i": "Q:KBAB",
-      "n": "KraneShares 2x Long BABA Daily ETF"
-    },
-    {
-      "i": "Q:KBDU",
-      "n": "KraneShares 2x Long BIDU Daily ETF"
-    },
-    {
       "i": "Q:KBON",
       "n": "Karbon Capital Partners Corp. - Class A Ordinary Shares"
     },
@@ -47501,10 +47457,6 @@
       "n": "KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF"
     },
     {
-      "i": "Q:KJD",
-      "n": "KraneShares 2x Long JD Daily ETF"
-    },
-    {
       "i": "Q:KLAC",
       "n": "KLA Corporation"
     },
@@ -47541,10 +47493,6 @@
       "n": "Kamada Ltd. - Ordinary Shares"
     },
     {
-      "i": "Q:KMLI",
-      "n": "KraneShares 2x Long MELI Daily ETF"
-    },
-    {
       "i": "Q:KMRK",
       "n": "K-Tech Solutions Company Limited - Class A Ordinary Shares"
     },
@@ -47579,10 +47527,6 @@
     {
       "i": "Q:KOYN",
       "n": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:KPDD",
-      "n": "KraneShares 2x Long PDD Daily ETF"
     },
     {
       "i": "Q:KPLT",
@@ -47739,10 +47683,6 @@
     {
       "i": "Q:LARK",
       "n": "Landmark Bancorp Inc."
-    },
-    {
-      "i": "Q:LASE",
-      "n": "Laser Photonics Corporation"
     },
     {
       "i": "Q:LASR",
@@ -49253,10 +49193,6 @@
       "n": "Forge Nano Holdings Inc."
     },
     {
-      "i": "Q:NATH",
-      "n": "Nathan's Famous, Inc."
-    },
-    {
       "i": "Q:NATO",
       "n": "Themes Transatlantic Defense ETF"
     },
@@ -50522,7 +50458,7 @@
     },
     {
       "i": "Q:PARA",
-      "n": "Banzai International, Inc. - Class A Common Stock"
+      "n": "Parabolic Technologies, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:PARK",
@@ -53251,10 +53187,6 @@
     {
       "i": "Q:SNDX",
       "n": "Syndax Pharmaceuticals, Inc."
-    },
-    {
-      "i": "Q:SNES",
-      "n": "SenesTech, Inc."
     },
     {
       "i": "Q:SNEX",
@@ -56275,6 +56207,10 @@
     {
       "i": "Q:YSAU",
       "n": "Y'all Street Physical Gold ETF"
+    },
+    {
+      "i": "Q:YSKH",
+      "n": "YieldMax SKHY Option Income Strategy ETF"
     },
     {
       "i": "Q:YSPY",
