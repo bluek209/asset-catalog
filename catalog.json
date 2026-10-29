@@ -31137,6 +31137,10 @@
       "n": "Innovator Emerging Markets Power Buffer ETF July"
     },
     {
+      "i": "P:ELCF",
+      "n": "Eventide Large Cap Focus ETF"
+    },
+    {
       "i": "P:ELCV",
       "n": "Strategy Shares Eventide High Dividend ETF"
     },
@@ -31343,6 +31347,10 @@
     {
       "i": "P:ETCO",
       "n": "Grayscale Ethereum High Income ETF"
+    },
+    {
+      "i": "P:ETDG",
+      "n": "Eventide Dividend Growth ETF"
     },
     {
       "i": "P:ETFT",
@@ -44157,6 +44165,10 @@
       "n": "First Breach Inc."
     },
     {
+      "i": "Q:FBEQ",
+      "n": "Franklin US Equity Bitcoin Drip Index ETF"
+    },
+    {
       "i": "Q:FBGL",
       "n": "FBS Global Limited - Ordinary Shares"
     },
@@ -44463,6 +44475,10 @@
     {
       "i": "Q:FIBK",
       "n": "First Interstate BancSystem, Inc."
+    },
+    {
+      "i": "Q:FIBT",
+      "n": "Franklin US Innovation Bitcoin DRIP Index ETF"
     },
     {
       "i": "Q:FICS",
@@ -45103,6 +45119,10 @@
     {
       "i": "Q:GAVA",
       "n": "Grayscale Avalanche Staking ETF"
+    },
+    {
+      "i": "Q:GBC",
+      "n": "Georgia Banking Company, Inc."
     },
     {
       "i": "Q:GBDC",
@@ -49174,7 +49194,7 @@
     },
     {
       "i": "Q:NAVI",
-      "n": "Navient Corporation"
+      "n": "Navient Holdings, Inc."
     },
     {
       "i": "Q:NAVN",
@@ -53014,7 +53034,7 @@
     },
     {
       "i": "Q:SLMT",
-      "n": "Brera Holdings PLC - Class B Ordinary Shares"
+      "n": "Solmate Infrastructure Public Limited Company - Class B Ordinary Shares"
     },
     {
       "i": "Q:SLN",
