@@ -2081,10 +2081,6 @@
       "n": "소프트센"
     },
     {
-      "i": "KQ:032685",
-      "n": "소프트센우"
-    },
-    {
       "i": "KQ:032750",
       "n": "삼진"
     },
@@ -39169,10 +39165,6 @@
       "n": "Leverage Shares 2X Long ADBE Daily ETF"
     },
     {
-      "i": "Q:ADBT",
-      "n": "Advasa Holdings, Inc."
-    },
-    {
       "i": "Q:ADEA",
       "n": "Adeia Inc."
     },
@@ -39547,10 +39539,6 @@
     {
       "i": "Q:AKAM",
       "n": "Akamai Technologies, Inc."
-    },
-    {
-      "i": "Q:AKBA",
-      "n": "Akebia Therapeutics, Inc."
     },
     {
       "i": "Q:AKTS",
@@ -47693,10 +47681,6 @@
       "n": "Laureate Education, Inc."
     },
     {
-      "i": "Q:LAWR",
-      "n": "Robot Consulting Co., Ltd. - ADS"
-    },
-    {
       "i": "Q:LBGJ",
       "n": "Li Bang International Corporation Inc. - Class A Ordinary Shares"
     },
@@ -48015,10 +47999,6 @@
     {
       "i": "Q:LMTL",
       "n": "Direxion Daily LMT Bull 2X ETF"
-    },
-    {
-      "i": "Q:LNAI",
-      "n": "Lunai Bioworks Inc."
     },
     {
       "i": "Q:LNKS",
@@ -52959,6 +52939,10 @@
     {
       "i": "Q:SKHY",
       "n": "SK hynix Inc. - American Depositary Shares"
+    },
+    {
+      "i": "Q:SKIN",
+      "n": "SkinHealth Systems Inc. - Class A Common Stock"
     },
     {
       "i": "Q:SKRE",
