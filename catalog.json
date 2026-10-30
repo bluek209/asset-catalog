@@ -1329,6 +1329,10 @@
       "n": "동진쎄미켐"
     },
     {
+      "i": "KQ:0053F0",
+      "n": "티앤이코리아"
+    },
+    {
       "i": "KQ:0054V0",
       "n": "엔에이치스팩32호"
     },
@@ -13881,10 +13885,6 @@
       "n": "KODEX 미국달러선물인버스"
     },
     {
-      "i": "KS:261920",
-      "n": "ACE MSCI필리핀(합성)"
-    },
-    {
       "i": "KS:264900",
       "n": "크라운제과"
     },
@@ -14127,10 +14127,6 @@
     {
       "i": "KS:279570",
       "n": "케이뱅크"
-    },
-    {
-      "i": "KS:280320",
-      "n": "ACE 미국IT인터넷(합성 H)"
     },
     {
       "i": "KS:280360",
@@ -16125,10 +16121,6 @@
       "n": "ACE 미국빅테크TOP7 Plus레버리지(합성)"
     },
     {
-      "i": "KS:465620",
-      "n": "ACE 미국빅테크TOP7 Plus인버스(합성)"
-    },
-    {
       "i": "KS:465660",
       "n": "TIGER 일본반도체FACTSET"
     },
@@ -16939,14 +16931,6 @@
     {
       "i": "KS:499790",
       "n": "GS피앤엘"
-    },
-    {
-      "i": "KS:500023",
-      "n": "신한 콩 선물 ETN(H)"
-    },
-    {
-      "i": "KS:500024",
-      "n": "신한 인버스 콩 선물 ETN(H)"
     },
     {
       "i": "KS:500029",
@@ -21495,10 +21479,6 @@
     {
       "i": "N:EIC",
       "n": "Eagle Point Income Company Common Shares of Beneficial Interest"
-    },
-    {
-      "i": "N:EICA",
-      "n": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026"
     },
     {
       "i": "N:EIG",
@@ -30013,10 +29993,6 @@
       "n": "Billionaires Club ETF"
     },
     {
-      "i": "P:CMDT",
-      "n": "PIMCO Commodity Strategy Active Exchange-Traded Fund"
-    },
-    {
       "i": "P:CMDY",
       "n": "iShares Bloomberg Roll Select Commodity Strategy ETF"
     },
@@ -31195,10 +31171,6 @@
     {
       "i": "P:EMMF",
       "n": "WisdomTree Emerging Markets Multifactor Fund"
-    },
-    {
-      "i": "P:EMNT",
-      "n": "PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund"
     },
     {
       "i": "P:EMOP",
@@ -34318,7 +34290,7 @@
     },
     {
       "i": "P:LONZ",
-      "n": "PIMCO Senior Loan Active Exchange-Traded Fund"
+      "n": "PIMCO Senior Loan and Short-Term Active ETF"
     },
     {
       "i": "P:LOPP",
@@ -40533,6 +40505,10 @@
       "n": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:AZR",
+      "n": "Azora Therapeutics, Inc."
+    },
+    {
       "i": "Q:AZTA",
       "n": "Azenta, Inc."
     },
@@ -41371,6 +41347,10 @@
     {
       "i": "Q:BTMD",
       "n": "Biote Corp. - Class A common stock"
+    },
+    {
+      "i": "Q:BTOC",
+      "n": "Armlogi Holding Corp."
     },
     {
       "i": "Q:BTQ",
@@ -43059,6 +43039,10 @@
     {
       "i": "Q:DFGX",
       "n": "Dimensional International Core Fixed Income ETF"
+    },
+    {
+      "i": "Q:DFNS",
+      "n": "T3 Defense Inc."
     },
     {
       "i": "Q:DFSC",
@@ -45155,6 +45139,10 @@
     {
       "i": "Q:GCT",
       "n": "GigaCloud Technology Inc - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:GCTK",
+      "n": "GlucoTrack, Inc."
     },
     {
       "i": "Q:GDC",
@@ -48019,6 +48007,10 @@
     {
       "i": "Q:LMTL",
       "n": "Direxion Daily LMT Bull 2X ETF"
+    },
+    {
+      "i": "Q:LNAI",
+      "n": "Lunai Bioworks Inc."
     },
     {
       "i": "Q:LNKS",
@@ -56139,6 +56131,10 @@
     {
       "i": "Q:YHGJ",
       "n": "Yunhong Green CTI Ltd."
+    },
+    {
+      "i": "Q:YHNA",
+      "n": "YHN Acquisition I Limited - Ordinary Shares"
     },
     {
       "i": "Q:YI",
