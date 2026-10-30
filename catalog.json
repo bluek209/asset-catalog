@@ -40177,6 +40177,10 @@
       "n": "Academy Sports and Outdoors, Inc."
     },
     {
+      "i": "Q:ASPE",
+      "n": "Aspen Neuroscience, Inc."
+    },
+    {
       "i": "Q:ASPI",
       "n": "ASP Isotopes Inc."
     },
@@ -40623,6 +40627,10 @@
     {
       "i": "Q:BBSI",
       "n": "Barrett Business Services, Inc."
+    },
+    {
+      "i": "Q:BBTX",
+      "n": "Bambusa Therapeutics, Inc."
     },
     {
       "i": "Q:BBUL",
@@ -43433,10 +43441,6 @@
       "n": "Dyne Therapeutics, Inc."
     },
     {
-      "i": "Q:DYNC",
-      "n": "Dynamix Corporation - Class A Ordinary Share"
-    },
-    {
       "i": "Q:DYOR",
       "n": "Insight Digital Partners II - Class A Ordinary Shares"
     },
@@ -45139,10 +45143,6 @@
     {
       "i": "Q:GCT",
       "n": "GigaCloud Technology Inc - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:GCTK",
-      "n": "GlucoTrack, Inc."
     },
     {
       "i": "Q:GDC",
@@ -48009,10 +48009,6 @@
       "n": "Direxion Daily LMT Bull 2X ETF"
     },
     {
-      "i": "Q:LNAI",
-      "n": "Lunai Bioworks Inc."
-    },
-    {
       "i": "Q:LNKS",
       "n": "Linkers Industries Limited - Class A Ordinary Shares"
     },
@@ -48539,6 +48535,10 @@
     {
       "i": "Q:META",
       "n": "Meta Platforms, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:METAM",
+      "n": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock"
     },
     {
       "i": "Q:METC",
@@ -49535,6 +49535,10 @@
     {
       "i": "Q:NOMA",
       "n": "NOMADAR Corp. - Class A Common Stock"
+    },
+    {
+      "i": "Q:NORD",
+      "n": "Nordicus Partners Corporation"
     },
     {
       "i": "Q:NOVT",
@@ -56131,10 +56135,6 @@
     {
       "i": "Q:YHGJ",
       "n": "Yunhong Green CTI Ltd."
-    },
-    {
-      "i": "Q:YHNA",
-      "n": "YHN Acquisition I Limited - Ordinary Shares"
     },
     {
       "i": "Q:YI",
