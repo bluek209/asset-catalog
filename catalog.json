@@ -20229,10 +20229,6 @@
       "n": "Community Financial System, Inc. Common Stock"
     },
     {
-      "i": "N:CBZ",
-      "n": "CBIZ, Inc. Common Stock"
-    },
-    {
       "i": "N:CC",
       "n": "Chemours Company (The) Common Stock"
     },
@@ -23781,10 +23777,6 @@
       "n": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)"
     },
     {
-      "i": "N:KVUE",
-      "n": "Kenvue Inc. Common Stock"
-    },
-    {
       "i": "N:KVYO",
       "n": "Klaviyo, Inc. Series A Common Stock"
     },
@@ -24039,14 +24031,6 @@
     {
       "i": "N:LXFR",
       "n": "Luxfer Holdings PLC Ordinary Shares"
-    },
-    {
-      "i": "N:LXP",
-      "n": "LXP Industrial Trust Common Stock (Maryland REIT)"
-    },
-    {
-      "i": "N:LXP-PC",
-      "n": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock"
     },
     {
       "i": "N:LXU",
@@ -25313,6 +25297,10 @@
       "n": "Ooma, Inc. Common Stock"
     },
     {
+      "i": "N:OPAY",
+      "n": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares"
+    },
+    {
       "i": "N:OPFI",
       "n": "OppFi Inc. Class A Common Stock"
     },
@@ -26119,10 +26107,6 @@
     {
       "i": "N:RAL",
       "n": "Ralliant Corporation Common Stock"
-    },
-    {
-      "i": "N:RAMP",
-      "n": "LiveRamp Holdings, Inc. Common Stock"
     },
     {
       "i": "N:RBA",
@@ -28777,6 +28761,10 @@
       "n": "Innovator Index Autocallable Income Strategy ETF"
     },
     {
+      "i": "P:ACJL",
+      "n": "Buffered Bulldog ETF by C.J. Lawrence, a division of Apollon"
+    },
+    {
       "i": "P:ACKY",
       "n": "VistaShares Target 15 ACKtivist Distribution ETF"
     },
@@ -28907,6 +28895,10 @@
     {
       "i": "P:AIBD",
       "n": "Direxion Daily AI and Big Data Bear 2X ETF"
+    },
+    {
+      "i": "P:AIBE",
+      "n": "FINQ CORE U.S. Large Cap AI-Managed Equity ETF"
     },
     {
       "i": "P:AIBF",
@@ -30014,7 +30006,7 @@
     },
     {
       "i": "P:CNRG",
-      "n": "State Street SPDR S&P Kensho Clean Power ETF"
+      "n": "State Street SPDR S&P Kensho Grid Innovation ETF"
     },
     {
       "i": "P:CNXT",
@@ -31062,7 +31054,7 @@
     },
     {
       "i": "P:EFIV",
-      "n": "State Street SPDR S&P 500 ESG ETF"
+      "n": "State Street SPDR S&P 500 Scored and Screened ETF"
     },
     {
       "i": "P:EFO",
@@ -32134,7 +32126,7 @@
     },
     {
       "i": "P:FTEC",
-      "n": "Fidelity MSCI Information Technology Index ETF"
+      "n": "ETF"
     },
     {
       "i": "P:FTHB",
@@ -33582,7 +33574,7 @@
     },
     {
       "i": "P:IWD",
-      "n": "iShares Russell 1000 Value ETF"
+      "n": "iShares Russell 1000 Value Index Fund"
     },
     {
       "i": "P:IWF",
@@ -33694,7 +33686,7 @@
     },
     {
       "i": "P:IYW",
-      "n": "iShares U.S. Technology ETF"
+      "n": "iShares Dow Jones U.S. Technology Sector Index Fund"
     },
     {
       "i": "P:IYY",
@@ -35301,10 +35293,6 @@
       "n": "VIRTUS SEIX AAA Private Credit CLO ETF"
     },
     {
-      "i": "P:PCR",
-      "n": "Simplify VettaFi Private Credit Strategy ETF"
-    },
-    {
       "i": "P:PCSG",
       "n": "Polen 5Perspectives Small-Mid Growth ETF"
     },
@@ -36846,7 +36834,7 @@
     },
     {
       "i": "P:SPIP",
-      "n": "State Street SPDR Portfolio TIPS ETF"
+      "n": "State Street SPDR Portfolio TIPS Index ETF"
     },
     {
       "i": "P:SPLV",
@@ -36878,7 +36866,7 @@
     },
     {
       "i": "P:SPTB",
-      "n": "State Street SPDR Portfolio Treasury ETF"
+      "n": "State Street SPDR Portfolio Treasury Index ETF"
     },
     {
       "i": "P:SPTE",
@@ -36886,11 +36874,11 @@
     },
     {
       "i": "P:SPTI",
-      "n": "State Street SPDR Portfolio Intermediate Term Treasury ETF"
+      "n": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
     },
     {
       "i": "P:SPTL",
-      "n": "State Street SPDR Portfolio Long Term Treasury ETF"
+      "n": "State Street SPDR Portfolio Long Term Treasury Index ETF"
     },
     {
       "i": "P:SPTM",
@@ -36898,11 +36886,11 @@
     },
     {
       "i": "P:SPTS",
-      "n": "State Street SPDR Portfolio Short Term Treasury ETF"
+      "n": "State Street SPDR Portfolio Short Term Treasury Index ETF"
     },
     {
       "i": "P:SPTU",
-      "n": "State Street SPDR Portfolio Ultra Short T-Bill ETF"
+      "n": "State Street SPDR Portfolio Ultra Short T-Bill Index ETF"
     },
     {
       "i": "P:SPUC",
@@ -37251,10 +37239,6 @@
     {
       "i": "P:TEQI",
       "n": "T. Rowe Price Equity Income ETF"
-    },
-    {
-      "i": "P:TESL",
-      "n": "Simplify Volt TSLA Revolution ETF"
     },
     {
       "i": "P:TEXU",
@@ -38234,15 +38218,15 @@
     },
     {
       "i": "P:WBIF",
-      "n": "WBI BullBear Value 3000 ETF"
+      "n": "WBI Fundamental Factors Hedged ETF"
     },
     {
       "i": "P:WBIG",
-      "n": "WBI BullBear Yield 3000 ETF"
+      "n": "WBI Income Generators Hedged ETF"
     },
     {
       "i": "P:WBIL",
-      "n": "WBI BullBear Quality 3000 ETF"
+      "n": "WBI Trend Leaders Hedged ETF"
     },
     {
       "i": "P:WBMO",
@@ -39583,6 +39567,10 @@
     {
       "i": "Q:ALIL",
       "n": "Argent Focused Small Cap ETF"
+    },
+    {
+      "i": "Q:ALIS",
+      "n": "Calisa Acquisition Corp - Ordinary shares"
     },
     {
       "i": "Q:ALKS",
@@ -41605,6 +41593,10 @@
       "n": "Pathward Financial, Inc."
     },
     {
+      "i": "Q:CASK",
+      "n": "Sempreon, Inc."
+    },
+    {
       "i": "Q:CASS",
       "n": "Cass Information Systems, Inc"
     },
@@ -43109,16 +43101,16 @@
       "n": "Digi Power X Inc. - Common Subordinate Voting Shares"
     },
     {
+      "i": "Q:DH",
+      "n": "Definitive Healthcare Corp. - Class A Common Stock"
+    },
+    {
       "i": "Q:DHC",
       "n": "Diversified Healthcare Trust - Common Shares of Beneficial Interest"
     },
     {
       "i": "Q:DIBS",
       "n": "1stdibs.com, Inc."
-    },
-    {
-      "i": "Q:DINE",
-      "n": "Simplify Tax Aware Diversified Income Strategy ETF"
     },
     {
       "i": "Q:DIOD",
@@ -45357,6 +45349,10 @@
       "n": "ETRACS Gold Shares Covered Call ETNs due February 2, 2033"
     },
     {
+      "i": "Q:GLE",
+      "n": "Global Engine Group Holding Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:GLIBA",
       "n": "Liberty Capital Corporation - Series A GCI Group Common Stock"
     },
@@ -46825,10 +46821,6 @@
       "n": "GraniteShares 2x Long INTC Daily ETF"
     },
     {
-      "i": "Q:INV",
-      "n": "Innventure, Inc."
-    },
-    {
       "i": "Q:INVA",
       "n": "Innoviva, Inc."
     },
@@ -47138,7 +47130,7 @@
     },
     {
       "i": "Q:JBDI",
-      "n": "JBDI Holdings Limited - Ordinary Shares"
+      "n": "JBDI Holdings Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:JBHT",
@@ -47499,6 +47491,10 @@
     {
       "i": "Q:KMTS",
       "n": "Kestra Medical Technologies, Ltd."
+    },
+    {
+      "i": "Q:KNDI",
+      "n": "Kandi Technologies Group, Inc. - Ordinary Shares"
     },
     {
       "i": "Q:KNGZ",
@@ -48097,10 +48093,6 @@
       "n": "LightPath Technologies, Inc. - Class A Common Stock"
     },
     {
-      "i": "Q:LQ",
-      "n": "Simplify Tax Aware Alternatives ETF"
-    },
-    {
       "i": "Q:LQDA",
       "n": "Liquidia Corporation"
     },
@@ -48633,10 +48625,6 @@
       "n": "Leverage Shares MANGOS ETF"
     },
     {
-      "i": "Q:MGPI",
-      "n": "MGP Ingredients, Inc."
-    },
-    {
       "i": "Q:MGRC",
       "n": "McGrath RentCorp"
     },
@@ -48675,10 +48663,6 @@
     {
       "i": "Q:MIRM",
       "n": "Mirum Pharmaceuticals, Inc."
-    },
-    {
-      "i": "Q:MIST",
-      "n": "Milestone Pharmaceuticals Inc. - Common Shares"
     },
     {
       "i": "Q:MITK",
@@ -49179,6 +49163,10 @@
     {
       "i": "Q:NANO",
       "n": "Forge Nano Holdings Inc."
+    },
+    {
+      "i": "Q:NARA",
+      "n": "Narragansett Bancorp, Inc."
     },
     {
       "i": "Q:NATO",
@@ -51057,10 +51045,6 @@
       "n": "Pilgrim's Pride Corporation"
     },
     {
-      "i": "Q:PPCB",
-      "n": "Propanc Biopharma, Inc."
-    },
-    {
       "i": "Q:PPH",
       "n": "VanEck Pharmaceutical ETF"
     },
@@ -51718,7 +51702,7 @@
     },
     {
       "i": "Q:QTEC",
-      "n": "First Trust NASDAQ-100-Technology Sector Index Fund"
+      "n": "First Trust NASDAQ-100- Technology Index Fund"
     },
     {
       "i": "Q:QTEX",
@@ -59461,10 +59445,6 @@
       "n": "LifeX Durable Income ETF"
     },
     {
-      "i": "Z:LGHT",
-      "n": "Langar Global HealthTech ETF"
-    },
-    {
       "i": "Z:LIAE",
       "n": "LifeX 2050 Inflation-Protected Longevity Income ETF"
     },
@@ -60155,10 +60135,6 @@
     {
       "i": "Z:NXPG",
       "n": "Leverage Shares 2X Long NXPI Daily ETF"
-    },
-    {
-      "i": "Z:NXTI",
-      "n": "Simplify Next Intangible Core Index ETF"
     },
     {
       "i": "Z:NYNY",
