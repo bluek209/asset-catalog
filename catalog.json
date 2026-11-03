@@ -27489,6 +27489,10 @@
       "n": "Tenet Healthcare Corporation Common Stock"
     },
     {
+      "i": "N:THCR",
+      "n": "THOR Conservative Risk Dynamic ETF"
+    },
+    {
       "i": "N:THG",
       "n": "Hanover Insurance Group Inc"
     },
@@ -38161,6 +38165,10 @@
       "n": "Vanguard Morningstar Value ETF"
     },
     {
+      "i": "P:VTVX",
+      "n": "XFUNDS Value Income ETF"
+    },
+    {
       "i": "P:VUG",
       "n": "Vanguard Morningstar Growth ETF"
     },
@@ -46037,10 +46045,6 @@
       "n": "Hanover Bancorp, Inc."
     },
     {
-      "i": "Q:HODO",
-      "n": "House of Doge Inc."
-    },
-    {
       "i": "Q:HODU",
       "n": "Direxion Daily HOOD Bull 2X ETF"
     },
@@ -46727,10 +46731,6 @@
     {
       "i": "Q:INDQ",
       "n": "Pacer ActiveAlpha India Quality ETF"
-    },
-    {
-      "i": "Q:INDV",
-      "n": "Indivior Pharmaceuticals, Inc."
     },
     {
       "i": "Q:INDY",
@@ -48715,10 +48715,6 @@
     {
       "i": "Q:MLCO",
       "n": "Melco Resorts & Entertainment Limited - American Depositary Shares"
-    },
-    {
-      "i": "Q:MLEC",
-      "n": "Moolec Science SA - Ordinary Shares"
     },
     {
       "i": "Q:MLGO",
@@ -53634,7 +53630,7 @@
     },
     {
       "i": "Q:SUPN",
-      "n": "Supernus Pharmaceuticals, Inc."
+      "n": "Supernus, Inc."
     },
     {
       "i": "Q:SUPP",
