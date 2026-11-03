@@ -7185,6 +7185,10 @@
       "n": "씨엔알리서치"
     },
     {
+      "i": "KQ:359410",
+      "n": "영광"
+    },
+    {
       "i": "KQ:360070",
       "n": "탑머티리얼"
     },
@@ -8135,10 +8139,6 @@
     {
       "i": "KQ:475230",
       "n": "엔알비"
-    },
-    {
-      "i": "KQ:475240",
-      "n": "하나32호스팩"
     },
     {
       "i": "KQ:475250",
@@ -41557,6 +41557,10 @@
       "n": "Capricor Therapeutics, Inc."
     },
     {
+      "i": "Q:CAPS",
+      "n": "Capstone Holding Corp."
+    },
+    {
       "i": "Q:CAQ",
       "n": "Cambridge Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -43755,10 +43759,6 @@
     {
       "i": "Q:ENLT",
       "n": "Enlight Renewable Energy Ltd. - Ordinary Shares"
-    },
-    {
-      "i": "Q:ENLV",
-      "n": "Enlivex Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:ENPH",
@@ -46035,6 +46035,10 @@
     {
       "i": "Q:HNVR",
       "n": "Hanover Bancorp, Inc."
+    },
+    {
+      "i": "Q:HODO",
+      "n": "House of Doge Inc."
     },
     {
       "i": "Q:HODU",
@@ -49489,10 +49493,6 @@
       "n": "NMP Acquisition Corp. - Class A Ordinary Shares"
     },
     {
-      "i": "Q:NMRA",
-      "n": "Neumora Therapeutics, Inc."
-    },
-    {
       "i": "Q:NMRK",
       "n": "Newmark Group, Inc. - Class A Common Stock"
     },
@@ -50159,10 +50159,6 @@
     {
       "i": "Q:OPK",
       "n": "Opko Health, Inc."
-    },
-    {
-      "i": "Q:OPNW",
-      "n": "OpenWorld, Inc."
     },
     {
       "i": "Q:OPPJ",
@@ -56151,6 +56147,10 @@
     {
       "i": "Q:YMAT",
       "n": "J-Star Holding Co., Ltd. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:YMT",
+      "n": "Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares"
     },
     {
       "i": "Q:YNOT",
