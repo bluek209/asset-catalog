@@ -385,10 +385,6 @@
       "n": "New Concept Energy, Inc Common Stock"
     },
     {
-      "i": "A:GCDT",
-      "n": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares"
-    },
-    {
       "i": "A:GENC",
       "n": "Gencor Industries, Inc. Common Stock"
     },
@@ -25902,7 +25898,7 @@
     },
     {
       "i": "N:PRM",
-      "n": "Perimeter Solutions, SA Common Stock"
+      "n": "Perimeter Group Inc. Common Stock"
     },
     {
       "i": "N:PRMB",
@@ -35877,8 +35873,16 @@
       "n": "YieldMax RDDT Option Income Strategy ETF"
     },
     {
+      "i": "P:RECD",
+      "n": "Columbia RECS Laddered Deep Buffer ETF"
+    },
+    {
       "i": "P:RECI",
       "n": "Columbia Research Enhanced Core Premium Income ETF"
+    },
+    {
+      "i": "P:RECM",
+      "n": "Columbia RECS Laddered Moderate Buffer ETF"
     },
     {
       "i": "P:RECS",
@@ -46761,6 +46765,10 @@
       "n": "INNIO N.V. - Ordinary Shares"
     },
     {
+      "i": "Q:INK",
+      "n": "AB Equity Premium Income ETF"
+    },
+    {
       "i": "Q:INKT",
       "n": "MiNK Therapeutics, Inc."
     },
@@ -56493,10 +56501,6 @@
       "n": "Anfield Universal Fixed Income ETF"
     },
     {
-      "i": "Z:AFRU",
-      "n": "T-REX 2X Long AFRM Daily Target ETF"
-    },
-    {
       "i": "Z:AIOO",
       "n": "AllianzIM U.S. Equity Buffer100 Protection ETF"
     },
@@ -56743,10 +56747,6 @@
     {
       "i": "Z:ASTY",
       "n": "Defiance Daily Target 2X Long ASTS ETF"
-    },
-    {
-      "i": "Z:ASUP",
-      "n": "T-REX 2X Long ASTS Daily Target ETF"
     },
     {
       "i": "Z:AT",
@@ -61029,10 +61029,6 @@
       "n": "FT Vest U.S. Small Cap Moderate Buffer ETF - August"
     },
     {
-      "i": "Z:SBTU",
-      "n": "T-REX 2X Long SBET Daily Target ETF"
-    },
-    {
       "i": "Z:SCAU",
       "n": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series"
     },
@@ -61155,6 +61151,10 @@
     {
       "i": "Z:SITX",
       "n": "Tradr 2X Long SITM Daily ETF"
+    },
+    {
+      "i": "Z:SIX",
+      "n": "Global X Magnificent Six ETF"
     },
     {
       "i": "Z:SIXD",
@@ -61567,10 +61567,6 @@
     {
       "i": "Z:TETH",
       "n": "21Shares Ethereum ETF"
-    },
-    {
-      "i": "Z:TEUP",
-      "n": "T-REX 2X Long TE Daily Target ETF"
     },
     {
       "i": "Z:TILT",
