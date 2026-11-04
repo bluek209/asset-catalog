@@ -1645,6 +1645,10 @@
       "n": "성광벤드"
     },
     {
+      "i": "KQ:0147B0",
+      "n": "래블업"
+    },
+    {
       "i": "KQ:014940",
       "n": "오리엔탈정공"
     },
@@ -6662,7 +6666,7 @@
     },
     {
       "i": "KQ:304840",
-      "n": "피플바이오"
+      "n": "타임X AI"
     },
     {
       "i": "KQ:305090",
@@ -11929,6 +11933,10 @@
       "n": "TIGER 글로벌MLCC&기판"
     },
     {
+      "i": "KS:0255G0",
+      "n": "마이티 삼성그룹테크TOP3&하드웨어"
+    },
+    {
       "i": "KS:025620",
       "n": "차AI헬스케어"
     },
@@ -11955,6 +11963,10 @@
     {
       "i": "KS:0258B0",
       "n": "1Q 미국AI테크플랫폼TOP10"
+    },
+    {
+      "i": "KS:0259R0",
+      "n": "ACE 글로벌메모리반도체TOP3채권혼합액티브"
     },
     {
       "i": "KS:026890",
@@ -40513,6 +40525,10 @@
       "n": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:AZIO",
+      "n": "Azio AI Holdings, Inc."
+    },
+    {
       "i": "Q:AZR",
       "n": "Azora Therapeutics, Inc."
     },
@@ -45745,10 +45761,6 @@
       "n": "Global X Dorsey Wright Thematic ETF"
     },
     {
-      "i": "Q:GYGY",
-      "n": "Game Your Game, Inc."
-    },
-    {
       "i": "Q:GYRE",
       "n": "Gyre Therapeutics, Inc."
     },
@@ -48293,10 +48305,6 @@
       "n": "MARA Holdings, Inc."
     },
     {
-      "i": "Q:MASK",
-      "n": "3 E Network Technology Group Ltd - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MASS",
       "n": "908 Devices Inc."
     },
@@ -50429,10 +50437,6 @@
       "n": "Palo Alto Networks, Inc."
     },
     {
-      "i": "Q:PARA",
-      "n": "Parabolic Technologies, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:PARK",
       "n": "Park Dental Partners, Inc."
     },
@@ -50995,6 +50999,10 @@
     {
       "i": "Q:POET",
       "n": "POET Technologies Inc. - Common Shares"
+    },
+    {
+      "i": "Q:POLA",
+      "n": "Polar Power, Inc."
     },
     {
       "i": "Q:POLE",
@@ -52645,10 +52653,6 @@
       "n": "SolarEdge Technologies, Inc."
     },
     {
-      "i": "Q:SEED",
-      "n": "Origin Agritech Limited - Ordinary Shares"
-    },
-    {
       "i": "Q:SEEM",
       "n": "SEI Select Emerging Markets Equity ETF"
     },
@@ -53235,6 +53239,10 @@
     {
       "i": "Q:SOLZ",
       "n": "Solana ETF"
+    },
+    {
+      "i": "Q:SONM",
+      "n": "DNA X, Inc."
     },
     {
       "i": "Q:SONO",
