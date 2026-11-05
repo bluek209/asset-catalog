@@ -3796,6 +3796,11 @@
       "k": "매직"
     },
     {
+      "e": "Magma Finance",
+      "i": "BT:MAGMA-KRW",
+      "k": "마그마파이낸스"
+    },
+    {
       "e": "Decentraland",
       "i": "BT:MANA-KRW",
       "k": "디센트럴랜드"
@@ -5189,6 +5194,11 @@
       "e": "Cap",
       "i": "UP:CAP-KRW",
       "k": "캡"
+    },
+    {
+      "e": "Collector Crypt",
+      "i": "UP:CARDS-KRW",
+      "k": "콜렉터크립트"
     },
     {
       "e": "CARV",

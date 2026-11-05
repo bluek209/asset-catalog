@@ -19609,6 +19609,10 @@
       "n": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B"
     },
     {
+      "i": "N:BFH-PC",
+      "n": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C"
+    },
+    {
       "i": "N:BFLY",
       "n": "Butterfly Network, Inc. Class A Common Stock"
     },
@@ -20286,7 +20290,7 @@
     },
     {
       "i": "N:CDLR",
-      "n": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)"
+      "n": "Cadeler plc Ordinary Shares"
     },
     {
       "i": "N:CDP",
@@ -22923,10 +22927,6 @@
     {
       "i": "N:HLN",
       "n": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)"
-    },
-    {
-      "i": "N:HLT",
-      "n": "Hilton Worldwide Holdings Inc. Common Stock"
     },
     {
       "i": "N:HMC",
@@ -29317,6 +29317,10 @@
       "n": "EA Bridgeway Blue Chip ETF"
     },
     {
+      "i": "P:BBLX",
+      "n": "BondBloxx Core Plus ETF"
+    },
+    {
       "i": "P:BBP",
       "n": "Virtus Biotech ETF"
     },
@@ -31955,6 +31959,10 @@
     {
       "i": "P:FMF",
       "n": "First Trust Managed Futures Strategy Fund"
+    },
+    {
+      "i": "P:FMIG",
+      "n": "FMI Global Equity ETF"
     },
     {
       "i": "P:FMKT",
@@ -39009,6 +39017,10 @@
       "n": "ProFrac Holding Corp. - Class A Common Stock"
     },
     {
+      "i": "Q:ACEM",
+      "n": "American Century Emerging Markets Insights ETF"
+    },
+    {
       "i": "Q:ACEP",
       "n": "ARS Core Equity Portfolio ETF"
     },
@@ -39327,6 +39339,10 @@
     {
       "i": "Q:AGIX",
       "n": "KraneShares Public-Private AI & Technology ETF"
+    },
+    {
+      "i": "Q:AGLT",
+      "n": "Agility Robotics, Inc. - Ordinary Shares"
     },
     {
       "i": "Q:AGMB",
@@ -41777,10 +41793,6 @@
       "n": "Carbon Collective Climate Solutions U.S. Equity ETF"
     },
     {
-      "i": "Q:CCXI",
-      "n": "Churchill Capital Corp XI - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:CD",
       "n": "Chaince Digital Holdings Inc. - American Ordinary Shares"
     },
@@ -43974,7 +43986,7 @@
     },
     {
       "i": "Q:EUDA",
-      "n": "Euda Health Holdings Limited - Ordinary Shares"
+      "n": "Euda Health Holdings Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:EUFN",
@@ -46013,6 +46025,10 @@
       "n": "Hongli Group Inc. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:HLT",
+      "n": "Hilton Worldwide Holdings Inc."
+    },
+    {
       "i": "Q:HLTH",
       "n": "Tema Healthcare AI ETF"
     },
@@ -46751,6 +46767,10 @@
     {
       "i": "Q:INIO",
       "n": "INNIO N.V. - Ordinary Shares"
+    },
+    {
+      "i": "Q:INJC",
+      "n": "Canary Staked INJ ETF"
     },
     {
       "i": "Q:INK",
@@ -56054,7 +56074,7 @@
     },
     {
       "i": "Q:XTER",
-      "n": "Karman Line Acquisition Corp. - Class A Ordinary Shares"
+      "n": "Xterax Corporation II - Class A Ordinary Shares"
     },
     {
       "i": "Q:XTIA",
@@ -57769,6 +57789,10 @@
       "n": "Dimensional International Small Cap ETF"
     },
     {
+      "i": "Z:DFIT",
+      "n": "Davidson Intermediate Taxable ETF"
+    },
+    {
       "i": "Z:DFNL",
       "n": "Davis Select Financial ETF"
     },
@@ -57839,6 +57863,10 @@
     {
       "i": "Z:DLAG",
       "n": "FT Vest U.S. Equity Dual Directional Buffer ETF - August"
+    },
+    {
+      "i": "Z:DLAY",
+      "n": "Tuttle Capital AI Bottleneck ETF"
     },
     {
       "i": "Z:DLFE",
