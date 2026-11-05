@@ -1857,6 +1857,10 @@
       "n": "티케이지애강"
     },
     {
+      "i": "KQ:0222E0",
+      "n": "아이엠스팩1호"
+    },
+    {
       "i": "KQ:023160",
       "n": "태광"
     },
@@ -8373,6 +8377,10 @@
       "n": "큐리오시스"
     },
     {
+      "i": "KQ:495910",
+      "n": "이에스티"
+    },
+    {
       "i": "KQ:496070",
       "n": "신한제16호스팩"
     },
@@ -9471,10 +9479,6 @@
     {
       "i": "KS:004090",
       "n": "한국석유"
-    },
-    {
-      "i": "KS:0040S0",
-      "n": "HANARO 글로벌피지컬AI액티브"
     },
     {
       "i": "KS:0040X0",
@@ -10611,10 +10615,6 @@
     {
       "i": "KS:011150",
       "n": "CJ씨푸드"
-    },
-    {
-      "i": "KS:011155",
-      "n": "CJ씨푸드1우"
     },
     {
       "i": "KS:011170",
@@ -39237,10 +39237,6 @@
       "n": "Aehr Test Systems"
     },
     {
-      "i": "Q:AEI",
-      "n": "Alset Inc."
-    },
-    {
       "i": "Q:AEIS",
       "n": "Advanced Energy Industries, Inc."
     },
@@ -40555,10 +40551,6 @@
     {
       "i": "Q:BACC",
       "n": "Blue Acquisition Corp. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:BAER",
-      "n": "Bridger Aerospace Group Holdings, Inc."
     },
     {
       "i": "Q:BAFE",
@@ -45389,10 +45381,6 @@
       "n": "Liberty Capital Corporation - Series C GCI Group Common Stock"
     },
     {
-      "i": "Q:GLND",
-      "n": "Greenland Energy Company"
-    },
-    {
       "i": "Q:GLNG",
       "n": "Golar LNG Limited - Common Shares"
     },
@@ -48079,10 +48067,6 @@
     {
       "i": "Q:LOPE",
       "n": "Grand Canyon Education, Inc."
-    },
-    {
-      "i": "Q:LOT",
-      "n": "Lotus Technology Inc. - American Depositary Shares"
     },
     {
       "i": "Q:LOTI",
@@ -52667,6 +52651,10 @@
     {
       "i": "Q:SEER",
       "n": "Seer, Inc. - Class A Common Stock"
+    },
+    {
+      "i": "Q:SEGG",
+      "n": "Sports Entertainment Gaming Global Corporation"
     },
     {
       "i": "Q:SEIC",
