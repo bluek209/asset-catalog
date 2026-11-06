@@ -37853,10 +37853,6 @@
       "n": "WisdomTree Bloomberg U.S. Dollar Bullish Fund"
     },
     {
-      "i": "P:USE",
-      "n": "USCF Energy Commodity Strategy Absolute Return Fund"
-    },
-    {
       "i": "P:USFE",
       "n": "First Eagle US Equity ETF"
     },
@@ -38335,10 +38331,6 @@
     {
       "i": "P:WSMD",
       "n": "Wasatch Small/Mid Cap ETF"
-    },
-    {
-      "i": "P:WTIB",
-      "n": "USCF Oil Plus Bitcoin Strategy Fund"
     },
     {
       "i": "P:WTID",
@@ -39567,10 +39559,6 @@
     {
       "i": "Q:ALCO",
       "n": "Alico, Inc."
-    },
-    {
-      "i": "Q:ALDF",
-      "n": "Aldel Financial II Inc. - Class A Ordinary Shares"
     },
     {
       "i": "Q:ALDX",
@@ -47795,6 +47783,10 @@
     {
       "i": "Q:LECO",
       "n": "Lincoln Electric Holdings, Inc. - Common Shares"
+    },
+    {
+      "i": "Q:LEDR",
+      "n": "Leader's Advantage Acquisition Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:LEDS",
@@ -61203,14 +61195,6 @@
     {
       "i": "Z:SK",
       "n": "Corgi SK hynix 2x Daily ETF"
-    },
-    {
-      "i": "Z:SKHA",
-      "n": "Tradr 2X Long SK hynix Daily ETF"
-    },
-    {
-      "i": "Z:SKHN",
-      "n": "Tradr 2X Short SK hynix Daily ETF"
     },
     {
       "i": "Z:SKHQ",
