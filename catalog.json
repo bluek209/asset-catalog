@@ -39569,6 +39569,10 @@
       "n": "Alico, Inc."
     },
     {
+      "i": "Q:ALDF",
+      "n": "Aldel Financial II Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:ALDX",
       "n": "Aldeyra Therapeutics, Inc."
     },
@@ -40867,10 +40871,6 @@
     {
       "i": "Q:BGM",
       "n": "BGM Group Ltd. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:BGMS",
-      "n": "Bio Green Med Solution, Inc."
     },
     {
       "i": "Q:BGRO",
@@ -45057,6 +45057,10 @@
       "n": "FVCBankcorp, Inc."
     },
     {
+      "i": "Q:FVN",
+      "n": "Future Vision II Acquisition Corporation - Ordinary Shares"
+    },
+    {
       "i": "Q:FWAC",
       "n": "Futurewave Acquisition Corporation - Ordinary Shares"
     },
@@ -48463,10 +48467,6 @@
     {
       "i": "Q:MCRI",
       "n": "Monarch Casino & Resort, Inc."
-    },
-    {
-      "i": "Q:MCTA",
-      "n": "Charming Medical Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:MDAI",
@@ -54927,6 +54927,10 @@
     {
       "i": "Q:USGG",
       "n": "Leverage Shares 2X Long USAR Daily ETF"
+    },
+    {
+      "i": "Q:USGO",
+      "n": "U.S. GoldMining Inc."
     },
     {
       "i": "Q:USIN",
