@@ -48461,6 +48461,10 @@
       "n": "Monarch Casino & Resort, Inc."
     },
     {
+      "i": "Q:MCTA",
+      "n": "Charming Medical Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MDAI",
       "n": "Spectral AI, Inc. - Class A Common Stock"
     },
@@ -52085,10 +52089,6 @@
       "n": "GraniteShares YieldBoost RGTI ETF"
     },
     {
-      "i": "Q:RIBB",
-      "n": "Ribbon Acquisition Corp - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:RICK",
       "n": "RCI Hospitality Holdings, Inc."
     },
@@ -55635,10 +55635,6 @@
     {
       "i": "Q:WIMA",
       "n": "WisdomTree International Adaptive Moving Average Fund"
-    },
-    {
-      "i": "Q:WIMI",
-      "n": "WiMi Hologram Cloud Inc. - Class B Ordinary Shares"
     },
     {
       "i": "Q:WINA",
