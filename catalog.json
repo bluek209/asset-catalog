@@ -19093,10 +19093,6 @@
       "n": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock"
     },
     {
-      "i": "N:ARI",
-      "n": "Apollo Commercial Real Estate Finance, Inc"
-    },
-    {
       "i": "N:ARIS",
       "n": "Aris Mining Corporation Common Shares"
     },
@@ -23123,6 +23119,10 @@
     {
       "i": "N:HY",
       "n": "Hyster-Yale, Inc. Class A common stock"
+    },
+    {
+      "i": "N:HYAC",
+      "n": "Haymaker Acquisition Corp V Class A Ordinary Shares"
     },
     {
       "i": "N:HYI",
@@ -32985,8 +32985,16 @@
       "n": "Mast HedgeIndex Managed Futures Strategy ETF"
     },
     {
+      "i": "P:HYB",
+      "n": "Lazard US High Yield ETF"
+    },
+    {
       "i": "P:HYFI",
       "n": "AB High Yield ETF"
+    },
+    {
+      "i": "P:HYFY",
+      "n": "Lazard Hybrid Financial Income ETF"
     },
     {
       "i": "P:HYNX",
@@ -34433,6 +34441,14 @@
       "n": "State Street SPDR S&P Leveraged Loan ETF"
     },
     {
+      "i": "P:LYR",
+      "n": "Lyrical U.S. Value Equity ETF"
+    },
+    {
+      "i": "P:LYRI",
+      "n": "Lyrical International Value Equity ETF"
+    },
+    {
       "i": "P:MADE",
       "n": "iShares U.S. Manufacturing ETF"
     },
@@ -34527,6 +34543,10 @@
     {
       "i": "P:MFEM",
       "n": "PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF"
+    },
+    {
+      "i": "P:MFIX",
+      "n": "Nomura Strategic Income ETF"
     },
     {
       "i": "P:MFSD",
@@ -36733,6 +36753,10 @@
       "n": "YieldMax SMCI Option Income Strategy ETF"
     },
     {
+      "i": "P:SMDC",
+      "n": "Nomura Small and Mid Cap ETF"
+    },
+    {
       "i": "P:SMDD",
       "n": "UltraPro Short MidCap400"
     },
@@ -38423,6 +38447,10 @@
     {
       "i": "P:XCOR",
       "n": "FundX ETF"
+    },
+    {
+      "i": "P:XDLR",
+      "n": "Lazard Non-Dollar Active Income ETF"
     },
     {
       "i": "P:XES",
@@ -41487,10 +41515,6 @@
     {
       "i": "Q:BWIN",
       "n": "The Baldwin Insurance Group, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:BWMN",
-      "n": "Bowman Consulting Group Ltd."
     },
     {
       "i": "Q:BXBL",
@@ -48485,10 +48509,6 @@
       "n": "Monarch Casino & Resort, Inc."
     },
     {
-      "i": "Q:MCTA",
-      "n": "Charming Medical Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MDAI",
       "n": "Spectral AI, Inc. - Class A Common Stock"
     },
@@ -52293,10 +52313,6 @@
       "n": "Roivant Sciences Ltd. - Common Shares"
     },
     {
-      "i": "Q:ROKU",
-      "n": "Roku, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:ROMA",
       "n": "Roma Green Finance Limited - Class A Ordinary Shares"
     },
@@ -54819,10 +54835,6 @@
     {
       "i": "Q:ULTA",
       "n": "Ulta Beauty, Inc."
-    },
-    {
-      "i": "Q:ULTI",
-      "n": "REX IncomeMax Option Strategy ETF"
     },
     {
       "i": "Q:ULVM",
@@ -61607,10 +61619,6 @@
     {
       "i": "Z:TJUN",
       "n": "FT Vest Emerging Markets Buffer ETF - June"
-    },
-    {
-      "i": "Z:TLDR",
-      "n": "The Laddered T-Bill ETF"
     },
     {
       "i": "Z:TLTP",
