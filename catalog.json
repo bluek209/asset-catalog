@@ -24025,6 +24025,10 @@
       "n": "LTC Properties, Inc. Common Stock"
     },
     {
+      "i": "N:LTEQ",
+      "n": "Equity Partners ETF"
+    },
+    {
       "i": "N:LTH",
       "n": "Life Time Group Holdings, Inc. Common Stock"
     },
@@ -26035,10 +26039,6 @@
     {
       "i": "N:PSO",
       "n": "Pearson, Plc Common Stock"
-    },
-    {
-      "i": "N:PSQH",
-      "n": "PSQ Holdings, Inc. Class A Common Stock"
     },
     {
       "i": "N:PSTL",
@@ -31179,6 +31179,10 @@
     {
       "i": "P:EMCS",
       "n": "Xtrackers MSCI Emerging Markets Select ETF"
+    },
+    {
+      "i": "P:EMDI",
+      "n": "Principal Finisterre Emerging Markets Diversified Income ETF"
     },
     {
       "i": "P:EMDM",
@@ -39101,10 +39105,6 @@
       "n": "Global X Asia Semiconductor ETF"
     },
     {
-      "i": "Q:ACHV",
-      "n": "Achieve Life Sciences, Inc. - Common Shares"
-    },
-    {
       "i": "Q:ACIC",
       "n": "American Coastal Insurance Corporation"
     },
@@ -44157,10 +44157,6 @@
       "n": "EZCORP, Inc. - Class A Non-Voting Common Stock"
     },
     {
-      "i": "Q:EZRA",
-      "n": "Reliance Global Group, Inc."
-    },
-    {
       "i": "Q:EZRO",
       "n": "AlphaDroid Defensive Sector Rotation ETF"
     },
@@ -45198,7 +45194,7 @@
     },
     {
       "i": "Q:GCBC",
-      "n": "Greene County Bancorp, Inc."
+      "n": "Greene Bancorp, Inc."
     },
     {
       "i": "Q:GCGR",
@@ -51793,6 +51789,10 @@
       "n": "QuickLogic Corporation"
     },
     {
+      "i": "Q:QUIT",
+      "n": "Achieve Life Sciences, Inc. - Common Shares"
+    },
+    {
       "i": "Q:QUMS",
       "n": "Quantumsphere Acquisition Corp. - Ordinary Shares"
     },
@@ -51987,10 +51987,6 @@
     {
       "i": "Q:RDZN",
       "n": "Roadzen, Inc. - Ordinary Shares"
-    },
-    {
-      "i": "Q:REAI",
-      "n": "Intelligent Real Estate ETF"
     },
     {
       "i": "Q:REAL",
@@ -52631,6 +52627,10 @@
     {
       "i": "Q:SCPQ",
       "n": "Social Commerce Partners Corporation - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:SCQC",
+      "n": "SPACCircle Acquisition Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:SCSC",
@@ -55985,6 +55985,10 @@
       "n": "Exagen Inc."
     },
     {
+      "i": "Q:XGPU",
+      "n": "Reliance Global Group, Inc."
+    },
+    {
       "i": "Q:XHG",
       "n": "XChange TEC.INC - American Depositary Shares"
     },
@@ -57031,6 +57035,10 @@
     {
       "i": "Z:BGLD",
       "n": "FT Vest Gold Strategy Quarterly Buffer ETF"
+    },
+    {
+      "i": "Z:BGRD",
+      "n": "BNY Mellon Power Ecosystem ETF"
     },
     {
       "i": "Z:BHYB",
@@ -58715,10 +58723,6 @@
     {
       "i": "Z:HAUG",
       "n": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series"
-    },
-    {
-      "i": "Z:HAUS",
-      "n": "Residential REIT ETF"
     },
     {
       "i": "Z:HBMX",
@@ -60471,6 +60475,10 @@
     {
       "i": "Z:PFEB",
       "n": "Innovator U.S. Equity Power Buffer ETF - February"
+    },
+    {
+      "i": "Z:PGRW",
+      "n": "Principal Growth ETF"
     },
     {
       "i": "Z:PICK",

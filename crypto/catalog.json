@@ -1096,9 +1096,9 @@
       "k": "후마파이낸스"
     },
     {
-      "e": "HYPE",
+      "e": "Hyperliquid",
       "i": "BN:HYPE-USDT",
-      "k": "HYPE"
+      "k": "하이퍼리퀴드"
     },
     {
       "e": "Hyperlane",
@@ -3066,6 +3066,11 @@
       "k": "캡"
     },
     {
+      "e": "Collector Crypt",
+      "i": "BT:CARDS-KRW",
+      "k": "콜렉터크립트"
+    },
+    {
       "e": "CARV",
       "i": "BT:CARV-KRW",
       "k": "카브"
@@ -3594,6 +3599,11 @@
       "e": "Hunt Town",
       "i": "BT:HUNT-KRW",
       "k": "헌트"
+    },
+    {
+      "e": "Hyperliquid",
+      "i": "BT:HYPE-KRW",
+      "k": "하이퍼리퀴드"
     },
     {
       "e": "Hyperlane",
@@ -4731,11 +4741,6 @@
       "k": "월러스"
     },
     {
-      "e": "Waves",
-      "i": "BT:WAVES-KRW",
-      "k": "웨이브"
-    },
-    {
       "e": "Axelar",
       "i": "BT:WAXL-KRW",
       "k": "엑셀라"
@@ -5516,6 +5521,11 @@
       "k": "헌트"
     },
     {
+      "e": "Hyperliquid",
+      "i": "UP:HYPE-KRW",
+      "k": "하이퍼리퀴드"
+    },
+    {
       "e": "Hyperlane",
       "i": "UP:HYPER-KRW",
       "k": "하이퍼레인"
@@ -6279,11 +6289,6 @@
       "e": "Walrus",
       "i": "UP:WAL-KRW",
       "k": "월러스"
-    },
-    {
-      "e": "Waves",
-      "i": "UP:WAVES-KRW",
-      "k": "웨이브"
     },
     {
       "e": "WAX",
