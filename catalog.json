@@ -5102,7 +5102,7 @@
     },
     {
       "i": "KQ:148250",
-      "n": "알엔투테크놀로지"
+      "n": "스퀘어텍"
     },
     {
       "i": "KQ:148780",
@@ -8474,7 +8474,7 @@
     },
     {
       "i": "KS:000040",
-      "n": "KR모터스"
+      "n": "다이나맥"
     },
     {
       "i": "KS:000050",
@@ -40789,10 +40789,6 @@
       "n": "Bridges Capital Tactical ETF"
     },
     {
-      "i": "Q:BDMD",
-      "n": "Baird Medical Investment Holdings Ltd - Ordinary Share"
-    },
-    {
       "i": "Q:BDRX",
       "n": "Biodexa Pharmaceuticals plc - American Depositary Shares"
     },
@@ -42441,6 +42437,10 @@
       "n": "Hemab Therapeutics Holdings, Inc."
     },
     {
+      "i": "Q:COCH",
+      "n": "Envoy Medical, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:COCO",
       "n": "The Vita Coco Company, Inc."
     },
@@ -42663,10 +42663,6 @@
     {
       "i": "Q:CRGO",
       "n": "Freightos Limited - Ordinary shares"
-    },
-    {
-      "i": "Q:CRIS",
-      "n": "Curis, Inc."
     },
     {
       "i": "Q:CRMD",
@@ -54683,6 +54679,10 @@
     {
       "i": "Q:TWFG",
       "n": "TWFG, Inc."
+    },
+    {
+      "i": "Q:TWG",
+      "n": "Top Wealth Group Holding Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:TWIN",
