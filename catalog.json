@@ -57,10 +57,6 @@
       "n": "Avino Silver & Gold Mines Ltd. Common Shares (Canada)"
     },
     {
-      "i": "A:ATCH",
-      "n": "AtlasClear Holdings, Inc. Common Stock"
-    },
-    {
       "i": "A:ATNM",
       "n": "Actinium Pharmaceuticals, Inc. (Delaware) Common Stock"
     },
@@ -463,10 +459,6 @@
     {
       "i": "A:GUNN",
       "n": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)"
-    },
-    {
-      "i": "A:HLSQ",
-      "n": "Tessera Defense and Homeland Security Inc. Common Stock"
     },
     {
       "i": "A:HOST",
@@ -33489,6 +33481,22 @@
       "n": "Northern Trust International Quality Dividend Dynamic ETF"
     },
     {
+      "i": "P:IQEE",
+      "n": "Invesco Emerging Markets Enhanced ETF"
+    },
+    {
+      "i": "P:IQEI",
+      "n": "Invesco International Developed Enhanced ETF"
+    },
+    {
+      "i": "P:IQEL",
+      "n": "Invesco U.S. Large Cap Enhanced ETF"
+    },
+    {
+      "i": "P:IQES",
+      "n": "Invesco U.S. Small Cap Enhanced ETF"
+    },
+    {
       "i": "P:IQHI",
       "n": "NYLIM MacKay High Income ETF"
     },
@@ -47613,10 +47621,6 @@
       "n": "Kiora Pharmaceuticals, Inc."
     },
     {
-      "i": "Q:KPTI",
-      "n": "Karyopharm Therapeutics Inc."
-    },
-    {
       "i": "Q:KQQQ",
       "n": "Kurv Technology Titans Select ETF"
     },
@@ -58901,6 +58905,10 @@
       "n": "iShares iBonds 2033 Term High Yield and Income ETF"
     },
     {
+      "i": "Z:IBLY",
+      "n": "FT Vest Equity Target Income Plus 0-3 Month Treasury ETF"
+    },
+    {
       "i": "Z:IBX",
       "n": "Tradr 2X Long IBM Daily ETF"
     },
@@ -59747,10 +59755,6 @@
     {
       "i": "Z:MEIB",
       "n": "Direxion META Defined Income Boost ETF"
-    },
-    {
-      "i": "Z:MEMY",
-      "n": "Tuttle Capital Meme Stock Income Blast ETF"
     },
     {
       "i": "Z:METG",
