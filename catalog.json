@@ -1649,6 +1649,10 @@
       "n": "삼륭물산"
     },
     {
+      "i": "KQ:0153R0",
+      "n": "바로팜"
+    },
+    {
       "i": "KQ:0155E0",
       "n": "해치텍"
     },
@@ -47673,10 +47677,6 @@
       "n": "Krystal Biotech, Inc."
     },
     {
-      "i": "Q:KSCP",
-      "n": "Knightscope, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:KSMH",
       "n": "xETFs Korea AI Semiconductor"
     },
@@ -49929,6 +49929,10 @@
       "n": "Next Technology Holding Inc. - Ordinary Shares"
     },
     {
+      "i": "Q:NXXT",
+      "n": "NextNRG, Inc."
+    },
+    {
       "i": "Q:NYAX",
       "n": "Nayax Ltd. - Ordinary Shares"
     },
@@ -52055,10 +52059,6 @@
     {
       "i": "Q:REMG",
       "n": "Russell Investments Emerging Markets Equity ETF"
-    },
-    {
-      "i": "Q:RENT",
-      "n": "Rent the Runway, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:RENX",
