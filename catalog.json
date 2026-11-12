@@ -557,10 +557,6 @@
       "n": "Kairos Pharma, Ltd. Common Stock"
     },
     {
-      "i": "A:KNRX",
-      "n": "KNOREX LTD. Class A Ordinary Shares"
-    },
-    {
       "i": "A:KULR",
       "n": "KULR Technology Group, Inc. Common Stock"
     },
@@ -20381,14 +20377,6 @@
       "n": "C1 Fund Inc. Common Stock"
     },
     {
-      "i": "N:CFR",
-      "n": "Cullen/Frost Bankers, Inc. Common Stock"
-    },
-    {
-      "i": "N:CFR-PB",
-      "n": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B"
-    },
-    {
       "i": "N:CFTR-PA",
       "n": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock"
     },
@@ -32529,6 +32517,10 @@
       "n": "ProShares UltraShort Gold"
     },
     {
+      "i": "P:GLLD",
+      "n": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043"
+    },
+    {
       "i": "P:GLNK",
       "n": "Grayscale Chainlink Trust ETF"
     },
@@ -34097,6 +34089,10 @@
       "n": "Innovator U.S. Small Cap Managed 10 Buffer ETF"
     },
     {
+      "i": "P:KBTY",
+      "n": "Guinness Atkinson K-Beauty ETF"
+    },
+    {
       "i": "P:KBUF",
       "n": "KraneShares 90% KWEB Defined Outcome January 2027 ETF"
     },
@@ -35035,6 +35031,10 @@
     {
       "i": "P:NJNK",
       "n": "Columbia U.S. High Yield ETF"
+    },
+    {
+      "i": "P:NJPN",
+      "n": "Nomura Japan Equity ETF"
     },
     {
       "i": "P:NLR",
@@ -36647,10 +36647,6 @@
     {
       "i": "P:SHLD",
       "n": "Global X Defense Tech ETF"
-    },
-    {
-      "i": "P:SHNY",
-      "n": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043"
     },
     {
       "i": "P:SHPP",
@@ -42705,6 +42701,10 @@
       "n": "Critical Metals Corp. - Ordinary Shares"
     },
     {
+      "i": "Q:CRMN",
+      "n": "Skyline Builders Group Holding Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:CRMT",
       "n": "America's Car-Mart, Inc."
     },
@@ -47437,10 +47437,6 @@
       "n": "Scharf ETF"
     },
     {
-      "i": "Q:KAZR",
-      "n": "Skyline Builders Group Holding Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:KBON",
       "n": "Karbon Capital Partners Corp. - Class A Ordinary Shares"
     },
@@ -49927,10 +49923,6 @@
     {
       "i": "Q:NXTT",
       "n": "Next Technology Holding Inc. - Ordinary Shares"
-    },
-    {
-      "i": "Q:NXXT",
-      "n": "NextNRG, Inc."
     },
     {
       "i": "Q:NYAX",
@@ -59635,6 +59627,10 @@
     {
       "i": "Z:MAGC",
       "n": "Roundhill China Magnificent Seven ETF"
+    },
+    {
+      "i": "Z:MAGP",
+      "n": "Roundhill Magnificent Seven Plus ETF"
     },
     {
       "i": "Z:MAGS",
