@@ -605,6 +605,10 @@
       "n": "Micropolis AI Robotics Ordinary Shares"
     },
     {
+      "i": "A:MDRN",
+      "n": "Modern Mining Technology Corp. Common Shares"
+    },
+    {
       "i": "A:MGLD",
       "n": "The Marygold Companies, Inc. Common Stock"
     },
@@ -24017,6 +24021,10 @@
       "n": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock"
     },
     {
+      "i": "N:LOB-PB",
+      "n": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock"
+    },
+    {
       "i": "N:LOCL",
       "n": "Local Bounti Corporation Common Stock"
     },
@@ -28321,6 +28329,10 @@
       "n": "Valvoline Inc. Common Stock"
     },
     {
+      "i": "N:VVVV",
+      "n": "vVARDIS Holding AG Class A Ordinary Shares"
+    },
+    {
       "i": "N:VVX",
       "n": "V2X, Inc. Common Stock"
     },
@@ -29799,6 +29811,10 @@
     {
       "i": "P:BWET",
       "n": "Breakwave Tanker Shipping ETF"
+    },
+    {
+      "i": "P:BWLB",
+      "n": "Brandywine Large Cap ETF"
     },
     {
       "i": "P:BYRE",
@@ -37965,10 +37981,6 @@
       "n": "WisdomTree Floating Rate Treasury Fund"
     },
     {
-      "i": "P:USG",
-      "n": "USCF Gold Strategy Plus Income Fund"
-    },
-    {
       "i": "P:USL",
       "n": "United States 12 Month Oil"
     },
@@ -42285,10 +42297,6 @@
       "n": "Clearfield, Inc."
     },
     {
-      "i": "Q:CLGN",
-      "n": "CollPlant Biotechnologies Ltd. - Ordinary Shares"
-    },
-    {
       "i": "Q:CLIK",
       "n": "Click Holdings Limited - Ordinary Share"
     },
@@ -44389,14 +44397,6 @@
       "n": "Fidelity Disruptive Communications ETF"
     },
     {
-      "i": "Q:FDFF",
-      "n": "Fidelity Disruptive Finance ETF"
-    },
-    {
-      "i": "Q:FDIF",
-      "n": "Fidelity Disruptors ETF"
-    },
-    {
       "i": "Q:FDIG",
       "n": "Fidelity Crypto Industry and Digital Payments ETF"
     },
@@ -44731,14 +44731,6 @@
     {
       "i": "Q:FMBH",
       "n": "First Mid Bancshares, Inc."
-    },
-    {
-      "i": "Q:FMED",
-      "n": "Fidelity Disruptive Medicine ETF"
-    },
-    {
-      "i": "Q:FMET",
-      "n": "Fidelity Metaverse ETF"
     },
     {
       "i": "Q:FMHI",
@@ -48169,6 +48161,10 @@
       "n": "The Lovesac Company"
     },
     {
+      "i": "Q:LOVI",
+      "n": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:LPAA",
       "n": "Launch One Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -50126,7 +50122,7 @@
     },
     {
       "i": "Q:OLMA",
-      "n": "Olema Pharmaceuticals, Inc."
+      "n": "Olema Oncology, Inc."
     },
     {
       "i": "Q:OLOX",
@@ -50239,6 +50235,10 @@
     {
       "i": "Q:OPEN",
       "n": "Opendoor Technologies Inc"
+    },
+    {
+      "i": "Q:OPHI",
+      "n": "CollPlant Biotechnologies Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:OPI",
@@ -51383,10 +51383,6 @@
     {
       "i": "Q:PTIR",
       "n": "GraniteShares 2x Long PLTR Daily ETF"
-    },
-    {
-      "i": "Q:PTLE",
-      "n": "PTL LTD - Class A Ordinary Shares"
     },
     {
       "i": "Q:PTLO",
@@ -55678,7 +55674,7 @@
     },
     {
       "i": "Q:WFRD",
-      "n": "Weatherford International plc - Ordinary shares"
+      "n": "Weatherford International Corp"
     },
     {
       "i": "Q:WGMI",
@@ -55919,6 +55915,10 @@
     {
       "i": "Q:WW",
       "n": "WW International, Inc."
+    },
+    {
+      "i": "Q:WWB",
+      "n": "Windward Bio Group AG - Common shares"
     },
     {
       "i": "Q:WWD",
@@ -56431,6 +56431,10 @@
     {
       "i": "Q:ZYME",
       "n": "Zymeworks Inc."
+    },
+    {
+      "i": "Q:ZYN",
+      "n": "PTL LTD - Class A Ordinary Shares"
     },
     {
       "i": "Z:AAAA",
@@ -58519,10 +58523,6 @@
     {
       "i": "Z:FPFD",
       "n": "Fidelity Preferred Securities & Income ETF"
-    },
-    {
-      "i": "Z:FPRO",
-      "n": "Fidelity Real Estate Investment ETF"
     },
     {
       "i": "Z:FPSX",

@@ -3266,6 +3266,11 @@
       "k": "디카르고"
     },
     {
+      "e": "NeoSoul",
+      "i": "BT:DNA-KRW",
+      "k": "네오소울"
+    },
+    {
       "e": "Dogecoin",
       "i": "BT:DOGE-KRW",
       "k": "도지코인"
@@ -3819,11 +3824,6 @@
       "e": "Manta Network",
       "i": "BT:MANTA-KRW",
       "k": "만타네트워크"
-    },
-    {
-      "e": "MAP Protocol",
-      "i": "BT:MAPO-KRW",
-      "k": "맵프로토콜"
     },
     {
       "e": "Mask Network",
@@ -6034,6 +6034,11 @@
       "e": "Sahara AI",
       "i": "UP:SAHARA-KRW",
       "k": "사하라에이아이"
+    },
+    {
+      "e": "Sanctum",
+      "i": "UP:SANC-KRW",
+      "k": "생텀"
     },
     {
       "e": "The Sandbox",
