@@ -8365,6 +8365,10 @@
       "n": "지에프아이"
     },
     {
+      "i": "KQ:493410",
+      "n": "넥스아이"
+    },
+    {
       "i": "KQ:493790",
       "n": "유안타제17호스팩"
     },
@@ -17269,6 +17273,18 @@
       "n": "미래에셋 인버스 2X 구리 선물 ETN"
     },
     {
+      "i": "KS:520110",
+      "n": "미래에셋 옥수수 선물 ETN"
+    },
+    {
+      "i": "KS:520111",
+      "n": "미래에셋 레버리지 옥수수 선물 ETN B"
+    },
+    {
+      "i": "KS:520112",
+      "n": "미래에셋 인버스 2X 옥수수 선물 ETN B"
+    },
+    {
       "i": "KS:530031",
       "n": "삼성 레버리지 WTI원유 선물 ETN"
     },
@@ -17447,6 +17463,14 @@
     {
       "i": "KS:530145",
       "n": "삼성 레버리지 천연가스 선물 ETN D"
+    },
+    {
+      "i": "KS:530146",
+      "n": "삼성 중국 희토류 기업 TOP5 TR ETN(H)"
+    },
+    {
+      "i": "KS:530147",
+      "n": "삼성 중국 게임 TOP3 TR ETN(H)"
     },
     {
       "i": "KS:530148",
@@ -40877,10 +40901,6 @@
       "n": "Bel Fuse Inc. - Class B Common Stock"
     },
     {
-      "i": "Q:BENF",
-      "n": "Beneficient - Class A Common Stock"
-    },
-    {
       "i": "Q:BESO",
       "n": "GSR Crypto Core3 ETF"
     },
@@ -50133,6 +50153,10 @@
       "n": "Omeros Corporation"
     },
     {
+      "i": "Q:OMEX",
+      "n": "Odyssey Marine Exploration, Inc."
+    },
+    {
       "i": "Q:OMH",
       "n": "Ohmyhome Limited - Class A Ordinary Shares"
     },
@@ -54303,6 +54327,10 @@
     {
       "i": "Q:TNXT",
       "n": "T. Rowe Price Innovation Leaders ETF"
+    },
+    {
+      "i": "Q:TOMZ",
+      "n": "TOMI Environmental Solutions, Inc."
     },
     {
       "i": "Q:TONX",
