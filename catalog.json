@@ -40457,6 +40457,10 @@
       "n": "Addentax Group Corp."
     },
     {
+      "i": "Q:ATYR",
+      "n": "aTyr Pharma, Inc."
+    },
+    {
       "i": "Q:AUBN",
       "n": "Auburn National Bancorporation, Inc."
     },
@@ -41143,10 +41147,6 @@
     {
       "i": "Q:BLMN",
       "n": "Bloomin' Brands, Inc."
-    },
-    {
-      "i": "Q:BLNE",
-      "n": "Beeline Holdings, Inc."
     },
     {
       "i": "Q:BLRK",
@@ -46077,6 +46077,10 @@
       "n": "HIVE Digital Technologies Ltd - Common Shares"
     },
     {
+      "i": "Q:HKPD",
+      "n": "Cellyan Biotechnology Co., Ltd - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:HLAL",
       "n": "Wahed FTSE USA Shariah ETF"
     },
@@ -48163,10 +48167,6 @@
     {
       "i": "Q:LOVI",
       "n": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:LPAA",
-      "n": "Launch One Acquisition Corp. - Class A Ordinary Shares"
     },
     {
       "i": "Q:LPBB",
@@ -51539,10 +51539,6 @@
     {
       "i": "Q:QCLN",
       "n": "First Trust NASDAQ Clean Edge Green Energy Index Fund"
-    },
-    {
-      "i": "Q:QCLS",
-      "n": "Q/C Technologies, Inc."
     },
     {
       "i": "Q:QCMD",
