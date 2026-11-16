@@ -1231,9 +1231,9 @@
       "k": "카타나"
     },
     {
-      "e": "Kava",
+      "e": "KAVA",
       "i": "BN:KAVA-USDT",
-      "k": "카바"
+      "k": "KAVA"
     },
     {
       "e": "KERNEL",
@@ -3716,11 +3716,6 @@
       "k": "카타나"
     },
     {
-      "e": "Kava",
-      "i": "BT:KAVA-KRW",
-      "k": "카바"
-    },
-    {
       "e": "Kernel DAO",
       "i": "BT:KERNEL-KRW",
       "k": "커널다오"
@@ -5614,11 +5609,6 @@
       "e": "Katana",
       "i": "UP:KAT-KRW",
       "k": "카타나"
-    },
-    {
-      "e": "Kava",
-      "i": "UP:KAVA-KRW",
-      "k": "카바"
     },
     {
       "e": "KernelDAO",

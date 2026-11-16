@@ -19801,10 +19801,6 @@
       "n": "Buckle, Inc. (The) Common Stock"
     },
     {
-      "i": "N:BKH",
-      "n": "Black Hills Corporation Common Stock"
-    },
-    {
       "i": "N:BKKT",
       "n": "Bakkt, Inc. Class A Common Stock"
     },
@@ -23161,6 +23157,10 @@
       "n": "Counterpoint High Yield Trend ETF"
     },
     {
+      "i": "N:HZN",
+      "n": "Bright Horizon Energy Corporation Common Stock"
+    },
+    {
       "i": "N:HZO",
       "n": "MarineMax, Inc. (FL) Common Stock"
     },
@@ -23387,10 +23387,6 @@
     {
       "i": "N:IT",
       "n": "Gartner, Inc. Common Stock"
-    },
-    {
-      "i": "N:ITGR",
-      "n": "Integer Holdings Corporation Common Stock"
     },
     {
       "i": "N:ITT",
@@ -23819,10 +23815,6 @@
     {
       "i": "N:KTB",
       "n": "Kontoor Brands, Inc. Common Stock"
-    },
-    {
-      "i": "N:KTF",
-      "n": "DWS Municipal Income Trust"
     },
     {
       "i": "N:KTH",
@@ -25895,6 +25887,10 @@
     {
       "i": "N:POR",
       "n": "Portland General Electric Co Common Stock"
+    },
+    {
+      "i": "N:PORT",
+      "n": "Southport Acquisition Corp. II Class A Ordinary Shares"
     },
     {
       "i": "N:POST",
@@ -34549,10 +34545,6 @@
       "n": "Regan Floating Rate MBS ETF"
     },
     {
-      "i": "P:MBSX",
-      "n": "Regan Fixed Rate MBS ETF"
-    },
-    {
       "i": "P:MCH",
       "n": "Matthews China Active ETF"
     },
@@ -41381,6 +41373,10 @@
       "n": "Burney U.S. Factor Rotation ETF"
     },
     {
+      "i": "Q:BRRK",
+      "n": "Bluerock Acquisition Corp. II - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:BRRR",
       "n": "Coinshares Bitcoin ETF"
     },
@@ -44778,7 +44774,7 @@
     },
     {
       "i": "Q:FOFO",
-      "n": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares"
+      "n": "Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares"
     },
     {
       "i": "Q:FORM",
@@ -45939,6 +45935,10 @@
     {
       "i": "Q:HCMA",
       "n": "HCM III Acquisition Corp. - Class A Ordinary Share"
+    },
+    {
+      "i": "Q:HCOP",
+      "n": "Hartford Hybrid and Credit Opportunities ETF"
     },
     {
       "i": "Q:HCOW",
@@ -49861,10 +49861,6 @@
       "n": "newcleo plc - Ordinary Shares"
     },
     {
-      "i": "Q:NWE",
-      "n": "NorthWestern Energy Group, Inc."
-    },
-    {
       "i": "Q:NWFL",
       "n": "Norwood Financial Corp."
     },
@@ -50931,10 +50927,6 @@
     {
       "i": "Q:PLBY",
       "n": "Playboy, Inc."
-    },
-    {
-      "i": "Q:PLCE",
-      "n": "Children's Place, Inc. (The)"
     },
     {
       "i": "Q:PLCI",
