@@ -7025,6 +7025,10 @@
       "n": "이노진"
     },
     {
+      "i": "KQ:345290",
+      "n": "영광와이케이엠씨"
+    },
+    {
       "i": "KQ:347000",
       "n": "센코"
     },
@@ -17585,10 +17589,6 @@
       "n": "한투 인버스2X플래티넘선물 ETN"
     },
     {
-      "i": "KS:570074",
-      "n": "한투 유럽탄소배출권선물 ETN(H)"
-    },
-    {
       "i": "KS:570081",
       "n": "한투 레버리지코스닥150선물 ETN"
     },
@@ -17983,10 +17983,6 @@
     {
       "i": "KS:610025",
       "n": "메리츠 인버스 2X 미국채10년 ETN(H)"
-    },
-    {
-      "i": "KS:610030",
-      "n": "메리츠 S&P 유럽탄소배출권 선물 ETN(H)"
     },
     {
       "i": "KS:610034",
@@ -43485,6 +43481,10 @@
       "n": "DAC 3D Dividend Growth ETF"
     },
     {
+      "i": "Q:DVLT",
+      "n": "Datavault AI Inc."
+    },
+    {
       "i": "Q:DVLU",
       "n": "First Trust Dorsey Wright Momentum & Value ETF"
     },
@@ -48377,6 +48377,10 @@
       "n": "MARA Holdings, Inc."
     },
     {
+      "i": "Q:MASK",
+      "n": "3 E Network Technology Group Ltd - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:MASS",
       "n": "908 Devices Inc."
     },
@@ -49079,10 +49083,6 @@
     {
       "i": "Q:MTCH",
       "n": "Match Group, Inc."
-    },
-    {
-      "i": "Q:MTEK",
-      "n": "Maris-Tech Ltd. - ordinary shares"
     },
     {
       "i": "Q:MTEN",
@@ -50517,6 +50517,10 @@
       "n": "Passage Bio, Inc."
     },
     {
+      "i": "Q:PASW",
+      "n": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:PATK",
       "n": "Patrick Industries, Inc."
     },
@@ -51113,6 +51117,10 @@
       "n": "Pilgrim's Pride Corporation"
     },
     {
+      "i": "Q:PPCB",
+      "n": "Propanc Biopharma, Inc."
+    },
+    {
       "i": "Q:PPH",
       "n": "VanEck Pharmaceutical ETF"
     },
@@ -51179,10 +51187,6 @@
     {
       "i": "Q:PRE",
       "n": "Prenetics Global Limited - Class A Ordinary Share"
-    },
-    {
-      "i": "Q:PRFX",
-      "n": "PRF Technologies Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:PRFZ",
@@ -54293,6 +54297,10 @@
       "n": "Tango Therapeutics, Inc."
     },
     {
+      "i": "Q:TNMG",
+      "n": "TNL Mediagene - Ordinary Shares"
+    },
+    {
       "i": "Q:TNON",
       "n": "Tenon Medical, Inc."
     },
@@ -54783,10 +54791,6 @@
     {
       "i": "Q:UCAR",
       "n": "U Power Limited - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:UCFI",
-      "n": "CN Healthy Food Tech Group Corp."
     },
     {
       "i": "Q:UCTT",
