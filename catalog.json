@@ -18521,10 +18521,6 @@
       "n": "Accel Entertainment, Inc."
     },
     {
-      "i": "N:ACH",
-      "n": "Accendra Health, Inc. Common Stock"
-    },
-    {
       "i": "N:ACHR",
       "n": "Archer Aviation Inc. Class A Common Stock"
     },
@@ -22533,10 +22529,6 @@
       "n": "Corning Incorporated Common Stock"
     },
     {
-      "i": "N:GM",
-      "n": "General Motors Company Common Stock"
-    },
-    {
       "i": "N:GME",
       "n": "GameStop Corporation Common Stock"
     },
@@ -24462,7 +24454,7 @@
     },
     {
       "i": "N:MOD",
-      "n": "Modine Manufacturing Company Common Stock"
+      "n": "Modexus Solutions, Inc. Common Stock"
     },
     {
       "i": "N:MOG-A",
@@ -27855,6 +27847,10 @@
     {
       "i": "N:TXNM",
       "n": "TXNM Energy, Inc. Common Stock"
+    },
+    {
+      "i": "N:TXR",
+      "n": "Torex Resources Inc. Common Shares"
     },
     {
       "i": "N:TXT",
@@ -36701,6 +36697,10 @@
       "n": "Amplify Junior Silver Miners ETF"
     },
     {
+      "i": "P:SIMI",
+      "n": "American Beacon SiM High Income ETF"
+    },
+    {
       "i": "P:SIMS",
       "n": "State Street SPDR S&P Kensho Intelligent Structures ETF"
     },
@@ -37195,10 +37195,6 @@
     {
       "i": "P:STRN",
       "n": "SMART Trend 25 ETF"
-    },
-    {
-      "i": "P:STSM",
-      "n": "Defiance Daily Target 2X Short TSM ETF"
     },
     {
       "i": "P:SURE",
@@ -38903,6 +38899,10 @@
     {
       "i": "P:ZCSH",
       "n": "The Zcash ETF Shares"
+    },
+    {
+      "i": "P:ZDAY",
+      "n": "Bitwise AI Cyber Defense ETF"
     },
     {
       "i": "P:ZDIS",
@@ -42981,6 +42981,14 @@
       "n": "Consolidated Water Co. Ltd. - Ordinary Shares"
     },
     {
+      "i": "Q:CWPD",
+      "n": "CWP Premium Dividend ETF"
+    },
+    {
+      "i": "Q:CWPG",
+      "n": "CWP Premium Growth ETF"
+    },
+    {
       "i": "Q:CWST",
       "n": "Casella Waste Systems, Inc. - Class A Common Stock"
     },
@@ -43067,6 +43075,10 @@
     {
       "i": "Q:DASH",
       "n": "DoorDash, Inc."
+    },
+    {
+      "i": "Q:DAU",
+      "n": "GraniteShares Autocallable AMD ETF"
     },
     {
       "i": "Q:DAVE",
@@ -43353,6 +43365,10 @@
       "n": "Domino's Pizza Inc"
     },
     {
+      "i": "Q:DRAC",
+      "n": "GraniteShares Autocallable DRAM ETF"
+    },
+    {
       "i": "Q:DRH",
       "n": "Diamondrock Hospitality Company"
     },
@@ -43479,10 +43495,6 @@
     {
       "i": "Q:DVGR",
       "n": "DAC 3D Dividend Growth ETF"
-    },
-    {
-      "i": "Q:DVLT",
-      "n": "Datavault AI Inc."
     },
     {
       "i": "Q:DVLU",
@@ -45491,6 +45503,10 @@
     {
       "i": "Q:GLXY",
       "n": "Galaxy Digital Inc. - Class A common stock"
+    },
+    {
+      "i": "Q:GM",
+      "n": "General Motors Company"
     },
     {
       "i": "Q:GMAB",
@@ -48573,6 +48589,10 @@
       "n": "MiMedx Group, Inc"
     },
     {
+      "i": "Q:MEA",
+      "n": "GraniteShares Autocallable META ETF"
+    },
+    {
       "i": "Q:MEDP",
       "n": "Medpace Holdings, Inc."
     },
@@ -49693,6 +49713,10 @@
       "n": "NETCLASS TECHNOLOGY INC - Class A Ordinary Shares"
     },
     {
+      "i": "Q:NTCR",
+      "n": "Nuveen Technology & Infrastructure Credit ETF"
+    },
+    {
       "i": "Q:NTCT",
       "n": "NetScout Systems, Inc."
     },
@@ -50629,6 +50653,10 @@
       "n": "PCB Bancorp"
     },
     {
+      "i": "Q:PCHX",
+      "n": "State Street SPDR Nasdaq MyPaycheck ETF"
+    },
+    {
       "i": "Q:PCLA",
       "n": "PicoCELA Inc. - American Depositary Shares"
     },
@@ -50891,6 +50919,10 @@
     {
       "i": "Q:PIO",
       "n": "Invesco Global Water ETF"
+    },
+    {
+      "i": "Q:PIVT",
+      "n": "VanEck Pivotal Trends ETF"
     },
     {
       "i": "Q:PIZ",
@@ -52191,10 +52223,6 @@
     {
       "i": "Q:RKLX",
       "n": "Defiance Daily Target 2X Long RKLB ETF"
-    },
-    {
-      "i": "Q:RKLZ",
-      "n": "Defiance Daily Target 2x Short RKLB ETF"
     },
     {
       "i": "Q:RKNG",
@@ -55101,10 +55129,6 @@
       "n": "VanEck BNB ETF"
     },
     {
-      "i": "Q:VBNK",
-      "n": "VersaBank - Common Shares"
-    },
-    {
       "i": "Q:VC",
       "n": "Visteon Corporation"
     },
@@ -55415,6 +55439,10 @@
     {
       "i": "Q:VRRM",
       "n": "Verra Mobility Corporation - Class A Common Stock"
+    },
+    {
+      "i": "Q:VRSA",
+      "n": "Versa Bancorp"
     },
     {
       "i": "Q:VRSK",
@@ -56799,10 +56827,6 @@
     {
       "i": "Z:ASTG",
       "n": "Leverage Shares 2X Long ASTS Daily ETF"
-    },
-    {
-      "i": "Z:ASTN",
-      "n": "Defiance Daily Target 2X Short ASTS ETF"
     },
     {
       "i": "Z:ASTT",
