@@ -4345,10 +4345,6 @@
       "n": "엘디티"
     },
     {
-      "i": "KQ:097780",
-      "n": "에코볼트"
-    },
-    {
       "i": "KQ:097800",
       "n": "윈팩"
     },
@@ -5586,7 +5582,7 @@
     },
     {
       "i": "KQ:206400",
-      "n": "베노티앤알"
+      "n": "아인스팩씨엔에스"
     },
     {
       "i": "KQ:206560",
@@ -8363,6 +8359,10 @@
     {
       "i": "KQ:492220",
       "n": "KB제31호스팩"
+    },
+    {
+      "i": "KQ:493260",
+      "n": "옵토닉스"
     },
     {
       "i": "KQ:493280",
@@ -11999,6 +11999,14 @@
     {
       "i": "KS:026960",
       "n": "동서"
+    },
+    {
+      "i": "KS:0269M0",
+      "n": "RISE 27-11 회사채(AA-이상)액티브"
+    },
+    {
+      "i": "KS:0269N0",
+      "n": "RISE 미국초대형주TOP10"
     },
     {
       "i": "KS:027410",
@@ -18247,6 +18255,18 @@
     {
       "i": "KS:610115",
       "n": "메리츠 인버스 2X 구리 선물 ETN(H)"
+    },
+    {
+      "i": "KS:610116",
+      "n": "메리츠 대표농산물 선물 ETN(H) B"
+    },
+    {
+      "i": "KS:610117",
+      "n": "메리츠 레버리지 대표농산물 선물 ETN(H) B"
+    },
+    {
+      "i": "KS:610118",
+      "n": "메리츠 인버스2X 대표농산물 선물 ETN(H) B"
     },
     {
       "i": "KS:700011",
@@ -41953,10 +41973,6 @@
       "n": "Celularity Inc. - Class A Common Stock"
     },
     {
-      "i": "Q:CELZ",
-      "n": "Creative Medical Technology Holdings, Inc."
-    },
-    {
       "i": "Q:CENN",
       "n": "Cenntro Inc."
     },
@@ -42695,10 +42711,6 @@
     {
       "i": "Q:CREX",
       "n": "Creative Realities, Inc."
-    },
-    {
-      "i": "Q:CRGO",
-      "n": "Freightos Limited - Ordinary shares"
     },
     {
       "i": "Q:CRMD",
@@ -45225,10 +45237,6 @@
       "n": "GBank Financial Holdings Inc."
     },
     {
-      "i": "Q:GBLI",
-      "n": "Global Indemnity Group, LLC - Class A Common Shares"
-    },
-    {
       "i": "Q:GBUG",
       "n": "Sprott Active Gold & Silver Miners ETF"
     },
@@ -45771,10 +45779,6 @@
     {
       "i": "Q:GTBP",
       "n": "GT Biopharma, Inc."
-    },
-    {
-      "i": "Q:GTEC",
-      "n": "Greenland Technologies Holding Corporation - Class A Ordinary Shares"
     },
     {
       "i": "Q:GTEN",
@@ -47747,10 +47751,6 @@
     {
       "i": "Q:KZIA",
       "n": "Kazia Therapeutics Limited - American Depositary Shares"
-    },
-    {
-      "i": "Q:LABT",
-      "n": "Lakewood-Amedex Biotherapeutics Inc."
     },
     {
       "i": "Q:LAES",
@@ -49793,10 +49793,6 @@
       "n": "Nuveen US Infrastructure ETF"
     },
     {
-      "i": "Q:NUR",
-      "n": "Nuran Wireless Inc. - Common Shares"
-    },
-    {
       "i": "Q:NUSB",
       "n": "Nuveen Ultra Short Income ETF"
     },
@@ -51071,10 +51067,6 @@
     {
       "i": "Q:PN",
       "n": "PN Smart Energy Limited - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:PNBK",
-      "n": "Patriot National Bancorp Inc."
     },
     {
       "i": "Q:PNQI",
@@ -52869,10 +52861,6 @@
       "n": "Scorpio Gold Corporation"
     },
     {
-      "i": "Q:SGLY",
-      "n": "Singularity Future Technology Ltd."
-    },
-    {
       "i": "Q:SGML",
       "n": "Sigma Lithium Corporation - common shares"
     },
@@ -52911,6 +52899,10 @@
     {
       "i": "Q:SHEN",
       "n": "Shenandoah Telecommunications Co"
+    },
+    {
+      "i": "Q:SHFS",
+      "n": "SHF Holdings, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:SHIM",
@@ -54837,6 +54829,10 @@
       "n": "United Fire Group, Inc"
     },
     {
+      "i": "Q:UFG",
+      "n": "Uni-Fuels Holdings Limited - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:UFIV",
       "n": "US Treasury 5 Year Note ETF"
     },
@@ -56303,10 +56299,6 @@
     {
       "i": "Q:YSXT",
       "n": "YSX Tech. Co., Ltd - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:YTRA",
-      "n": "Yatra Online, Inc. - Ordinary Shares"
     },
     {
       "i": "Q:YXT",
