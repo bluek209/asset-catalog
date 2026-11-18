@@ -841,9 +841,29 @@
       "k": "EURI"
     },
     {
+      "e": "EWJB",
+      "i": "BN:EWJB-USDT",
+      "k": "EWJB"
+    },
+    {
+      "e": "EWTB",
+      "i": "BN:EWTB-USDT",
+      "k": "EWTB"
+    },
+    {
       "e": "EWYB",
       "i": "BN:EWYB-USDT",
       "k": "EWYB"
+    },
+    {
+      "e": "EWZB",
+      "i": "BN:EWZB-USDT",
+      "k": "EWZB"
+    },
+    {
+      "e": "EWZSB",
+      "i": "BN:EWZSB-USDT",
+      "k": "EWZSB"
     },
     {
       "e": "F",
@@ -1181,6 +1201,11 @@
       "k": "IRENB"
     },
     {
+      "e": "IWMB",
+      "i": "BN:IWMB-USDT",
+      "k": "IWMB"
+    },
+    {
       "e": "JASMY",
       "i": "BN:JASMY-USDT",
       "k": "JASMY"
@@ -1411,6 +1436,11 @@
       "k": "메가이더"
     },
     {
+      "e": "MELIB",
+      "i": "BN:MELIB-USDT",
+      "k": "MELIB"
+    },
+    {
       "e": "MEME",
       "i": "BN:MEME-USDT",
       "k": "MEME"
@@ -1574,6 +1604,11 @@
       "e": "NOT",
       "i": "BN:NOT-USDT",
       "k": "NOT"
+    },
+    {
+      "e": "NUB",
+      "i": "BN:NUB-USDT",
+      "k": "NUB"
     },
     {
       "e": "NVDAB",

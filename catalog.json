@@ -481,10 +481,6 @@
       "n": "i-80 Gold Corp. Common Shares"
     },
     {
-      "i": "A:IBO",
-      "n": "Impact BioMedical, Inc. Common Stock"
-    },
-    {
       "i": "A:IDR",
       "n": "Idaho Strategic Resources, Inc. Common Stock"
     },
@@ -1131,6 +1127,10 @@
     {
       "i": "A:ZDGE",
       "n": "Zedge, Inc. Class B Common Stock"
+    },
+    {
+      "i": "A:ZOAR",
+      "n": "Zoar Limited Ordinary Shares"
     },
     {
       "i": "A:ZONE",
@@ -29109,6 +29109,10 @@
       "n": "iShares Core 60/40 Balanced Allocation ETF"
     },
     {
+      "i": "P:APFS",
+      "n": "Artisan Focus Fund: ETF Class Shares"
+    },
+    {
       "i": "P:APIE",
       "n": "ActivePassive International Equity ETF"
     },
@@ -29119,6 +29123,10 @@
     {
       "i": "P:APLY",
       "n": "YieldMax AAPL Option Income Strategy ETF"
+    },
+    {
+      "i": "P:APNX",
+      "n": "Artisan Select Equity Fund: ETF Class Shares"
     },
     {
       "i": "P:APUE",
@@ -32591,6 +32599,10 @@
     {
       "i": "P:GMIE",
       "n": "GMO International Equity Fund, ETF Class"
+    },
+    {
+      "i": "P:GMIX",
+      "n": "iShares Macro AlphaBeta Active ETF"
     },
     {
       "i": "P:GMMA",
@@ -36681,6 +36693,10 @@
       "n": "Shell plc ADRhedged"
     },
     {
+      "i": "P:SHLA",
+      "n": "Global X Asia Defense Tech ETF"
+    },
+    {
       "i": "P:SHLD",
       "n": "Global X Defense Tech ETF"
     },
@@ -37665,6 +37681,10 @@
       "n": "AAM Transformers ETF"
     },
     {
+      "i": "P:TRLL",
+      "n": "Direxion Trillions ETF"
+    },
+    {
       "i": "P:TRND",
       "n": "Pacer Trendpilot Fund of Funds ETF"
     },
@@ -37783,10 +37803,6 @@
     {
       "i": "P:TYO",
       "n": "Direxion Daily 10-Yr Treasury Bear 3x Shrs"
-    },
-    {
-      "i": "P:TYYY",
-      "n": "xETFs TSLA Daily Income ETF"
     },
     {
       "i": "P:TZA",
@@ -38119,6 +38135,10 @@
     {
       "i": "P:VEM",
       "n": "Virtus Emerging Markets Dividend ETF"
+    },
+    {
+      "i": "P:VEN",
+      "n": "Teucrium Venezuela Future Opportunities ETF"
     },
     {
       "i": "P:VEU",
@@ -38845,6 +38865,10 @@
       "n": "Direxion Daily FTSE China Bear 3X ETF"
     },
     {
+      "i": "P:YASX",
+      "n": "Yorkville America Space Index ETF"
+    },
+    {
       "i": "P:YBIT",
       "n": "YieldMax Bitcoin Option Income Strategy ETF"
     },
@@ -38895,6 +38919,10 @@
     {
       "i": "P:YMAX",
       "n": "YieldMax Universe Fund of Option Income ETFs"
+    },
+    {
+      "i": "P:YO",
+      "n": "Amplify S&P 500 Buffered Autocallable Yield Opportunity ETF"
     },
     {
       "i": "P:YOLO",
@@ -41851,6 +41879,10 @@
     {
       "i": "Q:CCHH",
       "n": "CCH Holdings Ltd - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:CCHP",
+      "n": "Global X China Semiconductor ETF"
     },
     {
       "i": "Q:CCII",
@@ -45817,6 +45849,10 @@
       "n": "Berto Acquisition Corp. II - Ordinary Shares"
     },
     {
+      "i": "Q:GUER",
+      "n": "Guerrilla RF, Inc."
+    },
+    {
       "i": "Q:GURE",
       "n": "Gulf Resources, Inc."
     },
@@ -47063,6 +47099,10 @@
     {
       "i": "Q:IQQ",
       "n": "iShares Nasdaq 100 ETF"
+    },
+    {
+      "i": "Q:IQQI",
+      "n": "IncomeQ Nasdaq-100 Premium Income ETF"
     },
     {
       "i": "Q:IQQQ",
@@ -50665,10 +50705,6 @@
       "n": "PIMCO Inflation PLUS Active Exchange-Traded Fund"
     },
     {
-      "i": "Q:PCRX",
-      "n": "Pacira BioSciences, Inc."
-    },
-    {
       "i": "Q:PCSA",
       "n": "Processa Pharmaceuticals, Inc."
     },
@@ -52693,6 +52729,10 @@
       "n": "Santacruz Silver Mining Ltd. - Common Shares"
     },
     {
+      "i": "Q:SDC",
+      "n": "KICK Space Data Center & Infrastructure Index ETF"
+    },
+    {
       "i": "Q:SDG",
       "n": "iShares MSCI Global Sustainable Development Goals ETF"
     },
@@ -52899,10 +52939,6 @@
     {
       "i": "Q:SHEN",
       "n": "Shenandoah Telecommunications Co"
-    },
-    {
-      "i": "Q:SHFS",
-      "n": "SHF Holdings, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:SHIM",
@@ -62121,6 +62157,10 @@
       "n": "Vanguard Wellington U.S. Value Active ETF"
     },
     {
+      "i": "Z:VVPL",
+      "n": "Vulcan Value Partners ETF"
+    },
+    {
       "i": "Z:VXX",
       "n": "iPath Series B S&P 500 VIX Short-Term Futures ETN"
     },
@@ -62219,10 +62259,6 @@
     {
       "i": "Z:WYFL",
       "n": "Defiance Daily Target 2X Long WYFI ETF"
-    },
-    {
-      "i": "Z:WZRD",
-      "n": "Opportunistic Trader ETF"
     },
     {
       "i": "Z:XA",
