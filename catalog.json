@@ -5514,7 +5514,7 @@
     },
     {
       "i": "KQ:200350",
-      "n": "아티스트스튜디오"
+      "n": "스튜디오쏠쏠"
     },
     {
       "i": "KQ:200470",
@@ -8093,6 +8093,10 @@
       "n": "아이비젼웍스"
     },
     {
+      "i": "KQ:471800",
+      "n": "에이엘로봇"
+    },
+    {
       "i": "KQ:471820",
       "n": "셀로맥스사이언스"
     },
@@ -8127,10 +8131,6 @@
     {
       "i": "KQ:474650",
       "n": "링크솔루션"
-    },
-    {
-      "i": "KQ:474660",
-      "n": "신한제12호스팩"
     },
     {
       "i": "KQ:474930",
@@ -39961,10 +39961,6 @@
       "n": "AMERISAFE, Inc."
     },
     {
-      "i": "Q:AMST",
-      "n": "Amesite Inc."
-    },
-    {
       "i": "Q:AMTX",
       "n": "Aemetis, Inc"
     },
@@ -48597,6 +48593,10 @@
       "n": "MDB Capital Holdings, LLC - Class A common"
     },
     {
+      "i": "Q:MDCX",
+      "n": "Medicus Pharma Ltd."
+    },
+    {
       "i": "Q:MDGL",
       "n": "Madrigal Pharmaceuticals, Inc."
     },
@@ -49945,10 +49945,6 @@
       "n": "News Corporation - Class A Common Stock"
     },
     {
-      "i": "Q:NXAT",
-      "n": "Nexus Advanced Technologies Inc. - Ordinary Shares"
-    },
-    {
       "i": "Q:NXDR",
       "n": "Nextdoor Holdings, Inc."
     },
@@ -50119,10 +50115,6 @@
     {
       "i": "Q:OFS",
       "n": "OFS Capital Corporation - Closed End Fund"
-    },
-    {
-      "i": "Q:OGI",
-      "n": "Organigram Global Inc. - Common Shares"
     },
     {
       "i": "Q:OHAC",
@@ -52679,6 +52671,10 @@
     {
       "i": "Q:SCII",
       "n": "SC II Acquisition Corp. - Class A ordinary share"
+    },
+    {
+      "i": "Q:SCKT",
+      "n": "Socket Mobile, Inc."
     },
     {
       "i": "Q:SCLX",
@@ -56443,10 +56439,6 @@
     {
       "i": "Q:ZSTK",
       "n": "ZeroStack Corp."
-    },
-    {
-      "i": "Q:ZTG",
-      "n": "Zenta Group Company Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:ZTOP",
