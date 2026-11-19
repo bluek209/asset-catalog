@@ -191,6 +191,11 @@
       "k": "ANKR"
     },
     {
+      "e": "ANTB",
+      "i": "BN:ANTB-USDT",
+      "k": "ANTB"
+    },
+    {
       "e": "ApeCoin",
       "i": "BN:APE-USDT",
       "k": "에이프코인"
@@ -4264,11 +4269,6 @@
       "e": "Capybobo",
       "i": "BT:PYBOBO-KRW",
       "k": "카피보보"
-    },
-    {
-      "e": "Vulcan Forged",
-      "i": "BT:PYR-KRW",
-      "k": "불칸포지드"
     },
     {
       "e": "Pyth Network",

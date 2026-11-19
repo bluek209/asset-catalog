@@ -357,6 +357,10 @@
       "n": "flyExclusive, Inc. Class A Common Stock"
     },
     {
+      "i": "A:FMBM",
+      "n": "F&M Bank Corp. Common Stock"
+    },
+    {
       "i": "A:FSI",
       "n": "Flexible Solutions International Inc. Common Stock (CDA)"
     },
@@ -24093,10 +24097,6 @@
       "n": "Lamb Weston Holdings, Inc. Common Stock"
     },
     {
-      "i": "N:LXFR",
-      "n": "Luxfer Holdings PLC Ordinary Shares"
-    },
-    {
       "i": "N:LXU",
       "n": "LSB Industries, Inc. Common Stock"
     },
@@ -29925,6 +29925,10 @@
       "n": "WisdomTree Emerging Currency Strategy Fund"
     },
     {
+      "i": "P:CGBI",
+      "n": "Capital Group Multi-Asset Income Builder ETF"
+    },
+    {
       "i": "P:CGBL",
       "n": "Capital Group Core Balanced ETF"
     },
@@ -29971,6 +29975,10 @@
     {
       "i": "P:CGIE",
       "n": "Capital Group International Equity ETF"
+    },
+    {
+      "i": "P:CGMI",
+      "n": "Capital Group Multi-Asset Income ETF"
     },
     {
       "i": "P:CGMM",
@@ -32605,10 +32613,6 @@
       "n": "iShares Macro AlphaBeta Active ETF"
     },
     {
-      "i": "P:GMMA",
-      "n": "GammaRoad Market Navigation ETF"
-    },
-    {
       "i": "P:GMNY",
       "n": "Goldman Sachs Dynamic New York Municipal Income ETF"
     },
@@ -32661,6 +32665,10 @@
       "n": "VanEck Alternative Asset Manager ETF"
     },
     {
+      "i": "P:GQGG",
+      "n": "GQG Global Equity ETF"
+    },
+    {
       "i": "P:GQGU",
       "n": "GQG US Equity ETF"
     },
@@ -32703,6 +32711,10 @@
     {
       "i": "P:GSC",
       "n": "Goldman Sachs Small Cap Equity ETF"
+    },
+    {
+      "i": "P:GSCZ",
+      "n": "Goldman Sachs Securitized Income ETF"
     },
     {
       "i": "P:GSEU",
@@ -33839,6 +33851,10 @@
     {
       "i": "P:JADE",
       "n": "JPMorgan Active Developing Markets Equity ETF"
+    },
+    {
+      "i": "P:JALL",
+      "n": "JPMorgan All Country Research Enhanced Equity ETF"
     },
     {
       "i": "P:JAVA",
@@ -37409,6 +37425,10 @@
       "n": "Chesapeake Trend-Following Fixed Income ETF"
     },
     {
+      "i": "P:TFIX",
+      "n": "T. Rowe Price Capital Appreciation Fixed Income ETF"
+    },
+    {
       "i": "P:TFLR",
       "n": "T. Rowe Price Floating Rate ETF"
     },
@@ -37822,7 +37842,7 @@
     },
     {
       "i": "P:UBT",
-      "n": "ProShares Ultra 20+ Year Treasury"
+      "n": "ProShares Ultra 20 Year Treasury"
     },
     {
       "i": "P:UCBG",
@@ -40047,6 +40067,10 @@
     {
       "i": "Q:ANPA",
       "n": "Rich Sparkle Holdings Limited - Ordinary Shares"
+    },
+    {
+      "i": "Q:ANT",
+      "n": "Anthropic, PBC - Class A Common Stock"
     },
     {
       "i": "Q:ANTA",
@@ -44437,6 +44461,10 @@
       "n": "Fidelity Disruptive Communications ETF"
     },
     {
+      "i": "Q:FDGX",
+      "n": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:FDIG",
       "n": "Fidelity Crypto Industry and Digital Payments ETF"
     },
@@ -47671,10 +47699,6 @@
     {
       "i": "Q:KOSS",
       "n": "Koss Corporation"
-    },
-    {
-      "i": "Q:KOYN",
-      "n": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares"
     },
     {
       "i": "Q:KPLT",
@@ -52673,10 +52697,6 @@
       "n": "SC II Acquisition Corp. - Class A ordinary share"
     },
     {
-      "i": "Q:SCKT",
-      "n": "Socket Mobile, Inc."
-    },
-    {
       "i": "Q:SCLX",
       "n": "Scilex Holding Company"
     },
@@ -53591,10 +53611,6 @@
     {
       "i": "Q:SSS",
       "n": "CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF"
-    },
-    {
-      "i": "Q:SSTI",
-      "n": "SoundThinking, Inc."
     },
     {
       "i": "Q:SSYS",
