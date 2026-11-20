@@ -42513,10 +42513,6 @@
       "n": "Cerenome, Inc."
     },
     {
-      "i": "Q:CNTB",
-      "n": "Connect Biopharma Holdings Limited - Ordinary Shares"
-    },
-    {
       "i": "Q:CNTN",
       "n": "Canton Strategic Holdings, Inc."
     },
@@ -48693,6 +48689,10 @@
       "n": "Methanex Corporation"
     },
     {
+      "i": "Q:MERC",
+      "n": "Mercer International Inc."
+    },
+    {
       "i": "Q:MESH",
       "n": "Meshflow Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -50587,10 +50587,6 @@
     {
       "i": "Q:PARK",
       "n": "Park Dental Partners, Inc."
-    },
-    {
-      "i": "Q:PASG",
-      "n": "Passage Bio, Inc."
     },
     {
       "i": "Q:PASW",
