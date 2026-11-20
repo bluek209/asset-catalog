@@ -25361,10 +25361,6 @@
       "n": "Ooma, Inc. Common Stock"
     },
     {
-      "i": "N:OPAY",
-      "n": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares"
-    },
-    {
       "i": "N:OPFI",
       "n": "OppFi Inc. Class A Common Stock"
     },
@@ -28071,10 +28067,6 @@
     {
       "i": "N:UTL",
       "n": "UNITIL Corporation Common Stock"
-    },
-    {
-      "i": "N:UTZ",
-      "n": "Utz Brands Inc Class A Common Stock"
     },
     {
       "i": "N:UVE",
@@ -34034,7 +34026,7 @@
     },
     {
       "i": "P:JOET",
-      "n": "Virtus Terranova U.S. Quality Momentum ETF"
+      "n": "Virtus NYSE Terranova U.S. Quality Momentum ETF"
     },
     {
       "i": "P:JOJO",
@@ -38929,6 +38921,10 @@
       "n": "Principal Active High Yield ETF"
     },
     {
+      "i": "P:YLDS",
+      "n": "Harbor Arena Structured Income ETF"
+    },
+    {
       "i": "P:YLDW",
       "n": "Westwood Enhanced Income Opportunity ETF"
     },
@@ -39071,6 +39067,10 @@
     {
       "i": "Q:AAUB",
       "n": "Alpha Architect US Equity 4 ETF"
+    },
+    {
+      "i": "Q:AAUD",
+      "n": "Alpha Architect US Equity 5 ETF"
     },
     {
       "i": "Q:AAUS",
@@ -43103,6 +43103,10 @@
     {
       "i": "Q:CZWI",
       "n": "Citizens Community Bancorp, Inc."
+    },
+    {
+      "i": "Q:CZZL",
+      "n": "Cizzle Brands Corporation"
     },
     {
       "i": "Q:DAAQ",
@@ -47181,6 +47185,10 @@
       "n": "First Trust S-Network E-Commerce ETF"
     },
     {
+      "i": "Q:ISMH",
+      "n": "xETFs International Semiconductor ETF"
+    },
+    {
       "i": "Q:ISNR",
       "n": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares"
     },
@@ -48687,10 +48695,6 @@
     {
       "i": "Q:MEOH",
       "n": "Methanex Corporation"
-    },
-    {
-      "i": "Q:MERC",
-      "n": "Mercer International Inc."
     },
     {
       "i": "Q:MESH",
