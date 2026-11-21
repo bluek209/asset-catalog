@@ -39825,6 +39825,10 @@
       "n": "Alpha Compute Corp - Ordinary Shares"
     },
     {
+      "i": "Q:ALPS",
+      "n": "ALPS Group Inc - Ordinary Share"
+    },
+    {
       "i": "Q:ALPX",
       "n": "Alpex Acquisition Corporation - Class A Ordinary Shares"
     },
@@ -46509,6 +46513,10 @@
       "n": "IBEX Limited - Common Share"
     },
     {
+      "i": "Q:IBG",
+      "n": "Innovation Beverage Group Limited - Ordinary Shares"
+    },
+    {
       "i": "Q:IBGA",
       "n": "iShares iBonds Dec 2044 Term Treasury ETF"
     },
@@ -49283,6 +49291,10 @@
     {
       "i": "Q:MYSE",
       "n": "Myseum.AI, Inc."
+    },
+    {
+      "i": "Q:MYSZ",
+      "n": "My Size, Inc."
     },
     {
       "i": "Q:MYX",
