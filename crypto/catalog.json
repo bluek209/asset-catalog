@@ -676,9 +676,9 @@
       "k": "CVX"
     },
     {
-      "e": "Cyber",
+      "e": "CYBER",
       "i": "BN:CYBER-USDT",
-      "k": "사이버"
+      "k": "CYBER"
     },
     {
       "e": "CYPHB",
@@ -2066,9 +2066,9 @@
       "k": "SKUUB"
     },
     {
-      "e": "Sky Protocol",
+      "e": "SKY",
       "i": "BN:SKY-USDT",
-      "k": "스카이프로토콜"
+      "k": "SKY"
     },
     {
       "e": "SLP",
@@ -2388,7 +2388,7 @@
     {
       "e": "USDS",
       "i": "BN:USDS-USDT",
-      "k": "유에스디에스"
+      "k": "USDS"
     },
     {
       "e": "USTC",
@@ -3259,11 +3259,6 @@
       "e": "Civic",
       "i": "BT:CVC-KRW",
       "k": "시빅"
-    },
-    {
-      "e": "Cyber",
-      "i": "BT:CYBER-KRW",
-      "k": "사이버"
     },
     {
       "e": "Cysic",
@@ -4461,11 +4456,6 @@
       "k": "시커"
     },
     {
-      "e": "Sky Protocol",
-      "i": "BT:SKY-KRW",
-      "k": "스카이프로토콜"
-    },
-    {
       "e": "Solstice",
       "i": "BT:SLX-KRW",
       "k": "솔스티스"
@@ -4719,11 +4709,6 @@
       "e": "Global Dollar",
       "i": "BT:USDG-KRW",
       "k": "글로벌달러"
-    },
-    {
-      "e": "USDS",
-      "i": "BT:USDS-KRW",
-      "k": "유에스디에스"
     },
     {
       "e": "Tether USDt",
@@ -5334,11 +5319,6 @@
       "e": "Civic",
       "i": "UP:CVC-KRW",
       "k": "시빅"
-    },
-    {
-      "e": "Cyber",
-      "i": "UP:CYBER-KRW",
-      "k": "사이버"
     },
     {
       "e": "Data Network",
@@ -6106,11 +6086,6 @@
       "k": "시커"
     },
     {
-      "e": "Sky Protocol",
-      "i": "UP:SKY-KRW",
-      "k": "스카이프로토콜"
-    },
-    {
       "e": "Solstice",
       "i": "UP:SLX-KRW",
       "k": "솔스티스"
@@ -6279,11 +6254,6 @@
       "e": "Global Dollar",
       "i": "UP:USDG-KRW",
       "k": "글로벌달러"
-    },
-    {
-      "e": "USDS",
-      "i": "UP:USDS-KRW",
-      "k": "유에스디에스"
     },
     {
       "e": "Tether",

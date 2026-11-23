@@ -19789,8 +19789,8 @@
       "n": "Bio-Rad Laboratories, Inc. Class B Common Stock"
     },
     {
-      "i": "N:BIPC",
-      "n": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation"
+      "i": "N:BIP",
+      "n": "Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares"
     },
     {
       "i": "N:BIPI",
@@ -30737,6 +30737,10 @@
       "n": "Global X Super Dividend ETF"
     },
     {
+      "i": "P:DIVA",
+      "n": "AB Equity Income ETF"
+    },
+    {
       "i": "P:DIVE",
       "n": "Dana Concentrated Dividend ETF"
     },
@@ -37169,10 +37173,6 @@
       "n": "State Street Blackstone Senior Loan ETF"
     },
     {
-      "i": "P:SROI",
-      "n": "Calamos Antetokounmpo Global Sustainable Equities ETF"
-    },
-    {
       "i": "P:SRS",
       "n": "ProShares UltraShort Real Estate"
     },
@@ -38973,6 +38973,10 @@
       "n": "Virtus Zevenbergen Discovery Growth ETF"
     },
     {
+      "i": "P:ZECX",
+      "n": "2x ZCSH ETF"
+    },
+    {
       "i": "P:ZHDG",
       "n": "ZEGA Buy and Hedge ETF"
     },
@@ -39617,6 +39621,10 @@
       "n": "Air Global PLC - Ordinary shares"
     },
     {
+      "i": "Q:AIL",
+      "n": "GraniteShares 2x Long Anthropic Daily ETF"
+    },
+    {
       "i": "Q:AIMD",
       "n": "Ainos, Inc."
     },
@@ -40073,6 +40081,10 @@
       "n": "Rich Sparkle Holdings Limited - Ordinary Shares"
     },
     {
+      "i": "Q:ANS",
+      "n": "GraniteShares 2x Short Anthropic Daily ETF"
+    },
+    {
       "i": "Q:ANT",
       "n": "Anthropic, PBC - Class A Common Stock"
     },
@@ -40081,8 +40093,32 @@
       "n": "Antalpha Platform Holding Company - Class A Ordinary Shares"
     },
     {
+      "i": "Q:ANTC",
+      "n": "Defiance 2X ANT Long Daily ETF"
+    },
+    {
+      "i": "Q:ANTD",
+      "n": "Direxion Daily Anthropic Bear 2X ETF"
+    },
+    {
+      "i": "Q:ANTO",
+      "n": "Direxion Daily Anthropic Bull 2X ETF"
+    },
+    {
+      "i": "Q:ANTQ",
+      "n": "Defiance 2X ANT Short Daily ETF"
+    },
+    {
+      "i": "Q:ANTU",
+      "n": "ProShares Ultra Anthropic"
+    },
+    {
       "i": "Q:ANTX",
       "n": "AN2 Therapeutics, Inc."
+    },
+    {
+      "i": "Q:ANTY",
+      "n": "ProShares UltraShort Anthropic"
     },
     {
       "i": "Q:ANV",
@@ -40657,6 +40693,10 @@
       "n": "Defiance Daily Target 2x Long AVAV ETF"
     },
     {
+      "i": "Q:AVZO",
+      "n": "Avenzo Therapeutics, Inc."
+    },
+    {
       "i": "Q:AWRE",
       "n": "Aware, Inc."
     },
@@ -41143,10 +41183,6 @@
     {
       "i": "Q:BKCH",
       "n": "Global X Blockchain ETF"
-    },
-    {
-      "i": "Q:BKHA",
-      "n": "Black Hawk Acquisition Corporation - Class A Ordinary Shares"
     },
     {
       "i": "Q:BKMI",
@@ -42423,6 +42459,10 @@
     {
       "i": "Q:CLWT",
       "n": "Euro Tech Holdings Company Limited - Ordinary Shares"
+    },
+    {
+      "i": "Q:CLYD",
+      "n": "Clywedog Therapeutics Holdings, Inc."
     },
     {
       "i": "Q:CLYM",
@@ -43945,6 +43985,10 @@
       "n": "iShares Enhanced Large Cap Core Active ETF"
     },
     {
+      "i": "Q:ENHV",
+      "n": "iShares Enhanced Large Cap Value Active ETF"
+    },
+    {
       "i": "Q:ENLT",
       "n": "Enlight Renewable Energy Ltd. - Ordinary Shares"
     },
@@ -44187,6 +44231,10 @@
     {
       "i": "Q:EVRG",
       "n": "Evergy, Inc."
+    },
+    {
+      "i": "Q:EVRL",
+      "n": "Everli Global Holdings - Class A Ordinary Shares"
     },
     {
       "i": "Q:EVSD",
@@ -48437,10 +48485,6 @@
       "n": "GraniteShares YieldBOOST MARA ETF"
     },
     {
-      "i": "Q:MACI",
-      "n": "Melar Acquisition Corp. I - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MAKO",
       "n": "Mako Mining Corp"
     },
@@ -52281,20 +52325,12 @@
       "n": "Defiance Daily Target 2X Long RKLB ETF"
     },
     {
-      "i": "Q:RKNG",
-      "n": "Defiance Retail Kings ETF"
-    },
-    {
       "i": "Q:RLAY",
       "n": "Relay Therapeutics, Inc."
     },
     {
       "i": "Q:RLMD",
       "n": "Relmada Therapeutics, Inc."
-    },
-    {
-      "i": "Q:RLYB",
-      "n": "Rallybio Corporation"
     },
     {
       "i": "Q:RMBI",
@@ -55253,6 +55289,10 @@
       "n": "Vertex, Inc. - Class A Common Stock"
     },
     {
+      "i": "Q:VESI",
+      "n": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares"
+    },
+    {
       "i": "Q:VFF",
       "n": "Village Farms International, Inc. - Common Shares"
     },
@@ -56669,6 +56709,10 @@
       "n": "Aptus Laddered Deep Buffer ETF"
     },
     {
+      "i": "Z:ALLZ",
+      "n": "Zacks All-Cap Core ETF"
+    },
+    {
       "i": "Z:AMAA",
       "n": "Corgi AMZN 2x Daily ETF"
     },
@@ -56711,6 +56755,26 @@
     {
       "i": "Z:AMZW",
       "n": "Roundhill AMZN WeeklyPay ETF"
+    },
+    {
+      "i": "Z:ANDD",
+      "n": "Leverage Shares 2X Short Anthropic Daily ETF"
+    },
+    {
+      "i": "Z:ANSS",
+      "n": "Leverage Shares 1X Short Anthropic Daily ETF"
+    },
+    {
+      "i": "Z:ANTT",
+      "n": "Tradr 2X Long Anthropic Daily ETF"
+    },
+    {
+      "i": "Z:ANTZ",
+      "n": "Tradr 2X Short Anthropic Daily ETF"
+    },
+    {
+      "i": "Z:ANUU",
+      "n": "Leverage Shares 2X Long Anthropic Daily ETF"
     },
     {
       "i": "Z:AOCT",
@@ -56891,6 +56955,10 @@
     {
       "i": "Z:AT",
       "n": "Defiance Robotics Actuators ETF"
+    },
+    {
+      "i": "Z:ATHX",
+      "n": "2x Anthropic ETF"
     },
     {
       "i": "Z:ATMP",
@@ -57563,6 +57631,10 @@
     {
       "i": "Z:CJUN",
       "n": "Corgi U.S. Equities 15% Structured Buffer ETF - June Series"
+    },
+    {
+      "i": "Z:CLAU",
+      "n": "T-REX 2X Long Anthropic Daily Target ETF"
     },
     {
       "i": "Z:CLSE",
@@ -62659,6 +62731,10 @@
     {
       "i": "Z:ZAUG",
       "n": "Innovator Equity Defined Protection ETF - 1 Yr August"
+    },
+    {
+      "i": "Z:ZCAP",
+      "n": "Zacks Small-Cap Core ETF"
     },
     {
       "i": "Z:ZDEK",
