@@ -41021,10 +41021,6 @@
       "n": "iShares Flexible Equity Active ETF"
     },
     {
-      "i": "Q:BFRI",
-      "n": "Biofrontera Inc."
-    },
-    {
       "i": "Q:BFST",
       "n": "Business First Bancshares, Inc."
     },
@@ -45357,6 +45353,10 @@
       "n": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:GCL",
+      "n": "GCL Global Holdings Ltd - Ordinary Shares"
+    },
+    {
       "i": "Q:GCMG",
       "n": "GCM Grosvenor Inc. - Class A Common Stock"
     },
@@ -48725,10 +48725,6 @@
       "n": "Horizon Kinetics Medical ETF"
     },
     {
-      "i": "Q:MEGL",
-      "n": "Magic Empire Global Limited - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:MELI",
       "n": "MercadoLibre, Inc."
     },
@@ -49637,10 +49633,6 @@
       "n": "National Healthcare Properties, Inc."
     },
     {
-      "i": "Q:NHTC",
-      "n": "Natural Health Trends Corp."
-    },
-    {
       "i": "Q:NICE",
       "n": "NICE Ltd - American Depositary Shares each representing one Ordinary Share"
     },
@@ -50055,10 +50047,6 @@
     {
       "i": "Q:NXT",
       "n": "Nextpower Inc."
-    },
-    {
-      "i": "Q:NXTC",
-      "n": "NextCure, Inc."
     },
     {
       "i": "Q:NXTG",
@@ -50975,10 +50963,6 @@
     {
       "i": "Q:PHAT",
       "n": "Phathom Pharmaceuticals, Inc."
-    },
-    {
-      "i": "Q:PHIO",
-      "n": "Phio Pharmaceuticals Corp."
     },
     {
       "i": "Q:PHO",
@@ -52467,10 +52451,6 @@
     {
       "i": "Q:RPGL",
       "n": "Republic Power Group Limited - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:RPID",
-      "n": "Rapid Micro Biosystems, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:RPRX",
@@ -55275,10 +55255,6 @@
     {
       "i": "Q:VERA",
       "n": "Vera Therapeutics, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:VERI",
-      "n": "Veritone, Inc."
     },
     {
       "i": "Q:VERU",

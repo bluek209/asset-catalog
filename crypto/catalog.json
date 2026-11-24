@@ -3,7 +3,7 @@
     {
       "e": "0G",
       "i": "BN:0G-USDT",
-      "k": "제로지"
+      "k": "0G"
     },
     {
       "e": "1000CAT",
@@ -2631,11 +2631,6 @@
       "k": "牛来"
     },
     {
-      "e": "0G",
-      "i": "BT:0G-KRW",
-      "k": "제로지"
-    },
-    {
       "e": "1inch",
       "i": "BT:1INCH-KRW",
       "k": "1인치"
@@ -4076,6 +4071,11 @@
       "k": "오리진프로토콜"
     },
     {
+      "e": "Orochi Network",
+      "i": "BT:ON-KRW",
+      "k": "오로치네트워크"
+    },
+    {
       "e": "Ondo Finance",
       "i": "BT:ONDO-KRW",
       "k": "온도파이낸스"
@@ -4386,6 +4386,11 @@
       "k": "사하라에이아이"
     },
     {
+      "e": "Sanctum",
+      "i": "BT:SANC-KRW",
+      "k": "생텀"
+    },
+    {
       "e": "The Sandbox",
       "i": "BT:SAND-KRW",
       "k": "샌드박스"
@@ -4504,6 +4509,11 @@
       "e": "SPX6900",
       "i": "BT:SPX-KRW",
       "k": "에스피엑스6900"
+    },
+    {
+      "e": "Subsquid",
+      "i": "BT:SQD-KRW",
+      "k": "서브스퀴드"
     },
     {
       "e": "Stable",
@@ -4949,11 +4959,6 @@
       "e": "0x",
       "i": "BT:ZRX-KRW",
       "k": "제로엑스"
-    },
-    {
-      "e": "0G",
-      "i": "UP:0G-KRW",
-      "k": "제로지"
     },
     {
       "e": "1inch Network",
@@ -5844,6 +5849,11 @@
       "e": "o1.exchange",
       "i": "UP:O-KRW",
       "k": "오원익스체인지"
+    },
+    {
+      "e": "Orochi Network",
+      "i": "UP:ON-KRW",
+      "k": "오로치네트워크"
     },
     {
       "e": "Ondo Finance",
