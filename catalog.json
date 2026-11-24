@@ -26129,6 +26129,10 @@
       "n": "QuasarEdge Acquisition Corporation Ordinary Shares"
     },
     {
+      "i": "N:QSPC",
+      "n": "Quantum Space, Inc. Class A-1 Common Stock"
+    },
+    {
       "i": "N:QSR",
       "n": "Restaurant Brands International Inc. Common Shares"
     },
@@ -30137,10 +30141,6 @@
       "n": "Tweedy, Browne Insider + Value ETF"
     },
     {
-      "i": "P:COPZ",
-      "n": "Defiance Daily Target 2X Long Copper Miners ETF"
-    },
-    {
       "i": "P:CORN",
       "n": "Teucrium Corn Fund ETV"
     },
@@ -33667,6 +33667,10 @@
     {
       "i": "P:IVE",
       "n": "iShares S&P 500 Value ETF"
+    },
+    {
+      "i": "P:IVEA",
+      "n": "Dan IVES Wedbush AI Autocallable Income ETF"
     },
     {
       "i": "P:IVEP",
@@ -38877,6 +38881,10 @@
       "n": "Direxion Daily FTSE China Bear 3X ETF"
     },
     {
+      "i": "P:YANT",
+      "n": "YieldMax ANT Option Income Strategy ETF"
+    },
+    {
       "i": "P:YASX",
       "n": "Yorkville America Space Index ETF"
     },
@@ -43701,10 +43709,6 @@
       "n": "Global X E-commerce ETF"
     },
     {
-      "i": "Q:EBMT",
-      "n": "Eagle Bancorp Montana, Inc."
-    },
-    {
       "i": "Q:EBON",
       "n": "Ebang International Holdings Inc. - Class A Ordinary Shares"
     },
@@ -47113,10 +47117,6 @@
       "n": "Professional Diversity Network, Inc."
     },
     {
-      "i": "Q:IPFX",
-      "n": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares"
-    },
-    {
       "i": "Q:IPGP",
       "n": "IPG Photonics Corporation"
     },
@@ -50089,6 +50089,10 @@
       "n": "Orchestra BioMed Holdings, Inc. - Ordinary Shares"
     },
     {
+      "i": "Q:OBMT",
+      "n": "Opportunity Bancorp, Inc."
+    },
+    {
       "i": "Q:OBT",
       "n": "Orange County Bancorp, Inc."
     },
@@ -52039,10 +52043,6 @@
     {
       "i": "Q:RCAT",
       "n": "Red Cat Holdings, Inc."
-    },
-    {
-      "i": "Q:RCAX",
-      "n": "Defiance Daily Target 2x Long RCAT ETF"
     },
     {
       "i": "Q:RCBC",
@@ -59463,10 +59463,6 @@
     {
       "i": "Z:KDEC",
       "n": "Innovator U.S. Small Cap Power Buffer ETF - December"
-    },
-    {
-      "i": "Z:KEEX",
-      "n": "Defiance Daily Target 2x Long KEEL ETF"
     },
     {
       "i": "Z:KEO",
