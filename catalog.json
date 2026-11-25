@@ -8401,6 +8401,10 @@
       "n": "신한제16호스팩"
     },
     {
+      "i": "KQ:498150",
+      "n": "엠비디"
+    },
+    {
       "i": "KQ:498390",
       "n": "한화플러스제5호스팩"
     },
@@ -12015,6 +12019,14 @@
     {
       "i": "KS:0269N0",
       "n": "RISE 미국초대형주TOP10"
+    },
+    {
+      "i": "KS:0270V0",
+      "n": "PLUS 글로벌AI병목인프라액티브"
+    },
+    {
+      "i": "KS:0271B0",
+      "n": "TIGER 글로벌LLM액티브"
     },
     {
       "i": "KS:027410",
@@ -35081,10 +35093,6 @@
       "n": "Nuveen High Yield Municipal Income ETF"
     },
     {
-      "i": "P:NICO",
-      "n": "Hexis Active Nicotine Engagement ETF"
-    },
-    {
       "i": "P:NISM",
       "n": "NYLIM International Small-Mid Cap Equity ETF"
     },
@@ -39741,10 +39749,6 @@
       "n": "Alico, Inc."
     },
     {
-      "i": "Q:ALDX",
-      "n": "Aldeyra Therapeutics, Inc."
-    },
-    {
       "i": "Q:ALEC",
       "n": "Alector, Inc."
     },
@@ -40251,6 +40255,10 @@
     {
       "i": "Q:AQWA",
       "n": "Global X Clean Water ETF"
+    },
+    {
+      "i": "Q:ARAY",
+      "n": "Accuray Incorporated"
     },
     {
       "i": "Q:ARBB",
@@ -43285,10 +43293,6 @@
       "n": "T3 Defense Inc."
     },
     {
-      "i": "Q:DFSC",
-      "n": "DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering"
-    },
-    {
       "i": "Q:DFTX",
       "n": "Definium Therapeutics, Inc. - Common Shares"
     },
@@ -43991,6 +43995,10 @@
     {
       "i": "Q:ENLT",
       "n": "Enlight Renewable Energy Ltd. - Ordinary Shares"
+    },
+    {
+      "i": "Q:ENLV",
+      "n": "Enlivex Ltd. - Ordinary Shares"
     },
     {
       "i": "Q:ENPH",
@@ -45379,10 +45387,6 @@
     {
       "i": "Q:GDHG",
       "n": "Golden Heaven Group Holdings Ltd. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:GDRX",
-      "n": "GoodRx Holdings, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:GDS",
@@ -48589,6 +48593,10 @@
       "n": "Microbot Medical Inc."
     },
     {
+      "i": "Q:MBRX",
+      "n": "Moleculin Biotech, Inc."
+    },
+    {
       "i": "Q:MBS",
       "n": "Angel Oak Mortgage-Backed Securities ETF"
     },
@@ -49237,16 +49245,16 @@
       "n": "Materialise NV - American Depositary Shares"
     },
     {
+      "i": "Q:MTRI",
+      "n": "Mentari Therapeutics, Inc."
+    },
+    {
       "i": "Q:MTRX",
       "n": "Matrix Service Company"
     },
     {
       "i": "Q:MTSI",
       "n": "MACOM Technology Solutions Holdings, Inc."
-    },
-    {
-      "i": "Q:MTVA",
-      "n": "MetaVia Inc."
     },
     {
       "i": "Q:MTYY",
@@ -50053,6 +50061,10 @@
       "n": "First Trust Indxx NextG ETF"
     },
     {
+      "i": "Q:NXTS",
+      "n": "Nexentis Technologies Inc."
+    },
+    {
       "i": "Q:NXTT",
       "n": "Next Technology Holding Inc. - Ordinary Shares"
     },
@@ -50179,6 +50191,10 @@
     {
       "i": "Q:OESX",
       "n": "Orion Energy Systems, Inc."
+    },
+    {
+      "i": "Q:OFAL",
+      "n": "OFA Group - Class A Ordinary Shares"
     },
     {
       "i": "Q:OFIX",
@@ -52617,6 +52633,10 @@
       "n": "Safety Insurance Group, Inc."
     },
     {
+      "i": "Q:SAFX",
+      "n": "XCF Global, Inc. - Class A Common Stock"
+    },
+    {
       "i": "Q:SAIA",
       "n": "Saia, Inc."
     },
@@ -52723,10 +52743,6 @@
     {
       "i": "Q:SCII",
       "n": "SC II Acquisition Corp. - Class A ordinary share"
-    },
-    {
-      "i": "Q:SCLX",
-      "n": "Scilex Holding Company"
     },
     {
       "i": "Q:SCNI",
@@ -54993,14 +55009,6 @@
       "n": "Unity Bancorp, Inc."
     },
     {
-      "i": "Q:UONE",
-      "n": "Urban One, Inc. - Class A Common Stock"
-    },
-    {
-      "i": "Q:UONEK",
-      "n": "Urban One, Inc. - Class D Common Stock"
-    },
-    {
       "i": "Q:UPB",
       "n": "Upstream Bio, Inc."
     },
@@ -56135,6 +56143,10 @@
     {
       "i": "Q:XMAG",
       "n": "Defiance Large Cap ex-Mag 7 ETF"
+    },
+    {
+      "i": "Q:XMAX",
+      "n": "XMAX, Inc."
     },
     {
       "i": "Q:XMTR",
