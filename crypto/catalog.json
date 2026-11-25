@@ -246,6 +246,11 @@
       "k": "알파"
     },
     {
+      "e": "ARTYB",
+      "i": "BN:ARTYB-USDT",
+      "k": "ARTYB"
+    },
+    {
       "e": "ASMLB",
       "i": "BN:ASMLB-USDT",
       "k": "ASMLB"
@@ -936,6 +941,11 @@
       "k": "프랙스"
     },
     {
+      "e": "FRHCB",
+      "i": "BN:FRHCB-USDT",
+      "k": "FRHCB"
+    },
+    {
       "e": "FTT",
       "i": "BN:FTT-USDT",
       "k": "FTT"
@@ -1131,6 +1141,11 @@
       "k": "하이퍼레인"
     },
     {
+      "e": "IBITB",
+      "i": "BN:IBITB-USDT",
+      "k": "IBITB"
+    },
+    {
       "e": "IBMB",
       "i": "BN:IBMB-USDT",
       "k": "IBMB"
@@ -1144,6 +1159,11 @@
       "e": "SPACE ID",
       "i": "BN:ID-USDT",
       "k": "스페이스아이디"
+    },
+    {
+      "e": "IGVB",
+      "i": "BN:IGVB-USDT",
+      "k": "IGVB"
     },
     {
       "e": "Illuvium",
@@ -2129,6 +2149,11 @@
       "e": "SOXSB",
       "i": "BN:SOXSB-USDT",
       "k": "SOXSB"
+    },
+    {
+      "e": "SOXXB",
+      "i": "BN:SOXXB-USDT",
+      "k": "SOXXB"
     },
     {
       "e": "SPCXB",
