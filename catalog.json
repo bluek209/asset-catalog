@@ -10793,10 +10793,6 @@
       "n": "영화금속"
     },
     {
-      "i": "KS:0122W0",
-      "n": "RISE 26-11 회사채(AA-이상)액티브"
-    },
-    {
       "i": "KS:012320",
       "n": "경동인베스트"
     },
@@ -39641,10 +39637,6 @@
       "n": "GraniteShares 2x Long Anthropic Daily ETF"
     },
     {
-      "i": "Q:AIMD",
-      "n": "Ainos, Inc."
-    },
-    {
       "i": "Q:AIMG",
       "n": "Defiance AI Magnificent 10 ETF"
     },
@@ -41407,10 +41399,6 @@
     {
       "i": "Q:BOTZ",
       "n": "Global X Robotics & Artificial Intelligence ETF"
-    },
-    {
-      "i": "Q:BOXL",
-      "n": "Boxlight Corporation - Class A Common Stock"
     },
     {
       "i": "Q:BPAC",
@@ -44849,6 +44837,10 @@
       "n": "Flywire Corporation - Voting Common Stock"
     },
     {
+      "i": "Q:FMAC",
+      "n": "Future Money Acquisition Corporation - Ordinary Shares"
+    },
+    {
       "i": "Q:FMAO",
       "n": "Farmers & Merchants Bancorp, Inc."
     },
@@ -44887,10 +44879,6 @@
     {
       "i": "Q:FNRN",
       "n": "First Northern Community Bancorp"
-    },
-    {
-      "i": "Q:FNUC",
-      "n": "Frontier Nuclear and Minerals Inc. - Common Shares"
     },
     {
       "i": "Q:FNWB",
@@ -46087,6 +46075,10 @@
     {
       "i": "Q:HCSG",
       "n": "Healthcare Services Group, Inc."
+    },
+    {
+      "i": "Q:HCTI",
+      "n": "Healthcare Triangle, Inc."
     },
     {
       "i": "Q:HCWB",
@@ -53561,10 +53553,6 @@
       "n": "Tradr 2X Long SPY Quarterly ETF"
     },
     {
-      "i": "Q:SQFT",
-      "n": "Presidio Property Trust, Inc. - Class A Common Stock"
-    },
-    {
       "i": "Q:SQFTP",
       "n": "Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share"
     },
@@ -55615,6 +55603,10 @@
     {
       "i": "Q:VUZI",
       "n": "Vuzix Corporation"
+    },
+    {
+      "i": "Q:VVOS",
+      "n": "Vivos Therapeutics, Inc."
     },
     {
       "i": "Q:VWAV",
