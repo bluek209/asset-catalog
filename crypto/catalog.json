@@ -671,9 +671,9 @@
       "k": "카르테시"
     },
     {
-      "e": "Civic",
+      "e": "CVC",
       "i": "BN:CVC-USDT",
-      "k": "시빅"
+      "k": "CVC"
     },
     {
       "e": "CVX",
@@ -3106,6 +3106,11 @@
       "k": "비트토렌트"
     },
     {
+      "e": "Bitway",
+      "i": "BT:BTW-KRW",
+      "k": "비트웨이"
+    },
+    {
       "e": "Chainbase Token",
       "i": "BT:C-KRW",
       "k": "체인베이스토큰"
@@ -3274,11 +3279,6 @@
       "e": "Cartesi",
       "i": "BT:CTSI-KRW",
       "k": "카르테시"
-    },
-    {
-      "e": "Civic",
-      "i": "BT:CVC-KRW",
-      "k": "시빅"
     },
     {
       "e": "Cysic",
@@ -4341,11 +4341,6 @@
       "k": "레드스톤"
     },
     {
-      "e": "REI",
-      "i": "BT:REI-KRW",
-      "k": "레이"
-    },
-    {
       "e": "Render Token",
       "i": "BT:RENDER-KRW",
       "k": "렌더토큰"
@@ -5344,11 +5339,6 @@
       "e": "Creditcoin",
       "i": "UP:CTC-KRW",
       "k": "크레딧코인"
-    },
-    {
-      "e": "Civic",
-      "i": "UP:CVC-KRW",
-      "k": "시빅"
     },
     {
       "e": "Data Network",
