@@ -19953,10 +19953,6 @@
       "n": "Borr Drilling Limited Common Shares"
     },
     {
-      "i": "N:BOW",
-      "n": "Bowhead Specialty Holdings Inc. Common Stock"
-    },
-    {
       "i": "N:BOX",
       "n": "Box, Inc. Class A Common Stock"
     },
@@ -20982,7 +20978,7 @@
     },
     {
       "i": "N:CWT",
-      "n": "California Water Service Group Common Stock"
+      "n": "Watermark Utilities Common Stock"
     },
     {
       "i": "N:CX",
@@ -21335,10 +21331,6 @@
     {
       "i": "N:DUK-PA",
       "n": "Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
-    },
-    {
-      "i": "N:DV",
-      "n": "DoubleVerify Holdings, Inc. Common Stock"
     },
     {
       "i": "N:DVA",
@@ -24790,7 +24782,7 @@
     },
     {
       "i": "N:NCA",
-      "n": "Nuveen California Municipal Value Fund"
+      "n": "Nuveen California Municipal Income Fund Common Stock"
     },
     {
       "i": "N:NCDL",
@@ -24982,7 +24974,7 @@
     },
     {
       "i": "N:NNY",
-      "n": "Nuveen New York Municipal Value Fund Common Stock"
+      "n": "Nuveen New York Municipal Income Fund Common Stock"
     },
     {
       "i": "N:NOA",
@@ -28895,6 +28887,10 @@
     {
       "i": "P:AFLG",
       "n": "First Trust Active Factor Large Cap ETF"
+    },
+    {
+      "i": "P:AFLR",
+      "n": "Aligned Pathway Flourishing ETF"
     },
     {
       "i": "P:AFMC",
@@ -36901,10 +36897,6 @@
       "n": "Amplify Samsung SOFR ETF"
     },
     {
-      "i": "P:SOVF",
-      "n": "Sovereign's Capital Flourish Fund"
-    },
-    {
       "i": "P:SOXL",
       "n": "Direxion Daily Semiconductor Bull 3X ETF"
     },
@@ -40213,6 +40205,10 @@
       "n": "Global X Clean Water ETF"
     },
     {
+      "i": "Q:ARAI",
+      "n": "Arrive AI Inc."
+    },
+    {
       "i": "Q:ARAY",
       "n": "Accuray Incorporated"
     },
@@ -42469,10 +42465,6 @@
       "n": "COMPASS Pathways Plc - American Depository Shares"
     },
     {
-      "i": "Q:CMPX",
-      "n": "Compass Therapeutics, Inc."
-    },
-    {
       "i": "Q:CMRC",
       "n": "Commerce.com, Inc. - Series 1 Common Stock"
     },
@@ -44341,10 +44333,6 @@
       "n": "FatPipe, Inc."
     },
     {
-      "i": "Q:FBDT",
-      "n": "First Breach Inc."
-    },
-    {
       "i": "Q:FBEQ",
       "n": "Franklin US Equity Bitcoin Drip Index ETF"
     },
@@ -44431,6 +44419,10 @@
     {
       "i": "Q:FCFS",
       "n": "FirstCash Holdings, Inc."
+    },
+    {
+      "i": "Q:FCHL",
+      "n": "Fitness Champs Holdings Limited - Ordinary Shares"
     },
     {
       "i": "Q:FCLO",
@@ -44977,10 +44969,6 @@
       "n": "Primis Financial Corp."
     },
     {
-      "i": "Q:FRSX",
-      "n": "Foresight Autonomous Holdings Ltd. - American Depositary Shares"
-    },
-    {
       "i": "Q:FRVO",
       "n": "Fervo Energy Company - Class A common stock"
     },
@@ -45339,6 +45327,10 @@
     {
       "i": "Q:GDHG",
       "n": "Golden Heaven Group Holdings Ltd. - Class A Ordinary Shares"
+    },
+    {
+      "i": "Q:GDRX",
+      "n": "GoodRx Holdings, Inc. - Class A Common Stock"
     },
     {
       "i": "Q:GDS",
@@ -46547,10 +46539,6 @@
     {
       "i": "Q:IBGM",
       "n": "iShares iBonds Dec 2056 Term Treasury ETF"
-    },
-    {
-      "i": "Q:IBIO",
-      "n": "iBio, Inc."
     },
     {
       "i": "Q:IBIT",
@@ -50093,10 +50081,6 @@
       "n": "Oriental Culture Holding LTD - Ordinary Shares"
     },
     {
-      "i": "Q:OCGN",
-      "n": "Ocugen, Inc."
-    },
-    {
       "i": "Q:OCLT",
       "n": "OceanLight Acquisition Corporation - Ordinary Shares"
     },
@@ -50735,10 +50719,6 @@
     {
       "i": "Q:PCPI",
       "n": "PIMCO Inflation PLUS Active Exchange-Traded Fund"
-    },
-    {
-      "i": "Q:PCSA",
-      "n": "Processa Pharmaceuticals, Inc."
     },
     {
       "i": "Q:PCT",
@@ -52041,6 +52021,10 @@
       "n": "Recon Technology, Ltd. - Class A Ordinary Shares"
     },
     {
+      "i": "Q:RDAC",
+      "n": "Rising Dragon Acquisition Corp. - Ordinary Shares"
+    },
+    {
       "i": "Q:RDAG",
       "n": "Republic Digital Acquisition Company - Class A Ordinary Shares"
     },
@@ -52415,10 +52399,6 @@
     {
       "i": "Q:RPD",
       "n": "Rapid7, Inc."
-    },
-    {
-      "i": "Q:RPGL",
-      "n": "Republic Power Group Limited - Class A Ordinary Shares"
     },
     {
       "i": "Q:RPRX",
@@ -53153,10 +53133,6 @@
       "n": "Stabilis Solutions, Inc."
     },
     {
-      "i": "Q:SLNH",
-      "n": "Soluna Holdings, Inc."
-    },
-    {
       "i": "Q:SLNHP",
       "n": "Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock"
     },
@@ -53839,10 +53815,6 @@
     {
       "i": "Q:SXTC",
       "n": "China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares"
-    },
-    {
-      "i": "Q:SXTP",
-      "n": "60 Degrees Pharmaceuticals, Inc."
     },
     {
       "i": "Q:SY",
